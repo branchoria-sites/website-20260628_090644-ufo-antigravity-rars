@@ -278,7 +278,7 @@ Within the wider network of [UFO and antigravity]({{ 'ufo-and-antigravity/' | re
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-1-dark.svg" | relative_url }}" alt="Superconductors illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This combination made superconductors unusually attractive to speculation. A claim involving a rotating superconducting disc sounded more scientific than a claim about an unknown energy source, yet it remained difficult for non-specialists to evaluate. As a result, a small body of controversial research became one of the most persistent foundations of modern antigravity folklore, especially around the work of [Ning Li]({{ 'ning-li/' | relative_url }}) and Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }}). The evidence shows genuine scientific investigation into possible gravity-related effects, but it does not show a demonstrated antigravity technology. The gap between those two realities is where many of the rumours took root. NASA Technical Reports Server+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+This combination made superconductors unusually attractive to speculation. A claim involving a rotating superconducting disc sounded more scientific than a claim about an unknown energy source, yet it remained difficult for non-specialists to evaluate. As a result, a small body of controversial research became one of the most persistent foundations of modern antigravity folklore, especially around the work of [Ning Li]({{ 'ning-li/' | relative_url }}) and Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }}). The evidence shows genuine scientific investigation into possible gravity-related effects, but it does not show a demonstrated antigravity technology. The gap between those two realities is where many of the rumours took root. NASA Technical Reports Server+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
 ## Why superconductors made gravity claims feel scientific
 
@@ -286,7 +286,7 @@ Superconductors are materials that conduct electricity with essentially zero res
 
 That idea gained traction partly because gravity remains the least experimentally accessible of the fundamental interactions. Even modest theoretical suggestions that superconductors might influence gravitational fields seemed worth examining. The resulting discussions used concepts such as gravitomagnetism, quantum coherence and gravitational coupling, creating a vocabulary that sounded rigorous and advanced. For non-experts, this technical language often blurred the distinction between speculative hypotheses and experimentally verified effects.
 
-The attraction was reinforced by the fact that the experiments involved visible hardware rather than abstract mathematics. High-temperature ceramic superconductors, magnetic levitation systems, cryogenic cooling and precision gravimeters gave the subject a laboratory setting. This made claims of [gravity modification]({{ 'gravity-leap/' | relative_url }}) appear closer to engineering than to speculation, even when the reported effects were tiny, uncertain or unreplicated. NASA Technical Reports Server+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+The attraction was reinforced by the fact that the experiments involved visible hardware rather than abstract mathematics. High-temperature ceramic superconductors, magnetic levitation systems, cryogenic cooling and precision gravimeters gave the subject a laboratory setting. This made claims of [gravity modification]({{ 'gravity-leap/' | relative_url }}) appear closer to engineering than to speculation, even when the reported effects were tiny, uncertain or unreplicated. NASA Technical Reports Server+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
 In UFO-related discussions, this laboratory setting proved especially important. If antigravity propulsion existed, superconductors seemed to offer a plausible route by which researchers might discover it. As a result, scientists associated with superconducting gravity experiments often became recurring figures in stories about hidden technologies, classified aerospace projects and alleged suppression.
 
@@ -297,9 +297,9 @@ In UFO-related discussions, this laboratory setting proved especially important.
 
 ### Ning Li and the promise of measurable effects
 
-Ning Li's work became influential because it emerged from mainstream physics rather than fringe speculation. In the early 1990s, she and collaborators published theoretical papers exploring possible interactions between superconductors and gravitomagnetic fields. Those papers did not demonstrate antigravity, but they provided a scientific framework for discussing whether superconductors could influence gravity-related phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+Ning Li's work became influential because it emerged from mainstream physics rather than fringe speculation. In the early 1990s, she and collaborators published theoretical papers exploring possible interactions between superconductors and gravitomagnetic fields. Those papers did not demonstrate antigravity, but they provided a scientific framework for discussing whether superconductors could influence gravity-related phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
-What is often overlooked in later retellings is that experimental efforts associated with Li's research generally produced null or extremely small results. A NASA-linked investigation involving type-II YBCO superconductors measured changes in acceleration smaller than two parts in one hundred million of normal gravity. The authors presented this as a constraint on proposed effects rather than evidence of useful gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+What is often overlooked in later retellings is that experimental efforts associated with Li's research generally produced null or extremely small results. A NASA-linked investigation involving type-II YBCO superconductors measured changes in acceleration smaller than two parts in one hundred million of normal gravity. The authors presented this as a constraint on proposed effects rather than evidence of useful gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
 Yet in rumour networks, the existence of the experiment frequently matters more than its outcome. The fact that scientists were testing superconductors for gravity-related effects is often transformed into the claim that gravity manipulation had already been demonstrated and later hidden.
 
@@ -308,13 +308,13 @@ Yet in rumour networks, the existence of the experiment frequently matters more 
 
 ### Eugene Podkletnov and the gravity-shielding narrative
 
-If Li provided the theoretical language, Eugene Podkletnov supplied the dramatic experimental story. In the 1990s he reported that objects positioned above a rotating superconducting disc appeared to lose a small fraction of their weight. The claimed reduction was modest, but if genuine it would have represented a profound challenge to accepted physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eugene_Podkletnov" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eugene Podkletnov</span><span class="citation-popover-snippet">September 21, 2025 — Eugene Podkletnov is a Russian ceramics engineer known for his claims made in the 1990s of designing and demonstrati...</span><span class="citation-popover-meta">Published: September 21, 2025</span></span></span>
+If Li provided the theoretical language, Eugene Podkletnov supplied the dramatic experimental story. In the 1990s he reported that objects positioned above a rotating superconducting disc appeared to lose a small fraction of their weight. The claimed reduction was modest, but if genuine it would have represented a profound challenge to accepted physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eugene_Podkletnov" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eugene Podkletnov</span><span class="citation-popover-snippet">September 21, 2025 — Eugene Podkletnov is a Russian ceramics engineer known for his claims made in the 1990s of designing and demonstrati...</span><span class="citation-popover-meta">Published: September 21, 2025</span></span></span>
 
-The claim attracted international attention because it appeared to offer something unprecedented: a laboratory device that could partially shield gravity. Media coverage amplified the story, and discussions quickly spread beyond physics into aerospace and UFO communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/1998/03/antigravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Breaking the Law of Gravity1 Mar 1998 — A scientist claimed in 1996 that gravity could be negated. Now his findings are being invest...</span></span></span>
+The claim attracted international attention because it appeared to offer something unprecedented: a laboratory device that could partially shield gravity. Media coverage amplified the story, and discussions quickly spread beyond physics into aerospace and UFO communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/1998/03/antigravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Breaking the Law of Gravity1 Mar 1998 — A scientist claimed in 1996 that gravity could be negated. Now his findings are being invest...</span></span></span>
 
-However, the scientific response was cautious. Multiple researchers attempted replications, and several reported no detectable gravity-like effect within the sensitivity limits of their equipment. A notable replication effort specifically designed around Podkletnov's published descriptions found no evidence for the claimed phenomenon. NASA-related reviews later noted that preliminary experiments had failed to observe the expected shielding effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Gravity modification experiment using a rotating...The experiment is based on Podkletnov&#x27;s published descriptions plus...</span></span></span>
+However, the scientific response was cautious. Multiple researchers attempted replications, and several reported no detectable gravity-like effect within the sensitivity limits of their equipment. A notable replication effort specifically designed around Podkletnov's published descriptions found no evidence for the claimed phenomenon. NASA-related reviews later noted that preliminary experiments had failed to observe the expected shielding effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Gravity modification experiment using a rotating...The experiment is based on Podkletnov&#x27;s published descriptions plus...</span></span></span>
 
-The result was an enduring stalemate. Supporters pointed to the originality of the claim and the difficulty of reproducing the apparatus. Critics pointed to the absence of consistent replication. Because neither side could completely close the discussion, the story remained fertile ground for speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2206.07574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Podkletnov with YBCO superconductors have con- siderably modified the scenario of the search for gravity-superconductors...Read more...</span></span></span>
+The result was an enduring stalemate. Supporters pointed to the originality of the claim and the difficulty of reproducing the apparatus. Critics pointed to the absence of consistent replication. Because neither side could completely close the discussion, the story remained fertile ground for speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2206.07574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Podkletnov with YBCO superconductors have con- siderably modified the scenario of the search for gravity-superconductors...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-2-dark.svg" | relative_url }}" alt="Superconductors illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_superconductors_rumo_8731ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ The result was an enduring stalemate. Supporters pointed to the originality of t
 
 A recurring misunderstanding in antigravity discussions is the difference between detecting an anomaly and demonstrating a practical technology.
 
-Modern gravimeters and precision instruments can measure extraordinarily small changes in acceleration. Detecting a minute deviation is not equivalent to creating a propulsion system. Small anomalies may arise from magnetic fields, thermal gradients, vibration, calibration issues or experimental artefacts. Distinguishing a genuine gravitational effect from these influences is one of the central challenges of the field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990104365" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerTest Status for Proposed Coupling of a Gravitational Force...by D Noever · 1999 — With magnetic shielding...</span></span></span>
+Modern gravimeters and precision instruments can measure extraordinarily small changes in acceleration. Detecting a minute deviation is not equivalent to creating a propulsion system. Small anomalies may arise from magnetic fields, thermal gradients, vibration, calibration issues or experimental artefacts. Distinguishing a genuine gravitational effect from these influences is one of the central challenges of the field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990104365" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerTest Status for Proposed Coupling of a Gravitational Force...by D Noever · 1999 — With magnetic shielding...</span></span></span>
 
-This distinction is crucial when interpreting both Li's and Podkletnov's work. Li's experimental results primarily established upper limits on proposed effects rather than evidence for antigravity. Podkletnov's reported weight reductions, meanwhile, remain controversial largely because independent laboratories have struggled to reproduce them reliably. NASA Technical Reports Server+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+This distinction is crucial when interpreting both Li's and Podkletnov's work. Li's experimental results primarily established upper limits on proposed effects rather than evidence for antigravity. Podkletnov's reported weight reductions, meanwhile, remain controversial largely because independent laboratories have struggled to reproduce them reliably. NASA Technical Reports Server+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
-Even some researchers who continue exploring gravity–superconductor interactions acknowledge that the evidence remains inconclusive. Recent papers and preprints occasionally claim supporting observations, but these have not produced a broad scientific consensus comparable to established physical phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2209.03332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">New experimental evidence for Podkletnov effectby AV Fetisov · 2022 — Numerous attempts to replicate this experiment in other labora...</span></span></span>
+Even some researchers who continue exploring gravity–superconductor interactions acknowledge that the evidence remains inconclusive. Recent papers and preprints occasionally claim supporting observations, but these have not produced a broad scientific consensus comparable to established physical phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/2209.03332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">New experimental evidence for Podkletnov effectby AV Fetisov · 2022 — Numerous attempts to replicate this experiment in other labora...</span></span></span>
 
 The scientific question therefore remains narrower than many rumours suggest. The issue is not whether gravity can already be engineered at will; it is whether any reproducible coupling between superconducting systems and gravity exists at all.
 
@@ -351,7 +351,7 @@ They are:
 
 This combination allows the same evidence to support very different narratives. A physicist may see an unresolved experimental question. A conspiracy theorist may see proof of hidden propulsion technology. A UFO enthusiast may see a possible mechanism behind extraordinary flight characteristics.
 
-As a result, superconductors became less important for what they conclusively demonstrated than for what they seemed to promise. The historical record shows serious investigations into possible gravity-related effects and several controversial claims. What it does not show is a verified antigravity device, a reproducible gravity shield or evidence that superconducting research uncovered operational UFO-style propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[arXiv+3NASA Technical Reports Server+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
+As a result, superconductors became less important for what they conclusively demonstrated than for what they seemed to promise. The historical record shows serious investigations into possible gravity-related effects and several controversial claims. What it does not show is a verified antigravity device, a reproducible gravity shield or evidence that superconducting research uncovered operational UFO-style propulsion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">This result puts new limits...Read more...</span></span></span>
 
 That unresolved status is precisely why superconductors continue to function as the antigravity rumour magnet. They provide just enough scientific substance to sustain decades of speculation, while leaving the central claim unproven.
 
@@ -360,194 +360,194 @@ That unresolved status is precisely why superconductors continue to function as 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Superconductors Attract Antigravity Rumors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Superconductors Attract Antigravity Rumors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly covers antigravity claims, including stories and personalities associated with unconventional propulsion research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers antigravity claims, including stories and personalities associated with unconventional propulsion research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Provides scientific context for why antigravity ideas persist and how speculative claims relate to established physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific context for why antigravity ideas persist and how speculative claims relate to established physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IO0RDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IO0RDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Explores gravity, higher-dimensional theories, and the kinds of ideas that often feed antigravity speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores gravity, higher-dimensional theories, and the kinds of ideas that often feed antigravity speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fabric of the Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43SPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fabric of the Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fabric of the Cosmos">The Fabric of the Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Brian Greene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fabric of the Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43SPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fabric of the Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fabric of the Cosmos">The Fabric of the Cosmos</a>
+</h4>
+<p class="fr-book-author">By Brian Greene</p>
         
-        <p class="fr-book-desc">Helps readers understand gravity, spacetime, and the limits of current physical theories relevant to extraordinary gravity claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand gravity, spacetime, and the limits of current physical theories relevant to extraordinary gravity claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="superconductors-why-superconductors-attract-antigravity-rumors-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ That unresolved status is precisely why superconductors continue to function as 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ That unresolved status is precisely why superconductors continue to function as 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ That unresolved status is precisely why superconductors continue to function as 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ That unresolved status is precisely why superconductors continue to function as 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ That unresolved status is precisely why superconductors continue to function as 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,135 +753,135 @@ That unresolved status is precisely why superconductors continue to function as 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This result puts new limits...Read more...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This result puts new limits...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov has reported that a gravity shielding effect was seen above a YBCO superconductor being rotated by a magnetic field and irradi...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov has reported that a gravity shielding effect was seen above a YBCO superconductor being rotated by a magnetic field and irradi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Superconductors in Gravity ResearchMar 23, 2010 — In preliminary experiments at NASA, Koczor, Li, et al. failed to see expected s...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Superconductors in Gravity ResearchMar 23, 2010 — In preliminary experiments at NASA, Koczor, Li, et al. failed to see expected s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19990104365" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990104365</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerTest Status for Proposed Coupling of a Gravitational Force...by D Noever · 1999 — With magnetic shielding...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19990104365" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990104365</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerTest Status for Proposed Coupling of a Gravitational Force...by D Noever · 1999 — With magnetic shielding...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2206.07574" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2206.07574</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov with YBCO superconductors have con- siderably modified the scenario of the search for gravity-superconductors...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2206.07574" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2206.07574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov with YBCO superconductors have con- siderably modified the scenario of the search for gravity-superconductors...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Eugene Podkletnov  
-   Link: <a href="https://en.wikipedia.org/wiki/Eugene_Podkletnov" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene_Podkletnov</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 21, 2025 — Eugene Podkletnov is a Russian ceramics engineer known for his claims made in the 1990s of designing and demonstrati...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eugene_Podkletnov" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene_Podkletnov</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 21, 2025 — Eugene Podkletnov is a Russian ceramics engineer known for his claims made in the 1990s of designing and demonstrati...</p></details>
    Published: September 21, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/1998/03/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/03/antigravity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking the Law of Gravity1 Mar 1998 — A scientist claimed in 1996 that gravity could be negated. Now his findings are being invest...</p></details>
+   Link:<a href="https://www.wired.com/1998/03/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/03/antigravity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking the Law of Gravity1 Mar 1998 — A scientist claimed in 1996 that gravity could be negated. Now his findings are being invest...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Gravity modification experiment using a rotating...The experiment is based on Podkletnov&#x27;s published descriptions plus...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222897740_Gravity_modification_experiment_using_a_rotating_superconducting_disk_and_radio_frequency_fields</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Gravity modification experiment using a rotating...The experiment is based on Podkletnov&#x27;s published descriptions plus...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2209.03332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2209.03332</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New experimental evidence for Podkletnov effectby AV Fetisov · 2022 — Numerous attempts to replicate this experiment in other labora...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2209.03332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2209.03332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New experimental evidence for Podkletnov effectby AV Fetisov · 2022 — Numerous attempts to replicate this experiment in other labora...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv New experimental evidence for Podkletnov effect  
-   Link: <a href="https://arxiv.org/abs/2209.03332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.03332</a>  
+   Link:<a href="https://arxiv.org/abs/2209.03332" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.03332</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Eugene, Oregon  
-   Link: <a href="https://en.wikipedia.org/wiki/Eugene%2C_Oregon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene%2C_Oregon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene, OregonThe second-most populous city in Oregon, Eugene had a population of 176,654 as of the 2020 United States census and it c...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eugene%2C_Oregon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene%2C_Oregon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene, OregonThe second-most populous city in Oregon, Eugene had a population of 176,654 as of the 2020 United States census and it c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370561828_A_Theory_of_the_Podkletnov_Effect_based_on_General_Relativity_Anti-Gravity_Force_due_to_the_Perturbed_Non-Holonomic_Background_of_Space" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370561828_A_Theory_of_the_Podkletnov_Effect_based_on_General_Relativity_Anti-Gravity_Force_due_to_the_Perturbed_Non-Holonomic_Background_of_Space</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of the Podkletnov Effect based on General RelativityWe consider the Podkletnov effect — the weight loss of an object located ove...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/370561828_A_Theory_of_the_Podkletnov_Effect_based_on_General_Relativity_Anti-Gravity_Force_due_to_the_Perturbed_Non-Holonomic_Background_of_Space" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370561828_A_Theory_of_the_Podkletnov_Effect_based_on_General_Relativity_Anti-Gravity_Force_due_to_the_Perturbed_Non-Holonomic_Background_of_Space</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of the Podkletnov Effect based on General RelativityWe consider the Podkletnov effect — the weight loss of an object located ove...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This result puts new limits on...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This result puts new limits on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/305635303_Null-Results_of_a_Superconducting_Gravity-Impulse-Generator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305635303_Null-Results_of_a_Superconducting_Gravity-Impulse-Generator</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Null-Results of a Superconducting Gravity-Impulse-GeneratorIt was claimed by Podkletnov and Modanese that a high voltage discharge throug...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/305635303_Null-Results_of_a_Superconducting_Gravity-Impulse-Generator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305635303_Null-Results_of_a_Superconducting_Gravity-Impulse-Generator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Null-Results of a Superconducting Gravity-Impulse-GeneratorIt was claimed by Podkletnov and Modanese that a high voltage discharge throug...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/physics/0108005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/physics/0108005</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse Gravity Generator Based on Charged Y...by E Podkletnov · 2001 · Cited by 45 — A typical time scale for the time-dependent Ginzbu...</p></details>
+   Link:<a href="https://arxiv.org/pdf/physics/0108005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/physics/0108005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse Gravity Generator Based on Charged Y...by E Podkletnov · 2001 · Cited by 45 — A typical time scale for the time-dependent Ginzbu...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: altpropulsion.com  
-   Link: <a href="https://www.altpropulsion.com/people/eugene-podkletnov/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/people/eugene-podkletnov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene PodkletnovPodkletnov&#x27;s experiments remain a reference point for discussions about whether condensed-matter systems can couple to g...</p></details>
+   Link:<a href="https://www.altpropulsion.com/people/eugene-podkletnov/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/people/eugene-podkletnov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene PodkletnovPodkletnov&#x27;s experiments remain a reference point for discussions about whether condensed-matter systems can couple to g...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EmDrive/comments/3dkeu3/podkletnov_gravity_modification_and_mihsc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EmDrive/comments/3dkeu3/podkletnov_gravity_modification_and_mihsc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov gravity modification and MiHsC: r/EmDrivePodkletnov is well-known for his experiments involving YBCO superconductors, which p...</p></details>
+   Link:<a href="https://www.reddit.com/r/EmDrive/comments/3dkeu3/podkletnov_gravity_modification_and_mihsc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EmDrive/comments/3dkeu3/podkletnov_gravity_modification_and_mihsc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov gravity modification and MiHsC: r/EmDrivePodkletnov is well-known for his experiments involving YBCO superconductors, which p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zdewIFNQGaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zdewIFNQGaQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=zdewIFNQGaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zdewIFNQGaQ</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Gravity-Superconductors Interactions: Theory and Experiment by Giovanni Modanese  
-   Link: <a href="https://www.youtube.com/watch?v=sH1p6Cn7ft4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sH1p6Cn7ft4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov antigravity superconductor mystery Eugene Podkletnov: Antigravity, Superconductors &amp; Gravitational Impulse Force Beams...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sH1p6Cn7ft4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sH1p6Cn7ft4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov antigravity superconductor mystery Eugene Podkletnov: Antigravity, Superconductors &amp; Gravitational Impulse Force Beams...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/eugene-podkletnovs-new-gravity-modification-experimental-video-b7813b04c6f8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/eugene-podkletnovs-new-gravity-modification-experimental-video-b7813b04c6f8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov developed a gravitational shield using high-speed rotating superconductors. Now he&#x27;s testing a new device that he claim...</p></details>
+   Link:<a href="https://medium.com/predict/eugene-podkletnovs-new-gravity-modification-experimental-video-b7813b04c6f8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/eugene-podkletnovs-new-gravity-modification-experimental-video-b7813b04c6f8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov developed a gravitational shield using high-speed rotating superconductors. Now he&#x27;s testing a new device that he claim...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: altpropulsion.com  
-   Link: <a href="https://www.altpropulsion.com/superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/superconductors-gravity-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superconductors &amp; Gravity Control: A 30-Year HistoryJul 9, 2025 — Ultimately, Drs Eugene Podkletnov and Ning Li both claimed experimental...</p></details>
+   Link:<a href="https://www.altpropulsion.com/superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/superconductors-gravity-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Superconductors &amp; Gravity Control: A 30-Year HistoryJul 9, 2025 — Ultimately, Drs Eugene Podkletnov and Ning Li both claimed experimental...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: altpropulsion.com  
-   Link: <a href="https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li, Podkletnov, Superconductors &amp; Gravity ControlJun 22, 2025 — The conversation centers around the work of Eugene Podletnov, Dr...</p></details>
+   Link:<a href="https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li, Podkletnov, Superconductors &amp; Gravity ControlJun 22, 2025 — The conversation centers around the work of Eugene Podletnov, Dr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: altpropulsion.com  
    Title: podkletnovs four gravity control experiments  
-   Link: <a href="https://www.altpropulsion.com/podkletnovs-four-gravity-control-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/podkletnovs-four-gravity-control-experiments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov&#x27;s Four Gravity Control ExperimentsMar 22, 2026 — Podkletnov&#x27;s four gravity-control experiments, from rotating superconductors...</p></details>
+   Link:<a href="https://www.altpropulsion.com/podkletnovs-four-gravity-control-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/podkletnovs-four-gravity-control-experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podkletnov&#x27;s Four Gravity Control ExperimentsMar 22, 2026 — Podkletnov&#x27;s four gravity-control experiments, from rotating superconductors...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: diyhpl.us  
    Title: eugene podkletnov gravity manipulation 2004  
-   Link: <a href="https://diyhpl.us/wiki/transcripts/eugene-podkletnov-gravity-manipulation-2004/" target="_blank" rel="noopener noreferrer nofollow">https://diyhpl.us/wiki/transcripts/eugene-podkletnov-gravity-manipulation-2004/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eugene-podkletnov-gravity-manipulation-2004Jul 27, 2023 — podkletnov: no it is not secret we have two layers one layer is normal supercon...</p></details>
+   Link:<a href="https://diyhpl.us/wiki/transcripts/eugene-podkletnov-gravity-manipulation-2004/" target="_blank" rel="noopener noreferrer nofollow">https://diyhpl.us/wiki/transcripts/eugene-podkletnov-gravity-manipulation-2004/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eugene-podkletnov-gravity-manipulation-2004Jul 27, 2023 — podkletnov: no it is not secret we have two layers one layer is normal supercon...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7Xhxml67glM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Xhxml67glM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Xhxml67glM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Xhxml67glM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery...</p></details>

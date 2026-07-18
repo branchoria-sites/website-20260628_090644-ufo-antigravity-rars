@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-evaluate/
 description: Focused pages that expand on Check Claims.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b
 parent_title: Check Claims
@@ -16,7 +16,7 @@ parent_permalink: /check-claims/
 
 # Explore Topics in Check Claims
 
-The following pages expand on the main **[Check Claims]({{ '/check-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Check Claims]({{ '/check-claims/' | relative_url }})** page and cover its key branches in.
 
 - [Cause vs Manner]({{ '/cause-vs-manner-a4f4c2/' | relative_url }})
 - [Real Links]({{ '/real-links/' | relative_url }})

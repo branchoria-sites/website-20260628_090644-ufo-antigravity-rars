@@ -274,30 +274,30 @@ image: /assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_
 
 ## Introduction
 
-Vimal Dajibhai’s death in August 1986 is often treated as the starting point of the wider “[Marconi deaths]({{ 'marconi/' | relative_url }})” narrative. A 24-year-old software engineer working on defence systems for Marconi Underwater Systems, Dajibhai was found dead below Bristol’s Clifton Suspension Bridge after an unexplained journey from the London area. The official inquest did not conclude that he had been murdered, but neither did it return a verdict of suicide. Instead, the coroner recorded an open verdict, leaving key questions unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Vimal Dajibhai’s death in August 1986 is often treated as the starting point of the wider “[Marconi deaths]({{ 'marconi/' | relative_url }})” narrative. A 24-year-old software engineer working on defence systems for Marconi Underwater Systems, Dajibhai was found dead below Bristol’s Clifton Suspension Bridge after an unexplained journey from the London area. The official inquest did not conclude that he had been murdered, but neither did it return a verdict of suicide. Instead, the coroner recorded an open verdict, leaving key questions unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-1-dark.svg" | relative_url }}" alt="Dajibhai illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of alleged suspicious deaths among British [defence scientists]({{ 'archetype/' | relative_url }}) and engineers, Dajibhai’s case became important not because it proved a conspiracy, but because it contained several unusual details that encouraged speculation. Later writers, journalists and conspiracy theorists repeatedly returned to the case as an example of how a single unexplained death could evolve into a larger pattern narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Within the broader story of alleged suspicious deaths among British [defence scientists]({{ 'archetype/' | relative_url }}) and engineers, Dajibhai’s case became important not because it proved a conspiracy, but because it contained several unusual details that encouraged speculation. Later writers, journalists and conspiracy theorists repeatedly returned to the case as an example of how a single unexplained death could evolve into a larger pattern narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 ## Why Vimal Dajibhai Became a Marconi Mystery
 
-By the mid-1980s, Marconi and associated defence contractors were deeply involved in advanced military electronics, computing and weapons systems. Dajibhai worked as a software engineer at Marconi Underwater Systems and was reportedly involved with computer control or guidance systems associated with the Sting Ray torpedo programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/marconi_linked_deaths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Marconi Linked Deaths</span><span class="citation-popover-snippet">Marconi Linked Deaths - a Freedom of Information request...November 27, 2016 — 27 Nov 2016 — Vimal Dajibhai - Computer sof...</span><span class="citation-popover-meta">Published: November 27, 2016</span></span></span>
+By the mid-1980s, Marconi and associated defence contractors were deeply involved in advanced military electronics, computing and weapons systems. Dajibhai worked as a software engineer at Marconi Underwater Systems and was reportedly involved with computer control or guidance systems associated with the Sting Ray torpedo programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whatdotheyknow.com/request/marconi_linked_deaths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatdotheyknow.com">[WhatDoTheyKnow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatdotheyknow.com</span><span class="citation-popover-title">What Do They Know Marconi Linked Deaths</span><span class="citation-popover-snippet">Marconi Linked Deaths - a Freedom of Information request...November 27, 2016 — 27 Nov 2016 — Vimal Dajibhai - Computer sof...</span><span class="citation-popover-meta">Published: November 27, 2016</span></span></span>
 
-His death attracted attention because it appeared difficult to fit into a straightforward explanation. According to contemporary reporting, he was young, recently married, had secured a better-paid job elsewhere, and family members and colleagues said they knew of no reason why he would take his own life. At the inquest, multiple relatives and friends reportedly gave evidence describing him as a content and ambitious man. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+His death attracted attention because it appeared difficult to fit into a straightforward explanation. According to contemporary reporting, he was young, recently married, had secured a better-paid job elsewhere, and family members and colleagues said they knew of no reason why he would take his own life. At the inquest, multiple relatives and friends reportedly gave evidence describing him as a content and ambitious man.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-Those circumstances did not prove foul play, but they created a contrast between the apparent absence of an obvious motive for suicide and the unusual scene discovered in Bristol. That contrast became a recurring feature of later Marconi-death discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Those circumstances did not prove foul play, but they created a contrast between the apparent absence of an obvious motive for suicide and the unusual scene discovered in Bristol. That contrast became a recurring feature of later Marconi-death discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wuzavd-YNFk" title="What&#x27;s happening to America&#x27;s Scientists? | The Missing &amp; Murdered Scientists Conspiracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wuzavd-YNFk" target="_blank" rel="noopener noreferrer">What&#x27;s happening to America&#x27;s Scientists? | The Missing &amp; Murdered Scientists Conspiracy</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Get Haunted</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wuzavd-YNFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wuzavd-YNFk">Open on YouTube</a></p></div></div></div>
 
 ## The Clifton Suspension Bridge Death
 
-The known outline of events is relatively simple. In early August 1986, Dajibhai travelled from the London area to Bristol, a city with no publicly established personal connection to him. He parked his car near the Clifton Suspension Bridge and was later found dead below the structure after a fall into the Avon Gorge. The bridge was already well known as a location associated with suicides, making a self-inflicted death an obvious possibility for investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+The known outline of events is relatively simple. In early August 1986, Dajibhai travelled from the London area to Bristol, a city with no publicly established personal connection to him. He parked his car near the Clifton Suspension Bridge and was later found dead below the structure after a fall into the Avon Gorge. The bridge was already well known as a location associated with suicides, making a self-inflicted death an obvious possibility for investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-However, several aspects of the journey remained unclear. Contemporary reports stated that wine and paper cups were found in his car even though acquaintances said he normally did not drink alcohol. Investigators also found a card linked to a Hindu religious group, but later reporting suggested that line of inquiry did not provide a meaningful explanation for his death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+However, several aspects of the journey remained unclear. Contemporary reports stated that wine and paper cups were found in his car even though acquaintances said he normally did not drink alcohol. Investigators also found a card linked to a Hindu religious group, but later reporting suggested that line of inquiry did not provide a meaningful explanation for his death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-At the inquest, the available evidence was apparently insufficient to establish whether Dajibhai had deliberately jumped, accidentally fallen, or been the victim of a crime. The result was an open verdict rather than a definitive finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+At the inquest, the available evidence was apparently insufficient to establish whether Dajibhai had deliberately jumped, accidentally fallen, or been the victim of a crime. The result was an open verdict rather than a definitive finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 ## Scene Details That Fuelled Doubt
 
@@ -305,236 +305,236 @@ The enduring mystery surrounding the case comes largely from a handful of detail
 
 ### The unexplained puncture mark
 
-Perhaps the most frequently discussed feature was a small puncture wound reportedly found on Dajibhai’s body. Journalistic accounts described it as needle-sized and noted that the coroner could not explain its origin. Because no clear explanation emerged publicly, later writers speculated that it might indicate sedation or injection. No publicly available evidence established that interpretation, but the unexplained nature of the mark made it one of the most persistent elements of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Perhaps the most frequently discussed feature was a small puncture wound reportedly found on Dajibhai’s body. Journalistic accounts described it as needle-sized and noted that the coroner could not explain its origin. Because no clear explanation emerged publicly, later writers speculated that it might indicate sedation or injection. No publicly available evidence established that interpretation, but the unexplained nature of the mark made it one of the most persistent elements of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-2-dark.svg" | relative_url }}" alt="Dajibhai illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### His clothing
 
-Reports also noted that his trousers were found lowered below his buttocks or around his ankles. The circumstance was unusual and became another focal point for suspicion. As with the puncture mark, however, public reporting offered no conclusive explanation and no evidence demonstrating what role, if any, the detail played in the death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Reports also noted that his trousers were found lowered below his buttocks or around his ankles. The circumstance was unusual and became another focal point for suspicion. As with the puncture mark, however, public reporting offered no conclusive explanation and no evidence demonstrating what role, if any, the detail played in the death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 ### The unexplained trip
 
-Another question concerned why Dajibhai travelled to Bristol at all. Accounts from family, colleagues and later journalists consistently highlighted the absence of a known reason for him to make the journey. This uncertainty helped distinguish his death from an ordinary suicide narrative and made it easier for later commentators to treat the case as part of a larger mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Another question concerned why Dajibhai travelled to Bristol at all. Accounts from family, colleagues and later journalists consistently highlighted the absence of a known reason for him to make the journey. This uncertainty helped distinguish his death from an ordinary suicide narrative and made it easier for later commentators to treat the case as part of a larger mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xhAacKnFNs8" title="Why Do Scientists Keep Dying?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xhAacKnFNs8" target="_blank" rel="noopener noreferrer">Why Do Scientists Keep Dying?</a></p><p class="youtube-embed-meta">Channel: oompaville</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xhAacKnFNs8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xhAacKnFNs8">Open on YouTube</a></p></div></div></div>
 
 ### The timing
 
-The case acquired even greater significance after other unusual deaths involving defence scientists and engineers were reported during the following months and years. Once journalists began placing these deaths side by side, Dajibhai’s case was retrospectively transformed from an isolated tragedy into the apparent first chapter of a pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</span></span></span>
+The case acquired even greater significance after other unusual deaths involving defence scientists and engineers were reported during the following months and years. Once journalists began placing these deaths side by side, Dajibhai’s case was retrospectively transformed from an isolated tragedy into the apparent first chapter of a pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</span></span></span>
 
 ## How the Case Entered the Marconi Narrative
 
-The transformation of Dajibhai’s death into a major public mystery was driven largely by media coverage in 1987 and 1988. Journalists investigating a growing number of unusual deaths among defence-industry personnel noticed recurring themes: technically skilled workers, sensitive military projects, sudden deaths and, in some cases, unresolved [verdicts]({{ 'verdicts/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</span></span></span>
+The transformation of Dajibhai’s death into a major public mystery was driven largely by media coverage in 1987 and 1988. Journalists investigating a growing number of unusual deaths among defence-industry personnel noticed recurring themes: technically skilled workers, sensitive military projects, sudden deaths and, in some cases, unresolved [verdicts]({{ 'verdicts/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</span></span></span>
 
-Because Dajibhai’s death predated many of the other famous cases, it became a natural starting point. Reports emphasised that he had been working on advanced defence technology and that his death contained elements that investigators had never fully explained publicly. In later retellings, these features were often linked to speculation about the Strategic Defense Initiative (“Star Wars”), Cold War technology programmes or intelligence operations, despite the absence of direct evidence connecting Dajibhai himself to such claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+Because Dajibhai’s death predated many of the other famous cases, it became a natural starting point. Reports emphasised that he had been working on advanced defence technology and that his death contained elements that investigators had never fully explained publicly. In later retellings, these features were often linked to speculation about the Strategic Defense Initiative (“Star Wars”), Cold War technology programmes or intelligence operations, despite the absence of direct evidence connecting Dajibhai himself to such claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-The importance of the case therefore lies less in what it conclusively established and more in how it shaped public interpretation of subsequent events. It supplied the template: a defence specialist, an unusual death, unanswered questions and an official verdict that left room for competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+The importance of the case therefore lies less in what it conclusively established and more in how it shaped public interpretation of subsequent events. It supplied the template: a defence specialist, an unusual death, unanswered questions and an official verdict that left room for competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-3-dark.svg" | relative_url }}" alt="Dajibhai illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_dajibhai_bridge_deat_56fe5f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Can and Cannot Prove
 
-The strongest documented facts are relatively limited. Dajibhai was a Marconi software engineer; he travelled to Bristol; he died after falling from the Clifton Suspension Bridge; unusual details were noted at the scene; and the coroner returned an open verdict. Those points are supported by contemporary reporting and later summaries of the inquest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+The strongest documented facts are relatively limited. Dajibhai was a Marconi software engineer; he travelled to Bristol; he died after falling from the Clifton Suspension Bridge; unusual details were noted at the scene; and the coroner returned an open verdict. Those points are supported by contemporary reporting and later summaries of the inquest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-What the evidence does not establish is equally important. No public investigation concluded that Dajibhai was murdered. No publicly released evidence linked his death to [espionage]({{ 'espionage/' | relative_url }}), defence secrets, UFO research, antigravity projects or a coordinated campaign against scientists. The unusual scene details generated suspicion, but suspicion is not proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove+2catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+What the evidence does not establish is equally important. No public investigation concluded that Dajibhai was murdered. No publicly released evidence linked his death to [espionage]({{ 'espionage/' | relative_url }}), defence secrets, UFO research, antigravity projects or a coordinated campaign against scientists. The unusual scene details generated suspicion, but suspicion is not proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
-For that reason, Dajibhai’s case occupies a distinctive place in the Marconi story. It remains one of the most frequently cited examples because it contains genuine unanswered questions and an official finding that did not resolve them. Yet the same evidence that sustains the mystery has never been sufficient to demonstrate a conspiracy. The case endures primarily as the point where scattered concerns about defence-industry deaths first crystallised into what became known as the Marconi pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
+For that reason, Dajibhai’s case occupies a distinctive place in the Marconi story. It remains one of the most frequently cited examples because it contains genuine unanswered questions and an official finding that did not resolve them. Yet the same evidence that sustains the mystery has never been sufficient to demonstrate a conspiracy. The case endures primarily as the point where scattered concerns about defence-industry deaths first crystallised into what became known as the Marconi pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1J87lVhkNWI" title="Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer">Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1J87lVhkNWI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vimal Dajibhai Became a Marconi Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vimal Dajibhai Became a Marconi Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Frequently intersects with discussions of defence research secrecy that surround Marconi-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently intersects with discussions of defence research secrecy that surround Marconi-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for enduring claims involving secrecy, evidence, and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for enduring claims involving secrecy, evidence, and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Verdict">Open Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Tony Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Verdict">Open Verdict</a>
+</h4>
+<p class="fr-book-author">By Tony Collins</p>
         
-        <p class="fr-book-desc">Covers the broader cluster in which Vimal Dajibhai&#x27;s death became a central case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the broader cluster in which Vimal Dajibhai&#x27;s death became a central case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="dajibhai-why-vimal-dajibhai-became-a-marconi-mystery-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vimal-dajibhai-became-a-marconi-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,102 +740,102 @@ For that reason, Dajibhai’s case occupies a distinctive place in the Marconi s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catless.ncl.ac.uk  
-   Link: <a href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/risks/4/81</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</p></details>
+   Link:<a href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/risks/4/81</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RISKS Digest Volume 4 Issue 819 Apr 1987 — Marconi employee Vimal Dajibhai, 24, found dead beneath the Clifton Suspension Bridge last...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: whatdotheyknow.com  
    Title: What Do They Know Marconi Linked Deaths  
-   Link: <a href="https://www.whatdotheyknow.com/request/marconi_linked_deaths" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/marconi_linked_deaths</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi Linked Deaths - a Freedom of Information request...November 27, 2016 — 27 Nov 2016 — Vimal Dajibhai - Computer sof...</p></details>
+   Link:<a href="https://www.whatdotheyknow.com/request/marconi_linked_deaths" target="_blank" rel="noopener noreferrer nofollow">https://www.whatdotheyknow.com/request/marconi_linked_deaths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi Linked Deaths - a Freedom of Information request...November 27, 2016 — 27 Nov 2016 — Vimal Dajibhai - Computer sof...</p></details>
    Published: November 27, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was suspected but the inquest left the verdict...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was suspected but the inquest left the verdict...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: the gecmarconi deaths several researchers from  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GEC-Marconi deaths – Several researchers from...On August 5th 1986 the 24-year-old junior software engineer Vimal Dajibhai was found...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GEC-Marconi deaths – Several researchers from...On August 5th 1986 the 24-year-old junior software engineer Vimal Dajibhai was found...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Nov 1988 - THE MARCONI MYSTERY - TroveVimal Dajibhai, a 24 year-old married Asian computer program mer at Marconi walked to the C...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Clifton Suspension Bridge  
-   Link: <a href="https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Vimal_Dajibhai/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Vimal_Dajibhai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lifton Suspension Bridge — found with trousers lowered and an...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Vimal_Dajibhai/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Vimal_Dajibhai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lifton Suspension Bridge — found with trousers lowered and an...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: shortform.com  
-   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-05-27-episode-summary-the-marconi-mystery-22-scientists-die-mysterious-deaths-in-britain" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-05-27-episode-summary-the-marconi-mystery-22-scientists-die-mysterious-deaths-in-britain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Scientists Die Mysterious Deaths in Britain27 May 2026 — The first widely reported case was Vimal Dajibhai, a 24-year-old software eng...</p></details>
+   Link:<a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2026-05-27-episode-summary-the-marconi-mystery-22-scientists-die-mysterious-deaths-in-britain" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2026-05-27-episode-summary-the-marconi-mystery-22-scientists-die-mysterious-deaths-in-britain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Scientists Die Mysterious Deaths in Britain27 May 2026 — The first widely reported case was Vimal Dajibhai, a 24-year-old software eng...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: firefighters examined the charred wreckage of a car belonging to british scienti  
-   Link: <a href="https://www.facebook.com/Spycraft101/posts/firefighters-examined-the-charred-wreckage-of-a-car-belonging-to-british-scienti/1403554548440137/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Spycraft101/posts/firefighters-examined-the-charred-wreckage-of-a-car-belonging-to-british-scienti/1403554548440137/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spycraft 101In August 1985, Marconi software engineer Vimal Dajibhai was found dead underneath the Clifton suspension bridge in Bristol...</p></details>
+   Link:<a href="https://www.facebook.com/Spycraft101/posts/firefighters-examined-the-charred-wreckage-of-a-car-belonging-to-british-scienti/1403554548440137/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Spycraft101/posts/firefighters-examined-the-charred-wreckage-of-a-car-belonging-to-british-scienti/1403554548440137/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spycraft 101In August 1985, Marconi software engineer Vimal Dajibhai was found dead underneath the Clifton suspension bridge in Bristol...</p></details>
    Published: August 1985  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: crimereads.com  
    Title: the many real life deaths surrounding the star wars defense initiative  
-   Link: <a href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In August 1986 Vimal Dajibhai, a 24-year-old scientist working on c...</p></details>
+   Link:<a href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In August 1986 Vimal Dajibhai, a 24-year-old scientist working on c...</p></details>
    Published: August 1986  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RDsneWE4ulc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDsneWE4ulc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists directly covers the 1980s Cold War technology race and the unexplained deaths of computer resea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RDsneWE4ulc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RDsneWE4ulc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists directly covers the 1980s Cold War technology race and the unexplained deaths of computer resea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: afr.com  
    Title: the baffling case of the dead scientists 19881202 j8ity  
-   Link: <a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — Vimal Dajibhai, 24, was found smashed on the pavement 240 feet below the Clifton sus...</p></details>
+   Link:<a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — Vimal Dajibhai, 24, was found smashed on the pavement 240 feet below the Clifton sus...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wuzavd-YNFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wuzavd-YNFk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wuzavd-YNFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wuzavd-YNFk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Major Gen. William Mc Casland ran the Air Force's secret lab — then DISAPPEARED  
-   Link: <a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 US Scientists Go Missing: [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) Vows To Find Truth | GRAVITAS Highlights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 US Scientists Go Missing: [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) Vows To Find Truth | GRAVITAS Highlights...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why Do Scientists Keep Dying?  
-   Link: <a href="https://www.youtube.com/watch?v=xhAacKnFNs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xhAacKnFNs8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s happening to America&#x27;s Scientists? | The Missing &amp; Murdered Scientists Conspiracy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xhAacKnFNs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xhAacKnFNs8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s happening to America&#x27;s Scientists? | The Missing &amp; Murdered Scientists Conspiracy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Plot To Eliminate Cold War Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LUPnrL1b8M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Scientists Keep Dying?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LUPnrL1b8M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Scientists Keep Dying?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: groups.google.com  
    Title: There Read more  
-   Link: <a href="https://groups.google.com/g/alt.true-crime/c/_zdCJNYCSww" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.true-crime/c/_zdCJNYCSww</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Groups1988 Newsday Article on 20 Year Old String of British...8 Mar 2007 — Marconi Underwater Systems at Watford, a suburb of Lon...</p></details>
+   Link:<a href="https://groups.google.com/g/alt.true-crime/c/_zdCJNYCSww" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.true-crime/c/_zdCJNYCSww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Groups1988 Newsday Article on 20 Year Old String of British...8 Mar 2007 — Marconi Underwater Systems at Watford, a suburb of Lon...</p></details>

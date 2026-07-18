@@ -280,11 +280,11 @@ image: /assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_me
 
 ## Introduction
 
-One of the most important lessons from NASA’s UAP (Unidentified Anomalous Phenomena) study is that a mysterious image is not the same thing as strong evidence. Many UFO cases appear extraordinary because the underlying data are incomplete. When crucial metadata are missing—such as the camera settings, sensor type, viewing angle, location, altitude, time, aircraft motion, weather conditions, or radar context—analysts often cannot determine what they are actually looking at. In that vacuum, ordinary objects can appear extraordinary, and uncertainty can be mistaken for proof of something hidden. NASA’s independent study repeatedly identified poor sensor calibration, missing sensor metadata, and incomplete measurements as major obstacles to reliable analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+One of the most important lessons from NASA’s UAP (Unidentified Anomalous Phenomena) study is that a mysterious image is not the same thing as strong evidence. Many UFO cases appear extraordinary because the underlying data are incomplete. When crucial metadata are missing—such as the camera settings, sensor type, viewing angle, location, altitude, time, aircraft motion, weather conditions, or radar context—analysts often cannot determine what they are actually looking at. In that vacuum, ordinary objects can appear extraordinary, and uncertainty can be mistaken for proof of something hidden. NASA’s independent study repeatedly identified poor sensor calibration, missing sensor metadata, and incomplete measurements as major obstacles to reliable analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-1-dark.svg" | relative_url }}" alt="Metadata Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This issue matters beyond individual sightings. Within broader UFO and alleged antigravity-research narratives, unresolved cases are sometimes treated as evidence of suppressed technologies, secret programmes, or organised cover-ups. Yet many cases remain unresolved not because they demonstrate exotic physics, but because the information needed to evaluate them properly was never recorded, released, or preserved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+This issue matters beyond individual sightings. Within broader UFO and alleged antigravity-research narratives, unresolved cases are sometimes treated as evidence of suppressed technologies, secret programmes, or organised cover-ups. Yet many cases remain unresolved not because they demonstrate exotic physics, but because the information needed to evaluate them properly was never recorded, released, or preserved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 ## What Metadata Tells Analysts About a Sighting
 
@@ -292,7 +292,7 @@ Metadata is often described as “data about the data”. In a UAP investigation
 
 For a photograph or video, useful metadata can include:
 
-* Exact time and date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Those individual reports also often lack sensor metadata, such as the...</span></span></span>
+* Exact time and date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Those individual reports also often lack sensor metadata, such as the...</span></span></span>
 * Geographic location.
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -308,7 +308,7 @@ For a photograph or video, useful metadata can include:
 
 </div>
 
-Without these details, analysts frequently cannot calculate an object's distance, size, speed, or trajectory. A bright point of light could represent a nearby drone, a distant aircraft, a planet, a balloon, or a sensor artefact. The image alone rarely contains enough information to distinguish between those possibilities. NASA's study stressed that analysis is often hindered by missing metadata, inadequate calibration, and the absence of multiple independent measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+Without these details, analysts frequently cannot calculate an object's distance, size, speed, or trajectory. A bright point of light could represent a nearby drone, a distant aircraft, a planet, a balloon, or a sensor artefact. The image alone rarely contains enough information to distinguish between those possibilities. NASA's study stressed that analysis is often hindered by missing metadata, inadequate calibration, and the absence of multiple independent measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 A useful comparison is astronomy. An image of an unusual celestial object is scientifically valuable only when accompanied by information about the instrument, exposure time, observing conditions, and calibration procedures. UAP investigations face the same requirement. Without context, interpretation becomes guesswork.
 
@@ -319,7 +319,7 @@ A useful comparison is astronomy. An image of an unusual celestial object is sci
 
 Many famous UAP images look compelling because human perception naturally interprets motion, scale, and distance from visual cues. Unfortunately, cameras frequently distort those cues.
 
-A small nearby object can appear large and distant. A distant object can appear to accelerate dramatically when viewed from a moving aircraft. Infrared systems can create visual effects that look unlike what the human eye would see. Compression, glare, sensor blooming, and tracking software can introduce misleading features into recorded footage. NASA noted that high-quality scientific conclusions require multiple calibrated measurements rather than isolated visual records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+A small nearby object can appear large and distant. A distant object can appear to accelerate dramatically when viewed from a moving aircraft. Infrared systems can create visual effects that look unlike what the human eye would see. Compression, glare, sensor blooming, and tracking software can introduce misleading features into recorded footage. NASA noted that high-quality scientific conclusions require multiple calibrated measurements rather than isolated visual records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 The problem becomes especially severe when only a short clip survives. A ten-second video may omit the moments before and after an event that would reveal an ordinary explanation. If analysts lack the full sensor record, aircraft telemetry, and environmental information, they may be forced to classify the event as unresolved even though the object itself was not extraordinary.
 
@@ -333,7 +333,7 @@ To calculate speed, investigators need accurate distance measurements. To calcul
 
 Consider a hypothetical object viewed through an infrared targeting pod. If the object is assumed to be ten kilometres away, its apparent movement may imply extraordinary velocity. If later analysis shows it was forty kilometres away—or four kilometres away—the calculated performance changes completely. Missing metadata therefore creates wide uncertainty ranges that can make ordinary motion appear exotic.
 
-NASA’s report emphasised that multiple synchronized measurements are far more valuable than a single sensor record because independent observations can constrain these uncertainties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Nextgov/FCW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+NASA’s report emphasised that multiple synchronized measurements are far more valuable than a single sensor record because independent observations can constrain these uncertainties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 This is one reason scientific investigators often remain cautious even when a video appears impressive. The appearance of anomalous behaviour may depend entirely on assumptions that cannot be verified from the available data.
 
@@ -341,9 +341,9 @@ This is one reason scientific investigators often remain cautious even when a vi
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-2-dark.svg" | relative_url }}" alt="Metadata Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Balloon Problem: A Case Study in Context
 
-The modern UAP record contains numerous examples in which initially mysterious objects were later identified as ordinary airborne clutter. The All-domain Anomaly Resolution Office (AARO) has repeatedly reported that many investigated cases have ultimately been attributed to balloons, birds, drones, debris, or other conventional objects. aaro.mil+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</span></span></span>
+The modern UAP record contains numerous examples in which initially mysterious objects were later identified as ordinary airborne clutter. The All-domain Anomaly Resolution Office (AARO) has repeatedly reported that many investigated cases have ultimately been attributed to balloons, birds, drones, debris, or other conventional objects. aaro.mil+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</span></span></span>
 
-AARO has also publicly released examples of cases that were initially reported as UAP but later resolved as balloons after additional analysis became available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryPR-010, UAP Report Resolved as a Balloon, Europe 2022, PR-010, UAP Report Resolved as a Balloon, Europe 2022, The United State...</span></span></span>
+AARO has also publicly released examples of cases that were initially reported as UAP but later resolved as balloons after additional analysis became available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryPR-010, UAP Report Resolved as a Balloon, Europe 2022, PR-010, UAP Report Resolved as a Balloon, Europe 2022, The United State...</span></span></span>
 
 These cases illustrate a recurring pattern:
 
@@ -382,7 +382,7 @@ Within UFO and alleged antigravity-research discussions, a lack of sensor detail
 
 The result is an information vacuum. Once a case enters that vacuum, competing narratives emerge. Supporters of extraordinary explanations may view missing data as proof of suppression, while sceptics may regard the same absence as evidence that no conclusion can be reached. Neither position is automatically justified by the gap itself.
 
-NASA’s study sought to move beyond this cycle by emphasising transparency, calibration, standardised reporting, and complete metadata collection. The goal was not to dismiss unusual reports but to reduce the uncertainty that allows speculation to flourish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+NASA’s study sought to move beyond this cycle by emphasising transparency, calibration, standardised reporting, and complete metadata collection. The goal was not to dismiss unusual reports but to reduce the uncertainty that allows speculation to flourish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-3-dark.svg" | relative_url }}" alt="Metadata Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_uap_metadata_gaps_9122e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,7 +392,7 @@ The most significant contribution of the NASA UAP study was not a new explanatio
 
 A video accompanied by precise sensor specifications, aircraft telemetry, radar data, environmental measurements, and independent observations is dramatically more useful than a striking image alone. Such datasets allow investigators to test competing explanations rather than debate impressions.
 
-NASA concluded that future progress depends on systematic calibration, multiple measurements, thorough sensor metadata, and the creation of reliable datasets. Without those elements, many UAP cases will remain suspended between explanation and speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+NASA concluded that future progress depends on systematic calibration, multiple measurements, thorough sensor metadata, and the creation of reliable datasets. Without those elements, many UAP cases will remain suspended between explanation and speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 In practical terms, bad metadata creates false mysteries because it removes the information needed to distinguish between extraordinary phenomena and ordinary misunderstandings. The mystery often lies not in what was observed, but in what was never recorded.
 
@@ -401,194 +401,194 @@ In practical terms, bad metadata creates false mysteries because it removes the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Evidence Is Missing Its Labels. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Evidence Is Missing Its Labels. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings through documented evidence and highlights the importance of complete records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings through documented evidence and highlights the importance of complete records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Approaches UFO reports as evidence to be classified and analyzed rather than accepted at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Approaches UFO reports as evidence to be classified and analyzed rather than accepted at face value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how evidence, missing data, and flawed reasoning can turn uncertainty into extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how evidence, missing data, and flawed reasoning can turn uncertainty into extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Demonstrates how scientists assess unusual observations and the limits imposed by incomplete data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how scientists assess unusual observations and the limits imposed by incomplete data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH"><img src="{{ '/assets/images/marketplace-covers/9aa9bba78264485b0479.jpg' | relative_url }}" alt="Listing image for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH"><img src="{{ '/assets/images/marketplace-covers/9aa9bba78264485b0479.jpg' | relative_url }}" alt="Listing image for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/334ac7456e7118f2e4c7.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/334ac7456e7118f2e4c7.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”"><img src="{{ '/assets/images/marketplace-covers/b777923acc3c9fea1605.jpg' | relative_url }}" alt="Listing image for NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”"><img src="{{ '/assets/images/marketplace-covers/b777923acc3c9fea1605.jpg' | relative_url }}" alt="Listing image for NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - PERSEVERANCE MARS 2020 HELICOPTER INGENUITY - SPACE PATCH - 3.5”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”"><img src="{{ '/assets/images/marketplace-covers/ec45b4187f5d87d82e85.jpg' | relative_url }}" alt="Listing image for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”"><img src="{{ '/assets/images/marketplace-covers/ec45b4187f5d87d82e85.jpg' | relative_url }}" alt="Listing image for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="metadata-gaps-when-ufo-evidence-is-missing-its-labels-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ In practical terms, bad metadata creates false mysteries because it removes the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ In practical terms, bad metadata creates false mysteries because it removes the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ In practical terms, bad metadata creates false mysteries because it removes the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ In practical terms, bad metadata creates false mysteries because it removes the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ In practical terms, bad metadata creates false mysteries because it removes the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,126 +794,126 @@ In practical terms, bad metadata creates false mysteries because it removes the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor c...</p></details>
+   Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-010, UAP Report Resolved as a Balloon, Europe 2022, PR-010, UAP Report Resolved as a Balloon, Europe 2022, The United State...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryPR-010, UAP Report Resolved as a Balloon, Europe 2022, PR-010, UAP Report Resolved as a Balloon, Europe 2022, The United State...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: provides coverage of unidentified anomalous phenomena meeting  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — NASA commissioned the nine-month study to examine UAP from a scientific...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous...12 May 2023 — NASA commissioned the nine-month study to examine UAP from a scientific...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — discovering the best data streams available and discoverable to resolve UAP cases.... It use...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — discovering the best data streams available and discoverable to resolve UAP cases.... It use...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessThe vast majority of UAP reports are eventually determined to be mundane objects—such as balloons, s...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessThe vast majority of UAP reports are eventually determined to be mundane objects—such as balloons, s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many UAP have only been documented with grainy footage from sensors not...Read more...</p></details>
+   Link:<a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many UAP have only been documented with grainy footage from sensors not...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsAARO has resolved the &quot;Go Fast&quot; UAP Discussion. Radar and multi sensor data? Parallax causing...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsAARO has resolved the &quot;Go Fast&quot; UAP Discussion. Radar and multi sensor data? Parallax causing...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...AARO has posted another unresolved case (video): &quot;This footage, captured by an i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...AARO has posted another unresolved case (video): &quot;This footage, captured by an i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-C5hXe_nWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in...... infrared sensor aboard a U.S. military platform. The recording, captured in t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q-C5hXe_nWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-C5hXe_nWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED FOOTAGE of an Unresolved UAP tracked in...... infrared sensor aboard a U.S. military platform. The recording, captured in t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Those individual reports also often lack sensor metadata, such as the...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — Those individual reports also often lack sensor metadata, such as the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: AARO has resolved only four cases, none of which were weather balloons  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gubj2c/tomorrow_aaro_will_resolve_some_publicly_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gubj2c/tomorrow_aaro_will_resolve_some_publicly_known/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tomorrow AARO will resolve some publicly known UAP incidents...November 18, 2024 — Kosloski (AARO): &quot;We have some resolved cases that ar...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gubj2c/tomorrow_aaro_will_resolve_some_publicly_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gubj2c/tomorrow_aaro_will_resolve_some_publicly_known/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tomorrow AARO will resolve some publicly known UAP incidents...November 18, 2024 — Kosloski (AARO): &quot;We have some resolved cases that ar...</p></details>
    Published: November 18, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedebrief.org  
    Title: has the mystery behind one of the u s militarys uap videos been solved  
-   Link: <a href="https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has the Mystery Behind One of the U.S. Military&#x27;s UAP...Oct 26, 2023 — This week, a U.S. government video that reportedly depicts an ano...</p></details>
+   Link:<a href="https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/has-the-mystery-behind-one-of-the-u-s-militarys-uap-videos-been-solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has the Mystery Behind One of the U.S. Military&#x27;s UAP...Oct 26, 2023 — This week, a U.S. government video that reportedly depicts an ano...</p></details>

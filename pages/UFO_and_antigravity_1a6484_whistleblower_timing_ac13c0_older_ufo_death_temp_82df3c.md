@@ -284,7 +284,7 @@ Claims that a witness, researcher or insider died before revealing the truth abo
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-1-dark.svg" | relative_url }}" alt="Older Stories illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because modern allegations of “pre-testimony deaths” are often evaluated through narrative expectations established decades earlier. The older cases rarely provide clear evidence that a person was killed to prevent disclosure. What they do provide is a set of enduring motifs—hidden knowledge, government secrecy, psychological pressure, suspicious timing and unanswered questions—that continue to shape public interpretations of later deaths connected to UFO and alleged antigravity subjects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+This matters because modern allegations of “pre-testimony deaths” are often evaluated through narrative expectations established decades earlier. The older cases rarely provide clear evidence that a person was killed to prevent disclosure. What they do provide is a set of enduring motifs—hidden knowledge, government secrecy, psychological pressure, suspicious timing and unanswered questions—that continue to shape public interpretations of later deaths connected to UFO and alleged antigravity subjects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
 ## Recurring Motifs in Witness-Death Narratives
 
@@ -292,7 +292,7 @@ The classic UFO witness-death story follows a recognisable structure.
 
 First, a researcher or witness becomes associated with supposedly important information. Second, the information is portrayed as threatening to powerful interests. Third, the individual experiences personal difficulties, professional isolation or conflict. Finally, a death, disappearance or collapse is interpreted as evidence that the information was dangerous.
 
-Importantly, the final step often occurs after the fact. A death that was initially reported as accidental, natural or self-inflicted can later be reinterpreted through the lens of secrecy. Once a conspiracy framework exists, ordinary explanations may be viewed as incomplete or deliberately misleading. Researchers of conspiracy narratives have noted that such frameworks frequently connect separate events into a single hidden story, especially when direct evidence is limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</span></span></span>
+Importantly, the final step often occurs after the fact. A death that was initially reported as accidental, natural or self-inflicted can later be reinterpreted through the lens of secrecy. Once a conspiracy framework exists, ordinary explanations may be viewed as incomplete or deliberately misleading. Researchers of conspiracy narratives have noted that such frameworks frequently connect separate events into a single hidden story, especially when direct evidence is limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</span></span></span>
 
 Within UFO culture, several recurring themes appear repeatedly:
 
@@ -314,13 +314,13 @@ These themes became established decades before modern UAP whistleblower discussi
 
 ## The Morris K. Jessup Story as an Early Template
 
-One of the most influential examples is the case of Morris K. Jessup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+One of the most influential examples is the case of Morris K. Jessup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
-Jessup was a UFO author whose 1955 book *The Case for the UFO* helped establish him as a significant figure in early UFO research. His later involvement with the so-called Philadelphia Experiment story made him a central character in one of UFO culture's most enduring legends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+Jessup was a UFO author whose 1955 book *The Case for the UFO* helped establish him as a significant figure in early UFO research. His later involvement with the so-called Philadelphia Experiment story made him a central character in one of UFO culture's most enduring legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
-Jessup died in 1959. Authorities ruled the death a suicide after he was found in his vehicle with exhaust fumes directed into the car. Contemporary accounts reported severe personal and professional difficulties, including financial problems, poor book sales, marital troubles and depression. Friends reportedly stated that he had discussed suicide before his death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+Jessup died in 1959. Authorities ruled the death a suicide after he was found in his vehicle with exhaust fumes directed into the car. Contemporary accounts reported severe personal and professional difficulties, including financial problems, poor book sales, marital troubles and depression. Friends reportedly stated that he had discussed suicide before his death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
-Yet Jessup's death did not remain simply a tragic personal event. Later UFO literature increasingly reframed it as suspicious. Authors connected his death to the Philadelphia Experiment narrative and suggested that he may have known sensitive information. Over time, the image of Jessup shifted from a UFO author who died by suicide to a researcher whom some believed had been silenced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2hilobrow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+Yet Jessup's death did not remain simply a tragic personal event. Later UFO literature increasingly reframed it as suspicious. Authors connected his death to the Philadelphia Experiment narrative and suggested that he may have known sensitive information. Over time, the image of Jessup shifted from a UFO author who died by suicide to a researcher whom some believed had been silenced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
 The importance of the Jessup story is not that it proves suppression. Rather, it established a durable narrative model: a UFO researcher acquires controversial knowledge, dies unexpectedly, and the death becomes inseparable from the alleged secret itself.
 
@@ -328,11 +328,11 @@ The importance of the Jessup story is not that it proves suppression. Rather, it
 
 A different but equally influential template emerged from the experience of Paul Bennewitz.
 
-Bennewitz became convinced during the late 1970s and early 1980s that he had uncovered evidence of extraterrestrial activity and secret underground facilities connected to UFOs. Later accounts, including investigations into Air Force counterintelligence activities, argued that he became the target of a disinformation effort that encouraged some of his beliefs while protecting classified military programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+Bennewitz became convinced during the late 1970s and early 1980s that he had uncovered evidence of extraterrestrial activity and secret underground facilities connected to UFOs. Later accounts, including investigations into Air Force counterintelligence activities, argued that he became the target of a disinformation effort that encouraged some of his beliefs while protecting classified military programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
-Unlike Jessup, Bennewitz did not become famous because of a suspicious death. Instead, his story centred on psychological collapse and alleged manipulation. Reports describe increasing paranoia, deteriorating mental health and eventual psychiatric hospitalisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+Unlike Jessup, Bennewitz did not become famous because of a suspicious death. Instead, his story centred on psychological collapse and alleged manipulation. Reports describe increasing paranoia, deteriorating mental health and eventual psychiatric hospitalisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
-His significance lies in the lesson many UFO researchers drew from the case: if authorities could allegedly mislead or psychologically destabilise a civilian investigator, then later [whistleblowers]({{ 'whistleblowers/' | relative_url }}) might also face intimidation, deception or retaliation. The Bennewitz narrative therefore broadened the older witness-death template into a wider model of witness suppression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+His significance lies in the lesson many UFO researchers drew from the case: if authorities could allegedly mislead or psychologically destabilise a civilian investigator, then later [whistleblowers]({{ 'whistleblowers/' | relative_url }}) might also face intimidation, deception or retaliation. The Bennewitz narrative therefore broadened the older witness-death template into a wider model of witness suppression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 ## How Older Stories Influence New Interpretations
 
@@ -346,7 +346,7 @@ Several mechanisms are visible:
 
 In many UFO narratives, the information that was never delivered becomes more important than the information that actually exists. A witness who dies before speaking can be imagined as possessing extraordinary knowledge precisely because no public testimony survives to verify or challenge the claim.
 
-The Jessup story helped normalise this pattern. Later cases are often discussed as though the lost testimony itself confirms the importance of what would have been said, even when evidence of the intended disclosure is limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+The Jessup story helped normalise this pattern. Later cases are often discussed as though the lost testimony itself confirms the importance of what would have been said, even when evidence of the intended disclosure is limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
 ### Timing Acquires Greater Weight
 
@@ -358,7 +358,7 @@ A death shortly before an interview, publication or appearance can therefore see
 
 Claims involving classified programmes, military research or alleged antigravity projects naturally leave information gaps. Older UFO stories provide ready-made explanations for those gaps. Instead of asking whether evidence is absent because none exists, some observers interpret absence itself as proof of concealment.
 
-This narrative habit has been reinforced over decades through books, documentaries, television programmes and online discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.10880" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Golden Age: Conspiracy Theories&#x27; Relationship with Misinformation Outlets, News Media, and the Wider InternetJanuary 26, 2023...</span><span class="citation-popover-meta">Published: January 26, 2023</span></span></span>
+This narrative habit has been reinforced over decades through books, documentaries, television programmes and online discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.10880" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Golden Age: Conspiracy Theories&#x27; Relationship with Misinformation Outlets, News Media, and the Wider InternetJanuary 26, 2023...</span><span class="citation-popover-meta">Published: January 26, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/409SD8MJL7A" title="How the US Government Shaped the UFO Mythology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer">How the US Government Shaped the UFO Mythology</a></p><p class="youtube-embed-meta">Channel: Best Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=409SD8MJL7A">Open on YouTube</a></p></div></div></div>
@@ -382,7 +382,7 @@ The historical parallels remind investigators to ask important questions:
 
 These questions help move discussion from symbolism toward evidence.
 
-Historical comparison can also reveal recurring institutional issues. The Bennewitz case, for example, remains relevant because it demonstrates that government secrecy, counterintelligence activity and misinformation have at times intersected with UFO investigations, even if that does not prove extraordinary claims about extraterrestrials or antigravity technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+Historical comparison can also reveal recurring institutional issues. The Bennewitz case, for example, remains relevant because it demonstrates that government secrecy, counterintelligence activity and misinformation have at times intersected with UFO investigations, even if that does not prove extraordinary claims about extraterrestrials or antigravity technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-3-dark.svg" | relative_url }}" alt="Older Stories illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0_older_ufo_death_temp_82df3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,13 +392,13 @@ The same comparisons can also create false impressions.
 
 The biggest risk is treating narrative similarity as evidence of causal connection. A researcher who dies after discussing UFOs may resemble Jessup's story, but resemblance alone does not establish murder, suppression or coordinated action.
 
-Another problem is selective memory. UFO culture often remembers the dramatic aspects of a case while overlooking documented personal circumstances. In Jessup's case, later conspiracy narratives frequently overshadow the contemporary evidence pointing to severe personal distress and a death officially ruled suicide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+Another problem is selective memory. UFO culture often remembers the dramatic aspects of a case while overlooking documented personal circumstances. In Jessup's case, later conspiracy narratives frequently overshadow the contemporary evidence pointing to severe personal distress and a death officially ruled suicide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
-Finally, older stories can encourage the assumption that every missing witness belongs to a larger pattern. Historical research shows that many alleged UFO-linked [death lists]({{ 'death-lists/' | relative_url }}) combine unrelated individuals whose circumstances differ substantially, making broad [pattern claims]({{ 'pattern-claims/' | relative_url }}) difficult to substantiate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">social media posts said scientists have disappeared or died because they were wo</span><span class="citation-popover-snippet">Social media posts said scientists have disappeared or...Here are some of the names on the UFO researchers death list: M...</span></span></span>
+Finally, older stories can encourage the assumption that every missing witness belongs to a larger pattern. Historical research shows that many alleged UFO-linked [death lists]({{ 'death-lists/' | relative_url }}) combine unrelated individuals whose circumstances differ substantially, making broad [pattern claims]({{ 'pattern-claims/' | relative_url }}) difficult to substantiate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">social media posts said scientists have disappeared or died because they were wo</span><span class="citation-popover-snippet">Social media posts said scientists have disappeared or...Here are some of the names on the UFO researchers death list: M...</span></span></span>
 
 ## Why These Older Narratives Endure
 
-The enduring influence of early UFO death stories comes from their ability to connect uncertainty with human drama. A secret document can be forgotten; a dead researcher is remembered. Stories such as those surrounding Morris Jessup and Paul Bennewitz supplied UFO culture with enduring archetypes: the investigator who learned too much, the witness caught in hidden systems, and the disclosure that never happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
+The enduring influence of early UFO death stories comes from their ability to connect uncertainty with human drama. A secret document can be forgotten; a dead researcher is remembered. Stories such as those surrounding Morris Jessup and Paul Bennewitz supplied UFO culture with enduring archetypes: the investigator who learned too much, the witness caught in hidden systems, and the disclosure that never happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Morris K. Jessup</span><span class="citation-popover-snippet">Morris K. Jessup</span></span></span>
 
 Modern claims about deaths before testimony often draw strength from these earlier examples. Whether or not any particular contemporary case involves wrongdoing, the public imagination has already been shaped by decades of UFO narratives in which missing voices, unexplained timing and alleged secrets are tightly linked. Understanding those older templates helps explain why new claims can appear compelling long before the underlying evidence has been established.
 
@@ -407,194 +407,194 @@ Modern claims about deaths before testimony often draw strength from these earli
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Old UFO Death Stories Still Shape Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Old UFO Death Stories Still Shape Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand how UFO narratives develop and persist, providing historical context for recurring witness-centered stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how UFO narratives develop and persist, providing historical context for recurring witness-centered stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how official secrecy and witness testimony influence public suspicion surrounding UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how official secrecy and witness testimony influence public suspicion surrounding UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Directly examines how disinformation, rumor and conspiracy frameworks shape UFO beliefs, including interpretations of mysterious events a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how disinformation, rumor and conspiracy frameworks shape UFO beliefs, including interpretations of mysterious events a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how communities construct meaning around UFO claims, useful for understanding why older death stories remain influential.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how communities construct meaning around UFO claims, useful for understanding why older death stories remain influential.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="older-stories-why-old-ufo-death-stories-still-shape-suspicion-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ Modern claims about deaths before testimony often draw strength from these earli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ Modern claims about deaths before testimony often draw strength from these earli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ Modern claims about deaths before testimony often draw strength from these earli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ Modern claims about deaths before testimony often draw strength from these earli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ Modern claims about deaths before testimony often draw strength from these earli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,158 +800,158 @@ Modern claims about deaths before testimony often draw strength from these earli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Morris K. Jessup  
-   Link: <a href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morris_K._Jessup</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morris_K._Jessup</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.09961</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</p></details>
+   Link:<a href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.09961</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.00141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00141</a>  
+   Link:<a href="https://arxiv.org/abs/2404.00141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00141</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hilobrow.com  
    Title: morris k jessup  
-   Link: <a href="https://www.hilobrow.com/2015/03/02/morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilobrow.com/2015/03/02/morris-k-jessup/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Morris K. Jessup2 Mar 2015 —... information about UFOs, aliens, and time travel. Jessup told ONR... The hose on Jessup&#x27;s exhaust pipe s...</p></details>
+   Link:<a href="https://www.hilobrow.com/2015/03/02/morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilobrow.com/2015/03/02/morris-k-jessup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Morris K. Jessup2 Mar 2015 —... information about UFOs, aliens, and time travel. Jessup told ONR... The hose on Jessup&#x27;s exhaust pipe s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: books.google.com  
    Title: Project Beta  
-   Link: <a href="https://books.google.com/books/about/Project_Beta.html?id=UugAST0XW9gC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Beta.html?id=UugAST0XW9gC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksProject Beta: The Story of Paul Bennewitz, National...Feb 8, 2005 — The horrifying true story of a government-authorized cam...</p></details>
+   Link:<a href="https://books.google.com/books/about/Project_Beta.html?id=UugAST0XW9gC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Beta.html?id=UugAST0XW9gC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksProject Beta: The Story of Paul Bennewitz, National...Feb 8, 2005 — The horrifying true story of a government-authorized cam...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2301.10880" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.10880</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Golden Age: Conspiracy Theories&#x27; Relationship with Misinformation Outlets, News Media, and the Wider InternetJanuary 26, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2301.10880" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.10880</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Golden Age: Conspiracy Theories&#x27; Relationship with Misinformation Outlets, News Media, and the Wider InternetJanuary 26, 2023...</p></details>
    Published: January 26, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: social media posts said scientists have disappeared or died because they were wo  
-   Link: <a href="https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media posts said scientists have disappeared or...Here are some of the names on the UFO researchers death list: M...</p></details>
+   Link:<a href="https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/politifact/posts/social-media-posts-said-scientists-have-disappeared-or-died-because-they-were-wo/1427723722722060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media posts said scientists have disappeared or...Here are some of the names on the UFO researchers death list: M...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: americas ufo scientists dead or missing  
-   Link: <a href="https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO Scientists; Dead or MissingJessup, 1959: allegedly committed suicide in Dade County Park, Florida, in 1959. Supposedly leak...</p></details>
+   Link:<a href="https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO Scientists; Dead or MissingJessup, 1959: allegedly committed suicide in Dade County Park, Florida, in 1959. Supposedly leak...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BenSwannRealityCheck/posts/many-of-the-scientists-whove-recently-died-or-disappeared-have-been-linked-to-uf/1520016506150020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BenSwannRealityCheck/posts/many-of-the-scientists-whove-recently-died-or-disappeared-have-been-linked-to-uf/1520016506150020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ming so paranoid that he bought weapons, kept all of his windows and...</p></details>
+   Link:<a href="https://www.facebook.com/BenSwannRealityCheck/posts/many-of-the-scientists-whove-recently-died-or-disappeared-have-been-linked-to-uf/1520016506150020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BenSwannRealityCheck/posts/many-of-the-scientists-whove-recently-died-or-disappeared-have-been-linked-to-uf/1520016506150020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ming so paranoid that he bought weapons, kept all of his windows and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Morris Ketchum Jessup (  
-   Link: <a href="https://www.facebook.com/groups/1979622148886266/posts/2409190522596091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1979622148886266/posts/2409190522596091/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 2, 1900 – April 20, 1959)...Supposedly leaking frightening UFO data to Paul Bennewitz who ended up becoming so paranoid that he bo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1979622148886266/posts/2409190522596091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1979622148886266/posts/2409190522596091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 2, 1900 – April 20, 1959)...Supposedly leaking frightening UFO data to Paul Bennewitz who ended up becoming so paranoid that he bo...</p></details>
    Published: March 2, 1900  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: books.google.com  
    Title: The Case for the UFO  
-   Link: <a href="https://books.google.com/books/about/The_Case_for_the_UFO.html?id=CiiR0QEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Case_for_the_UFO.html?id=CiiR0QEACAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By M...Title, The Case for the UFO: Unidentified Flying Objects. By M[orris] K. Jessup. Introd. by Frank Edwards; Author, Morris K. Jes...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Case_for_the_UFO.html?id=CiiR0QEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Case_for_the_UFO.html?id=CiiR0QEACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By M...Title, The Case for the UFO: Unidentified Flying Objects. By M[orris] K. Jessup. Introd. by Frank Edwards; Author, Morris K. Jes...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Philadelphia Experiment  
-   Link: <a href="https://www.youtube.com/watch?v=TNKZz-C0EOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TNKZz-C0EOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TNKZz-C0EOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TNKZz-C0EOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Solving a UFOlogical 'Murder': The Case of Morris K  
-   Link: <a href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JessupUFOlogical historian Jerome Clark (1998, 1:545) suggests that reading Jessup&#x27;s first book, The Case for the UFO (1955), is rather l...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JessupUFOlogical historian Jerome Clark (1998, 1:545) suggests that reading Jessup&#x27;s first book, The Case for the UFO (1955), is rather l...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: therevealer.org  
    Title: the philadelphia experiment  
-   Link: <a href="https://therevealer.org/the-philadelphia-experiment/" target="_blank" rel="noopener noreferrer nofollow">https://therevealer.org/the-philadelphia-experiment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 July 2012 — His novel Journal of a UFO Investigator, in which the Philadelphia Experiment is prominently featured, was published last y...</p></details>
+   Link:<a href="https://therevealer.org/the-philadelphia-experiment/" target="_blank" rel="noopener noreferrer nofollow">https://therevealer.org/the-philadelphia-experiment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 July 2012 — His novel Journal of a UFO Investigator, in which the Philadelphia Experiment is prominently featured, was published last y...</p></details>
    Published: July 2012  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoconnect.com  
    Title: Morris K  
-   Link: <a href="https://ufoconnect.com/journalist-profile/morris-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/journalist-profile/morris-jessup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessup | UFO Profile from UFOConnect.com12 Apr 2026 — The UFO researcher who became an enigma due to conspiracies about his death... In...</p></details>
+   Link:<a href="https://ufoconnect.com/journalist-profile/morris-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/journalist-profile/morris-jessup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jessup | UFO Profile from UFOConnect.com12 Apr 2026 — The UFO researcher who became an enigma due to conspiracies about his death... In...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: roxalumni.com  
    Title: Morris K  
-   Link: <a href="https://www.roxalumni.com/class_profile.cfm?member_id=2396189" target="_blank" rel="noopener noreferrer nofollow">https://www.roxalumni.com/class_profile.cfm?member_id=2396189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessup (Deceased), Rockville, IN Indiana6 Feb 2011 — Jessup wrote three further flying-saucer books, UFOs and the Bible, The UFO Annual (...</p></details>
+   Link:<a href="https://www.roxalumni.com/class_profile.cfm?member_id=2396189" target="_blank" rel="noopener noreferrer nofollow">https://www.roxalumni.com/class_profile.cfm?member_id=2396189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jessup (Deceased), Rockville, IN Indiana6 Feb 2011 — Jessup wrote three further flying-saucer books, UFOs and the Bible, The UFO Annual (...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: projectcamelot.org  
-   Link: <a href="https://projectcamelot.org/jessup.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/jessup.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Tribute | M. K. JessupThere is no doubt the well-known author of such influential works as The Case for the UFO and The Expanding Case...</p></details>
+   Link:<a href="https://projectcamelot.org/jessup.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/jessup.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Tribute | M. K. JessupThere is no doubt the well-known author of such influential works as The Case for the UFO and The Expanding Case...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skunkworksblog.com  
-   Link: <a href="https://skunkworksblog.com/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skunkworksblog.com/tag/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs – SkunkworksPerhaps the most famous such weaponization of the mythology is the case of Paul Bennewitz, whose personal life was destr...</p></details>
+   Link:<a href="https://skunkworksblog.com/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skunkworksblog.com/tag/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs – SkunkworksPerhaps the most famous such weaponization of the mythology is the case of Paul Bennewitz, whose personal life was destr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &quot;UFOs exist and everyone needs to adjust to that fact...28 Jun 2022 — So far, alien conspiracy theories have been studied through...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361584219_UFOs_exist_and_everyone_needs_to_adjust_to_that_fact_DisInformation_Campaigns_on_the_UFO_Phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) &quot;UFOs exist and everyone needs to adjust to that fact...28 Jun 2022 — So far, alien conspiracy theories have been studied through...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/the-strange-case-of-dr-m-k-jessup.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-strange-case-of-dr-m-k-jessup.html</a>  
+   Link:<a href="https://dokumen.pub/download/the-strange-case-of-dr-m-k-jessup.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-strange-case-of-dr-m-k-jessup.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.com.be  
-   Link: <a href="https://www.amazon.com.be/-/en/Greg-Bishop/dp/B004JZWNZ2?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.be/-/en/Greg-Bishop/dp/B004JZWNZ2?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beta: The Story of Paul Bennewitz, National...Given how large a presence the UFO phenomenon maintains in our culture, this book is well...</p></details>
+   Link:<a href="https://www.amazon.com.be/-/en/Greg-Bishop/dp/B004JZWNZ2?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com.be/-/en/Greg-Bishop/dp/B004JZWNZ2?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beta: The Story of Paul Bennewitz, National...Given how large a presence the UFO phenomenon maintains in our culture, this book is well...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO MythologyThe government had to exercise great care to debunk the stories and individual civilians wh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO MythologyThe government had to exercise great care to debunk the stories and individual civilians wh...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO... Richard Doty was tasked with convincing Bennewitz that what he saw was a UFO... misinf...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO... Richard Doty was tasked with convincing Bennewitz that what he saw was a UFO... misinf...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/UFOs-Deep-State-Disinformation-Intimidation/dp/166506806X?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/UFOs-Deep-State-Disinformation-Intimidation/dp/166506806X?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigates how the deep state and military agencies have systematically concealed UFO incidents and alien interactions through secret...</p></details>
+   Link:<a href="https://www.amazon.com/UFOs-Deep-State-Disinformation-Intimidation/dp/166506806X?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/UFOs-Deep-State-Disinformation-Intimidation/dp/166506806X?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigates how the deep state and military agencies have systematically concealed UFO incidents and alien interactions through secret...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: lobster-magazine.co.uk  
-   Link: <a href="https://www.lobster-magazine.co.uk/article/issue/50/project-beta-the-story-of-paul-bennewitz-national-security-and-the-creation-of-a-modern-ufo-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.lobster-magazine.co.uk/article/issue/50/project-beta-the-story-of-paul-bennewitz-national-security-and-the-creation-of-a-modern-ufo-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>isinformation about UFOs and the US government&#x27;s alleged dealing with aliens –...Read more...</p></details>
+   Link:<a href="https://www.lobster-magazine.co.uk/article/issue/50/project-beta-the-story-of-paul-bennewitz-national-security-and-the-creation-of-a-modern-ufo-myth/" target="_blank" rel="noopener noreferrer nofollow">https://www.lobster-magazine.co.uk/article/issue/50/project-beta-the-story-of-paul-bennewitz-national-security-and-the-creation-of-a-modern-ufo-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>isinformation about UFOs and the US government&#x27;s alleged dealing with aliens –...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, highlighting its mystery due to government secrecy and military intervention...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/international-ufo-reporter-v30/6915252</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 1965, highlighting its mystery due to government secrecy and military intervention...</p></details>
    Published: December 9, 1965  

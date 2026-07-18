@@ -280,7 +280,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_ope
 
 ## Introduction
 
-David Sands’s death became one of the most discussed episodes in the wider [Marconi scientist]({{ 'marconi-6a88ac/' | relative_url }}) story because it illustrates a recurring problem in controversial death investigations: an absence of definitive evidence can generate long-lasting suspicion without establishing a conspiracy. Sands, a defence computer specialist employed by Easams, a company within the GEC-Marconi group, died in March 1987 when his car crashed into a disused roadside building and burst into flames. The circumstances were unusual enough to attract intense media attention, yet the official findings stopped short of confirming either suicide or murder. The resulting open verdict became a focal point for later claims that defence researchers were being systematically targeted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+David Sands’s death became one of the most discussed episodes in the wider [Marconi scientist]({{ 'marconi-6a88ac/' | relative_url }}) story because it illustrates a recurring problem in controversial death investigations: an absence of definitive evidence can generate long-lasting suspicion without establishing a conspiracy. Sands, a defence computer specialist employed by Easams, a company within the GEC-Marconi group, died in March 1987 when his car crashed into a disused roadside building and burst into flames. The circumstances were unusual enough to attract intense media attention, yet the official findings stopped short of confirming either suicide or murder. The resulting open verdict became a focal point for later claims that defence researchers were being systematically targeted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-1-dark.svg" | relative_url }}" alt="Sands illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,11 +291,11 @@ Understanding the Sands case is therefore less about proving or disproving a con
 
 ## The Easams Crash Case
 
-David Sands worked for Easams, a defence and systems-engineering company associated with GEC-Marconi. Contemporary reporting described him as a computer scientist involved in command, control and communications systems. He had recently returned from a holiday in Venice with his wife and was travelling to work when the fatal incident occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+David Sands worked for Easams, a defence and systems-engineering company associated with GEC-Marconi. Contemporary reporting described him as a computer scientist involved in command, control and communications systems. He had recently returned from a holiday in Venice with his wife and was travelling to work when the fatal incident occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
-On 30 March 1987, Sands's vehicle left its normal course and crashed at high speed into a derelict roadside restaurant in southern England. The impact triggered a major fire that severely damaged the vehicle and destroyed much of the available forensic evidence. Contemporary reports noted that the road conditions were good and that the stretch of road was regarded as straightforward to drive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+On 30 March 1987, Sands's vehicle left its normal course and crashed at high speed into a derelict roadside restaurant in southern England. The impact triggered a major fire that severely damaged the vehicle and destroyed much of the available forensic evidence. Contemporary reports noted that the road conditions were good and that the stretch of road was regarded as straightforward to drive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
-The case quickly attracted attention because it occurred after several other highly publicised deaths involving defence-sector scientists and engineers. Newspapers that had already begun linking these deaths into a pattern treated the Sands crash as another potentially significant event rather than as an isolated traffic fatality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+The case quickly attracted attention because it occurred after several other highly publicised deaths involving defence-sector scientists and engineers. Newspapers that had already begun linking these deaths into a pattern treated the Sands crash as another potentially significant event rather than as an isolated traffic fatality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
 What distinguished the crash from an ordinary road accident was not merely its violence but the difficulty investigators faced in determining intent. The available facts did not provide a clear explanation for why Sands left the road, nor did they conclusively indicate outside involvement. That ambiguity became central to everything that followed.
 
@@ -304,9 +304,9 @@ What distinguished the crash from an ordinary road accident was not merely its v
 
 ## Coroner Findings and Public Interpretation
 
-The most important official outcome was the coroner's verdict. Early media speculation often assumed that the death would be classified as suicide because of the manner of the crash and its apparent deliberate nature. However, the inquest ultimately did not reach that conclusion. Instead, the coroner returned an open verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
+The most important official outcome was the coroner's verdict. Early media speculation often assumed that the death would be classified as suicide because of the manner of the crash and its apparent deliberate nature. However, the inquest ultimately did not reach that conclusion. Instead, the coroner returned an open verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
 
-An open verdict has a specific meaning in the British coronial system. It does not declare a death suspicious, nor does it imply murder. Rather, it records that the available evidence is insufficient to determine exactly how the death occurred. In practical terms, it is an acknowledgement of uncertainty. The verdict reflects a lack of proof for competing explanations rather than endorsement of any one explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
+An open verdict has a specific meaning in the British coronial system. It does not declare a death suspicious, nor does it imply murder. Rather, it records that the available evidence is insufficient to determine exactly how the death occurred. In practical terms, it is an acknowledgement of uncertainty. The verdict reflects a lack of proof for competing explanations rather than endorsement of any one explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
 
 This distinction was frequently lost in public discussion. For some observers, the absence of a suicide finding suggested that investigators had doubts about the official account. For others, the absence of evidence for criminal involvement indicated that conspiracy theories lacked foundation. Both interpretations drew support from the same verdict because the verdict itself was deliberately non-committal.
 
@@ -324,13 +324,13 @@ Several elements encouraged speculation:
 * His death followed other unusual deaths involving scientists and engineers.
 * The crash was dramatic and difficult to explain in ordinary terms.
 * The inquest did not provide a definitive answer.
-* Politicians and journalists were already questioning whether the apparent cluster of deaths deserved further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+* Politicians and journalists were already questioning whether the apparent cluster of deaths deserved further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
 Once those elements were combined, the open verdict acquired a meaning beyond its legal purpose. In conspiracy-oriented accounts, uncertainty itself became evidence. Instead of being treated as a gap in knowledge, the lack of a definitive conclusion was interpreted as proof that something had been concealed.
 
-This is a significant logical shift. An open verdict demonstrates that investigators could not establish a clear explanation from the available evidence. It does not demonstrate that a hidden explanation exists. Yet in many later retellings of the Marconi story, the distinction largely disappeared, and the verdict was presented as indirect support for assassination theories, intelligence operations or suppression of sensitive research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The mysterious death of the Marconi scientists</span><span class="citation-popover-snippet">The mysterious death of the Marconi scientistsFebruary 25, 2016 — David Sands drove his car, its trunk loaded with tanks of gasolin...</span><span class="citation-popover-meta">Published: February 25, 2016</span></span></span>
+This is a significant logical shift. An open verdict demonstrates that investigators could not establish a clear explanation from the available evidence. It does not demonstrate that a hidden explanation exists. Yet in many later retellings of the Marconi story, the distinction largely disappeared, and the verdict was presented as indirect support for assassination theories, intelligence operations or suppression of sensitive research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The mysterious death of the Marconi scientists</span><span class="citation-popover-snippet">The mysterious death of the Marconi scientistsFebruary 25, 2016 — David Sands drove his car, its trunk loaded with tanks of gasolin...</span><span class="citation-popover-meta">Published: February 25, 2016</span></span></span>
 
-The effect was amplified by the broader cultural atmosphere of the late Cold War. Public interest in [espionage]({{ 'espionage/' | relative_url }}), strategic defence programmes and secret military technology made it easier for unresolved events to be linked into a single narrative, even when investigators found no evidence of operational connections among the cases. Contemporary Ministry of Defence officials maintained that no conspiracy evidence had been found and that the deaths should not be assumed to be related simply because the individuals worked in defence research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+The effect was amplified by the broader cultural atmosphere of the late Cold War. Public interest in [espionage]({{ 'espionage/' | relative_url }}), strategic defence programmes and secret military technology made it easier for unresolved events to be linked into a single narrative, even when investigators found no evidence of operational connections among the cases. Contemporary Ministry of Defence officials maintained that no conspiracy evidence had been found and that the deaths should not be assumed to be related simply because the individuals worked in defence research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2phuIMnvydY" title="GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer">GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2phuIMnvydY">Open on YouTube</a></p></div></div></div>
@@ -341,10 +341,10 @@ Within discussions of alleged suspicious deaths connected to advanced defence, U
 
 The historical record supports several conclusions:
 
-* David Sands died in a violent and unusual crash while employed in sensitive defence-related work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
-* The circumstances generated legitimate questions and widespread media interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
-* The inquest did not conclusively establish suicide, accident or homicide, leading to an open verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
-* No publicly released evidence has demonstrated that Sands was murdered or that his death formed part of a coordinated campaign against [defence scientists]({{ 'archetype/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+* David Sands died in a violent and unusual crash while employed in sensitive defence-related work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+* The circumstances generated legitimate questions and widespread media interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
+* The inquest did not conclusively establish suicide, accident or homicide, leading to an open verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">scientists deaths still a puzzle 63726</span><span class="citation-popover-snippet">The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</span></span></span>
+* No publicly released evidence has demonstrated that Sands was murdered or that his death formed part of a coordinated campaign against [defence scientists]({{ 'archetype/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">An inquest ruled suicide</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</span><span class="citation-popover-meta">Published: April 8, 1987</span></span></span>
 
 For that reason, the lasting significance of the case lies less in what it proves than in what it leaves unresolved. The Sands crash became one of the central examples showing how an open verdict can preserve uncertainty for decades, allowing later writers and researchers to project very different interpretations onto the same set of facts. In the wider Marconi scientist debate, it stands as a reminder that unexplained is not the same thing as explained by conspiracy.
 
@@ -352,194 +352,194 @@ For that reason, the lasting significance of the case lies less in what it prove
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-3-dark.svg" | relative_url }}" alt="Sands illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sands_open_verdict_170d73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What an Open Verdict Really Means. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What an Open Verdict Really Means. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Theories and the People Who Believe Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFByDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Theories and the People Who Believe Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Theories and the People Who Believe Them">Conspiracy Theories and the People Who Believe Them</a>
-        </h4>
-        <p class="fr-book-author">By Joseph E. Uscinski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Theories and the People Who Believe Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFByDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Theories and the People Who Believe Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Theories and the People Who Believe Them">Conspiracy Theories and the People Who Believe Them</a>
+</h4>
+<p class="fr-book-author">By Joseph E. Uscinski</p>
         
-        <p class="fr-book-desc">Directly addresses how uncertainty, incomplete evidence, and public interpretation can evolve into conspiracy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how uncertainty, incomplete evidence, and public interpretation can evolve into conspiracy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them+by+Joseph+E.+Uscinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Explains the psychological mechanisms that turn ambiguous events into perceived evidence of hidden plots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the psychological mechanisms that turn ambiguous events into perceived evidence of hidden plots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of evidence, media claims, and unsupported conclusions arising from ambiguous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of evidence, media claims, and unsupported conclusions arising from ambiguous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theories and the People Who Believe Them</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy+Theories+and+the+People+Who+Believe+Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theories and the People Who Believe Them</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="sands-what-an-open-verdict-really-means-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-an-open-verdict-really-means-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-an-open-verdict-really-means-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For that reason, the lasting significance of the case lies less in what it prove
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For that reason, the lasting significance of the case lies less in what it prove
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For that reason, the lasting significance of the case lies less in what it prove
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For that reason, the lasting significance of the case lies less in what it prove
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For that reason, the lasting significance of the case lies less in what it prove
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,74 +745,74 @@ For that reason, the lasting significance of the case lies less in what it prove
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: the-scientist.com  
    Title: scientists deaths still a puzzle 63726  
-   Link: <a href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</p></details>
+   Link:<a href="https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/scientists-deaths-still-a-puzzle-63726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ScientistScientists&#x27; Deaths Still a Puzzle14 Jun 1987 — David Sands in a car crash March 30 was neither a suicide nor a crime, the Ba...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newspapers.com  
-   Link: <a href="https://www.newspapers.com/article/14155538/the_guardian_london_greater_london/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/14155538/the_guardian_london_greater_london/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>terday on David Sands, a Marconi scientist who died when his, car crashed...Read more...</p></details>
+   Link:<a href="https://www.newspapers.com/article/14155538/the_guardian_london_greater_london/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/14155538/the_guardian_london_greater_london/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terday on David Sands, a Marconi scientist who died when his, car crashed...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: The mysterious death of the Marconi scientists  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious death of the Marconi scientistsFebruary 25, 2016 — David Sands drove his car, its trunk loaded with tanks of gasolin...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious death of the Marconi scientistsFebruary 25, 2016 — David Sands drove his car, its trunk loaded with tanks of gasolin...</p></details>
    Published: February 25, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: the gecmarconi deaths several researchers from  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GEC-[Marconi deaths](&amp;#123;&amp;#123; &#x27;marconi/&#x27; | relative_url &amp;#125;&amp;#125;) – Several researchers from...On March 30th 1987 37-years-old David Sands, a researcher for Easams, a Marcon...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/ulrpc7/the_gecmarconi_deaths_several_researchers_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GEC-[Marconi deaths](&amp;#123;&amp;#123; &#x27;marconi/&#x27; | relative_url &amp;#125;&amp;#125;) – Several researchers from...On March 30th 1987 37-years-old David Sands, a researcher for Easams, a Marcon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: latimes.com  
    Title: An inquest ruled suicide  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApril 8, 1987 — 8 Apr 1987 — David Sands&#x27; car crashed into...</p></details>
    Published: April 8, 1987  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Mysterious Death of Antigravity Scientist [Amy Eskridge](&#123;&#123; 'amy-eskridge/' | relative_url &#125;&#125;) | Julian Dorey  
-   Link: <a href="https://www.youtube.com/watch?v=4X4gUnJchpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X4gUnJchpo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Disappearances and Deaths Connected to UFO Research &amp; Anti-Gravity Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4X4gUnJchpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X4gUnJchpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Disappearances and Deaths Connected to UFO Research &amp; Anti-Gravity Science...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NsDC55FRyik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NsDC55FRyik</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Sands Marconi scientist death SANDS,David...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NsDC55FRyik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NsDC55FRyik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Sands Marconi scientist death SANDS,David...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2phuIMnvydY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2phuIMnvydY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: JULIAN DOREY Clips  
-   Link: <a href="https://www.youtube.com/watch?v=V_PI6RBldj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_PI6RBldj4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Disappearances and Deaths Connected to UFO Research &amp; Anti-Gravity Science Carl Crusher...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V_PI6RBldj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V_PI6RBldj4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Disappearances and Deaths Connected to UFO Research &amp; Anti-Gravity Science Carl Crusher...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mysterious Deaths at Marconi  
-   Link: <a href="https://www.youtube.com/watch?v=YJQuT887qG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YJQuT887qG0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YJQuT887qG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YJQuT887qG0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: GEC-Marconi scientist deaths conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ru53JUYkkVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ru53JUYkkVc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Deaths at Marconi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ru53JUYkkVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ru53JUYkkVc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Deaths at Marconi...</p></details>

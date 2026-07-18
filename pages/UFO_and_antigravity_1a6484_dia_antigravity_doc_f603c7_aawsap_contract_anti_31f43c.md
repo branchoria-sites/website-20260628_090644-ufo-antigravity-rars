@@ -280,251 +280,251 @@ image: /assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aaws
 
 ## Introduction
 
-The Defence Intelligence Agency (DIA) antigravity paper did not emerge from a stand-alone government physics project. It was produced under a specific procurement vehicle: the Advanced [Aerospace]({{ 'aerospace/' | relative_url }}) Weapon System Applications Program (AAWSAP), a DIA-managed contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS). Understanding that contract is essential because many later claims about secret UFO technology, recovered craft, or hidden antigravity breakthroughs rely on assumptions about what AAWSAP actually funded. The available contract records, memoranda, and programme briefings point to a different picture. AAWSAP was structured to collect, commission, and assess information about potentially revolutionary aerospace technologies, including highly speculative concepts. The antigravity report was one product of that effort, not evidence that antigravity had been achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
+The Defence Intelligence Agency (DIA) antigravity paper did not emerge from a stand-alone government physics project. It was produced under a specific procurement vehicle: the Advanced [Aerospace]({{ 'aerospace/' | relative_url }}) Weapon System Applications Program (AAWSAP), a DIA-managed contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS). Understanding that contract is essential because many later claims about secret UFO technology, recovered craft, or hidden antigravity breakthroughs rely on assumptions about what AAWSAP actually funded. The available contract records, memoranda, and programme briefings point to a different picture. AAWSAP was structured to collect, commission, and assess information about potentially revolutionary aerospace technologies, including highly speculative concepts. The antigravity report was one product of that effort, not evidence that antigravity had been achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-1-dark.svg" | relative_url }}" alt="AAWSAP illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Paid for the Antigravity Report?
 
-The antigravity study was one of dozens of Defence Intelligence Reference Documents (DIRDs) commissioned through AAWSAP. These reports examined technologies that might have long-term military significance if they ever became practical. Topics ranged from warp drives and traversable wormholes to advanced propulsion, metamaterials, gravitational-wave communications, and quantum-vacuum energy concepts. The antigravity paper sat within this broader catalogue rather than occupying a unique or privileged position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</span></span></span>
+The antigravity study was one of dozens of Defence Intelligence Reference Documents (DIRDs) commissioned through AAWSAP. These reports examined technologies that might have long-term military significance if they ever became practical. Topics ranged from warp drives and traversable wormholes to advanced propulsion, metamaterials, gravitational-wave communications, and quantum-vacuum energy concepts. The antigravity paper sat within this broader catalogue rather than occupying a unique or privileged position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[locationsunknown.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</span></span></span>
 
-DIA records identify AAWSAP as a contract programme designed to investigate “revolutionary advances in future aerospace technologies”. Internal briefing materials state that Bigelow Aerospace Advanced Space Studies was the sole bidder and became the contractor responsible for carrying out the work. The antigravity document was therefore not an independently funded research breakthrough but one deliverable within a larger contract framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">UNDER SECRETARY OF DEFENSE17 Nov 2009 — The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Veg...</span></span></span>
+DIA records identify AAWSAP as a contract programme designed to investigate “revolutionary advances in future aerospace technologies”. Internal briefing materials state that Bigelow Aerospace Advanced Space Studies was the sole bidder and became the contractor responsible for carrying out the work. The antigravity document was therefore not an independently funded research breakthrough but one deliverable within a larger contract framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">09117 Final Packet Presented to DepSecDef</span><span class="citation-popover-snippet">UNDER SECRETARY OF DEFENSE17 Nov 2009 — The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Veg...</span></span></span>
 
-The distinction matters because readers often encounter the antigravity report detached from its procurement context. Once placed back into the AAWSAP portfolio, it appears less like evidence of a hidden operational capability and more like a commissioned horizon-scanning exercise intended to explore possibilities that might matter decades in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</span></span></span>
+The distinction matters because readers often encounter the antigravity report detached from its procurement context. Once placed back into the AAWSAP portfolio, it appears less like evidence of a hidden operational capability and more like a commissioned horizon-scanning exercise intended to explore possibilities that might matter decades in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
 
 ## How AAWSAP Framed Future Aerospace Technology
 
-AAWSAP was organised around the idea that intelligence agencies should monitor technologies that could become strategically disruptive, even if they were immature or speculative. The contract did not require proof that a concept already worked. Instead, it sought assessments of scientific literature, theoretical pathways, technical barriers, and potential military implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
+AAWSAP was organised around the idea that intelligence agencies should monitor technologies that could become strategically disruptive, even if they were immature or speculative. The contract did not require proof that a concept already worked. Instead, it sought assessments of scientific literature, theoretical pathways, technical barriers, and potential military implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
 
-That framework explains why the programme funded studies that today appear unusual. The released DIRD list includes subjects such as negative-mass propulsion, wormholes, vacuum-energy extraction, invisibility cloaking, advanced nuclear propulsion, and antigravity concepts. The common theme was not demonstrated technology but the possibility of transformative aerospace effects if future scientific advances overcame known obstacles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown+2Envisioning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</span></span></span>
+That framework explains why the programme funded studies that today appear unusual. The released DIRD list includes subjects such as negative-mass propulsion, wormholes, vacuum-energy extraction, invisibility cloaking, advanced nuclear propulsion, and antigravity concepts. The common theme was not demonstrated technology but the possibility of transformative aerospace effects if future scientific advances overcame known obstacles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[locationsunknown.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</span></span></span>
 
-The antigravity report itself reflects this orientation. Rather than presenting a working system, it reviews theoretical approaches, discusses limitations, and evaluates whether any pathway might eventually support aerospace applications. Its role was analytical and exploratory, matching the wider AAWSAP mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
+The antigravity report itself reflects this orientation. Rather than presenting a working system, it reviews theoretical approaches, discusses limitations, and evaluates whether any pathway might eventually support aerospace applications. Its role was analytical and exploratory, matching the wider AAWSAP mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-2-dark.svg" | relative_url }}" alt="AAWSAP illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bigelow Aerospace and the Reference-Document Pipeline
 
-A key feature of AAWSAP was the way research moved through the contract structure. BAASS functioned as the prime contractor. Rather than operating a secret antigravity laboratory, it coordinated research, commissioned specialist authors, assembled technical studies, and delivered products to the DIA. Internal programme documents describe BAASS performance in terms of producing reports, analyses, and programme outputs rather than fielding experimental aerospace systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">□ Performance by Bigelow Aerospace Advanced. Space Studies {BAASS) has been excellent and they are in full compliance with aerospace.Read...</span></span></span>
+A key feature of AAWSAP was the way research moved through the contract structure. BAASS functioned as the prime contractor. Rather than operating a secret antigravity laboratory, it coordinated research, commissioned specialist authors, assembled technical studies, and delivered products to the DIA. Internal programme documents describe BAASS performance in terms of producing reports, analyses, and programme outputs rather than fielding experimental aerospace systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">□ Performance by Bigelow Aerospace Advanced. Space Studies {BAASS) has been excellent and they are in full compliance with aerospace.Read...</span></span></span>
 
-Many of the DIRDs were written by scientists and subject-matter specialists with backgrounds in physics, engineering, propulsion, and related fields. The resulting reports were then incorporated into the DIA reference-document system. Researchers later obtained many of these documents through Freedom of Information Act releases, revealing the breadth of topics under study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">37 out of those 38 aawsap defense</span><span class="citation-popover-snippet">23, 2022 — During the Bigelow Aerospace Advanced Space Studies (BAASS) contract with the Defense Intelligence Agency...</span></span></span>
+Many of the DIRDs were written by scientists and subject-matter specialists with backgrounds in physics, engineering, propulsion, and related fields. The resulting reports were then incorporated into the DIA reference-document system. Researchers later obtained many of these documents through Freedom of Information Act releases, revealing the breadth of topics under study.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">37 out of those 38 aawsap defense</span><span class="citation-popover-snippet">23, 2022 — During the Bigelow Aerospace Advanced Space Studies (BAASS) contract with the Defense Intelligence Agency...</span></span></span>
 
-This pipeline helps explain why the antigravity report reads like a technical survey rather than a classified engineering programme. Its purpose was to inform decision-makers about what might be scientifically conceivable, what barriers existed, and where future developments could emerge. That is the normal function of a reference document, even when the subject matter is highly speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
+This pipeline helps explain why the antigravity report reads like a technical survey rather than a classified engineering programme. Its purpose was to inform decision-makers about what might be scientifically conceivable, what barriers existed, and where future developments could emerge. That is the normal function of a reference document, even when the subject matter is highly speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qu8pudJk_-A" title="He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer">He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qu8pudJk_-A">Open on YouTube</a></p></div></div></div>
 
 ## Why Contract Language Matters for UFO Claims
 
-The [wording]({{ 'wording/' | relative_url }}) used in AAWSAP records has played a major role in later UFO debates. References to “advanced aerospace weapon systems”, “revolutionary technologies”, and unconventional aerospace concepts are sometimes cited as proof that the government possessed exotic craft or breakthrough propulsion systems. However, the contract documentation points toward a research-and-assessment mission rather than an operational development programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
+The [wording]({{ 'wording/' | relative_url }}) used in AAWSAP records has played a major role in later UFO debates. References to “advanced aerospace weapon systems”, “revolutionary technologies”, and unconventional aerospace concepts are sometimes cited as proof that the government possessed exotic craft or breakthrough propulsion systems. However, the contract documentation points toward a research-and-assessment mission rather than an operational development programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
 
-One source of confusion is the overlap between AAWSAP and the later public discussion surrounding AATIP. In popular accounts, studies of UFO reports, advanced propulsion concepts, and theoretical physics are often merged into a single narrative. Yet the released records repeatedly show that AAWSAP's contractual obligations included producing technical reference material on a broad range of future aerospace topics. The antigravity paper fits naturally within that requirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Advanced Aerospace Weapons System Application Program (AAWSAP...</span></span></span>
+One source of confusion is the overlap between AAWSAP and the later public discussion surrounding AATIP. In popular accounts, studies of UFO reports, advanced propulsion concepts, and theoretical physics are often merged into a single narrative. Yet the released records repeatedly show that AAWSAP's contractual obligations included producing technical reference material on a broad range of future aerospace topics. The antigravity paper fits naturally within that requirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Advanced Aerospace Weapons System Application Program (AAWSAP...</span></span></span>
 
-Another source of misunderstanding comes from treating government funding as validation. A defence agency's decision to commission a study does not establish that the subject is real or technologically achievable. Governments routinely fund exploratory assessments precisely because the answers are uncertain. In the AAWSAP case, the existence of an antigravity report demonstrates official interest in examining the idea, not proof that antigravity technology existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
+Another source of misunderstanding comes from treating government funding as validation. A defence agency's decision to commission a study does not establish that the subject is real or technologically achievable. Governments routinely fund exploratory assessments precisely because the answers are uncertain. In the AAWSAP case, the existence of an antigravity report demonstrates official interest in examining the idea, not proof that antigravity technology existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-3-dark.svg" | relative_url }}" alt="AAWSAP illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_aawsap_contract_anti_31f43c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Contract Reveals About the Antigravity Paper
 
-Viewed through the AAWSAP contract, the antigravity document becomes easier to interpret. It was part of a structured effort to survey potentially transformative aerospace technologies and identify whether any deserved long-term attention. The contract supported literature reviews, technical assessments, and reference studies rather than a disclosed programme to build antigravity vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</span></span></span>
+Viewed through the AAWSAP contract, the antigravity document becomes easier to interpret. It was part of a structured effort to survey potentially transformative aerospace technologies and identify whether any deserved long-term attention. The contract supported literature reviews, technical assessments, and reference studies rather than a disclosed programme to build antigravity vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</span></span></span>
 
-For readers examining broader claims about UFO technology, secret propulsion systems, or alleged dangers faced by researchers, this procurement history is significant. The strongest documentary evidence shows that the antigravity paper originated within a government-funded analytical programme designed to explore possibilities at the edge of known science. The contract demonstrates official curiosity and strategic foresight; it does not, by itself, demonstrate possession of hidden antigravity technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
+For readers examining broader claims about UFO technology, secret propulsion systems, or alleged dangers faced by researchers, this procurement history is significant. The strongest documentary evidence shows that the antigravity paper originated within a government-funded analytical programme designed to explore possibilities at the edge of known science. The contract demonstrates official curiosity and strategic foresight; it does not, by itself, demonstrate possession of hidden antigravity technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1NR12Dmn2w0" title="Jim Lacatski: The DIA Officer Who Ran the Pentagon&#x27;s UAP Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1NR12Dmn2w0" target="_blank" rel="noopener noreferrer">Jim Lacatski: The DIA Officer Who Ran the Pentagon&#x27;s UAP Program</a></p><p class="youtube-embed-meta">Channel: 4orbs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1NR12Dmn2w0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1NR12Dmn2w0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Paid for the Antigravity Report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Paid for the Antigravity Report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for government, military, and intelligence involvement in UFO investigations that readers of AAWSAP-related material oft...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for government, military, and intelligence involvement in UFO investigations that readers of AAWSAP-related material oft...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores antigravity claims, advanced aerospace concepts, and the gap between speculation and demonstrated technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores antigravity claims, advanced aerospace concepts, and the gap between speculation and demonstrated technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Directly discusses the AAWSAP program, its structure, funding, contractors, and associated research efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly discusses the AAWSAP program, its structure, funding, contractors, and associated research efforts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
-        </h4>
-        <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the U.S. Government Covert UFO Program on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
+</h4>
+<p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
         
-        <p class="fr-book-desc">Covers the origins and operation of the government programs connected to AAWSAP and related UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the origins and operation of the government programs connected to AAWSAP and related UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="aawsap-what-paid-for-the-antigravity-report-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For readers examining broader claims about UFO technology, secret propulsion sys
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For readers examining broader claims about UFO technology, secret propulsion sys
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For readers examining broader claims about UFO technology, secret propulsion sys
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For readers examining broader claims about UFO technology, secret propulsion sys
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For readers examining broader claims about UFO technology, secret propulsion sys
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,148 +730,148 @@ For readers examining broader claims about UFO technology, secret propulsion sys
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencySenator Harry Reid&#x27;s Request to Put the Advanced...Nov 17, 2009 — The AAITP that SEN Reid refers to is offici...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNDER SECRETARY OF DEFENSE17 Nov 2009 — The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Veg...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNDER SECRETARY OF DEFENSE17 Nov 2009 — The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Veg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — This product is one in a series of advanced technology re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIA has executed option year 1 with BAASS, Research Antigravity for Aerospace Applications Field facilities...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>□ Performance by Bigelow Aerospace Advanced. Space Studies {BAASS) has been excellent and they are in full compliance with aerospace.Read...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>□ Performance by Bigelow Aerospace Advanced. Space Studies {BAASS) has been excellent and they are in full compliance with aerospace.Read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Advanced Aerospace Weapons System Application Program (AAWSAP...</p></details>
+   Link:<a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Advanced Aerospace Weapons System Application Program (AAWSAP...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: envisioning.com  
-   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traver...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traver...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...Oct 30, 2009 — Antigravity for Aerospace Applications in...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...Oct 30, 2009 — Antigravity for Aerospace Applications in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: 37 out of those 38 aawsap defense  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2022 — During the Bigelow Aerospace Advanced Space Studies (BAASS) contract with the Defense Intelligence Agency...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2022 — During the Bigelow Aerospace Advanced Space Studies (BAASS) contract with the Defense Intelligence Agency...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 18, 2024 — AAWSAP Contract HHM402-08-C-072 Bigelow Aerospace Advanced. Space Studies (BAASS) as follows: BAASS Project Management Pla...</p></details>
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 18, 2024 — AAWSAP Contract HHM402-08-C-072 Bigelow Aerospace Advanced. Space Studies (BAASS) as follows: BAASS Project Management Pla...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00349 2018  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AGENCYJul 18, 2008 — 134. CONTRACT TYPE: The contract shall be finn fixed priced (FFP).... BIGELOW AEROSPACE ADVANCED SPACE...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AGENCYJul 18, 2008 — 134. CONTRACT TYPE: The contract shall be finn fixed priced (FFP).... BIGELOW AEROSPACE ADVANCED SPACE...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00269 2018  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26, 2023 — CONTRACT NO. 3. AWARD/EFFECTIVE. 4. ORDER NUMBER. 5. SOLICITATION... BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC. 4640 S E...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26, 2023 — CONTRACT NO. 3. AWARD/EFFECTIVE. 4. ORDER NUMBER. 5. SOLICITATION... BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC. 4640 S E...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comFOIA-00159-2018DIRD: Antigravity for Aerospace Applications 20 DIRD: Biosensors and BioMEMS - A Survey of the Present Field...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comFOIA-00159-2018DIRD: Antigravity for Aerospace Applications 20 DIRD: Biosensors and BioMEMS - A Survey of the Present Field...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: locationsunknown.org  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)The Advanced Aerospace Weapon System Applications Program (AAWSAP) is. A...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoReid agrees that the ranch deserves attention and inserts a line into the DoD budg...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoReid agrees that the ranch deserves attention and inserts a line into the DoD budg...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon’s Secret UFO Program  
-   Link: <a href="http://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP contract Bigelow Aerospace BAASS DIRD Pentagon AATIP, AAWSAP, and the 38 DIRDs: The Pentagon&#x27;s $22M UAP Program 4orbs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP contract Bigelow Aerospace BAASS DIRD Pentagon AATIP, AAWSAP, and the 38 DIRDs: The Pentagon&#x27;s $22M UAP Program 4orbs...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasawatch.com  
    Title: bigelow aerospace had a secret dod ufo study contract update  
-   Link: <a href="https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/" target="_blank" rel="noopener noreferrer nofollow">https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow Aerospace Had a Secret DoD UFO Study Contract...19 Dec 2017 — The Pentagon has officially confirmed that there was, in fact, a $...</p></details>
+   Link:<a href="https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/" target="_blank" rel="noopener noreferrer nofollow">https://nasawatch.com/news/bigelow-aerospace-had-a-secret-dod-ufo-study-contract-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow Aerospace Had a Secret DoD UFO Study Contract...19 Dec 2017 — The Pentagon has officially confirmed that there was, in fact, a $...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramAATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramAATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: esd.whs.mil  
    Title: 21 F 0299 UAP The Debrief Emails 12 2020  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — In regards to the contract award for AAWSAP to Bigelow Aerospace (BAAS) ca...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — In regards to the contract award for AAWSAP to Bigelow Aerospace (BAAS) ca...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uapedia.ai  
    Title: origins of aatip aawsap programs dirds  
-   Link: <a href="https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Origins of AATIP/AAWSAP: Programs &amp; DIRDs6 Mar 2026 — AAWSAP was a Defense Intelligence Agency (DIA) It was managed under DIA and execute...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origins of AATIP/AAWSAP: Programs &amp; DIRDs6 Mar 2026 — AAWSAP was a Defense Intelligence Agency (DIA) It was managed under DIA and execute...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP ConfusionJun 30, 2024 — The blurb for this episode states: Bigelow also broke the news of the creation of Bigel...</p></details>
+   Link:<a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) On the AAWSAP/AATIP ConfusionJun 30, 2024 — The blurb for this episode states: Bigelow also broke the news of the creation of Bigel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: governmentattic.org  
    Title: NavyONTfoiaCaseLogs2019 2023  
-   Link: <a href="https://www.governmentattic.org/53docs/NavyONTfoiaCaseLogs2019-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/53docs/NavyONTfoiaCaseLogs2019-2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval Research (ONR) received your FOIA request on March 07, 2023.... All Records Bigelow Aerospace advanced space studies, BA...</p></details>
+   Link:<a href="https://www.governmentattic.org/53docs/NavyONTfoiaCaseLogs2019-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/53docs/NavyONTfoiaCaseLogs2019-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Naval Research (ONR) received your FOIA request on March 07, 2023.... All Records Bigelow Aerospace advanced space studies, BA...</p></details>
    Published: March 7, 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bigelowaerospace.com  
-   Link: <a href="https://bigelowaerospace.com/" target="_blank" rel="noopener noreferrer nofollow">https://bigelowaerospace.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow AerospaceFor media inquiries, please call (702) 639-4440. EMPLOYMENT. Interested in a career with Bigelow Aerospace? Click here t...</p></details>
+   Link:<a href="https://bigelowaerospace.com/" target="_blank" rel="noopener noreferrer nofollow">https://bigelowaerospace.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bigelow AerospaceFor media inquiries, please call (702) 639-4440. EMPLOYMENT. Interested in a career with Bigelow Aerospace? Click here t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Jim Lacatski: The DIA Officer Who Ran the Pentagon's UAP Program  
-   Link: <a href="http://www.youtube.com/watch?v=1NR12Dmn2w0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1NR12Dmn2w0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played: Dr. James Lacatski (PART 1)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1NR12Dmn2w0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1NR12Dmn2w0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played: Dr. James Lacatski (PART 1)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The 38 DIRDs: What the Pentagon Paid $22M to Have Written About Warp Drives  
-   Link: <a href="http://www.youtube.com/watch?v=sxdDsPnTMQI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sxdDsPnTMQI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sxdDsPnTMQI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sxdDsPnTMQI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>

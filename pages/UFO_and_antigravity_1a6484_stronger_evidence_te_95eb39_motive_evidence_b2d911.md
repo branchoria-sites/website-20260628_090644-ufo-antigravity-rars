@@ -324,7 +324,7 @@ Stronger motive evidence would look more like:
 
 </div>
 
-The modern UAP debate illustrates the distinction. Former intelligence officer David Grusch publicly alleged that he experienced reprisals after reporting information through official channels and pursuing oversight concerns regarding alleged hidden UAP programmes. His supporters point to documented whistleblower complaints as evidence that a specific disclosure process existed rather than a general belief in secrecy. However, even in this case, public evidence of retaliation claims does not by itself establish a campaign of physical targeting, much less homicide. It demonstrates a potential motive framework—conflict over disclosure—not proof of lethal action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</span><span class="citation-popover-meta">Published: June 5, 2023</span></span></span>
+The modern UAP debate illustrates the distinction. Former intelligence officer David Grusch publicly alleged that he experienced reprisals after reporting information through official channels and pursuing oversight concerns regarding alleged hidden UAP programmes. His supporters point to documented whistleblower complaints as evidence that a specific disclosure process existed rather than a general belief in secrecy. However, even in this case, public evidence of retaliation claims does not by itself establish a campaign of physical targeting, much less homicide. It demonstrates a potential motive framework—conflict over disclosure—not proof of lethal action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</span><span class="citation-popover-meta">Published: June 5, 2023</span></span></span>
 
 The key analytical lesson is that motive becomes stronger when linked to identifiable acts of disclosure rather than broad claims that secrets exist somewhere.
 
@@ -345,7 +345,7 @@ Useful timing indicators include:
 * Scheduled congressional testimony.
 * Planned media interviews.
 * Pending court filings.
-* Inspector-general submissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[thedebrief.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</span><span class="citation-popover-meta">Published: June 5, 2023</span></span></span>
+* Inspector-general submissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[thedebrief.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</span><span class="citation-popover-meta">Published: June 5, 2023</span></span></span>
 * Data transfers to oversight bodies.
 * Imminent publication of technical findings.
 
@@ -379,9 +379,9 @@ For example, claims that a vast hidden programme exists do not automatically ide
 
 Public discussions frequently point to whistleblower allegations, secrecy surrounding classified aerospace work, and historical government concealment of some defence activities as evidence that motive could exist.
 
-However, [official reviews]({{ 'official-reviews/' | relative_url }}) have repeatedly stated that investigators have not found evidence that individuals were killed or harmed for providing UAP information through established reporting mechanisms. Pentagon representatives responding to public allegations have said they possess no information substantiating claims that people were harmed or killed for supplying information to UAP investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap hearing sparks clash between pentagon officials witnesses</span><span class="citation-popover-snippet">UFO transparency.... “The department has no information that any individual has been harmed or killed as a result of providing informati...</span></span></span>
+However, [official reviews]({{ 'official-reviews/' | relative_url }}) have repeatedly stated that investigators have not found evidence that individuals were killed or harmed for providing UAP information through established reporting mechanisms. Pentagon representatives responding to public allegations have said they possess no information substantiating claims that people were harmed or killed for supplying information to UAP investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap hearing sparks clash between pentagon officials witnesses</span><span class="citation-popover-snippet">UFO transparency.... “The department has no information that any individual has been harmed or killed as a result of providing informati...</span></span></span>
 
-Likewise, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no empirical evidence supporting claims of government or contractor reverse-engineering programmes involving extraterrestrial technology and no evidence confirming long-standing narratives about recovered alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
+Likewise, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no empirical evidence supporting claims of government or contractor reverse-engineering programmes involving extraterrestrial technology and no evidence confirming long-standing narratives about recovered alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
 
 These findings do not prove that every whistleblower claim is false, nor do they eliminate the possibility that sensitive information exists elsewhere. They do, however, mean that public motive theories currently rest largely on allegations, suspicions and contested testimony rather than on documented evidence showing that a specific disclosure triggered a specific targeting campaign.
 
@@ -409,194 +409,194 @@ The evidential chain would likely include:
 That chain would transform motive from an inference into an evidential mechanism. Until such records emerge, claims of UFO- or antigravity-related targeting remain largely dependent on assumptions about secrecy rather than demonstrable reasons why a particular individual would have been targeted at a particular moment.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Motive Evidence Would Be Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Motive Evidence Would Be Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented testimony, official records, and evidentiary standards around UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented testimony, official records, and evidentiary standards around UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Supports the page’s emphasis on evidence quality, burden of proof, and avoiding speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Supports the page’s emphasis on evidence quality, burden of proof, and avoiding speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rC_5nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rC_5nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides commercially strong context for classified aerospace secrecy and motive claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides commercially strong context for classified aerospace secrecy and motive claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Grounds claims about classified aircraft, propulsion research, and secrecy in real defence-industry history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Grounds claims about classified aircraft, propulsion research, and secrecy in real defence-industry history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a28cb7cff2027bb19c70.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a28cb7cff2027bb19c70.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="motive-test-what-motive-evidence-would-be-enough-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ That chain would transform motive from an inference into an evidential mechanism
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ That chain would transform motive from an inference into an evidential mechanism
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ That chain would transform motive from an inference into an evidential mechanism
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ That chain would transform motive from an inference into an evidential mechanism
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ That chain would transform motive from an inference into an evidential mechanism
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,101 +802,101 @@ That chain would transform motive from an inference into an evidential mechanism
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: defensescoop.com  
    Title: uap hearing sparks clash between pentagon officials witnesses  
-   Link: <a href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO transparency.... “The department has no information that any individual has been harmed or killed as a result of providing informati...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO transparency.... “The department has no information that any individual has been harmed or killed as a result of providing informati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: defensescoop.com  
    Title: military whistleblowers share new evidence alleged uap ufo hearing  
-   Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Photo from war.gov/ufo). &#x27;Data alone is not disclosure&#x27;: UAP research community reacts to Trump&#x27;s first PURSUE file drop. By...</p></details>
+   Link:<a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Photo from war.gov/ufo). &#x27;Data alone is not disclosure&#x27;: UAP research community reacts to Trump&#x27;s first PURSUE file drop. By...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</p></details>
+   Link:<a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...June 5, 2023 — 5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and...</p></details>
    Published: June 5, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: static1.squarespace.com  
-   Link: <a href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>c. gruschMoreover, having suffered months of retaliation and reprisals because of his prior UAP-related protected communication(s) to the...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c. gruschMoreover, having suffered months of retaliation and reprisals because of his prior UAP-related protected communication(s) to the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/legacy-ufo-programs-and-whistleblower-retaliation-the-dylan-borland-case-86adea0ae25e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/legacy-ufo-programs-and-whistleblower-retaliation-the-dylan-borland-case-86adea0ae25e</a>  
+   Link:<a href="https://medium.com/predict/legacy-ufo-programs-and-whistleblower-retaliation-the-dylan-borland-case-86adea0ae25e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/legacy-ufo-programs-and-whistleblower-retaliation-the-dylan-borland-case-86adea0ae25e</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishThe UFO congressional hearing was &#x27;insulting&#x27; to US...Jul 29, 2023 — The Pentagon &#x27;has no information that any individual...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2023-07-29/the-ufo-congressional-hearing-was-insulting-to-us-employees-a-top-pentagon-official-says.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishThe UFO congressional hearing was &#x27;insulting&#x27; to US...Jul 29, 2023 — The Pentagon &#x27;has no information that any individual...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: whistleblowersblog.org  
    Title: whistleblower claims retaliation during testimony at house hearing on ufos  
-   Link: <a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — In addition to making headline grabbing cl...</p></details>
+   Link:<a href="https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/government-whistleblowers/whistleblower-claims-retaliation-during-testimony-at-house-hearing-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower Network NewsWhistleblower Claims Retaliation During Testimony at...2 Aug 2023 — In addition to making headline grabbing cl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QatWn2nMQnw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo whistleblower retaliation david grusch motive UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QatWn2nMQnw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo whistleblower retaliation david grusch motive UFO whistleblower David Grusch: &#x27;We are not alone&#x27; | Official Ross Coulthart NewsNation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Aliens #Conspiracy #Government #Evidence #Unexplained #Podcast #Whistleblower  
-   Link: <a href="https://www.instagram.com/reel/DYP2TONOzRJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYP2TONOzRJ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP files are here — but what do they actually tell us...#UAP #ufo #disclosure #whistleblowers #[congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) &amp;middot; View all 116...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYP2TONOzRJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYP2TONOzRJ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAP files are here — but what do they actually tell us...#UAP #ufo #disclosure #whistleblowers #[congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) &amp;middot; View all 116...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The witnesses are wrong. They... Went out into the desert, went to a bar and [they were given] some fake UFO photos.Read more...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The witnesses are wrong. They... Went out into the desert, went to a bar and [they were given] some fake UFO photos.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: avi-loeb.medium.com  
    Title: uap disclosure 3 is most intriguing release thus far e4643013245b  
-   Link: <a href="https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure #3 is the Most Intriguing Release Thus Far!UAP Disclosure #3 is the Most Intriguing Release Thus Far! Today, June 12, 2026, th...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/uap-disclosure-3-is-most-intriguing-release-thus-far-e4643013245b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure #3 is the Most Intriguing Release Thus Far!UAP Disclosure #3 is the Most Intriguing Release Thus Far! Today, June 12, 2026, th...</p></details>
    Published: June 12, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: destroying or falsifying records in advance of AARO's GAO  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dby11b/friendly_reminder_destroying_or_falsifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dby11b/friendly_reminder_destroying_or_falsifying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP report by AARO, which omitted serious whistleblower complaints about illegal UAP programs.... evidence on top of the murders not gon...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dby11b/friendly_reminder_destroying_or_falsifying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dby11b/friendly_reminder_destroying_or_falsifying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP report by AARO, which omitted serious whistleblower complaints about illegal UAP programs.... evidence on top of the murders not gon...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: san.com  
    Title: annual ufo report finds 21 cases that cant be explained  
-   Link: <a href="https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases that can&#x27;t be explainedNov 15, 2024 — Pentagon investigates 700+ UFO sightings, unable to explain 21; no...</p></details>
+   Link:<a href="https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases that can&#x27;t be explainedNov 15, 2024 — Pentagon investigates 700+ UFO sightings, unable to explain 21; no...</p></details>

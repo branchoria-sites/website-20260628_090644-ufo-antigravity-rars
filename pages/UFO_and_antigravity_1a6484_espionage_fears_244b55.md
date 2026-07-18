@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55-overview
 
 ## Introduction
 
-Foreign espionage fears enter scientist death stories because the setting is not imaginary: defence laboratories, nuclear weapons sites, aerospace programmes, directed-energy research and advanced materials are genuine intelligence targets. That does not make every death, disappearance or suicide in those communities evidence of a spy operation. The clearest distinction is between **plausible motive in the abstract** and **case-specific proof**. In the recent U.S. “missing scientists” narrative, the FBI and Congress looked for [possible links]({{ 'possible-links/' | relative_url }}) among deaths and disappearances involving people connected to nuclear or space-technology [institutions]({{ 'institutions/' | relative_url }}), while reporting from CBS, AP and others found no public evidence that the cases were connected or that foreign intelligence was behind them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+Foreign espionage fears enter scientist death stories because the setting is not imaginary: defence laboratories, nuclear weapons sites, aerospace programmes, directed-energy research and advanced materials are genuine intelligence targets. That does not make every death, disappearance or suicide in those communities evidence of a spy operation. The clearest distinction is between **plausible motive in the abstract** and **case-specific proof**. In the recent U.S. “missing scientists” narrative, the FBI and Congress looked for [possible links]({{ 'possible-links/' | relative_url }}) among deaths and disappearances involving people connected to nuclear or space-technology [institutions]({{ 'institutions/' | relative_url }}), while reporting from CBS, AP and others found no public evidence that the cases were connected or that foreign intelligence was behind them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55-overview.webp" | relative_url }}" alt="Overview image for Espionage" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ That tension is central to [UFO and antigravity]({{ 'ufo-and-antigravity/' | rel
 
 ## Why espionage feels plausible
 
-The espionage explanation has emotional force because sensitive science really is targeted. The U.S. intelligence and research-security community defines research security as protecting research and development from misappropriation, foreign interference and related integrity violations. That framing is not fringe; it appears in official U.S. guidance for universities and research organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/safeguarding-science/research-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Director of National Intelligence Research Security</span><span class="citation-popover-snippet">Director of National Intelligence Research Security</span></span></span>
+The espionage explanation has emotional force because sensitive science really is targeted. The U.S. intelligence and research-security community defines research security as protecting research and development from misappropriation, foreign interference and related integrity violations. That framing is not fringe; it appears in official U.S. guidance for universities and research organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/safeguarding-science/research-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Director of National Intelligence Research Security</span><span class="citation-popover-snippet">Director of National Intelligence Research Security</span></span></span>
 
-National laboratories and [aerospace]({{ 'aerospace/' | relative_url }}) contractors are especially attractive targets because their work can have dual-use value: one discovery may serve civilian science, military systems, energy security or strategic industrial advantage. The Government Accountability Office reported in 2026 that foreign countries, “primarily China”, attempt to improperly influence federally funded researchers, creating risks to research integrity and fraud prevention. It also noted the countervailing concern that research-security processes can unfairly target scientists of Chinese or Asian descent if safeguards are weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
+National laboratories and [aerospace]({{ 'aerospace/' | relative_url }}) contractors are especially attractive targets because their work can have dual-use value: one discovery may serve civilian science, military systems, energy security or strategic industrial advantage. The Government Accountability Office reported in 2026 that foreign countries, “primarily China”, attempt to improperly influence federally funded researchers, creating risks to research integrity and fraud prevention. It also noted the countervailing concern that research-security processes can unfairly target scientists of Chinese or Asian descent if safeguards are weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
 
-There are also real cases that make espionage fears easier to understand. In 2009, former Rockwell and Boeing engineer Dongfan “Greg” Chung was convicted of economic espionage and acting as an agent of the People’s Republic of China in a case involving restricted technology and Boeing trade secrets linked to the Space Shuttle and Delta IV rocket. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Former Boeing Engineer Convicted of Economic</span><span class="citation-popover-snippet">Department of Justice Former Boeing Engineer Convicted of Economic</span></span></span> A [Los Alamos]({{ 'los-alamos/' | relative_url }}) example also exists, though it is far less dramatic: former laboratory employee Turab Lookman was sentenced in 2020 after falsely denying to a Department of Energy counterintelligence officer that he had been recruited or had applied for China’s Thousand Talents Program. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Open source on justice.gov.</span></span></span>
+There are also real cases that make espionage fears easier to understand. In 2009, former Rockwell and Boeing engineer Dongfan “Greg” Chung was convicted of economic espionage and acting as an agent of the People’s Republic of China in a case involving restricted technology and Boeing trade secrets linked to the Space Shuttle and Delta IV rocket.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Former Boeing Engineer Convicted of Economic</span><span class="citation-popover-snippet">Department of Justice Former Boeing Engineer Convicted of Economic</span></span></span> A [Los Alamos]({{ 'los-alamos/' | relative_url }}) example also exists, though it is far less dramatic: former laboratory employee Turab Lookman was sentenced in 2020 after falsely denying to a Department of Energy counterintelligence officer that he had been recruited or had applied for China’s Thousand Talents Program.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Open source on justice.gov.</span></span></span>
 
 These cases do not prove a murder campaign. They prove something narrower: foreign states and affiliated programmes can seek access to valuable scientific knowledge, and people in aerospace, nuclear and advanced-technology settings may legitimately attract counterintelligence attention. That is why a suspicious death story can quickly acquire a spy-thriller frame even before the facts support it.
 
@@ -469,9 +469,9 @@ These cases do not prove a murder campaign. They prove something narrower: forei
 
 The problem begins when a real national-security premise is stretched into a death explanation. “This person worked near sensitive technology” is not the same as “this person was killed for secrets”. The missing middle is evidence of action: surveillance, coercion, contact with foreign handlers, theft of classified material, compromised devices, unusual financial flows, travel patterns, threats, forensic findings or a verified operational motive.
 
-The 2026 U.S. cases show how quickly the leap can happen. CBS reported that the FBI was looking for possible connections among 10 missing or deceased scientists and staff tied to sensitive nuclear or space-technology laboratories. But the same report said people close to the investigations into the disparate cases saw no links, and that those involved described the underlying stories as personal and tragic rather than a spy plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+The 2026 U.S. cases show how quickly the leap can happen. CBS reported that the FBI was looking for possible connections among 10 missing or deceased scientists and staff tied to sensitive nuclear or space-technology laboratories. But the same report said people close to the investigations into the disparate cases saw no links, and that those involved described the underlying stories as personal and tragic rather than a spy plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
-The Guardian’s account of the same wave of speculation shows the mechanism clearly. A former Air Force major general, William “Neil” McCasland, disappeared in New Mexico; his past work at the Phillips research site, associated with space vehicles and directed-energy technologies, made the case attractive to UFO communities. Other names were then added, including NASA Jet Propulsion Laboratory scientist Michael Hicks, materials-processing director Monica Reza, MIT physicist Nuno Loureiro, astrophysicist Carl Grillmair, pharmaceutical researcher Jason Thomas and gravity-modification researcher Amy Eskridge. The list mixed missing-person cases, homicide, suicide and unexplained or personal tragedies into one narrative thread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span></span></span>
+The Guardian’s account of the same wave of speculation shows the mechanism clearly. A former Air Force major general, William “Neil” McCasland, disappeared in New Mexico; his past work at the Phillips research site, associated with space vehicles and directed-energy technologies, made the case attractive to UFO communities. Other names were then added, including NASA Jet Propulsion Laboratory scientist Michael Hicks, materials-processing director Monica Reza, MIT physicist Nuno Loureiro, astrophysicist Carl Grillmair, pharmaceutical researcher Jason Thomas and gravity-modification researcher Amy Eskridge. The list mixed missing-person cases, homicide, suicide and unexplained or personal tragedies into one narrative thread.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span></span></span>
 
 That mixing is the weakness. A foreign intelligence theory becomes stronger when cases share a concrete operational pattern. It becomes weaker when the only common feature is that the victims can be described, sometimes loosely, as scientists connected to sensitive fields.
 
@@ -493,13 +493,13 @@ A credible espionage theory in a scientist death case would not rest mainly on �
 
 </div>
 
-This is why known espionage cases, such as Chung’s aerospace theft case, look evidentially different from most death-list narratives. They involve an identifiable defendant, defined technology, a prosecutable theory and a legal record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Former Boeing Engineer Convicted of Economic</span><span class="citation-popover-snippet">Department of Justice Former Boeing Engineer Convicted of Economic</span></span></span> The same distinction applies to research-security violations: a false-statement case about a foreign talent programme may show improper concealment, but it does not automatically imply homicide, UFO secrets or antigravity suppression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Open source on justice.gov.</span></span></span>
+This is why known espionage cases, such as Chung’s aerospace theft case, look evidentially different from most death-list narratives. They involve an identifiable defendant, defined technology, a prosecutable theory and a legal record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Former Boeing Engineer Convicted of Economic</span><span class="citation-popover-snippet">Department of Justice Former Boeing Engineer Convicted of Economic</span></span></span> The same distinction applies to research-security violations: a false-statement case about a foreign talent programme may show improper concealment, but it does not automatically imply homicide, UFO secrets or antigravity suppression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Open source on justice.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55-Illustration-2-dark.svg" | relative_url }}" alt="Espionage illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO and antigravity stories magnify spy fears
 
-UFO and antigravity claims add a special accelerant to espionage suspicion: they already sit at the border of secrecy and speculation. UAP reporting often involves military sensors, airspace incursions, classified collection systems and fears of foreign technological surprise. NASA’s UAP study stressed that the problem is often poor or incomplete data and found no conclusive peer-reviewed evidence for an extraterrestrial origin, but the same uncertainty leaves room for competing narratives, including foreign adversary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+UFO and antigravity claims add a special accelerant to espionage suspicion: they already sit at the border of secrecy and speculation. UAP reporting often involves military sensors, airspace incursions, classified collection systems and fears of foreign technological surprise. NASA’s UAP study stressed that the problem is often poor or incomplete data and found no conclusive peer-reviewed evidence for an extraterrestrial origin, but the same uncertainty leaves room for competing narratives, including foreign adversary technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 Antigravity stories intensify that effect because “gravity modification” sounds like a world-changing military prize. A researcher associated with propulsion, plasma, energy, directed-energy systems or exotic materials can be turned online into someone who “knew too much”. In practice, the labels are often much broader than the evidence. Some people named in viral [death lists]({{ 'death-lists/' | relative_url }}) were senior scientists; others were retired, administrative, peripheral, working in unrelated fields or connected through institutions rather than through a common project.
 
@@ -510,7 +510,7 @@ The foreign-espionage version is therefore more plausible than purely supernatur
 
 ## The Marconi precedent: an older spy-thriller template
 
-The pattern is not new. In the 1980s, deaths of British scientists and engineers linked in public discussion to GEC-Marconi, defence electronics and Strategic Defense Initiative-era work were framed by some as possible assassinations. The Los Angeles Times reported in 1987 that Britain’s Ministry of Defence and police investigators had found no evidence of conspiracy, while public fascination persisted partly because the deaths seemed to fit a spy-story atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Open source on latimes.com.</span></span></span>
+The pattern is not new. In the 1980s, deaths of British scientists and engineers linked in public discussion to GEC-Marconi, defence electronics and Strategic Defense Initiative-era work were framed by some as possible assassinations. The Los Angeles Times reported in 1987 that Britain’s Ministry of Defence and police investigators had found no evidence of conspiracy, while public fascination persisted partly because the deaths seemed to fit a spy-story atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Open source on latimes.com.</span></span></span>
 
 That older template matters because it shows how defence science can turn unrelated tragedies into a perceived pattern. The Cold War setting supplied possible villains; classified weapons work supplied motive; unusual deaths supplied narrative hooks. But the key evidential problem remained the same: a cluster is not a chain of proof.
 
@@ -522,7 +522,7 @@ The Marconi comparison is useful for UFO and antigravity death stories because i
 
 The most difficult part of this subject is that some cases are genuinely unresolved or distressing. A missing person may never be found. A death may involve mental illness, family conflict, workplace stress, violence, medical crisis or unknown circumstances. Those realities deserve care. Turning them into espionage content can harm families and distort investigations.
 
-In the 2026 cases, CBS reported that speculation swirled about a plot to harm U.S. nuclear or space programmes, but those involved in the cases described them as rooted in personal tragedy rather than a spy-thriller plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span> The Guardian likewise reported that investigators had to separate UFO theories from available facts, quoting a local official in McCasland’s case as saying those theories had to be set aside unless evidence emerged to support them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span></span></span>
+In the 2026 cases, CBS reported that speculation swirled about a plot to harm U.S. nuclear or space programmes, but those involved in the cases described them as rooted in personal tragedy rather than a spy-thriller plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span> The Guardian likewise reported that investigators had to separate UFO theories from available facts, quoting a local official in McCasland’s case as saying those theories had to be set aside unless evidence emerged to support them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House &#124; UFOs &#124; The Guardian</span></span></span>
 
 This does not mean espionage should never be investigated. It means the burden of proof should rise with the seriousness of the claim. A foreign assassination theory accuses an external actor of murder and implies a major national-security breach. That requires stronger evidence than coincidence, occupational prestige or online pattern-matching.
 
@@ -531,201 +531,201 @@ This does not mean espionage should never be investigated. It means the burden o
 
 ## The safest reading
 
-The fairest assessment is neither “nothing suspicious ever happens” nor “scientists are being silenced”. Foreign espionage is a real concern around defence, nuclear, aerospace and advanced research. Official research-security programmes, GAO reviews, FBI warnings and past prosecutions all support that general risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO+2Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
+The fairest assessment is neither “nothing suspicious ever happens” nor “scientists are being silenced”. Foreign espionage is a real concern around defence, nuclear, aerospace and advanced research. Official research-security programmes, GAO reviews, FBI warnings and past prosecutions all support that general risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[gao.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
 
 But the scientist-death stories tied to UFO and antigravity themes usually ask the evidence to do more than it can. They move from “foreign intelligence services target technology” to “a specific death was an operation” without producing the necessary bridge. In the current public record, the espionage frame explains why people become suspicious; it does not, by itself, explain the deaths.
 
 The strongest conclusion is therefore cautious: spy fears are understandable in these stories because the surrounding research can be strategically valuable, but plausibility is not proof. Until a case shows concrete intelligence links, the more responsible reading is to treat each death or disappearance individually, preserve room for official investigation, and resist converting grief, secrecy and national-security anxiety into a single hidden plot.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Spy Fears Enter Scientist Death Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Spy Fears Enter Scientist Death Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spy and the Traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGJODwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Spy and the Traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spy and the Traitor">The Spy and the Traitor</a>
-        </h4>
-        <p class="fr-book-author">By Ben Macintyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spy and the Traitor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xGJODwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Spy and the Traitor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spy and the Traitor">The Spy and the Traitor</a>
+</h4>
+<p class="fr-book-author">By Ben Macintyre</p>
         
-        <p class="fr-book-desc">Illustrates how genuine intelligence operations unfold, offering perspective on what evidence-based spy stories look like.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how genuine intelligence operations unfold, offering perspective on what evidence-based spy stories look like.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor+by+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores the intersection of classified aerospace programs, secrecy, and public speculation that often fuels scientist-death narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of classified aerospace programs, secrecy, and public speculation that often fuels scientist-death narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how real classified aerospace research is conducted, grounding discussions of secrecy and national-security research environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real classified aerospace research is conducted, grounding discussions of secrecy and national-security research environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spy and the Traitor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spy+and+the+Traitor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spy and the Traitor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b4435cc20a82443d9.jpg' | relative_url }}" alt="Listing image for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b4435cc20a82443d9.jpg' | relative_url }}" alt="Listing image for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/868a5a9ec2e3e996860d.jpg' | relative_url }}" alt="Listing image for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/868a5a9ec2e3e996860d.jpg' | relative_url }}" alt="Listing image for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="espionage-when-spy-fears-enter-scientist-death-stories-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,269 +931,269 @@ The strongest conclusion is therefore cautious: spy fears are understandable in 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-26-107544</a>  
+   Link:<a href="https://www.gao.gov/products/gao-26-107544" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-26-107544</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.gao.gov  
-   Link: <a href="https://files.gao.gov/reports/GAO-26-107544/index.html" target="_blank" rel="noopener noreferrer nofollow">https://files.gao.gov/reports/GAO-26-107544/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Against Discrimination...</p></details>
+   Link:<a href="https://files.gao.gov/reports/GAO-26-107544/index.html" target="_blank" rel="noopener noreferrer nofollow">https://files.gao.gov/reports/GAO-26-107544/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Against Discrimination...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
    Title: Department of Justice Former Boeing Engineer Convicted of Economic  
-   Link: <a href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china</a>  
+   Link:<a href="https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/former-boeing-engineer-convicted-economic-espionage-theft-space-shuttle-secrets-china</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements</a>  
+   Link:<a href="https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/former-employee-los-alamos-national-laboratory-sentenced-probation-making-false-statements</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fbi.gov  
    Title: Chinese Talent Plans — FBI  
-   Link: <a href="https://www.fbi.gov/investigate/counterintelligence/the-china-threat/chinese-talent-plans" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/counterintelligence/the-china-threat/chinese-talent-plans</a>  
+   Link:<a href="https://www.fbi.gov/investigate/counterintelligence/the-china-threat/chinese-talent-plans" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/counterintelligence/the-china-threat/chinese-talent-plans</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/file-repository/china-risk-to-academia-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/china-risk-to-academia-2019.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/china-risk-to-academia-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/china-risk-to-academia-2019.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/news/speeches-and-testimony/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/speeches-and-testimony/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states</a>  
+   Link:<a href="https://www.fbi.gov/news/speeches-and-testimony/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/speeches-and-testimony/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/file-repository/china-risk-to-corporate-america-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/china-risk-to-corporate-america-2019.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/china-risk-to-corporate-america-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/china-risk-to-corporate-america-2019.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/investigate/counterintelligence/the-china-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/counterintelligence/the-china-threat</a>  
+   Link:<a href="https://www.fbi.gov/investigate/counterintelligence/the-china-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/investigate/counterintelligence/the-china-threat</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/file-repository/reports-and-publications/stats-services-publications-fbi-story-fbistory2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/reports-and-publications/stats-services-publications-fbi-story-fbistory2012.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/reports-and-publications/stats-services-publications-fbi-story-fbistory2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/reports-and-publications/stats-services-publications-fbi-story-fbistory2012.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fbi.gov  
    Title: stats services publications fbi ct 911com 0404  
-   Link: <a href="https://www.fbi.gov/file-repository/counterterrorism/stats-services-publications-fbi_ct_911com_0404.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/counterterrorism/stats-services-publications-fbi_ct_911com_0404.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/counterterrorism/stats-services-publications-fbi_ct_911com_0404.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/counterterrorism/stats-services-publications-fbi_ct_911com_0404.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: leb.fbi.gov  
    Title: april 1994  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/april-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/april-1994.pdf</a>  
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/april-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/april-1994.pdf</a>  
    Published: april 1994  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fbi.gov  
    Title: stats services publications fbi story fbistory2011  
-   Link: <a href="https://www.fbi.gov/file-repository/stats-services-publications-fbi-story-fbistory2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/stats-services-publications-fbi-story-fbistory2011.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/stats-services-publications-fbi-story-fbistory2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/stats-services-publications-fbi-story-fbistory2011.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/file-repository/fbi100book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/fbi100book.pdf</a>  
+   Link:<a href="https://www.fbi.gov/file-repository/fbi100book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/fbi100book.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related</a>  
+   Link:<a href="https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: justice.gov  
    Title: chung Convic  
-   Link: <a href="https://www.justice.gov/sites/default/files/criminal-ccips/legacy/2012/03/15/chungConvic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/criminal-ccips/legacy/2012/03/15/chungConvic.pdf</a>  
+   Link:<a href="https://www.justice.gov/sites/default/files/criminal-ccips/legacy/2012/03/15/chungConvic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/criminal-ccips/legacy/2012/03/15/chungConvic.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: justice.gov  
    Title: 08 nsd 106  
-   Link: <a href="https://www.justice.gov/archive/opa/pr/2008/February/08_nsd_106.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/February/08_nsd_106.html</a>  
+   Link:<a href="https://www.justice.gov/archive/opa/pr/2008/February/08_nsd_106.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/February/08_nsd_106.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/file/486916/dl" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/file/486916/dl</a>  
+   Link:<a href="https://www.justice.gov/file/486916/dl" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/file/486916/dl</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/opa/pr/2008/February/chung-indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/February/chung-indictment.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/opa/pr/2008/February/chung-indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/February/chung-indictment.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: justice.gov  
    Title: 08 nsd 959  
-   Link: <a href="https://www.justice.gov/archive/opa/pr/2008/October/08-nsd-959.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/October/08-nsd-959.html</a>  
+   Link:<a href="https://www.justice.gov/archive/opa/pr/2008/October/08-nsd-959.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/opa/pr/2008/October/08-nsd-959.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: justice.gov  
    Title: 2013 strat re theft of trade secrets  
-   Link: <a href="https://www.justice.gov/d9/pages/attachments/2017/02/13/2013-strat-re-theft-of-trade-secrets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/pages/attachments/2017/02/13/2013-strat-re-theft-of-trade-secrets.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/pages/attachments/2017/02/13/2013-strat-re-theft-of-trade-secrets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/pages/attachments/2017/02/13/2013-strat-re-theft-of-trade-secrets.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/nsd/media/484376/dl?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/nsd/media/484376/dl?inline=</a>  
+   Link:<a href="https://www.justice.gov/nsd/media/484376/dl?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/nsd/media/484376/dl?inline=</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: justice.gov  
    Title: 04.15.24. -- DOJ's China Initiative  
-   Link: <a href="https://www.justice.gov/d9/2024-04/04.15.24.%20--%20DOJ%27s%20China%20Initiative%20-%20Final%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2024-04/04.15.24.%20--%20DOJ%27s%20China%20Initiative%20-%20Final%20Part%201.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/2024-04/04.15.24.%20--%20DOJ%27s%20China%20Initiative%20-%20Final%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2024-04/04.15.24.%20--%20DOJ%27s%20China%20Initiative%20-%20Final%20Part%201.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: justice.gov  
    Title: export case fact sheet 201410  
-   Link: <a href="https://www.justice.gov/sites/default/files/pages/attachments/2014/10/22/export-case-fact-sheet-201410.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/pages/attachments/2014/10/22/export-case-fact-sheet-201410.pdf</a>  
+   Link:<a href="https://www.justice.gov/sites/default/files/pages/attachments/2014/10/22/export-case-fact-sheet-201410.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/pages/attachments/2014/10/22/export-case-fact-sheet-201410.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/t-rced-99-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/t-rced-99-28.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/t-rced-99-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/t-rced-99-28.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: space.com  
    Title: ufos not attributable to foreign adversaries new pentagon report says  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says</a>  
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dni.gov  
    Title: Director of National Intelligence Research Security  
-   Link: <a href="https://www.dni.gov/index.php/safeguarding-science/research-security" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/safeguarding-science/research-security</a>  
+   Link:<a href="https://www.dni.gov/index.php/safeguarding-science/research-security" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/safeguarding-science/research-security</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cbsnews.com  
    Title: lab worker melissa casias dead new mexico national forest  
-   Link: <a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
+   Link:<a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: latimes.com  
    Title: fbi probes missing or dead scientists including four from la area  
-   Link: <a href="https://www.latimes.com/politics/story/2026-04-21/fbi-probes-missing-or-dead-scientists-including-four-from-la-area" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/politics/story/2026-04-21/fbi-probes-missing-or-dead-scientists-including-four-from-la-area</a>  
+   Link:<a href="https://www.latimes.com/politics/story/2026-04-21/fbi-probes-missing-or-dead-scientists-including-four-from-la-area" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/politics/story/2026-04-21/fbi-probes-missing-or-dead-scientists-including-four-from-la-area</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nsf.gov  
    Title: Research Security | NSF  
-   Link: <a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/research-security</a>  
+   Link:<a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/research-security</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2000/sep/12/martinkettle" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2000/sep/12/martinkettle</a>  
+   Link:<a href="https://www.theguardian.com/world/2000/sep/12/martinkettle" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2000/sep/12/martinkettle</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: oversight.house.gov  
    Title: comer burlison seek information on missing nuclear and rocket scientists  
-   Link: <a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
+   Link:<a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: democrats-science.house.gov  
    Title: 121123 agency investigations of foreign influence request letter to gao  
-   Link: <a href="https://democrats-science.house.gov/download/121123-agency-investigations-of-foreign-influence-request-letter-to-gao" target="_blank" rel="noopener noreferrer nofollow">https://democrats-science.house.gov/download/121123-agency-investigations-of-foreign-influence-request-letter-to-gao</a>  
+   Link:<a href="https://democrats-science.house.gov/download/121123-agency-investigations-of-foreign-influence-request-letter-to-gao" target="_blank" rel="noopener noreferrer nofollow">https://democrats-science.house.gov/download/121123-agency-investigations-of-foreign-influence-request-letter-to-gao</a>  
 
 ### Additional References
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C6pe26SGvFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6pe26SGvFo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US IN PANIC MODE AS Many Nuclear Scientists Suddenly Die | Secret War You Don&#x27;t know about...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C6pe26SGvFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6pe26SGvFo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US IN PANIC MODE AS Many Nuclear Scientists Suddenly Die | Secret War You Don&#x27;t know about...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientists Explained: FBI Investigates Mysterious Deaths with Aya Burweila...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientists Explained: FBI Investigates Mysterious Deaths with Aya Burweila...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=v9EApmqcoQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9EApmqcoQI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My Analysis on the Media Circus Surrounding 11 Missing Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v9EApmqcoQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9EApmqcoQI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My Analysis on the Media Circus Surrounding 11 Missing Scientists...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: My Analysis on the Media Circus Surrounding 11 Missing Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=HqjuUBgxjjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HqjuUBgxjjA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 US Scientists Go Missing: White House Vows To Find Truth | GRAVITAS Highlights...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HqjuUBgxjjA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HqjuUBgxjjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 US Scientists Go Missing: White House Vows To Find Truth | GRAVITAS Highlights...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-Y4_G74_9-PURL-gpo128826/pdf/GOVPUB-Y4_G74_9-PURL-gpo128826.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-Y4_G74_9-PURL-gpo128826/pdf/GOVPUB-Y4_G74_9-PURL-gpo128826.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-Y4_G74_9-PURL-gpo128826/pdf/GOVPUB-Y4_G74_9-PURL-gpo128826.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-Y4_G74_9-PURL-gpo128826/pdf/GOVPUB-Y4_G74_9-PURL-gpo128826.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-97-229/html/GAOREPORTS-RCED-97-229.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-97-229/html/GAOREPORTS-RCED-97-229.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-97-229/html/GAOREPORTS-RCED-97-229.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-97-229/html/GAOREPORTS-RCED-97-229.htm</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: americanscientist.org  
-   Link: <a href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question</a>  
+   Link:<a href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXiSz2cD-js/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiSz2cD-js/</a>  
+   Link:<a href="https://www.instagram.com/p/DXiSz2cD-js/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXiSz2cD-js/</a>  

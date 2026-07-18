@@ -280,7 +280,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_ro
 
 ## Introduction
 
-Among the deaths later folded into the wider “[Marconi scientists]({{ 'marconi-6a88ac/' | relative_url }})” narrative, the case of Arshad Sharif stands out because of the extraordinary method by which he was said to have taken his own life. In October 1986, the 26-year-old computer analyst, employed by a Marconi defence-related division, was found dead near Bristol after apparently fastening a rope between his neck and a tree and then driving away in his car. The death was officially treated as suicide, yet the unusual circumstances ensured that it became one of the most frequently cited examples by those who believed the cluster of defence-science deaths deserved deeper scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
+Among the deaths later folded into the wider “[Marconi scientists]({{ 'marconi-6a88ac/' | relative_url }})” narrative, the case of Arshad Sharif stands out because of the extraordinary method by which he was said to have taken his own life. In October 1986, the 26-year-old computer analyst, employed by a Marconi defence-related division, was found dead near Bristol after apparently fastening a rope between his neck and a tree and then driving away in his car. The death was officially treated as suicide, yet the unusual circumstances ensured that it became one of the most frequently cited examples by those who believed the cluster of defence-science deaths deserved deeper scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-1-dark.svg" | relative_url }}" alt="Sharif illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,15 +288,15 @@ Within later UFO, secret-weapons and antigravity conspiracy literature, Sharif�
 
 ## The Reported Journey and Death Scene
 
-Sharif worked as a computer analyst for Marconi Defence Systems in north-west London. Contemporary and later accounts place his death in Bristol on 28 October 1986, some distance from both his workplace and home. According to reports repeated in press coverage and later summaries, he travelled to Bristol, stayed overnight in local accommodation, and was later found dead after a rope attached to his neck had been secured to a tree while his car moved away. The incident resulted in catastrophic neck injuries and was ultimately classified as suicide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afr.com">[afr.com+2The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afr.com</span><span class="citation-popover-title">the baffling case of the dead scientists 19881202 j8ity</span><span class="citation-popover-snippet">THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
+Sharif worked as a computer analyst for Marconi Defence Systems in north-west London. Contemporary and later accounts place his death in Bristol on 28 October 1986, some distance from both his workplace and home. According to reports repeated in press coverage and later summaries, he travelled to Bristol, stayed overnight in local accommodation, and was later found dead after a rope attached to his neck had been secured to a tree while his car moved away. The incident resulted in catastrophic neck injuries and was ultimately classified as suicide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afr.com">[afr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afr.com</span><span class="citation-popover-title">the baffling case of the dead scientists 19881202 j8ity</span><span class="citation-popover-snippet">THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
 
 Several details attracted attention:
 
-* Sharif had travelled from the London area to Bristol, the same city associated with the earlier death of Marconi engineer Vimal [Dajibhai]({{ 'dajibhai/' | relative_url }}) only months before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
-* Reports stated that he spent his final night in a boarding or rooming house and paid in cash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-snippet">In Tribute &#124; 25 Marconi ScientistsHis unusual death was complicated by several issues: Sharif lived near Vimal Dajibhai (see above) in St...</span></span></span>
-* Later retellings claimed that he was carrying substantial amounts of cash and that some aspects of the money reportedly seen by witnesses were not fully explored during the inquest. These claims became part of the broader mystery narrative, although they do not by themselves establish criminal involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boards.ie">[boards.ie - Now Ye&#x27;re Talkin&#x27;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boards.ie</span><span class="citation-popover-title">missing murdered suicide scientists thread marconi mystery</span><span class="citation-popover-snippet">Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
+* Sharif had travelled from the London area to Bristol, the same city associated with the earlier death of Marconi engineer Vimal [Dajibhai]({{ 'dajibhai/' | relative_url }}) only months before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
+* Reports stated that he spent his final night in a boarding or rooming house and paid in cash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-snippet">In Tribute &#124; 25 Marconi ScientistsHis unusual death was complicated by several issues: Sharif lived near Vimal Dajibhai (see above) in St...</span></span></span>
+* Later retellings claimed that he was carrying substantial amounts of cash and that some aspects of the money reportedly seen by witnesses were not fully explored during the inquest. These claims became part of the broader mystery narrative, although they do not by themselves establish criminal involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boards.ie">[boards.ie - Now Ye&#x27;re Talkin&#x27;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boards.ie</span><span class="citation-popover-title">missing murdered suicide scientists thread marconi mystery</span><span class="citation-popover-snippet">Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
 
-The death scene was so unusual that it became one of the most memorable episodes in the entire Marconi story. Even sceptical commentators who reject conspiracy claims often acknowledge that Sharif’s death was among the strangest in the series. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
+The death scene was so unusual that it became one of the most memorable episodes in the entire Marconi story. Even sceptical commentators who reject conspiracy claims often acknowledge that Sharif’s death was among the strangest in the series.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2phuIMnvydY" title="GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer">GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2phuIMnvydY">Open on YouTube</a></p></div></div></div>
@@ -305,11 +305,11 @@ The death scene was so unusual that it became one of the most memorable episodes
 
 The official conclusion did not prevent doubts from emerging. Critics of the suicide verdict generally focused on three issues.
 
-First, there was the method itself. Many observers found it difficult to understand why a person intending self-destruction would choose such an elaborate and violent mechanism rather than a more common method. The apparent complexity of the act became a major reason the case remained prominent in public discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
+First, there was the method itself. Many observers found it difficult to understand why a person intending self-destruction would choose such an elaborate and violent mechanism rather than a more common method. The apparent complexity of the act became a major reason the case remained prominent in public discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
 
-Second, Sharif's death occurred during a period when several engineers, scientists and technical specialists linked to defence contractors or military research establishments had died in unusual circumstances. As media attention intensified around the broader cluster, each new case was increasingly interpreted through the lens of the previous ones. Sharif’s death therefore acquired significance beyond its own facts because it appeared to fit an emerging pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
+Second, Sharif's death occurred during a period when several engineers, scientists and technical specialists linked to defence contractors or military research establishments had died in unusual circumstances. As media attention intensified around the broader cluster, each new case was increasingly interpreted through the lens of the previous ones. Sharif’s death therefore acquired significance beyond its own facts because it appeared to fit an emerging pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
 
-Third, some later accounts claimed that elements of Sharif’s final movements, accommodation arrangements and personal circumstances were insufficiently explained. These concerns were amplified in books, newspaper features and conspiracy-oriented discussions that argued the official record left unanswered questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boards.ie">[boards.ie - Now Ye&#x27;re Talkin&#x27;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boards.ie</span><span class="citation-popover-title">missing murdered suicide scientists thread marconi mystery</span><span class="citation-popover-snippet">Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
+Third, some later accounts claimed that elements of Sharif’s final movements, accommodation arrangements and personal circumstances were insufficiently explained. These concerns were amplified in books, newspaper features and conspiracy-oriented discussions that argued the official record left unanswered questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boards.ie">[boards.ie - Now Ye&#x27;re Talkin&#x27;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boards.ie</span><span class="citation-popover-title">missing murdered suicide scientists thread marconi mystery</span><span class="citation-popover-snippet">Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
 
 It is important to note that public suspicion was often driven by perceived anomalies rather than by direct evidence of homicide. The existence of unresolved questions is not the same thing as proof that a crime occurred.
 
@@ -317,9 +317,9 @@ It is important to note that public suspicion was often driven by perceived anom
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-2-dark.svg" | relative_url }}" alt="Sharif illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Family Objections to Suicide
 
-Accounts sympathetic to the broader Marconi conspiracy theory frequently state that relatives and acquaintances struggled to accept that Sharif would choose such a death. Similar objections appeared in several of the other Marconi-linked cases, where families described victims as forward-looking, professionally successful or lacking obvious signs of suicidal intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
+Accounts sympathetic to the broader Marconi conspiracy theory frequently state that relatives and acquaintances struggled to accept that Sharif would choose such a death. Similar objections appeared in several of the other Marconi-linked cases, where families described victims as forward-looking, professionally successful or lacking obvious signs of suicidal intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crimereads.com">[CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crimereads.com</span><span class="citation-popover-title">the many real life deaths surrounding the star wars defense initiative</span><span class="citation-popover-snippet">The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</span></span></span>
 
-In Sharif’s case, later narratives also pointed to disputed interpretations of personal evidence allegedly found after his death. Some reports referred to a recorded message or statements concerning his private life, while family members reportedly questioned whether such material accurately reflected his state of mind. These disagreements became part of the continuing debate over whether the suicide verdict fully captured the circumstances surrounding his death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pandox.tv/investigations/the-marconi-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pandox.tv">[pandox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pandox.tv</span><span class="citation-popover-title">the marconi conspiracy — pandox</span><span class="citation-popover-snippet">the marconi conspiracy — pandoxFebruary 23, 2026 — 23 Feb 2026 — he purchased a nylon tow rope at a shop called bits z cars, tied o...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
+In Sharif’s case, later narratives also pointed to disputed interpretations of personal evidence allegedly found after his death. Some reports referred to a recorded message or statements concerning his private life, while family members reportedly questioned whether such material accurately reflected his state of mind. These disagreements became part of the continuing debate over whether the suicide verdict fully captured the circumstances surrounding his death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pandox.tv/investigations/the-marconi-conspiracy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pandox.tv">[pandox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pandox.tv</span><span class="citation-popover-title">the marconi conspiracy — pandox</span><span class="citation-popover-snippet">the marconi conspiracy — pandoxFebruary 23, 2026 — 23 Feb 2026 — he purchased a nylon tow rope at a shop called bits z cars, tied o...</span><span class="citation-popover-meta">Published: February 23, 2026</span></span></span>
 
 However, publicly available reporting provides limited verified evidence that family objections produced new forensic findings or led authorities to reverse the original conclusion. The existence of family scepticism helps explain the persistence of controversy, but it does not by itself alter the evidential record.
 
@@ -330,7 +330,7 @@ However, publicly available reporting provides limited verified evidence that fa
 
 Sharif’s case illustrates a common problem in analysing alleged suspicious deaths. People naturally treat rare or shocking methods as evidence that something else must have happened. Yet investigators and forensic specialists generally distinguish between an act being unusual and an act being impossible.
 
-The fact that a death mechanism appears bizarre does not automatically indicate third-party involvement. History contains documented suicides using methods that observers initially considered implausible, excessively complex or extraordinarily violent. Because of this, the mere strangeness of Sharif’s death cannot establish homicide on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+The fact that a death mechanism appears bizarre does not automatically indicate third-party involvement. History contains documented suicides using methods that observers initially considered implausible, excessively complex or extraordinarily violent. Because of this, the mere strangeness of Sharif’s death cannot establish homicide on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
 To move from suspicion to proof would require evidence such as:
 
@@ -344,209 +344,209 @@ To move from suspicion to proof would require evidence such as:
 
 </div>
 
-No such publicly verified evidence has emerged in Sharif’s case. While commentators continue to debate motives, circumstances and possible connections to defence work, the public record remains dominated by the original suicide finding rather than by evidence sufficient to overturn it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
+No such publicly verified evidence has emerged in Sharif’s case. While commentators continue to debate motives, circumstances and possible connections to defence work, the public record remains dominated by the original suicide finding rather than by evidence sufficient to overturn it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-scientist.com">[The Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-scientist.com</span><span class="citation-popover-title">probe sought in deaths of 4 scientists 63857</span><span class="citation-popover-snippet">The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-3-dark.svg" | relative_url }}" alt="Sharif illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_sharif_rope_death_c19fb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Became a Touchstone
 
-Arshad Sharif’s death occupies a special place in the mythology surrounding the [Marconi deaths]({{ 'marconi/' | relative_url }}) because it combines several elements that make conspiracy narratives durable: a young technical specialist, work connected to defence technology, a distant location, unusual behaviour before death, and an exceptionally dramatic death scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afr.com">[afr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afr.com</span><span class="citation-popover-title">the baffling case of the dead scientists 19881202 j8ity</span><span class="citation-popover-snippet">THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
+Arshad Sharif’s death occupies a special place in the mythology surrounding the [Marconi deaths]({{ 'marconi/' | relative_url }}) because it combines several elements that make conspiracy narratives durable: a young technical specialist, work connected to defence technology, a distant location, unusual behaviour before death, and an exceptionally dramatic death scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afr.com">[afr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afr.com</span><span class="citation-popover-title">the baffling case of the dead scientists 19881202 j8ity</span><span class="citation-popover-snippet">THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</span><span class="citation-popover-meta">Published: October 1986</span></span></span>
 
-As the Marconi story expanded during the late 1980s and beyond, Sharif’s case was repeatedly cited as one of the examples that seemed hardest for the public to reconcile with a straightforward suicide explanation. Yet decades later, the evidential position remains largely unchanged. The case continues to be discussed because of its unresolved questions and disturbing circumstances, not because conclusive evidence has surfaced demonstrating murder, intelligence involvement or a connection to alleged UFO or antigravity research programmes. In that sense, Sharif’s death remains both the strongest emotional example used by proponents of the wider narrative and one of the clearest illustrations of the gap between suspicion and proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CrimeReads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+As the Marconi story expanded during the late 1980s and beyond, Sharif’s case was repeatedly cited as one of the examples that seemed hardest for the public to reconcile with a straightforward suicide explanation. Yet decades later, the evidential position remains largely unchanged. The case continues to be discussed because of its unresolved questions and disturbing circumstances, not because conclusive evidence has surfaced demonstrating murder, intelligence involvement or a connection to alleged UFO or antigravity research programmes. In that sense, Sharif’s death remains both the strongest emotional example used by proponents of the wider narrative and one of the clearest illustrations of the gap between suspicion and proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wqbyc9GXn8I" title="Probe into mysterious deaths, disappearances of at least 11 scientists confirmed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wqbyc9GXn8I" target="_blank" rel="noopener noreferrer">Probe into mysterious deaths, disappearances of at least 11 scientists confirmed</a></p><p class="youtube-embed-meta">Channel: Fox News Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wqbyc9GXn8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wqbyc9GXn8I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Rope Death That Anchored the Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Rope Death That Anchored the Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unsolved Crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bE-eBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unsolved Crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unsolved Crimes">The Mammoth Book of Unsolved Crimes</a>
-        </h4>
-        <p class="fr-book-author">By Roger Wilkes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Unsolved Crimes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bE-eBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Unsolved Crimes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unsolved Crimes">The Mammoth Book of Unsolved Crimes</a>
+</h4>
+<p class="fr-book-author">By Roger Wilkes</p>
         
-        <p class="fr-book-desc">Provides context for evaluating disputed deaths and separating evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating disputed deaths and separating evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes+by+Roger+Wilkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how unusual events become embedded in larger conspiracy narratives, matching the article&#x27;s theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual events become embedded in larger conspiracy narratives, matching the article&#x27;s theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Verdict">Open Verdict</a>
-        </h4>
-        <p class="fr-book-author">By Tony Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Verdict on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Verdict">Open Verdict</a>
+</h4>
+<p class="fr-book-author">By Tony Collins</p>
         
-        <p class="fr-book-desc">Directly addresses how unusual deaths can generate alternative explanations and public controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how unusual deaths can generate alternative explanations and public controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Verdict+by+Tony+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unsolved Crimes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unsolved+Crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Unsolved Crimes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sharif-the-rope-death-that-anchored-the-rumor-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,111 +752,111 @@ As the Marconi story expanded during the late 1980s and beyond, Sharif’s case 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: the-scientist.com  
    Title: probe sought in deaths of 4 scientists 63857  
-   Link: <a href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</p></details>
+   Link:<a href="https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/probe-sought-in-deaths-of-4-scientists-63857</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ScientistProbe Sought In Deaths of 4 Scientists19 Apr 1987 —... suicide. Two months later another Marconi employee, Ashhad Sharif, 2...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: afr.com  
    Title: the baffling case of the dead scientists 19881202 j8ity  
-   Link: <a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</p></details>
+   Link:<a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTS2 Dec 1988 — In October 1986, 26-year-old Ashad Sharif, who had worked at Marconi Defence Systems...</p></details>
    Published: October 1986  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: projectcamelot.org  
-   Link: <a href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/marconi.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Tribute | 25 Marconi ScientistsHis unusual death was complicated by several issues: Sharif lived near Vimal Dajibhai (see above) in St...</p></details>
+   Link:<a href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/marconi.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Tribute | 25 Marconi ScientistsHis unusual death was complicated by several issues: Sharif lived near Vimal Dajibhai (see above) in St...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: boards.ie  
    Title: missing murdered suicide scientists thread marconi mystery  
-   Link: <a href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</p></details>
+   Link:<a href="https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.boards.ie/discussion/2056014830/missing-murdered-suicide-scientists-thread-marconi-mystery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coroner&#x27;s verdict: Open. October 1986: Arshad Sharif, 26Read more...</p></details>
    Published: October 1986  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: crimereads.com  
    Title: the many real life deaths surrounding the star wars defense initiative  
-   Link: <a href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</p></details>
+   Link:<a href="https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://crimereads.com/the-many-real-life-deaths-surrounding-the-star-wars-defense-initiative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Many Real Life Deaths Surrounding The “Star Wars”...1 Mar 2024 — In one of the most bizarre incidents, Arshad Sharif, anot...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: GEC-Marconi scientist deaths conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pandox.tv  
    Title: the marconi conspiracy — pandox  
-   Link: <a href="https://pandox.tv/investigations/the-marconi-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://pandox.tv/investigations/the-marconi-conspiracy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the marconi conspiracy — pandoxFebruary 23, 2026 — 23 Feb 2026 — he purchased a nylon tow rope at a shop called bits z cars, tied o...</p></details>
+   Link:<a href="https://pandox.tv/investigations/the-marconi-conspiracy/" target="_blank" rel="noopener noreferrer nofollow">https://pandox.tv/investigations/the-marconi-conspiracy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the marconi conspiracy — pandoxFebruary 23, 2026 — 23 Feb 2026 — he purchased a nylon tow rope at a shop called bits z cars, tied o...</p></details>
    Published: February 23, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gpss.force9.co.uk  
-   Link: <a href="https://www.gpss.force9.co.uk/deaths.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gpss.force9.co.uk/deaths.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Marconi EngineersIn October 1986, in Bristol, Sharif allegedly tied one end of a rope around a tree and the other end around his neck...</p></details>
+   Link:<a href="https://www.gpss.force9.co.uk/deaths.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gpss.force9.co.uk/deaths.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Marconi EngineersIn October 1986, in Bristol, Sharif allegedly tied one end of a rope around a tree and the other end around his neck...</p></details>
    Published: October 1986  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40theunredacted/dead-scientists-7c5a05b68470" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40theunredacted/dead-scientists-7c5a05b68470</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists. The Marconi Murders | by theunredactedSharif also travelled to Bristol, tied one end of a ligature to his neck, the othe...</p></details>
+   Link:<a href="https://medium.com/%40theunredacted/dead-scientists-7c5a05b68470" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40theunredacted/dead-scientists-7c5a05b68470</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists. The Marconi Murders | by theunredactedSharif also travelled to Bristol, tied one end of a ligature to his neck, the othe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: the famous sheldon list famous american writer  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/sy68m9/the_famous_sheldon_list_famous_american_writer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sy68m9/the_famous_sheldon_list_famous_american_writer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The famous “Sheldon list.” famous American writer Sidney...In October of 1986, Professor Arshad Sharif killed himself by tying one end o...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/sy68m9/the_famous_sheldon_list_famous_american_writer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sy68m9/the_famous_sheldon_list_famous_american_writer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The famous “Sheldon list.” famous American writer Sidney...In October of 1986, Professor Arshad Sharif killed himself by tying one end o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the mysterious death of the marconi scientists  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;On Oct. 28, 1986, Ashhad Sharif, a computer systems analyst working for another Marconi unit near London, was found strangled in a park...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/47ksai/the_mysterious_death_of_the_marconi_scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;On Oct. 28, 1986, Ashhad Sharif, a computer systems analyst working for another Marconi unit near London, was found strangled in a park...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mofa.gov.pk  
-   Link: <a href="https://mofa.gov.pk/the-ministry-of-foreign-affairs-is-deeply-saddened-at-the-untimely-death-of-prominent-journalist-and-anchorperson-mr-arshad-sharif-in-kenya-we-convey-our-sincere-condolences-to-the-bereaved-family" target="_blank" rel="noopener noreferrer nofollow">https://mofa.gov.pk/the-ministry-of-foreign-affairs-is-deeply-saddened-at-the-untimely-death-of-prominent-journalist-and-anchorperson-mr-arshad-sharif-in-kenya-we-convey-our-sincere-condolences-to-the-bereaved-family</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inent journalist and anchorperson Mr. Arshad Sharif in Kenya...</p></details>
+   Link:<a href="https://mofa.gov.pk/the-ministry-of-foreign-affairs-is-deeply-saddened-at-the-untimely-death-of-prominent-journalist-and-anchorperson-mr-arshad-sharif-in-kenya-we-convey-our-sincere-condolences-to-the-bereaved-family" target="_blank" rel="noopener noreferrer nofollow">https://mofa.gov.pk/the-ministry-of-foreign-affairs-is-deeply-saddened-at-the-untimely-death-of-prominent-journalist-and-anchorperson-mr-arshad-sharif-in-kenya-we-convey-our-sincere-condolences-to-the-bereaved-family</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inent journalist and anchorperson Mr. Arshad Sharif in Kenya...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theunredacted.com  
    Title: dead scientists the marconi murders  
-   Link: <a href="https://theunredacted.com/dead-scientists-the-marconi-murders/" target="_blank" rel="noopener noreferrer nofollow">https://theunredacted.com/dead-scientists-the-marconi-murders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists: The Marconi Murders21 Feb 2018 — Arshad Sharif, 26, another computer scientist who worked on satellite guidance systems...</p></details>
+   Link:<a href="https://theunredacted.com/dead-scientists-the-marconi-murders/" target="_blank" rel="noopener noreferrer nofollow">https://theunredacted.com/dead-scientists-the-marconi-murders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists: The Marconi Murders21 Feb 2018 — Arshad Sharif, 26, another computer scientist who worked on satellite guidance systems...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
    Title: According to Kenyan police,  
-   Link: <a href="https://www.unesco.org/en/articles/director-general-deplores-death-pakistani-journalist-arshad-sharif-kenya" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/director-general-deplores-death-pakistani-journalist-arshad-sharif-kenya</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director-General deplores death of Pakistani journalist...Sharif, a renowned Pakistani investigative journalist and news-show host was s...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/director-general-deplores-death-pakistani-journalist-arshad-sharif-kenya" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/director-general-deplores-death-pakistani-journalist-arshad-sharif-kenya</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director-General deplores death of Pakistani journalist...Sharif, a renowned Pakistani investigative journalist and news-show host was s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Probe into mysterious deaths, disappearances of at least 11 scientists confirmed  
-   Link: <a href="https://www.youtube.com/watch?v=Wqbyc9GXn8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wqbyc9GXn8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi scientists deaths Mysterious Deaths at Marconi Prof Simon - Science Filmmaker...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wqbyc9GXn8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wqbyc9GXn8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marconi scientists deaths Mysterious Deaths at Marconi Prof Simon - Science Filmmaker...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: declarepeace.org.uk  
    Title: DOW N WITH MURDER INC  
-   Link: <a href="https://www.declarepeace.org.uk/captain/murder_inc/site/dead_scientists.html" target="_blank" rel="noopener noreferrer nofollow">https://www.declarepeace.org.uk/captain/murder_inc/site/dead_scientists.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists - Declare PeaceRope was tied around his body, coiling four times around his neck.... --Circumstance of Death: Found dead...</p></details>
+   Link:<a href="https://www.declarepeace.org.uk/captain/murder_inc/site/dead_scientists.html" target="_blank" rel="noopener noreferrer nofollow">https://www.declarepeace.org.uk/captain/murder_inc/site/dead_scientists.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists - Declare PeaceRope was tied around his body, coiling four times around his neck.... --Circumstance of Death: Found dead...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: GEC-Marconi scientist deaths conspiracy theory | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2phuIMnvydY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2phuIMnvydY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2phuIMnvydY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The 11 Missing Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=NZXKQ_d9K68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NZXKQ_d9K68</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Probe into mysterious deaths, disappearances of at least 11 scientists confirmed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NZXKQ_d9K68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NZXKQ_d9K68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Probe into mysterious deaths, disappearances of at least 11 scientists confirmed...</p></details>

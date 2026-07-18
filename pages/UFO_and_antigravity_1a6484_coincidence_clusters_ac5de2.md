@@ -451,13 +451,13 @@ A coincidence cluster is a group of events that looks connected because the peop
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-overview.webp" | relative_url }}" alt="Overview image for Clusters" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that those same features are common enough in scientific communities to create misleading clusters by chance. The United States has tens of millions of STEM workers, while major laboratories such as [Los Alamos]({{ 'los-alamos/' | relative_url }}) and NASA’s Jet Propulsion Laboratory employ thousands of people across scientific, technical, administrative and contractor roles. A handful of deaths or disappearances spread across years and institutions is therefore not, by itself, evidence of a coordinated campaign. [Stronger evidence]({{ 'proof-test/' | relative_url }}) would require more than a list of names: it would require a defined population, a baseline rate, consistent selection rules, shared causal links, and case-level evidence that survives ordinary explanations. ncses.nsf.gov+2Los Alamos National Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The problem is that those same features are common enough in scientific communities to create misleading clusters by chance. The United States has tens of millions of STEM workers, while major laboratories such as [Los Alamos]({{ 'los-alamos/' | relative_url }}) and NASA’s Jet Propulsion Laboratory employ thousands of people across scientific, technical, administrative and contractor roles. A handful of deaths or disappearances spread across years and institutions is therefore not, by itself, evidence of a coordinated campaign. [Stronger evidence]({{ 'proof-test/' | relative_url }}) would require more than a list of names: it would require a defined population, a baseline rate, consistent selection rules, shared causal links, and case-level evidence that survives ordinary explanations. ncses.nsf.gov+2Los Alamos National Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## How clusters form
 
 Coincidence clusters usually begin after the fact. Someone notices several disturbing events, draws a boundary around them, and asks why they happened “together”. That is emotionally natural, especially when the cases involve people working near sensitive subjects such as nuclear laboratories, space technology, plasma physics or speculative propulsion. But statistically it is risky, because the boundary is often chosen after the surprising events are already known.
 
-Public-health investigators call this the [Texas Sharpshooter]({{ 'sharpshooter/' | relative_url }}) problem: the “target” is drawn around the bullet holes after the shots have landed. The U.S. Centers for Disease Control and Prevention warns that cluster investigations should define assumptions and methods before deciding which cases count, precisely to avoid making a random concentration look meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">APPENDIX C: Statistical and Epidemiologic Approachesby C Interval — However, to avoid the &quot;Texas Sharpshooter fallacy&quot; (i.e., a situat...</span></span></span>
+Public-health investigators call this the [Texas Sharpshooter]({{ 'sharpshooter/' | relative_url }}) problem: the “target” is drawn around the bullet holes after the shots have landed. The U.S. Centers for Disease Control and Prevention warns that cluster investigations should define assumptions and methods before deciding which cases count, precisely to avoid making a random concentration look meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">APPENDIX C: Statistical and Epidemiologic Approachesby C Interval — However, to avoid the &quot;Texas Sharpshooter fallacy&quot; (i.e., a situat...</span></span></span>
 
 The same problem appears in “dead scientist” narratives. A list can be expanded or narrowed until it feels ominous: include only physicists, or also engineers; include only deaths, or also disappearances; include confirmed homicides, suicides, accidents and unresolved missing-person cases; include current employees, retired staff, contractors, administrators and people with loose institutional ties. Each choice changes the apparent pattern.
 
@@ -474,7 +474,7 @@ A credible cluster analysis would ask basic questions before interpreting the pa
 
 </div>
 
-Without those controls, a cluster can become a story built from selection effects. The more people and institutions are searched, the more likely it becomes that some rare-looking events will appear close together. Statisticians Persi Diaconis and Frederick Mosteller described this broader principle as the “law of truly large numbers”: with a large enough sample, striking coincidences become likely rather than miraculous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Methods for Studying Coincidences</span><span class="citation-popover-snippet">Methods for Studying Coincidences</span></span></span>
+Without those controls, a cluster can become a story built from selection effects. The more people and institutions are searched, the more likely it becomes that some rare-looking events will appear close together. Statisticians Persi Diaconis and Frederick Mosteller described this broader principle as the “law of truly large numbers”: with a large enough sample, striking coincidences become likely rather than miraculous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Methods for Studying Coincidences</span><span class="citation-popover-snippet">Methods for Studying Coincidences</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-1-dark.svg" | relative_url }}" alt="Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -482,13 +482,13 @@ Without those controls, a cluster can become a story built from selection effect
 
 Scientific communities are not random collections of strangers. They are naturally networked. A plasma physicist may know aerospace researchers; an engineer may have worked at a federally funded laboratory; a retired officer may have been involved in advanced-technology programmes; a contractor may support a facility that also handles classified work. These overlaps are real, but they are not automatically causal.
 
-This is especially important in the UFO and antigravity branch because the surrounding institutions already feel secretive. NASA’s independent UAP study noted that there is no conclusive peer-reviewed evidence of an extraterrestrial origin for UAP, and framed the scientific problem as one of better data collection and analysis rather than hidden certainty. AARO’s 2024 historical review similarly reported that it found no evidence that U.S. companies possessed off-world technology. Those official conclusions do not end every UAP debate, but they do weaken the leap from “some scientists worked near unusual aerospace topics” to “scientists were targeted to hide UFO or antigravity secrets”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This is especially important in the UFO and antigravity branch because the surrounding institutions already feel secretive. NASA’s independent UAP study noted that there is no conclusive peer-reviewed evidence of an extraterrestrial origin for UAP, and framed the scientific problem as one of better data collection and analysis rather than hidden certainty. AARO’s 2024 historical review similarly reported that it found no evidence that U.S. companies possessed off-world technology. Those official conclusions do not end every UAP debate, but they do weaken the leap from “some scientists worked near unusual aerospace topics” to “scientists were targeted to hide UFO or antigravity secrets”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The occupational scale also matters. The National Science Board reported that the U.S. STEM workforce numbered 36.8 million workers in 2021, accounting for 24% of U.S. workers. Even narrowing to elite technical communities still leaves large populations: Los Alamos says its total workforce is about 18,000 people, while Reuters reported that JPL had about 5,500 employees and on-site subcontractors in 2025. In groups that large, some tragic events will occur over any multi-year period. ncses.nsf.gov+2Los Alamos National Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The occupational scale also matters. The National Science Board reported that the U.S. STEM workforce numbered 36.8 million workers in 2021, accounting for 24% of U.S. workers. Even narrowing to elite technical communities still leaves large populations: Los Alamos says its total workforce is about 18,000 people, while Reuters reported that JPL had about 5,500 employees and on-site subcontractors in 2025. In groups that large, some tragic events will occur over any multi-year period. ncses.nsf.gov+2Los Alamos National Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">Read more</span><span class="citation-popover-snippet">The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Specialist communities also produce “[soft links]({{ 'soft-links/' | relative_url }})” that are easy to overread. A person may have once attended a UFO-related event, worked near a defence programme, held a clearance years earlier, or been employed by an institution whose wider mission sounds sensitive. Those facts can be true and still not explain a death or disappearance.
 
-That distinction appeared in reporting on retired Air Force Major General William “Neil” McCasland, whose February 2026 disappearance helped push the “missing scientists” narrative into wider politics. AP reported that his disappearance fuelled broader belief in a connection because of his high-ranking military work and connection to the UFO community. But AP also reported that no evidence had been found definitively linking the cases or establishing coordinated foul play. NBC’s publication of AP’s reporting included a statement from McCasland’s wife saying that, since retirement, he had held only commonly held clearances and that his brief UFO-community association did not mean he had privileged alien knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
+That distinction appeared in reporting on retired Air Force Major General William “Neil” McCasland, whose February 2026 disappearance helped push the “missing scientists” narrative into wider politics. AP reported that his disappearance fuelled broader belief in a connection because of his high-ranking military work and connection to the UFO community. But AP also reported that no evidence had been found definitively linking the cases or establishing coordinated foul play. NBC’s publication of AP’s reporting included a statement from McCasland’s wife saying that, since retirement, he had held only commonly held clearances and that his brief UFO-community association did not mean he had privileged alien knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -497,9 +497,9 @@ That distinction appeared in reporting on retired Air Force Major General Willia
 
 The 2026 “missing scientists” story is a useful example because it contains exactly the ingredients that make coincidence clusters compelling: real people, real institutions, some unresolved cases, some violent deaths, and enough national-security language to make ordinary uncertainty feel sinister.
 
-CBS News reported in April 2026 that the FBI was looking for possible connections among 10 missing or deceased scientists and staff tied to nuclear or space technology, while also noting that people close to the separate investigations saw no links between them. CBS further reported that investigators had found no evidence of foul play in McCasland’s disappearance at that point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
+CBS News reported in April 2026 that the FBI was looking for possible connections among 10 missing or deceased scientists and staff tied to nuclear or space technology, while also noting that people close to the separate investigations saw no links between them. CBS further reported that investigators had found no evidence of foul play in McCasland’s disappearance at that point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
 
-AP’s account described the list as a narrative that moved from online forums into national politics. It said the deaths and disappearances took place across several years and involved people associated in different ways with science, defence, nuclear or aerospace institutions. Crucially, AP also reported that some cases already had ordinary or case-specific explanations, including deaths connected to identifiable suspects, and that at least one person in the list was not a scientist in the way online posts implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</span></span></span>
+AP’s account described the list as a narrative that moved from online forums into national politics. It said the deaths and disappearances took place across several years and involved people associated in different ways with science, defence, nuclear or aerospace institutions. Crucially, AP also reported that some cases already had ordinary or case-specific explanations, including deaths connected to identifiable suspects, and that at least one person in the list was not a scientist in the way online posts implied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</span></span></span>
 
 That mixed case quality is a common cluster warning sign. A list may contain:
 
@@ -521,11 +521,11 @@ This mixture does not mean every case is explained. It means the list is not a c
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-2-dark.svg" | relative_url }}" alt="Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the human mind sees a pattern anyway
 
-Humans are good at detecting patterns, and usually that is useful. In science, medicine and intelligence work, noticing correlations can save lives. The danger comes when pattern detection runs ahead of evidence. Psychologists call this illusory pattern perception: seeing meaningful structure in unrelated or random events. Research published in the *European Journal of Social Psychology* found that illusory pattern perception is associated with belief in conspiracy theories and supernatural claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Humans are good at detecting patterns, and usually that is useful. In science, medicine and intelligence work, noticing correlations can save lives. The danger comes when pattern detection runs ahead of evidence. Psychologists call this illusory pattern perception: seeing meaningful structure in unrelated or random events. Research published in the *European Journal of Social Psychology* found that illusory pattern perception is associated with belief in conspiracy theories and supernatural claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The UFO and antigravity setting amplifies that tendency because it already contains secrecy, disputed evidence and long-running mistrust. UAP reporting involves military sensors, classified capabilities and restricted data. Advanced propulsion and “antigravity” stories sit at the edge of real physics, speculative aerospace work and fringe invention. That makes ordinary gaps in knowledge feel more suspicious than they would in a less secretive field.
 
-Another cognitive trap is asymmetrical attention. A scientist who dies in unremarkable circumstances may not be remembered. A scientist who dies after posting anxious messages, working near a defence laboratory, or appearing in a rumour thread becomes memorable. Once the reader is sensitised to the theme, every new case seems to confirm the pattern. Diaconis and Mosteller noted that coincidences are often noticed more frequently than expected because memorable events are recalled while ordinary non-events disappear from attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Methods for Studying Coincidences</span><span class="citation-popover-snippet">Methods for Studying Coincidences</span></span></span>
+Another cognitive trap is asymmetrical attention. A scientist who dies in unremarkable circumstances may not be remembered. A scientist who dies after posting anxious messages, working near a defence laboratory, or appearing in a rumour thread becomes memorable. Once the reader is sensitised to the theme, every new case seems to confirm the pattern. Diaconis and Mosteller noted that coincidences are often noticed more frequently than expected because memorable events are recalled while ordinary non-events disappear from attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stat.berkeley.edu">[stat.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stat.berkeley.edu</span><span class="citation-popover-title">Methods for Studying Coincidences</span><span class="citation-popover-snippet">Methods for Studying Coincidences</span></span></span>
 
 This does not make concern irrational. Families, colleagues and investigators are right to want answers in individual cases. The mistake is moving too quickly from “this case is unresolved” to “these cases have one hidden cause”.
 
@@ -537,7 +537,7 @@ A stronger case for a meaningful scientific-death cluster would not depend on vi
 
 The first requirement is **a fixed denominator**. Investigators would need to define the relevant population in advance: for example, all current and former employees of named laboratories, all people with specific clearances, or all researchers in a defined technical programme. Without that denominator, the number of cases has no clear meaning.
 
-The second requirement is **a baseline expectation**. A cluster of 10 cases sounds alarming until it is compared with the expected number of deaths, accidents, suicides, disappearances or homicides among a similarly sized and aged population over the same period. Public-health cluster work is built around this distinction between a perceived aggregation and an excess above expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-snippet">Open source on bu.edu.</span></span></span>
+The second requirement is **a baseline expectation**. A cluster of 10 cases sounds alarming until it is compared with the expected number of deaths, accidents, suicides, disappearances or homicides among a similarly sized and aged population over the same period. Public-health cluster work is built around this distinction between a perceived aggregation and an excess above expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-snippet">Open source on bu.edu.</span></span></span>
 
 The third requirement is **case similarity that matters**. Meaningful similarities are not simply “worked in science” or “had a government connection”. They are things such as a shared threat, common suspect, common method, common project, overlapping travel, linked communications, financial connections, compromised devices, or documented interest by the same hostile actor.
 
@@ -552,7 +552,7 @@ The fifth requirement is **resistance to alternative explanations**. In the 2026
 
 Coincidence clusters can harm serious inquiry in two directions. They can make sceptics dismiss every unresolved case as internet paranoia, and they can make believers treat every ordinary explanation as part of a cover-up. Both responses flatten the evidence.
 
-For UAP research, the more useful lesson is methodological. NASA’s UAP study argued for better data, standardised reporting and scientific analysis. AARO’s work similarly separates unresolved reports from claims that have not been supported by evidence. The same discipline should apply to death-and-disappearance claims: define the dataset, check the records, separate unresolved cases from resolved ones, and avoid using uncertainty as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+For UAP research, the more useful lesson is methodological. NASA’s UAP study argued for better data, standardised reporting and scientific analysis. AARO’s work similarly separates unresolved reports from claims that have not been supported by evidence. The same discipline should apply to death-and-disappearance claims: define the dataset, check the records, separate unresolved cases from resolved ones, and avoid using uncertainty as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 For antigravity claims, the same caution is even more important. There have been official and semi-official interests in exotic aerospace concepts, including speculative advanced-propulsion documents. But the existence of speculative research does not establish working antigravity technology, and it does not turn every tragedy involving a technically trained person into evidence of suppression.
 
@@ -563,194 +563,194 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Cluster Is Not a Conspiracy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Cluster Is Not a Conspiracy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e1iNAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
-        </h4>
-        <p class="fr-book-author">By David J. Hand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e1iNAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
+</h4>
+<p class="fr-book-author">By David J. Hand</p>
         
-        <p class="fr-book-desc">Directly addresses coincidence clusters, pattern perception, and mistaken assumptions about hidden causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses coincidence clusters, pattern perception, and mistaken assumptions about hidden causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how to evaluate unusual claims and distinguish evidence from persuasive narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how to evaluate unusual claims and distinguish evidence from persuasive narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how people misinterpret random events as meaningful patterns or coordinated outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Shows how people misinterpret random events as meaningful patterns or coordinated outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines why humans detect patterns, form beliefs, and connect unrelated events into coherent stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why humans detect patterns, form beliefs, and connect unrelated events into coherent stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Improbability+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Improbability Principle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Improbability+Principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Improbability Principle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clusters-when-a-cluster-is-not-a-conspiracy-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -766,7 +766,7 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -786,7 +786,7 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -818,7 +818,7 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -870,7 +870,7 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -915,7 +915,7 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -956,216 +956,216 @@ A fair reading keeps two ideas together: individual cases can deserve serious in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncses.nsf.gov  
    Title: Read more  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The STEM Labor Force: Scientists, Engineers, and Skilled...30 May 2024 — Key takeaways: The science, technology, engineering, and mathem...</p></details>
    Published: May 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government shutdown. The layoffs will affect staff across JPL&#x27;s technical, business, and support departments. This move is part of a reor...</p></details>
+   Link:<a href="https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government shutdown. The layoffs will affect staff across JPL&#x27;s technical, business, and support departments. This move is part of a reor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APPENDIX C: Statistical and Epidemiologic Approachesby C Interval — However, to avoid the &quot;Texas Sharpshooter fallacy&quot; (i.e., a situat...</p></details>
+   Link:<a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a4.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APPENDIX C: Statistical and Epidemiologic Approachesby C Interval — However, to avoid the &quot;Texas Sharpshooter fallacy&quot; (i.e., a situat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stat.berkeley.edu  
    Title: Methods for Studying Coincidences  
-   Link: <a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
+   Link:<a href="https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~aldous/157/Papers/diaconis_mosteller.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20243/assets/nsb20243.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/assets/nsb20243.pdf</a>  
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20243/assets/nsb20243.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/assets/nsb20243.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20243" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243</a>  
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20243" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf</a>  
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsf.gov  
    Title: us science technology engineering mathematics talent  
-   Link: <a href="https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent</a>  
+   Link:<a href="https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ncses.nsf.gov  
    Title: science engineering workforce  
-   Link: <a href="https://ncses.nsf.gov/interest-areas/science-engineering-workforce" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/interest-areas/science-engineering-workforce</a>  
+   Link:<a href="https://ncses.nsf.gov/interest-areas/science-engineering-workforce" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/interest-areas/science-engineering-workforce</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jpl.nasa.gov  
    Title: who we are  
-   Link: <a href="https://www.jpl.nasa.gov/who-we-are/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/who-we-are/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/who-we-are/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/who-we-are/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
    Title: jpl workforce update 2  
-   Link: <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/</a>  
+   Link:<a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: health.nsw.gov.au  
-   Link: <a href="https://www.health.nsw.gov.au/environment/Publications/cancer-cluster-guidelines.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.health.nsw.gov.au/environment/Publications/cancer-cluster-guidelines.PDF</a>  
+   Link:<a href="https://www.health.nsw.gov.au/environment/Publications/cancer-cluster-guidelines.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.health.nsw.gov.au/environment/Publications/cancer-cluster-guidelines.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a1.htm</a>  
+   Link:<a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6208a1.htm</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...</p></details>
+   Link:<a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apnews.com  
    Title: AP News How conspiracy theories about missing or dead scientists  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bu.edu  
-   Link: <a href="https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf</a>  
+   Link:<a href="https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/sph/files/2015/03/clusters_0709.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8276584/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8276584/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8276584/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8276584/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Law of truly large numbers  
-   Link: <a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Law_of_truly_large_numbers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law_of_truly_large_numbers</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Jet Propulsion Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Los Alamos National Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/los-alamos-national-laboratory</a>  
+   Link:<a href="https://www.linkedin.com/company/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/los-alamos-national-laboratory</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: zoominfo.com  
    Title: Los Alamos National laboratory  
-   Link: <a href="https://www.zoominfo.com/c/los-alamos-national-laboratory/5374735" target="_blank" rel="noopener noreferrer nofollow">https://www.zoominfo.com/c/los-alamos-national-laboratory/5374735</a>  
+   Link:<a href="https://www.zoominfo.com/c/los-alamos-national-laboratory/5374735" target="_blank" rel="noopener noreferrer nofollow">https://www.zoominfo.com/c/los-alamos-national-laboratory/5374735</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=SJa7rxaGyvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SJa7rxaGyvY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theory ufo newsnation UFO insider reveals pattern behind missing scientists | CUOMO NewsNation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SJa7rxaGyvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SJa7rxaGyvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theory ufo newsnation UFO insider reveals pattern behind missing scientists | CUOMO NewsNation...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: UFO mystery: Stable of deceased, missing scientists grows | Jesse Weber Live  
-   Link: <a href="http://www.youtube.com/watch?v=GALknW6aFhw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GALknW6aFhw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher warns latest disclosure push may be a government &#x27;dead end&#x27; | Katie Pavlich Tonight...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GALknW6aFhw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GALknW6aFhw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher warns latest disclosure push may be a government &#x27;dead end&#x27; | Katie Pavlich Tonight...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=1Fm-0B0Gd9o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1Fm-0B0Gd9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are missing scientists connected? Ross Coulthart weighs in | CUOMO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1Fm-0B0Gd9o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1Fm-0B0Gd9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are missing scientists connected? Ross Coulthart weighs in | CUOMO...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO insider reveals pattern behind missing scientists | CUOMO  
-   Link: <a href="http://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YcHt-OBkabU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery: Researcher deaths, disappearances unrelated, ex-FBI agent says| NewsNation Prime...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YcHt-OBkabU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery: Researcher deaths, disappearances unrelated, ex-FBI agent says| NewsNation Prime...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Are missing scientists connected? Ross Coulthart weighs in | CUOMO  
-   Link: <a href="http://www.youtube.com/watch?v=ietWC_8yVGM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ietWC_8yVGM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery: Stable of deceased, missing scientists grows | Jesse Weber Live...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ietWC_8yVGM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ietWC_8yVGM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery: Stable of deceased, missing scientists grows | Jesse Weber Live...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: bls.gov  
-   Link: <a href="https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</a>  
+   Link:<a href="https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: bea.gov  
-   Link: <a href="https://www.bea.gov/system/files/papers/WP2025-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bea.gov/system/files/papers/WP2025-10.pdf</a>  
+   Link:<a href="https://www.bea.gov/system/files/papers/WP2025-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bea.gov/system/files/papers/WP2025-10.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DX8kJ9jFf40/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX8kJ9jFf40/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DX8kJ9jFf40/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX8kJ9jFf40/?hl=en</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  

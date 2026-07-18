@@ -284,13 +284,13 @@ One of the central claims examined in PolitiFact’s review of the fourteen-name
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-1-dark.svg" | relative_url }}" alt="Institutions illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem with this argument is that large research and defence institutions create many apparent connections that are weak on closer inspection. A person having worked for NASA, an Air Force laboratory, or [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory does not by itself establish that they worked on the same programme, knew one another, handled the same classified information, or participated in a common project. PolitiFact highlighted this distinction when assessing the fourteen names, arguing that institutional overlap was often presented as [stronger evidence]({{ 'proof-test/' | relative_url }}) than the available facts justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
+The problem with this argument is that large research and defence institutions create many apparent connections that are weak on closer inspection. A person having worked for NASA, an Air Force laboratory, or [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory does not by itself establish that they worked on the same programme, knew one another, handled the same classified information, or participated in a common project. PolitiFact highlighted this distinction when assessing the fourteen names, arguing that institutional overlap was often presented as [stronger evidence]({{ 'proof-test/' | relative_url }}) than the available facts justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
 
 ## Did Shared Institutions Prove a Hidden Network?
 
 The key question is not whether some of the individuals had ties to major government or research organisations. Several did. The question is whether those affiliations demonstrate a meaningful operational connection between the cases.
 
-PolitiFact found that the viral narrative often treated employment at prestigious institutions as proof of membership in a single community. In practice, however, these organisations are vast bureaucracies composed of thousands of people working on unrelated missions. The existence of a NASA connection or a laboratory connection may establish a broad professional environment, but it does not automatically establish a shared secret or coordinated activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
+PolitiFact found that the viral narrative often treated employment at prestigious institutions as proof of membership in a single community. In practice, however, these organisations are vast bureaucracies composed of thousands of people working on unrelated missions. The existence of a NASA connection or a laboratory connection may establish a broad professional environment, but it does not automatically establish a shared secret or coordinated activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
 
 This distinction is important because conspiracy narratives frequently rely on associative reasoning. If multiple names can be connected to recognisable institutions, the resulting network diagram can appear persuasive even when the underlying relationships are minimal or indirect.
 
@@ -299,13 +299,13 @@ This distinction is important because conspiracy narratives frequently rely on a
 
 ## NASA, Air Force and Laboratory Affiliations
 
-NASA provides a useful example of why institutional overlap can be misleading. The agency has historically employed tens of thousands of civil servants and contractors spread across numerous centres, programmes, and disciplines. Official workforce studies describe a workforce distributed across multiple field centres with a wide range of scientific, engineering, administrative, operational, and support functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</span><span class="citation-popover-meta">Published: January 2007</span></span></span>
+NASA provides a useful example of why institutional overlap can be misleading. The agency has historically employed tens of thousands of civil servants and contractors spread across numerous centres, programmes, and disciplines. Official workforce studies describe a workforce distributed across multiple field centres with a wide range of scientific, engineering, administrative, operational, and support functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</span><span class="citation-popover-meta">Published: January 2007</span></span></span>
 
 A scientist working on propulsion, a physician supporting astronaut health, an administrator handling budgets, and an engineer designing communications systems may all be described as having “worked for NASA”, yet their professional worlds can be almost entirely separate.
 
 The same applies to Air Force organisations. Air Force research establishments encompass aeronautics, materials science, electronics, weapons systems, medicine, intelligence support, logistics, and numerous other fields. Two people may both have Air Force affiliations while never participating in the same programme or possessing access to the same information.
 
-National laboratories create similar problems for pattern-seeking narratives. Los Alamos National Laboratory, frequently cited in discussions of classified research, is a multidisciplinary institution employing roughly 18,000 people across a broad range of scientific and technical fields. Its activities extend well beyond nuclear weapons work into computing, materials science, energy research, geophysics, biology, medicine, space-related research, and other disciplines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory+2lanl.jobs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force; 1,400 are unionized...Read more...</span></span></span>
+National laboratories create similar problems for pattern-seeking narratives. Los Alamos National Laboratory, frequently cited in discussions of classified research, is a multidisciplinary institution employing roughly 18,000 people across a broad range of scientific and technical fields. Its activities extend well beyond nuclear weapons work into computing, materials science, energy research, geophysics, biology, medicine, space-related research, and other disciplines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[lanl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force; 1,400 are unionized...Read more...</span></span></span>
 
 As a result, the statement that two individuals “worked at Los Alamos” may reveal little about whether they actually collaborated or shared specialised knowledge.
 
@@ -319,7 +319,7 @@ Large organisations naturally generate what investigators sometimes call low-inf
 
 Several factors contribute to this effect:
 
-* **Scale:** NASA and major national laboratories employ or contract with thousands of people. A shared employer can be statistically common rather than remarkable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</span><span class="citation-popover-meta">Published: January 2007</span></span></span>
+* **Scale:** NASA and major national laboratories employ or contract with thousands of people. A shared employer can be statistically common rather than remarkable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</span><span class="citation-popover-meta">Published: January 2007</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,7 +354,7 @@ A shared NASA, Air Force, or laboratory connection becomes more significant when
 
 Without those additional links, institutional overlap remains weak evidence.
 
-This was one of the underlying points in PolitiFact’s assessment of the fourteen names. The fact-check did not argue that every affiliation was meaningless. Rather, it argued that the viral presentation often skipped the crucial step of demonstrating how those affiliations translated into a common body of knowledge or a shared operational network. The leap from “worked at a major aerospace or defence institution” to “possessed the same hidden secrets” was not supported by the publicly available evidence reviewed in the article. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
+This was one of the underlying points in PolitiFact’s assessment of the fourteen names. The fact-check did not argue that every affiliation was meaningless. Rather, it argued that the viral presentation often skipped the crucial step of demonstrating how those affiliations translated into a common body of knowledge or a shared operational network. The leap from “worked at a major aerospace or defence institution” to “possessed the same hidden secrets” was not supported by the publicly available evidence reviewed in the article.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-3-dark.svg" | relative_url }}" alt="Institutions illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_institutional_overla_d45c81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,201 +362,201 @@ This was one of the underlying points in PolitiFact’s assessment of the fourte
 
 The strongest conclusion supported by the available evidence is relatively modest. Some people on the fourteen-name list had careers that touched prominent aerospace, defence, military, or laboratory institutions. That fact is real. What remains unproven is the much stronger claim that these affiliations demonstrate a coherent group linked by UFO programmes, antigravity research, or a shared classified project.
 
-Large organisations such as NASA, Air Force research establishments, and Los Alamos National Laboratory are broad ecosystems rather than single-purpose entities. Because they contain thousands of employees, numerous disciplines, and many unrelated projects, apparent institutional overlap can create the illusion of a hidden network where none has been demonstrated. PolitiFact’s review argued that this distinction is essential when evaluating claims built around the fourteen names: shared institutional labels are not the same thing as evidence of shared secrets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
+Large organisations such as NASA, Air Force research establishments, and Los Alamos National Laboratory are broad ecosystems rather than single-purpose entities. Because they contain thousands of employees, numerous disciplines, and many unrelated projects, apparent institutional overlap can create the illusion of a hidden network where none has been demonstrated. PolitiFact’s review argued that this distinction is essential when evaluating claims built around the fourteen names: shared institutional labels are not the same thing as evidence of shared secrets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[politifact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tkKTDnPVitQ" title="The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer">The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????</a></p><p class="youtube-embed-meta">Channel: Stephanie Harlowe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tkKTDnPVitQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Shared Institutions Prove a Hidden Network?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Shared Institutions Prove a Hidden Network?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Explains why people infer hidden networks and coordinated plots from limited connections and coincidences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people infer hidden networks and coordinated plots from limited connections and coincidences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=icxkMJK-WmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Histories">Voodoo Histories</a>
-        </h4>
-        <p class="fr-book-author">By David Aaronovitch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=icxkMJK-WmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Histories">Voodoo Histories</a>
+</h4>
+<p class="fr-book-author">By David Aaronovitch</p>
         
-        <p class="fr-book-desc">Examines how alleged secret networks are constructed from weak or misleading evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how alleged secret networks are constructed from weak or misleading evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Voodoo+Histories+by+David+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on evidence standards and distinguishing meaningful connections from unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on evidence standards and distinguishing meaningful connections from unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wJ0jEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating whether institutional affiliations actually support a claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating whether institutional affiliations actually support a claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset+by+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Histories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Histories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Histories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Histories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting"><img src="{{ '/assets/images/marketplace-covers/64fd2e61ffabf1eeab61.jpg' | relative_url }}" alt="Listing image for Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Belgium Wave UFO Model | 1989–90 UAP Display | Famous Sighting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="institutions-did-shared-institutions-prove-a-hidden-network-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,118 +762,118 @@ Large organisations such as NASA, Air Force research establishments, and Los Ala
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: politifact.com  
    Title: missing dead scientists nuclear weapons ufos  
-   Link: <a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</p></details>
+   Link:<a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead scientists28 Apr 2026 — Social media posts said scientists disappeared or died because...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20080022349/downloads/20080022349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20080022349/downloads/20080022349.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerSTERK_Workforce Market Supply vs CERsby S Sterk · 2008 — This paper will reflect on the average age of workf...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20080022349/downloads/20080022349.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20080022349/downloads/20080022349.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerSTERK_Workforce Market Supply vs CERsby S Sterk · 2008 — This paper will reflect on the average age of workf...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force; 1,400 are unionized...Read more...</p></details>
+   Link:<a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force; 1,400 are unionized...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lanl.jobs  
-   Link: <a href="https://lanl.jobs/" target="_blank" rel="noopener noreferrer nofollow">https://lanl.jobs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Careers | Los Alamos National LaboratoryOur workforce specializes in a wide range of progressive science, technology, and engineering acr...</p></details>
+   Link:<a href="https://lanl.jobs/" target="_blank" rel="noopener noreferrer nofollow">https://lanl.jobs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Careers | Los Alamos National LaboratoryOur workforce specializes in a wide range of progressive science, technology, and engineering acr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lanl.gov  
    Title: 0127 lab economic impact  
-   Link: <a href="https://www.lanl.gov/media/news/0127-lab-economic-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/news/0127-lab-economic-impact</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory economic impact FY 2025Jan 27, 2026 — Los Alamos National Laboratory is one of the largest employers in the state and a major...</p></details>
+   Link:<a href="https://www.lanl.gov/media/news/0127-lab-economic-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/news/0127-lab-economic-impact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory economic impact FY 2025Jan 27, 2026 — Los Alamos National Laboratory is one of the largest employers in the state and a major...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/engage/community/economic-development/workforce-development" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/community/economic-development/workforce-development</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce DevelopmentThe Laboratory has built and continues to build relationships with regional colleges to support pipeline and workfor...</p></details>
+   Link:<a href="https://www.lanl.gov/engage/community/economic-development/workforce-development" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/community/economic-development/workforce-development</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce DevelopmentThe Laboratory has built and continues to build relationships with regional colleges to support pipeline and workfor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lanl.jobs  
-   Link: <a href="https://lanl.jobs/about/about-newmexico" target="_blank" rel="noopener noreferrer nofollow">https://lanl.jobs/about/about-newmexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Living in Northern New Mexico | Los Alamos National...Lab employees who live in Los Alamos enjoy a 10 to 15-minute commute to work, acce...</p></details>
+   Link:<a href="https://lanl.jobs/about/about-newmexico" target="_blank" rel="noopener noreferrer nofollow">https://lanl.jobs/about/about-newmexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Living in Northern New Mexico | Los Alamos National...Lab employees who live in Los Alamos enjoy a 10 to 15-minute commute to work, acce...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: energy.gov  
    Title: workforce culture communication central los alamos legacy cleanup  
-   Link: <a href="https://www.energy.gov/em/articles/workforce-culture-communication-central-los-alamos-legacy-cleanup" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/workforce-culture-communication-central-los-alamos-legacy-cleanup</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce Culture, Communication Central to Los Alamos...Mar 19, 2024 — A key focus is instilling a strong culture of operational excell...</p></details>
+   Link:<a href="https://www.energy.gov/em/articles/workforce-culture-communication-central-los-alamos-legacy-cleanup" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/em/articles/workforce-culture-communication-central-los-alamos-legacy-cleanup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce Culture, Communication Central to Los Alamos...Mar 19, 2024 — A key focus is instilling a strong culture of operational excell...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/11916/chapter/4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/11916/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/11916/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesRead &quot;Building a Better NASA WorkforceAs of January 2007, NASA employed more than 18,000 workers distributed among 10 f...</p></details>
    Published: January 2007  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/santafenewmexican/posts/after-six-years-of-workforce-growth-los-alamos-national-laboratory-is-planning-a/1352951953499716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/after-six-years-of-workforce-growth-los-alamos-national-laboratory-is-planning-a/1352951953499716/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After six years of workforce growth, Los Alamos National...Lab officials estimate between 800 and 1,000 people could be hired in the upc...</p></details>
+   Link:<a href="https://www.facebook.com/santafenewmexican/posts/after-six-years-of-workforce-growth-los-alamos-national-laboratory-is-planning-a/1352951953499716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/after-six-years-of-workforce-growth-los-alamos-national-laboratory-is-planning-a/1352951953499716/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After six years of workforce growth, Los Alamos National...Lab officials estimate between 800 and 1,000 people could be hired in the upc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Los Alamos National Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryLos Alamos National Laboratory is one of the sixteen research and development laboratories of the United...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryLos Alamos National Laboratory is one of the sixteen research and development laboratories of the United...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: inlibra.com  
-   Link: <a href="https://www.inlibra.com/10.5771/9781666933093.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781666933093.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theories and Extremism in New TimesNo part of this book may be reproduced in any form or by any electronic or mechanical means...</p></details>
+   Link:<a href="https://www.inlibra.com/10.5771/9781666933093.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9781666933093.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theories and Extremism in New TimesNo part of this book may be reproduced in any form or by any electronic or mechanical means...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lanlfoundation.org  
-   Link: <a href="https://lanlfoundation.org/about/funding-partners-donors/" target="_blank" rel="noopener noreferrer nofollow">https://lanlfoundation.org/about/funding-partners-donors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Funding Partners &amp; DonorsThe Scholarship program was created by a group of mindful Lab employees who actively support local youth and wor...</p></details>
+   Link:<a href="https://lanlfoundation.org/about/funding-partners-donors/" target="_blank" rel="noopener noreferrer nofollow">https://lanlfoundation.org/about/funding-partners-donors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Funding Partners &amp; DonorsThe Scholarship program was created by a group of mindful Lab employees who actively support local youth and wor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pulitzer.org  
-   Link: <a href="https://www.pulitzer.org/winners/washington-post-4" target="_blank" rel="noopener noreferrer nofollow">https://www.pulitzer.org/winners/washington-post-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFor a distinguished example of meritorious public service by a newspaper, magazine or news site through the use of its...</p></details>
+   Link:<a href="https://www.pulitzer.org/winners/washington-post-4" target="_blank" rel="noopener noreferrer nofollow">https://www.pulitzer.org/winners/washington-post-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFor a distinguished example of meritorious public service by a newspaper, magazine or news site through the use of its...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sourcenm.com  
-   Link: <a href="https://sourcenm.com/briefs/lanl-expecting-boon-from-congressional-spending-bill-still-faces-workforce-housing-crunch/" target="_blank" rel="noopener noreferrer nofollow">https://sourcenm.com/briefs/lanl-expecting-boon-from-congressional-spending-bill-still-faces-workforce-housing-crunch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL expecting boon from Congressional spending billJul 30, 2025 — Unlike many science institutions, Los Alamos National Laboratory expec...</p></details>
+   Link:<a href="https://sourcenm.com/briefs/lanl-expecting-boon-from-congressional-spending-bill-still-faces-workforce-housing-crunch/" target="_blank" rel="noopener noreferrer nofollow">https://sourcenm.com/briefs/lanl-expecting-boon-from-congressional-spending-bill-still-faces-workforce-housing-crunch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANL expecting boon from Congressional spending billJul 30, 2025 — Unlike many science institutions, Los Alamos National Laboratory expec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: losalamosreporter.com  
-   Link: <a href="https://losalamosreporter.com/2025/02/11/lanl-laboratorys-economic-impact-for-2024-over-1b-spent-with-new-mexico-businesses-1-96b-in-employee-salaries/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2025/02/11/lanl-laboratorys-economic-impact-for-2024-over-1b-spent-with-new-mexico-businesses-1-96b-in-employee-salaries/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL: Laboratory&#x27;s Economic Impact For 2024: Over $1B...11 Feb 2025 — Los Alamos National Laboratory is one of the largest employers...</p></details>
+   Link:<a href="https://losalamosreporter.com/2025/02/11/lanl-laboratorys-economic-impact-for-2024-over-1b-spent-with-new-mexico-businesses-1-96b-in-employee-salaries/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2025/02/11/lanl-laboratorys-economic-impact-for-2024-over-1b-spent-with-new-mexico-businesses-1-96b-in-employee-salaries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANL: Laboratory&#x27;s Economic Impact For 2024: Over $1B...11 Feb 2025 — Los Alamos National Laboratory is one of the largest employers...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kob.com  
    Title: los alamos national lab announces plans to hire up to 1000 workers  
-   Link: <a href="https://www.kob.com/new-mexico/santa-fe-northern-new-mexico/los-alamos-national-lab-announces-plans-to-hire-up-to-1000-workers/" target="_blank" rel="noopener noreferrer nofollow">https://www.kob.com/new-mexico/santa-fe-northern-new-mexico/los-alamos-national-lab-announces-plans-to-hire-up-to-1000-workers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National Lab announces plans to hire up...Jul 31, 2025 — Los Alamos National Lab announces plans to hire up to 1,000 workers...</p></details>
+   Link:<a href="https://www.kob.com/new-mexico/santa-fe-northern-new-mexico/los-alamos-national-lab-announces-plans-to-hire-up-to-1000-workers/" target="_blank" rel="noopener noreferrer nofollow">https://www.kob.com/new-mexico/santa-fe-northern-new-mexico/los-alamos-national-lab-announces-plans-to-hire-up-to-1000-workers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National Lab announces plans to hire up...Jul 31, 2025 — Los Alamos National Lab announces plans to hire up to 1,000 workers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: idea.int  
-   Link: <a href="https://www.idea.int/publications/catalogue/html/managing-natural-hazards-and-climate-risks-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/publications/catalogue/html/managing-natural-hazards-and-climate-risks-elections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s floods, hurricanes, heatwaves and wildfires, exacerbated by climate change and other...Read more...</p></details>
+   Link:<a href="https://www.idea.int/publications/catalogue/html/managing-natural-hazards-and-climate-risks-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.idea.int/publications/catalogue/html/managing-natural-hazards-and-climate-risks-elections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s floods, hurricanes, heatwaves and wildfires, exacerbated by climate change and other...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pure.uva.nl  
    Title: What To Do About Conspiracy Theories 25 02 24 10 04 52  
-   Link: <a href="https://pure.uva.nl/ws/files/221970902/What_To_Do_About_Conspiracy_Theories_25_02_24_10_04_52.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/221970902/What_To_Do_About_Conspiracy_Theories_25_02_24_10_04_52.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Do About Conspiracy Theories?24 Feb 2025 — Please Ask the Library: [https://uba.uva.nl/en/contact](https://uba.uva.nl/en/contact), or a letter to: Library of the Unive...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/221970902/What_To_Do_About_Conspiracy_Theories_25_02_24_10_04_52.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/221970902/What_To_Do_About_Conspiracy_Theories_25_02_24_10_04_52.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Do About Conspiracy Theories?24 Feb 2025 — Please Ask the Library: [https://uba.uva.nl/en/contact](https://uba.uva.nl/en/contact), or a letter to: Library of the Unive...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: losalamosreporter.com  
-   Link: <a href="https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Report Shows 37.7 Percent Of Employees Lived in...May 5, 2023 — As of September 2022, 37 percent lived in Los Alamos County, 24.6 p...</p></details>
+   Link:<a href="https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Report Shows 37.7 Percent Of Employees Lived in...May 5, 2023 — As of September 2022, 37 percent lived in Los Alamos County, 24.6 p...</p></details>
    Published: May 5, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aip.org  
    Title: nasa faces major transition workforce needs  
-   Link: <a href="https://www.aip.org/fyi/2007/nasa-faces-major-transition-workforce-needs" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/2007/nasa-faces-major-transition-workforce-needs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Faces Major Transition in Workforce Needs1 Jun 2007 — With approximately thirty percent of the NASA workforce eligible for retiremen...</p></details>
+   Link:<a href="https://www.aip.org/fyi/2007/nasa-faces-major-transition-workforce-needs" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/2007/nasa-faces-major-transition-workforce-needs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Faces Major Transition in Workforce Needs1 Jun 2007 — With approximately thirty percent of the NASA workforce eligible for retiremen...</p></details>

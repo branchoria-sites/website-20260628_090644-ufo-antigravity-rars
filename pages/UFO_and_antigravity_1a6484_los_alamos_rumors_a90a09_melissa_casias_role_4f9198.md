@@ -280,11 +280,11 @@ image: /assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_meliss
 
 ## Introduction
 
-Melissa Casias became a fixture in online “missing scientists” and UFO-adjacent conspiracy discussions for a reason that had little to do with the evidence in her own case: she worked at [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory. Once her disappearance was folded into broader narratives about dead or missing researchers connected to nuclear and aerospace [institutions]({{ 'institutions/' | relative_url }}), many social-media accounts and sensational headlines began describing her as a scientist, nuclear researcher, or holder of sensitive secrets. Available reporting points in a different direction. Casias was repeatedly identified by family members, journalists, investigators and public records as an administrative assistant whose work involved routine office support rather than scientific research or classified propulsion projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...4 days ago — Melissa Casias, 53, worked at Los Alamos for years and wa...</span></span></span>
+Melissa Casias became a fixture in online “missing scientists” and UFO-adjacent conspiracy discussions for a reason that had little to do with the evidence in her own case: she worked at [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory. Once her disappearance was folded into broader narratives about dead or missing researchers connected to nuclear and aerospace [institutions]({{ 'institutions/' | relative_url }}), many social-media accounts and sensational headlines began describing her as a scientist, nuclear researcher, or holder of sensitive secrets. Available reporting points in a different direction. Casias was repeatedly identified by family members, journalists, investigators and public records as an administrative assistant whose work involved routine office support rather than scientific research or classified propulsion projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...4 days ago — Melissa Casias, 53, worked at Los Alamos for years and wa...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_melissa_casias_role_4f9198-Illustration-1-dark.svg" | relative_url }}" alt="Casias Case illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_melissa_casias_role_4f9198-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_melissa_casias_role_4f9198-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction does not solve the mystery of what happened to her. Her disappearance in 2025 and the discovery of her remains in 2026 remain the subject of an active investigation. However, understanding how her job role was repeatedly transformed online is essential to understanding why the case became a magnet for rumours within wider stories about UFOs, antigravity technology and allegedly silenced researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://losalamosreporter.com/2026/05/30/new-mexico-state-police-identifies-remains-as-missing-taos-woman-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: losalamosreporter.com">[Los Alamos Reporter+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">losalamosreporter.com</span><span class="citation-popover-title">Los Alamos Reporter New Mexico State Police Identifies Remains As Missing Taos</span><span class="citation-popover-snippet">Los Alamos ReporterNew Mexico State Police Identifies Remains As Missing Taos ...May 31, 2026 — On June 26, 2025, Melissa Casias was repo...</span></span></span>
+That distinction does not solve the mystery of what happened to her. Her disappearance in 2025 and the discovery of her remains in 2026 remain the subject of an active investigation. However, understanding how her job role was repeatedly transformed online is essential to understanding why the case became a magnet for rumours within wider stories about UFOs, antigravity technology and allegedly silenced researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://losalamosreporter.com/2026/05/30/new-mexico-state-police-identifies-remains-as-missing-taos-woman-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: losalamosreporter.com">[losalamosreporter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">losalamosreporter.com</span><span class="citation-popover-title">Los Alamos Reporter New Mexico State Police Identifies Remains As Missing Taos</span><span class="citation-popover-snippet">Los Alamos ReporterNew Mexico State Police Identifies Remains As Missing Taos ...May 31, 2026 — On June 26, 2025, Melissa Casias was repo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ssODcjsE3ks" title="Missing LANL employee’s remains found in the Carson National Forest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ssODcjsE3ks" target="_blank" rel="noopener noreferrer">Missing LANL employee’s remains found in the Carson National Forest</a></p><p class="youtube-embed-meta">Channel: KRQE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ssODcjsE3ks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ssODcjsE3ks">Open on YouTube</a></p></div></div></div>
@@ -293,9 +293,9 @@ That distinction does not solve the mystery of what happened to her. Her disappe
 
 The key ingredient was not a documented connection to exotic research. It was the symbolic power of Los Alamos itself.
 
-Los Alamos National Laboratory occupies a unique place in the public imagination because of its history in the Manhattan Project and continuing role in US nuclear-weapons research. When a laboratory employee disappears, many readers instinctively assume the person may have been involved in highly sensitive scientific work. That assumption becomes stronger when the disappearance is discussed alongside unrelated deaths, accidents or missing-person cases involving researchers and defence-sector personnel. Los Angeles Times+2FOX 5 New York <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Missing worker at high-security lab in N.M</span><span class="citation-popover-snippet">found dead...Jun 2, 2026 — Casias, an administrative assistant at the high-security nuclear research facility, is among at least 10 dead...</span></span></span>
+Los Alamos National Laboratory occupies a unique place in the public imagination because of its history in the Manhattan Project and continuing role in US nuclear-weapons research. When a laboratory employee disappears, many readers instinctively assume the person may have been involved in highly sensitive scientific work. That assumption becomes stronger when the disappearance is discussed alongside unrelated deaths, accidents or missing-person cases involving researchers and defence-sector personnel. Los Angeles Times+2FOX 5 New York<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[latimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Missing worker at high-security lab in N.M</span><span class="citation-popover-snippet">found dead...Jun 2, 2026 — Casias, an administrative assistant at the high-security nuclear research facility, is among at least 10 dead...</span></span></span>
 
-By early 2026, Casias's disappearance was increasingly being listed in compilations of allegedly suspicious deaths and disappearances tied to advanced technology, nuclear research or [aerospace]({{ 'aerospace/' | relative_url }}) programmes. In many retellings, the fact that she worked at Los Alamos was emphasised far more than the details of her actual position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5ny.com">[FOX 5 New York+2The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5ny.com</span><span class="citation-popover-title">Her disappearance became</span><span class="citation-popover-snippet">FOX 5 New YorkHiker discovers body of missing New Mexico nuclear lab...2 Jun 2026 — Police have identified the remains of Melissa Casias...</span></span></span>
+By early 2026, Casias's disappearance was increasingly being listed in compilations of allegedly suspicious deaths and disappearances tied to advanced technology, nuclear research or [aerospace]({{ 'aerospace/' | relative_url }}) programmes. In many retellings, the fact that she worked at Los Alamos was emphasised far more than the details of her actual position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5ny.com">[fox5ny.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5ny.com</span><span class="citation-popover-title">Her disappearance became</span><span class="citation-popover-snippet">FOX 5 New YorkHiker discovers body of missing New Mexico nuclear lab...2 Jun 2026 — Police have identified the remains of Melissa Casias...</span></span></span>
 
 The result was a familiar pattern in conspiracy-driven storytelling:
 
@@ -319,9 +319,9 @@ The result was a familiar pattern in conspiracy-driven storytelling:
 
 ## Disappearance, Remains Discovery and Reported Facts
 
-Casias disappeared on 26 June 2025 after a day that included dropping off her husband, visiting her daughter and indicating she might work from home after forgetting her laboratory badge. She was later captured on surveillance footage walking alone near State Road 518 in northern New Mexico. Personal [belongings]({{ 'belongings/' | relative_url }}), including phones and identification, were reportedly left behind, which contributed to concern and extensive search efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+Casias disappeared on 26 June 2025 after a day that included dropping off her husband, visiting her daughter and indicating she might work from home after forgetting her laboratory badge. She was later captured on surveillance footage walking alone near State Road 518 in northern New Mexico. Personal [belongings]({{ 'belongings/' | relative_url }}), including phones and identification, were reportedly left behind, which contributed to concern and extensive search efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
-Nearly a year later, on 28 May 2026, human remains were discovered in the McGaffey Ridge area of Carson National Forest. New Mexico authorities subsequently identified the remains as those of Melissa Casias. A handgun was reportedly found nearby. The cause and manner of death had not been publicly determined at the time of reporting, and further forensic examination was underway. La Voce di New York+3Los Alamos Reporter+3The Guardian <span class="citation-link-wrap"><a class="citation-inline-link" href="https://losalamosreporter.com/2026/05/30/new-mexico-state-police-identifies-remains-as-missing-taos-woman-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: losalamosreporter.com">[losalamosreporter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">losalamosreporter.com</span><span class="citation-popover-title">Los Alamos Reporter New Mexico State Police Identifies Remains As Missing Taos</span><span class="citation-popover-snippet">Los Alamos ReporterNew Mexico State Police Identifies Remains As Missing Taos ...May 31, 2026 — On June 26, 2025, Melissa Casias was repo...</span></span></span>
+Nearly a year later, on 28 May 2026, human remains were discovered in the McGaffey Ridge area of Carson National Forest. New Mexico authorities subsequently identified the remains as those of Melissa Casias. A handgun was reportedly found nearby. The cause and manner of death had not been publicly determined at the time of reporting, and further forensic examination was underway. La Voce di New York+3Los Alamos Reporter+3The Guardian<span class="citation-link-wrap"><a class="citation-inline-link" href="https://losalamosreporter.com/2026/05/30/new-mexico-state-police-identifies-remains-as-missing-taos-woman-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: losalamosreporter.com">[losalamosreporter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">losalamosreporter.com</span><span class="citation-popover-title">Los Alamos Reporter New Mexico State Police Identifies Remains As Missing Taos</span><span class="citation-popover-snippet">Los Alamos ReporterNew Mexico State Police Identifies Remains As Missing Taos ...May 31, 2026 — On June 26, 2025, Melissa Casias was repo...</span></span></span>
 
 Media coverage after the discovery often highlighted two simultaneous realities:
 
@@ -372,194 +372,194 @@ The strongest documented facts in the case concern her disappearance, the later 
 For that reason, the most revealing aspect of the Casias story is not evidence of a hidden research conspiracy. It is how quickly an unresolved missing-person case became transformed by assumptions about the institution where the missing person worked. The gap between “Los Alamos employee” and “scientist with dangerous secrets” became the space in which the rumours grew. [The Wall Street Journal+2FOX 5 New York](https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Melissa Casias Became a Rumor Magnet. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Melissa Casias Became a Rumor Magnet. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for how secretive government and research facilities become focal points for rumors and speculative narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how secretive government and research facilities become focal points for rumors and speculative narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses rumor formation, skepticism, and the evaluation of sensational claims lacking strong evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses rumor formation, skepticism, and the evaluation of sensational claims lacking strong evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers understand how evidence, uncertainty, and speculation interact in UFO-related public discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how evidence, uncertainty, and speculation interact in UFO-related public discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why people connect unrelated events and individuals into larger hidden narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people connect unrelated events and individuals into larger hidden narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="casias-case-why-melissa-casias-became-a-rumor-magnet-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-melissa-casias-became-a-rumor-magnet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-melissa-casias-became-a-rumor-magnet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,174 +765,174 @@ For that reason, the most revealing aspect of the Casias story is not evidence o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: people.com  
-   Link: <a href="https://people.com/new-details-revealed-mom-found-dead-nearly-1-year-after-dropped-off-daughters-lunch-disappeared-11995117" target="_blank" rel="noopener noreferrer nofollow">https://people.com/new-details-revealed-mom-found-dead-nearly-1-year-after-dropped-off-daughters-lunch-disappeared-11995117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Her family reported her missing after she failed to return home, leaving behind her personal belongings. Initial forensic analysis includ...</p></details>
+   Link:<a href="https://people.com/new-details-revealed-mom-found-dead-nearly-1-year-after-dropped-off-daughters-lunch-disappeared-11995117" target="_blank" rel="noopener noreferrer nofollow">https://people.com/new-details-revealed-mom-found-dead-nearly-1-year-after-dropped-off-daughters-lunch-disappeared-11995117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her family reported her missing after she failed to return home, leaving behind her personal belongings. Initial forensic analysis includ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: the-sun.com  
    Title: melissa casias missing dead scientists almos lab  
-   Link: <a href="https://www.the-sun.com/news/16257967/melissa-casias-missing-dead-scientists-almos-lab/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16257967/melissa-casias-missing-dead-scientists-almos-lab/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bombshell clue in disappearance of mom linked to 11...22 Apr 2026 — The case has drawn wider attention because Casias worked at Los Alam...</p></details>
+   Link:<a href="https://www.the-sun.com/news/16257967/melissa-casias-missing-dead-scientists-almos-lab/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16257967/melissa-casias-missing-dead-scientists-almos-lab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bombshell clue in disappearance of mom linked to 11...22 Apr 2026 — The case has drawn wider attention because Casias worked at Los Alam...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
-   Link: <a href="https://people.com/missing-mom-who-dropped-lunch-off-to-her-daughter-before-disappearing-found-dead-11769971" target="_blank" rel="noopener noreferrer nofollow">https://people.com/missing-mom-who-dropped-lunch-off-to-her-daughter-before-disappearing-found-dead-11769971</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Mom Who Dropped Lunch Off to Daughter Found...Jun 1, 2026 — Melissa Casias was found dead next to a handgun in a New Mexico fore...</p></details>
+   Link:<a href="https://people.com/missing-mom-who-dropped-lunch-off-to-her-daughter-before-disappearing-found-dead-11769971" target="_blank" rel="noopener noreferrer nofollow">https://people.com/missing-mom-who-dropped-lunch-off-to-her-daughter-before-disappearing-found-dead-11769971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Mom Who Dropped Lunch Off to Daughter Found...Jun 1, 2026 — Melissa Casias was found dead next to a handgun in a New Mexico fore...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Missing LANL employee's remains found in the Carson National Forest  
-   Link: <a href="https://www.youtube.com/watch?v=ssODcjsE3ks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssODcjsE3ks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 NY...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ssODcjsE3ks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ssODcjsE3ks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 NY...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...4 days ago — Melissa Casias, 53, worked at Los Alamos for years and wa...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...4 days ago — Melissa Casias, 53, worked at Los Alamos for years and wa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Casias was an administrative assistant at Los Alamos National Laboratory. Family believes she was murdered and are upset at the...Read more...</p></details>
+   Link:<a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Casias was an administrative assistant at Los Alamos National Laboratory. Family believes she was murdered and are upset at the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</p></details>
    Published: May 28, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the past couple of weeks...Read more...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the past couple of weeks...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latimes.com  
    Title: Los Angeles Times Missing worker at high-security lab in N.M  
-   Link: <a href="https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>found dead...Jun 2, 2026 — Casias, an administrative assistant at the high-security nuclear research facility, is among at least 10 dead...</p></details>
+   Link:<a href="https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/world-nation/story/2026-06-02/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>found dead...Jun 2, 2026 — Casias, an administrative assistant at the high-security nuclear research facility, is among at least 10 dead...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fox5ny.com  
    Title: Her disappearance became  
-   Link: <a href="https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 New YorkHiker discovers body of missing New Mexico nuclear lab...2 Jun 2026 — Police have identified the remains of Melissa Casias...</p></details>
+   Link:<a href="https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/hiker-discovers-body-missing-new-mexico-nuclear-lab-worker-police-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 New YorkHiker discovers body of missing New Mexico nuclear lab...2 Jun 2026 — Police have identified the remains of Melissa Casias...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/38854769/space-experts-scientist-dead-missing-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38854769/space-experts-scientist-dead-missing-[timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The deaths and disappearances involve scientists and researchers from institutions like NASA, MIT, Los Alamos National Laboratory, and Ca...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38854769/space-experts-scientist-dead-missing-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38854769/space-experts-scientist-dead-missing-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The deaths and disappearances involve scientists and researchers from institutions like NASA, MIT, Los Alamos National Laboratory, and Ca...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsLab worker who vanished last year found dead in New Mexico...Casias was reported missing on June 26, 2025, after failing to show...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsLab worker who vanished last year found dead in New Mexico...Casias was reported missing on June 26, 2025, after failing to show...</p></details>
    Published: June 26, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lamag.com  
-   Link: <a href="https://lamag.com/crimeinla/remains-found-in-new-mexico-forest-identified-as-missing-los-alamos-employee-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow">https://lamag.com/crimeinla/remains-found-in-new-mexico-forest-identified-as-missing-los-alamos-employee-melissa-casias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles MagazineMelissa Casias Remains Found in New Mexico ForestJun 1, 2026 — Remains found in a New Mexico forest have been identif...</p></details>
+   Link:<a href="https://lamag.com/crimeinla/remains-found-in-new-mexico-forest-identified-as-missing-los-alamos-employee-melissa-casias/" target="_blank" rel="noopener noreferrer nofollow">https://lamag.com/crimeinla/remains-found-in-new-mexico-forest-identified-as-missing-los-alamos-employee-melissa-casias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles MagazineMelissa Casias Remains Found in New Mexico ForestJun 1, 2026 — Remains found in a New Mexico forest have been identif...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lavocedinewyork.com  
    Title: remains of missing los alamos worker identified in new mexico forest  
-   Link: <a href="https://lavocedinewyork.com/en/news/2026/06/06/remains-of-missing-los-alamos-worker-identified-in-new-mexico-forest/" target="_blank" rel="noopener noreferrer nofollow">https://lavocedinewyork.com/en/news/2026/06/06/remains-of-missing-los-alamos-worker-identified-in-new-mexico-forest/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handgun found near body of Melissa Casias, who disappeared in June 2025.Read more...</p></details>
+   Link:<a href="https://lavocedinewyork.com/en/news/2026/06/06/remains-of-missing-los-alamos-worker-identified-in-new-mexico-forest/" target="_blank" rel="noopener noreferrer nofollow">https://lavocedinewyork.com/en/news/2026/06/06/remains-of-missing-los-alamos-worker-identified-in-new-mexico-forest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handgun found near body of Melissa Casias, who disappeared in June 2025.Read more...</p></details>
    Published: June 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/</a>  
+   Link:<a href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/09/us-news/skeletal-remains-of-los-alamos-missing-scientist-lead-to-possibility-of-murder-or-suicide-sources/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/us-news/skeletal-remains-of-los-alamos-missing-scientist-lead-to-possibility-of-murder-or-suicide-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Her skeletal remains were discovered near her home, accompanied by a handgun. Authorities are investigating her death as either a suicide...</p></details>
+   Link:<a href="https://nypost.com/2026/06/09/us-news/skeletal-remains-of-los-alamos-missing-scientist-lead-to-possibility-of-murder-or-suicide-sources/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/09/us-news/skeletal-remains-of-los-alamos-missing-scientist-lead-to-possibility-of-murder-or-suicide-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her skeletal remains were discovered near her home, accompanied by a handgun. Authorities are investigating her death as either a suicide...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vg.no  
-   Link: <a href="https://www.vg.no/nyheter/i/xrQVqQ/melissa-casias-jobbet-paa-amerikansk-atomforskningsanlegg-funnet-doed-et-aar-etter-mystisk-forsvinning" target="_blank" rel="noopener noreferrer nofollow">https://www.vg.no/nyheter/i/xrQVqQ/melissa-casias-jobbet-paa-amerikansk-atomforskningsanlegg-funnet-doed-et-aar-etter-mystisk-forsvinning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>juni 2025. Skjelettet hennes ble oppdaget i mai 2026 ved et tre i Carson National Forest. Da hun forsvant, hadde hun etterlatt både sine...</p></details>
+   Link:<a href="https://www.vg.no/nyheter/i/xrQVqQ/melissa-casias-jobbet-paa-amerikansk-atomforskningsanlegg-funnet-doed-et-aar-etter-mystisk-forsvinning" target="_blank" rel="noopener noreferrer nofollow">https://www.vg.no/nyheter/i/xrQVqQ/melissa-casias-jobbet-paa-amerikansk-atomforskningsanlegg-funnet-doed-et-aar-etter-mystisk-forsvinning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>juni 2025. Skjelettet hennes ble oppdaget i mai 2026 ved et tre i Carson National Forest. Da hun forsvant, hadde hun etterlatt både sine...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nypost.com  
    Title: another vanished official could be tied to missing and dead us scientists report  
-   Link: <a href="https://nypost.com/2026/03/27/us-news/another-vanished-official-could-be-tied-to-missing-and-dead-us-scientists-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/27/us-news/another-vanished-official-could-be-tied-to-missing-and-dead-us-scientists-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She was last seen on camera on June 25, 2025 walking alone on a highway without her...Read more...</p></details>
+   Link:<a href="https://nypost.com/2026/03/27/us-news/another-vanished-official-could-be-tied-to-missing-and-dead-us-scientists-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/27/us-news/another-vanished-official-could-be-tied-to-missing-and-dead-us-scientists-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She was last seen on camera on June 25, 2025 walking alone on a highway without her...Read more...</p></details>
    Published: June 25, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Melissa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melissa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MelissaMelissa was a nymph who discovered and taught the use of honey and from whom bees were believed to have received their name.Rea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Melissa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Melissa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MelissaMelissa was a nymph who discovered and taught the use of honey and from whom bees were believed to have received their name.Rea...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: missingpeopleinamerica.org  
    Title: melissa casias  
-   Link: <a href="https://missingpeopleinamerica.org/missing/melissa-casias/" target="_blank" rel="noopener noreferrer nofollow">https://missingpeopleinamerica.org/missing/melissa-casias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing from Talpa, NM1 Apr 2026 — Melissa Casias, an administrative assistant at Los Alamos National Laboratory in New Mexico, last seen...</p></details>
+   Link:<a href="https://missingpeopleinamerica.org/missing/melissa-casias/" target="_blank" rel="noopener noreferrer nofollow">https://missingpeopleinamerica.org/missing/melissa-casias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing from Talpa, NM1 Apr 2026 — Melissa Casias, an administrative assistant at Los Alamos National Laboratory in New Mexico, last seen...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/first-missing-scientist-found-lifeless-210234924.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/first-missing-scientist-found-lifeless-210234924.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 2026, a hiker found the body of missing nuclear lab employee Melissa Mondragon Casias, 53, who was last seen alive on June 26...</p></details>
+   Link:<a href="https://www.aol.com/articles/first-missing-scientist-found-lifeless-210234924.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/first-missing-scientist-found-lifeless-210234924.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 2026, a hiker found the body of missing nuclear lab employee Melissa Mondragon Casias, 53, who was last seen alive on June 26...</p></details>
    Published: May 28, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: New Mexico State Police confirm the remains found earlier near  
-   Link: <a href="https://www.facebook.com/TrevorThompsonNews/posts/new-mexico-state-police-confirm-the-remains-found-earlier-near-taos-are-the-rema/1397492395519225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TrevorThompsonNews/posts/new-mexico-state-police-confirm-the-remains-found-earlier-near-taos-are-the-rema/1397492395519225/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 31, 2026 — Melissa Cassius, a 53-year-old administrative assistant at Los Alamos National Laboratory (LANL), vanished on June 26, 202...</p></details>
+   Link:<a href="https://www.facebook.com/TrevorThompsonNews/posts/new-mexico-state-police-confirm-the-remains-found-earlier-near-taos-are-the-rema/1397492395519225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TrevorThompsonNews/posts/new-mexico-state-police-confirm-the-remains-found-earlier-near-taos-are-the-rema/1397492395519225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 31, 2026 — Melissa Cassius, a 53-year-old administrative assistant at Los Alamos National Laboratory (LANL), vanished on June 26, 202...</p></details>
    Published: May 31, 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: MISSIN G SCIENTIST FOUND DEAD: 53-year-old Melissa Casias  
-   Link: <a href="https://www.facebook.com/foxandfriends/posts/missing-scientist-found-dead-53-year-old-melissa-casias-has-been-found-dead-afte/1352631033392893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxandfriends/posts/missing-scientist-found-dead-53-year-old-melissa-casias-has-been-found-dead-afte/1352631033392893/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTIST FOUND DEAD: 53-year-old Melissa Casias...June 2, 2026 — Melissa Cassius, a 53-year-old administrative assistant at Los...</p></details>
+   Link:<a href="https://www.facebook.com/foxandfriends/posts/missing-scientist-found-dead-53-year-old-melissa-casias-has-been-found-dead-afte/1352631033392893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxandfriends/posts/missing-scientist-found-dead-53-year-old-melissa-casias-has-been-found-dead-afte/1352631033392893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTIST FOUND DEAD: 53-year-old Melissa Casias...June 2, 2026 — Melissa Cassius, a 53-year-old administrative assistant at Los...</p></details>
    Published: June 2, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/santafenewmexican/posts/melissa-casias-53-an-administrative-assistant-at-los-alamos-national-laboratory-/1328555595939352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/melissa-casias-53-an-administrative-assistant-at-los-alamos-national-laboratory-/1328555595939352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L) with security clearance who went missing in June 2025.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/santafenewmexican/posts/melissa-casias-53-an-administrative-assistant-at-los-alamos-national-laboratory-/1328555595939352/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/melissa-casias-53-an-administrative-assistant-at-los-alamos-national-laboratory-/1328555595939352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L) with security clearance who went missing in June 2025.Read more...</p></details>
    Published: June 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1q34lmi/woman_forgets_a_work_id_and_is_supposed_to_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1q34lmi/woman_forgets_a_work_id_and_is_supposed_to_work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>employee there. Melissa was an avid hunter and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1q34lmi/woman_forgets_a_work_id_and_is_supposed_to_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1q34lmi/woman_forgets_a_work_id_and_is_supposed_to_work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>employee there. Melissa was an avid hunter and...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Human Remains Identified as Missing Los Alamos Employee  
-   Link: <a href="https://www.youtube.com/watch?v=gy-5ymjR3cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy-5ymjR3cs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 2, 2026 — Human remains discovered in New Mexico&#x27;s Carson National Forest have been identified as Melissa Casias, the Los Alamos Nat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gy-5ymjR3cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gy-5ymjR3cs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 2, 2026 — Human remains discovered in New Mexico&#x27;s Carson National Forest have been identified as Melissa Casias, the Los Alamos Nat...</p></details>
    Published: June 2, 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theoryPersons described as missing; Melissa Casias, 53, Administrative assistant at Los Alamos National...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theoryPersons described as missing; Melissa Casias, 53, Administrative assistant at Los Alamos National...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KBJQcvRiC1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KBJQcvRiC1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KBJQcvRiC1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KBJQcvRiC1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates | Backscroll...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/missing-woman-hiker-new-mexico-body-melissa-casias-b2987185.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/missing-woman-hiker-new-mexico-body-melissa-casias-b2987185.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oisin Mcilroy &amp; Katie Hawkinson.Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/missing-woman-hiker-new-mexico-body-melissa-casias-b2987185.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/missing-woman-hiker-new-mexico-body-melissa-casias-b2987185.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oisin Mcilroy &amp; Katie Hawkinson.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
    Title: Linked In Melissa Casias  
-   Link: <a href="https://www.linkedin.com/in/melissa-casias-73b26290" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/melissa-casias-73b26290</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa Casias - Administrative AssistantExperience; Administrative Assistant. Los Alamos National Laboratory. Mar 2023 - Presen...</p></details>
+   Link:<a href="https://www.linkedin.com/in/melissa-casias-73b26290" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/melissa-casias-73b26290</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melissa Casias - Administrative AssistantExperience; Administrative Assistant. Los Alamos National Laboratory. Mar 2023 - Presen...</p></details>

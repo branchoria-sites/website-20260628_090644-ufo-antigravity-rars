@@ -280,11 +280,11 @@ image: /assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_pri
 
 ## Introduction
 
-In theories about allegedly suspicious deaths or disappearances of scientists connected to UFO, [aerospace]({{ 'aerospace/' | relative_url }}), nuclear, or antigravity-related work, one of the least discussed harms is the exposure of private information. Public curiosity often begins with legitimate questions about an unexplained death, a missing person report, or conflicting accounts. Yet once a conspiracy narrative takes hold, private details that have little evidential value can be pulled into public view and treated as clues. Family disputes, medical histories, personal messages, home addresses, financial difficulties, and social media posts are frequently circulated far beyond their original context. In many cases, these disclosures do not clarify what happened. Instead, they increase pressure on grieving relatives, encourage harassment, and create new layers of harm around an already traumatic event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+In theories about allegedly suspicious deaths or disappearances of scientists connected to UFO, [aerospace]({{ 'aerospace/' | relative_url }}), nuclear, or antigravity-related work, one of the least discussed harms is the exposure of private information. Public curiosity often begins with legitimate questions about an unexplained death, a missing person report, or conflicting accounts. Yet once a conspiracy narrative takes hold, private details that have little evidential value can be pulled into public view and treated as clues. Family disputes, medical histories, personal messages, home addresses, financial difficulties, and social media posts are frequently circulated far beyond their original context. In many cases, these disclosures do not clarify what happened. Instead, they increase pressure on grieving relatives, encourage harassment, and create new layers of harm around an already traumatic event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-1-dark.svg" | relative_url }}" alt="Privacy Risks illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within recent discussions about alleged [clusters]({{ 'clusters/' | relative_url }}) of missing or deceased scientists, investigators, journalists, relatives, and colleagues have repeatedly warned that online speculation can transform ordinary personal information into supposed evidence of secret plots despite a lack of verified connections among cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+Within recent discussions about alleged [clusters]({{ 'clusters/' | relative_url }}) of missing or deceased scientists, investigators, journalists, relatives, and colleagues have repeatedly warned that online speculation can transform ordinary personal information into supposed evidence of secret plots despite a lack of verified connections among cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 ## Which Details Are Most Often Circulated Without Consent?
 
@@ -305,9 +305,9 @@ Commonly circulated information includes:
 
 </div>
 
-The mechanism is simple. Conspiracy communities often operate on the assumption that every detail could be a hidden clue. Once that assumption takes hold, information that would normally remain private is reinterpreted as evidence. A routine argument becomes a warning sign. A health condition becomes a cover story. An old message becomes a coded confession. The more information people gather, the easier it becomes to construct a narrative, even when the underlying facts do not support it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</span></span></span>
+The mechanism is simple. Conspiracy communities often operate on the assumption that every detail could be a hidden clue. Once that assumption takes hold, information that would normally remain private is reinterpreted as evidence. A routine argument becomes a warning sign. A health condition becomes a cover story. An old message becomes a coded confession. The more information people gather, the easier it becomes to construct a narrative, even when the underlying facts do not support it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</span></span></span>
 
-Recent reporting on the “missing scientists” narrative illustrates this process. Individuals whose roles ranged from senior researchers to administrative personnel were folded into a single online storyline. Personal circumstances that investigators considered case-specific were frequently recast as signs of a broader conspiracy despite the absence of demonstrated links between cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+Recent reporting on the “missing scientists” narrative illustrates this process. Individuals whose roles ranged from senior researchers to administrative personnel were folded into a single online storyline. Personal circumstances that investigators considered case-specific were frequently recast as signs of a broader conspiracy despite the absence of demonstrated links between cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kfTmfX2o0Os" title="Missing Jay Slater: Should Social Media Detectives Be Punished? | Loose Women" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kfTmfX2o0Os" target="_blank" rel="noopener noreferrer">Missing Jay Slater: Should Social Media Detectives Be Punished? | Loose Women</a></p><p class="youtube-embed-meta">Channel: Loose Women</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kfTmfX2o0Os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kfTmfX2o0Os">Open on YouTube</a></p></div></div></div>
@@ -318,7 +318,7 @@ Once a conspiracy theory centres on a deceased or missing person, relatives ofte
 
 Family members may be accused of withholding information, participating in a cover-up, benefiting financially, or repeating official narratives. Social media users sometimes search public records, examine photographs, compare timelines, or analyse private comments posted during periods of grief. The result is that people who never sought public attention can find themselves exposed to large online audiences.
 
-Research on doxxing—the publication of personal information without consent—shows that such disclosures are associated with emotional distress and can produce lasting psychological effects. The harm is not limited to the original target; family members and associates may also experience harassment, fear, and reputational damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDoxing Victimization and Emotional Problems among</span><span class="citation-popover-snippet">by Q Chen · 2018 · Cited by 49 — Doxing is the searching for and intentional disclosure of private information about a particular indi...</span></span></span>
+Research on doxxing—the publication of personal information without consent—shows that such disclosures are associated with emotional distress and can produce lasting psychological effects. The harm is not limited to the original target; family members and associates may also experience harassment, fear, and reputational damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDoxing Victimization and Emotional Problems among</span><span class="citation-popover-snippet">by Q Chen · 2018 · Cited by 49 — Doxing is the searching for and intentional disclosure of private information about a particular indi...</span></span></span>
 
 ## When Private Information Has Real Investigative Value
 
@@ -342,7 +342,7 @@ Information may have legitimate investigative value when it:
 
 For example, medical vulnerabilities may be relevant if they affect search priorities. Communication records may matter if they reveal contact with a suspect. Family testimony may be essential for reconstructing events. In these situations, personal information serves a specific evidential purpose.
 
-The problem emerges when disclosure expands beyond that purpose. Once material enters conspiracy discussions, its function often changes from evidence gathering to narrative building. A detail that investigators considered one factor among many becomes treated as decisive proof of a preconceived theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+The problem emerges when disclosure expands beyond that purpose. Once material enters conspiracy discussions, its function often changes from evidence gathering to narrative building. A detail that investigators considered one factor among many becomes treated as decisive proof of a preconceived theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-2-dark.svg" | relative_url }}" alt="Privacy Risks illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,7 +352,7 @@ A useful test is whether a private detail changes the evidential picture.
 
 If disclosure of a health condition, relationship dispute, or personal message does not materially strengthen a claim about what happened, publishing it may simply increase public intrusion without improving understanding.
 
-Several families connected to recent scientist-disappearance discussions have publicly challenged attempts to transform personal circumstances into evidence of UFO-related or classified-programme conspiracies. Reporting on these cases has repeatedly noted that relatives often view the events through the lens of individual tragedy rather than a coordinated plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+Several families connected to recent scientist-disappearance discussions have publicly challenged attempts to transform personal circumstances into evidence of UFO-related or classified-programme conspiracies. Reporting on these cases has repeatedly noted that relatives often view the events through the lens of individual tragedy rather than a coordinated plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-Gf68WQd_Y" title="Misinformation Rampant as Idaho Murder Case Takes Over Social Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-Gf68WQd_Y" target="_blank" rel="noopener noreferrer">Misinformation Rampant as Idaho Murder Case Takes Over Social Media</a></p><p class="youtube-embed-meta">Channel: NowThis Impact</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-Gf68WQd_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-Gf68WQd_Y">Open on YouTube</a></p></div></div></div>
@@ -361,7 +361,7 @@ Several families connected to recent scientist-disappearance discussions have pu
 
 The privacy risk is amplified by the structure of online conspiracy communities.
 
-Researchers studying conspiracy engagement have found that participants often progress from consuming isolated claims to constructing larger explanatory systems that connect unrelated events. In that environment, personal information acquires symbolic meaning regardless of whether it supports the theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</span></span></span>
+Researchers studying conspiracy engagement have found that participants often progress from consuming isolated claims to constructing larger explanatory systems that connect unrelated events. In that environment, personal information acquires symbolic meaning regardless of whether it supports the theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</span></span></span>
 
 Several mechanisms are especially common:
 
@@ -397,200 +397,200 @@ Several practices reduce privacy harms:
 
 </div>
 
-The goal is not to suppress inquiry. It is to prevent grief from becoming a source of exploitable content. In debates about UFOs, antigravity research, classified programmes, or allegedly suspicious scientist deaths, privacy often becomes collateral damage long before any theory is proven. The most responsible approach is to acknowledge uncertainty openly, recognise the limits of available evidence, and resist the impulse to treat every private detail as a hidden clue. arXiv+3CBS News+3The Wall Street Journal <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
+The goal is not to suppress inquiry. It is to prevent grief from becoming a source of exploitable content. In debates about UFOs, antigravity research, classified programmes, or allegedly suspicious scientist deaths, privacy often becomes collateral damage long before any theory is proven. The most responsible approach is to acknowledge uncertainty openly, recognise the limits of available evidence, and resist the impulse to treat every private detail as a hidden clue. arXiv+3CBS News+3The Wall Street Journal<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-3-dark.svg" | relative_url }}" alt="Privacy Risks illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_private_information_720e95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Private Details Conspiracy Theories Expose. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Private Details Conspiracy Theories Expose. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Directly addresses the consequences of circulating personal information and public speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the consequences of circulating personal information and public speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Provides psychological context for why private details become reinterpreted as evidence in conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides psychological context for why private details become reinterpreted as evidence in conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-        </h4>
-        <p class="fr-book-author">By Tom Nichols</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+</h4>
+<p class="fr-book-author">By Tom Nichols</p>
         
-        <p class="fr-book-desc">Helps explain how unsupported claims and amateur investigations can overwhelm evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how unsupported claims and amateur investigations can overwhelm evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Influencing Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PlmNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Influencing Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Influencing Machine">The Influencing Machine</a>
-        </h4>
-        <p class="fr-book-author">By Brooke Gladstone, Josh Neufeld</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Influencing Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PlmNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Influencing Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Influencing Machine">The Influencing Machine</a>
+</h4>
+<p class="fr-book-author">By Brooke Gladstone, Josh Neufeld</p>
         
-        <p class="fr-book-desc">Explores how media narratives are formed and how uncertain information spreads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how media narratives are formed and how uncertain information spreads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Influencing+Machine+by+Brooke+Gladstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="privacy-risks-the-private-details-conspiracy-theories-expose-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,118 +796,118 @@ The goal is not to suppress inquiry. It is to prevent grief from becoming a sour
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.10729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</p></details>
+   Link:<a href="https://arxiv.org/abs/2204.10729" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.10729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pathways through Conspiracy: The Evolution of Conspiracy Radicalization through Engagement in Online Conspiracy DiscussionsApril 22...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.02187" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.02187</a>  
+   Link:<a href="https://arxiv.org/abs/2111.02187" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.02187</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.12566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12566</a>  
+   Link:<a href="https://arxiv.org/abs/2405.12566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.12566</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDoxing Victimization and Emotional Problems among  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Q Chen · 2018 · Cited by 49 — Doxing is the searching for and intentional disclosure of private information about a particular indi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6313484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Q Chen · 2018 · Cited by 49 — Doxing is the searching for and intentional disclosure of private information about a particular indi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329229976_Doxing_Victimization_and_Emotional_Problems_among_Secondary_School_Students_in_Hong_Kong" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329229976_Doxing_Victimization_and_Emotional_Problems_among_Secondary_School_Students_in_Hong_Kong</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Doxing Victimization and Emotional Problems...27 May 2026 — The aim of this study was to investigate the associations between doxi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329229976_Doxing_Victimization_and_Emotional_Problems_among_Secondary_School_Students_in_Hong_Kong" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329229976_Doxing_Victimization_and_Emotional_Problems_among_Secondary_School_Students_in_Hong_Kong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Doxing Victimization and Emotional Problems...27 May 2026 — The aim of this study was to investigate the associations between doxi...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.05312" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05312</a>  
+   Link:<a href="https://arxiv.org/abs/2302.05312" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.05312</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...6 hours ago — The disappearances and deaths of 10 government workers t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/CBS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CBS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBSCBS Broadcasting Inc., is an American commercial broadcast television network of the CBS Entertainment Group division of Paramount...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/CBS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/CBS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBSCBS Broadcasting Inc., is an American commercial broadcast television network of the CBS Entertainment Group division of Paramount...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>overnment labs who have either died or disappeared. CBS News&#x27; Anna...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>overnment labs who have either died or disappeared. CBS News&#x27; Anna...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: Tularemia detected in Northern Colorado after dead rabbit discovered in Berthoud  
-   Link: <a href="https://www.cbsnews.com/colorado/news/tularemia-detected-northern-colorado-dead-rabbit-berthoud/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/colorado/news/tularemia-detected-northern-colorado-dead-rabbit-berthoud/</a>  
+   Link:<a href="https://www.cbsnews.com/colorado/news/tularemia-detected-northern-colorado-dead-rabbit-berthoud/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/colorado/news/tularemia-detected-northern-colorado-dead-rabbit-berthoud/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNotNoise/posts/at-this-point-youve-likely-heard-about-the-10-scientists-who-have-gone-missingdi/1489828432506815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNotNoise/posts/at-this-point-youve-likely-heard-about-the-10-scientists-who-have-gone-missingdi/1489828432506815/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At this point, you&#x27;ve likely heard about the 10+ scientists...Before Garcia and McCasland vanished, two workers at [Los Alamos](&amp;#123;&amp;#123; &#x27;los-alamos/&#x27; | relative_url &amp;#125;&amp;#125;) National L...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNotNoise/posts/at-this-point-youve-likely-heard-about-the-10-scientists-who-have-gone-missingdi/1489828432506815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNotNoise/posts/at-this-point-youve-likely-heard-about-the-10-scientists-who-have-gone-missingdi/1489828432506815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At this point, you&#x27;ve likely heard about the 10+ scientists...Before Garcia and McCasland vanished, two workers at [Los Alamos](&amp;#123;&amp;#123; &#x27;los-alamos/&#x27; | relative_url &amp;#125;&amp;#125;) National L...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/know-deaths-disappearances-staff-government-211900916.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/know-deaths-disappearances-staff-government-211900916.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at...5 days ago — The disappearances and deaths of 10 government workers tied to nucle...</p></details>
+   Link:<a href="https://www.aol.com/know-deaths-disappearances-staff-government-211900916.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/know-deaths-disappearances-staff-government-211900916.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at...5 days ago — The disappearances and deaths of 10 government workers tied to nucle...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: strathprints.strath.ac.uk  
-   Link: <a href="https://strathprints.strath.ac.uk/35810/1/Hacking_into_Tragedy_exploring_the_[ethics" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/35810/1/Hacking_into_Tragedy_exploring_the_[ethics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>into tragedy: exploring the ethics of death reporting in...by J Newton · 2012 · Cited by 21 — The closure came about because certain jou...</p></details>
+   Link:<a href="https://strathprints.strath.ac.uk/35810/1/Hacking_into_Tragedy_exploring_the_[ethics" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/35810/1/Hacking_into_Tragedy_exploring_the_[ethics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>into tragedy: exploring the ethics of death reporting in...by J Newton · 2012 · Cited by 21 — The closure came about because certain jou...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rathenau.nl  
-   Link: <a href="https://www.rathenau.nl/sites/default/files/2024-03/Harmful_Behaviour_Online_Report_Rathenau_Instituut%20%28LM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rathenau.nl/sites/default/files/2024-03/Harmful_Behaviour_Online_Report_Rathenau_Instituut%20%28LM%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmful Behaviour OnlinePaedophile hunting. Phishing. Cyber addiction. Revenge porn. Disinformation. These are just a few examples of har...</p></details>
+   Link:<a href="https://www.rathenau.nl/sites/default/files/2024-03/Harmful_Behaviour_Online_Report_Rathenau_Instituut%20%28LM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rathenau.nl/sites/default/files/2024-03/Harmful_Behaviour_Online_Report_Rathenau_Instituut%20%28LM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harmful Behaviour OnlinePaedophile hunting. Phishing. Cyber addiction. Revenge porn. Disinformation. These are just a few examples of har...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/21WFMJ/posts/online-speculation-has-grown-over-the-seemingly-unrelated-deaths-or-disappearanc/1386438296863759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/21WFMJ/posts/online-speculation-has-grown-over-the-seemingly-unrelated-deaths-or-disappearanc/1386438296863759/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online speculation has grown over the seemingly unOnline speculation has grown over the seemingly unrelated deaths or disappearances sinc...</p></details>
+   Link:<a href="https://www.facebook.com/21WFMJ/posts/online-speculation-has-grown-over-the-seemingly-unrelated-deaths-or-disappearanc/1386438296863759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/21WFMJ/posts/online-speculation-has-grown-over-the-seemingly-unrelated-deaths-or-disappearanc/1386438296863759/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online speculation has grown over the seemingly unOnline speculation has grown over the seemingly unrelated deaths or disappearances sinc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>security who have disappeared or died in the last four years. William Neil McCasland Retired Air Force Major General William Neil McCasla...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>security who have disappeared or died in the last four years. William Neil McCasland Retired Air Force Major General William Neil McCasla...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pure.knaw.nl  
-   Link: <a href="https://pure.knaw.nl/ws/portalfiles/portal/680770153/Harmful_Behaviour_Online_Report_Rathenau_Instituut_1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.knaw.nl/ws/portalfiles/portal/680770153/Harmful_Behaviour_Online_Report_Rathenau_Instituut_1_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour OnlinePaedophile hunting. Phishing. Cyber addiction. Revenge porn. Disinformation. These are just a few examples of harmful and...</p></details>
+   Link:<a href="https://pure.knaw.nl/ws/portalfiles/portal/680770153/Harmful_Behaviour_Online_Report_Rathenau_Instituut_1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.knaw.nl/ws/portalfiles/portal/680770153/Harmful_Behaviour_Online_Report_Rathenau_Instituut_1_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour OnlinePaedophile hunting. Phishing. Cyber addiction. Revenge porn. Disinformation. These are just a few examples of harmful and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: minerva-access.unimelb.edu.au  
-   Link: <a href="https://minerva-access.unimelb.edu.au/items/81790336-5344-4973-b48a-319270098abf" target="_blank" rel="noopener noreferrer nofollow">https://minerva-access.unimelb.edu.au/items/81790336-5344-4973-b48a-319270098abf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unimelb.edu.auDoxxing, Privacy, and Anonymity: Reflections on New...I argue that doxxing is a form of privacy abuse which exploits the i...</p></details>
+   Link:<a href="https://minerva-access.unimelb.edu.au/items/81790336-5344-4973-b48a-319270098abf" target="_blank" rel="noopener noreferrer nofollow">https://minerva-access.unimelb.edu.au/items/81790336-5344-4973-b48a-319270098abf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unimelb.edu.auDoxxing, Privacy, and Anonymity: Reflections on New...I argue that doxxing is a form of privacy abuse which exploits the i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: europarl.europa.eu  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662621/EPRS_STU%282021%29662621_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662621/EPRS_STU%282021%29662621_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gender-based violence: Cyber violenceby N Lomba · Cited by 19 — The study estimates that 4 to 7 % of women in the EU-27 have experienced...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662621/EPRS_STU%282021%29662621_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/662621/EPRS_STU%282021%29662621_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gender-based violence: Cyber violenceby N Lomba · Cited by 19 — The study estimates that 4 to 7 % of women in the EU-27 have experienced...</p></details>

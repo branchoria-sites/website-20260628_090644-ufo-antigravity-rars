@@ -274,15 +274,15 @@ image: /assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aar
 
 ## Introduction
 
-For claims that UFO, UAP (Unidentified Anomalous Phenomena), or alleged antigravity researchers were silenced, threatened, or harmed because of what they knew, the creation of formal reporting channels changed the evidential standard. Before recent reforms, a claimant could argue that there was no authorised place to disclose sensitive information safely. Since 2023, however, the U.S. government has operated a dedicated reporting mechanism through the All-domain Anomaly Resolution Office (AARO), backed by congressional mandates, record-retention requirements, and broader whistleblower-protection frameworks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
+For claims that UFO, UAP (Unidentified Anomalous Phenomena), or alleged antigravity researchers were silenced, threatened, or harmed because of what they knew, the creation of formal reporting channels changed the evidential standard. Before recent reforms, a claimant could argue that there was no authorised place to disclose sensitive information safely. Since 2023, however, the U.S. government has operated a dedicated reporting mechanism through the All-domain Anomaly Resolution Office (AARO), backed by congressional mandates, record-retention requirements, and broader whistleblower-protection frameworks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-1-dark.svg" | relative_url }}" alt="AARO Channels illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not prove that retaliation is impossible. It does, however, create a practical test. If someone claimed to possess significant knowledge about hidden UAP programmes, unconventional [aerospace]({{ 'aerospace/' | relative_url }}) research, or related classified activities, investigators can now ask specific questions: Did the person attempt to report? Was a report received? Was access blocked? Did reprisals occur after disclosure? The existence of those questions makes modern silencing allegations more testable than many historical claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
+This does not prove that retaliation is impossible. It does, however, create a practical test. If someone claimed to possess significant knowledge about hidden UAP programmes, unconventional [aerospace]({{ 'aerospace/' | relative_url }}) research, or related classified activities, investigators can now ask specific questions: Did the person attempt to report? Was a report received? Was access blocked? Did reprisals occur after disclosure? The existence of those questions makes modern silencing allegations more testable than many historical claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
 
 ## What Protected UAP Reporting Is Supposed to Do
 
-AARO was established to receive, analyse, and investigate UAP-related information from across the U.S. government. In October 2023, the Department of Defense launched a secure reporting mechanism specifically allowing current and former government employees, military personnel, and contractors to submit information concerning alleged government UAP programmes and activities. Officials stated that AARO could receive classified information regardless of special access restrictions or compartmented programme structures. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense launches secure reporting mechanism on the all domain ano</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — This phase of the secure reporting mechanism is for cur...</span></span></span>
+AARO was established to receive, analyse, and investigate UAP-related information from across the U.S. government. In October 2023, the Department of Defense launched a secure reporting mechanism specifically allowing current and former government employees, military personnel, and contractors to submit information concerning alleged government UAP programmes and activities. Officials stated that AARO could receive classified information regardless of special access restrictions or compartmented programme structures. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense launches secure reporting mechanism on the all domain ano</span><span class="citation-popover-snippet">Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — This phase of the secure reporting mechanism is for cur...</span></span></span>
 
 From the perspective of suspicious-death or suppression allegations, this matters because it creates a documented pathway between a witness and an official investigative body.
 
@@ -298,7 +298,7 @@ If a researcher genuinely feared that information about UAP-related technology, 
 
 </div>
 
-The reporting mechanism was partly developed amid congressional concern that potential witnesses might hesitate to come forward. Congressional hearings and proposed legislation repeatedly emphasised transparency and protection for UAP-related [whistleblowers]({{ 'whistleblowers/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2Meritalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
+The reporting mechanism was partly developed amid congressional concern that potential witnesses might hesitate to come forward. Congressional hearings and proposed legislation repeatedly emphasised transparency and protection for UAP-related [whistleblowers]({{ 'whistleblowers/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
 
 In evidential terms, a modern claimant can often point to an actual reporting event rather than merely asserting an intention to disclose information someday.
 
@@ -311,13 +311,13 @@ For investigators examining a death, disappearance, or alleged intimidation camp
 
 Several categories of records could support such a claim.
 
-**AARO submission records.** AARO maintains systems for receiving reports and has established records-management procedures covering submitted correspondence and reports. If a researcher filed material before a suspicious event, there should be evidence of submission, acknowledgement, follow-up contact, or investigative handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
+**AARO submission records.** AARO maintains systems for receiving reports and has established records-management procedures covering submitted correspondence and reports. If a researcher filed material before a suspicious event, there should be evidence of submission, acknowledgement, follow-up contact, or investigative handling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
 
 **Attempts to report.** Even if a submission was not completed, investigators might find emails, portal-access logs, legal consultations, draft statements, or communications with congressional offices indicating that reporting was imminent.
 
-**Retaliation complaints.** U.S. whistleblower frameworks provide avenues for reporting reprisals. If a person believed they suffered retaliation after making a protected disclosure, complaints filed with inspectors general or other oversight bodies could create a documentary trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oig.opm.gov">[Office of the Inspector General]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oig.opm.gov</span><span class="citation-popover-snippet">Office of the Inspector GeneralWhistleblower Rights &amp; ProtectionsIf you believe that you have been retaliated against for making a protec...</span></span></span>
+**Retaliation complaints.** U.S. whistleblower frameworks provide avenues for reporting reprisals. If a person believed they suffered retaliation after making a protected disclosure, complaints filed with inspectors general or other oversight bodies could create a documentary trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oig.opm.gov">[Office of the Inspector General]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oig.opm.gov</span><span class="citation-popover-snippet">Office of the Inspector GeneralWhistleblower Rights &amp; ProtectionsIf you believe that you have been retaliated against for making a protec...</span></span></span>
 
-**Congressional contacts.** UAP-related congressional oversight has generated hearings, witness outreach efforts, and legislative proposals concerning whistleblower protections. Communications showing that a researcher was preparing testimony or cooperating with investigators would be especially relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
+**Congressional contacts.** UAP-related congressional oversight has generated hearings, witness outreach efforts, and legislative proposals concerning whistleblower protections. Communications showing that a researcher was preparing testimony or cooperating with investigators would be especially relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
 
 **Access-denial evidence.** One of the strongest forms of support for a silencing allegation would be documentation showing that a witness attempted to use authorised channels but was improperly prevented from doing so. Such evidence could include written denials, security-office interventions, threats tied directly to reporting, or instructions contradicting official reporting policies.
 
@@ -333,13 +333,13 @@ The existence of AARO changes that landscape.
 
 A claimant who possessed actionable information about alleged hidden UAP programmes had an identifiable destination for disclosure. If no attempt to use that mechanism can be documented, investigators must consider alternative explanations, including exaggeration of the person's role, misunderstanding of what they knew, or retrospective myth-making after a death.
 
-Conversely, evidence that a person filed reports, was interviewed by investigators, produced supporting documentation, and then experienced unusual retaliation would materially strengthen a suppression claim because it would establish a clear [timeline]({{ 'timeline/' | relative_url }}) connecting disclosure activity to subsequent events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
+Conversely, evidence that a person filed reports, was interviewed by investigators, produced supporting documentation, and then experienced unusual retaliation would materially strengthen a suppression claim because it would establish a clear [timeline]({{ 'timeline/' | relative_url }}) connecting disclosure activity to subsequent events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</span></span></span>
 
 The key shift is from speculation about intentions to evidence about actions.
 
 ## A Concrete Example of the New Standard
 
-The modern UAP debate has featured high-profile whistleblower allegations, congressional hearings, and disputes about whether secret programmes exist. Yet even advocates of greater disclosure have increasingly focused on procedural questions: who reported what, through which channel, and with what documentary support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Witness Tells Congress &#x27;Nonhuman Biologics&#x27; Were Found at Alleged UFO Crash Sites</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+The modern UAP debate has featured high-profile whistleblower allegations, congressional hearings, and disputes about whether secret programmes exist. Yet even advocates of greater disclosure have increasingly focused on procedural questions: who reported what, through which channel, and with what documentary support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Witness Tells Congress &#x27;Nonhuman Biologics&#x27; Were Found at Alleged UFO Crash Sites</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 That focus reflects a broader evidential change.
 
@@ -367,13 +367,13 @@ This does not mean the allegation is false. It means the evidential bridge betwe
 
 The existence of a reporting system does not automatically resolve disputes.
 
-First, not everyone trusts the process. Some witnesses, lawmakers, and commentators have argued that AARO has not always been sufficiently transparent or responsive. Congressional hearings have featured criticism of the office and debates over whether it adequately investigates allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
+First, not everyone trusts the process. Some witnesses, lawmakers, and commentators have argued that AARO has not always been sufficiently transparent or responsive. Congressional hearings have featured criticism of the office and debates over whether it adequately investigates allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</span></span></span>
 
 Second, a person may have died or disappeared before using the reporting mechanism. In such cases, the absence of an AARO record proves little.
 
-Third, some information may remain classified, making public [verification]({{ 'verification/' | relative_url }}) difficult even when reporting occurred. The presence of a report in government systems does not guarantee public access to its contents. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod unidentified anomalous phenomena office launches new reporting tool</span><span class="citation-popover-snippet">Department of WarDOD Unidentified Anomalous Phenomena Office...31 Oct 2023 — &quot;By law AARO can receive all UAP-related information includ...</span></span></span>
+Third, some information may remain classified, making public [verification]({{ 'verification/' | relative_url }}) difficult even when reporting occurred. The presence of a report in government systems does not guarantee public access to its contents. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod unidentified anomalous phenomena office launches new reporting tool</span><span class="citation-popover-snippet">Department of WarDOD Unidentified Anomalous Phenomena Office...31 Oct 2023 — &quot;By law AARO can receive all UAP-related information includ...</span></span></span>
 
-Finally, reporting channels cannot themselves establish the truth of extraordinary claims. A filed report demonstrates that disclosure occurred; it does not demonstrate that the underlying allegations about UFOs, antigravity technology, or hidden programmes are correct. AARO's own [historical reviews]({{ 'historical-review/' | relative_url }}) have stated that they found no verified evidence supporting claims of recovered extraterrestrial technology or longstanding secret reverse-engineering programmes. U.S. Department of War+2New York Post <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — All-domain Anomaly Resolution Office&#x27;s (AARO) Histori...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Finally, reporting channels cannot themselves establish the truth of extraordinary claims. A filed report demonstrates that disclosure occurred; it does not demonstrate that the underlying allegations about UFOs, antigravity technology, or hidden programmes are correct. AARO's own [historical reviews]({{ 'historical-review/' | relative_url }}) have stated that they found no verified evidence supporting claims of recovered extraterrestrial technology or longstanding secret reverse-engineering programmes. U.S. Department of War+2New York Post<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — All-domain Anomaly Resolution Office&#x27;s (AARO) Histori...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GALknW6aFhw" title="UFO mystery: Stable of deceased, missing scientists grows | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GALknW6aFhw" target="_blank" rel="noopener noreferrer">UFO mystery: Stable of deceased, missing scientists grows | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GALknW6aFhw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GALknW6aFhw">Open on YouTube</a></p></div></div></div>
@@ -390,194 +390,194 @@ The reporting channel therefore functions less as proof of suppression and more 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-3-dark.svg" | relative_url }}" alt="AARO Channels illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_aaro_reporting_chann_27f21f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Official Reporting Change the Evidence Test?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Official Reporting Change the Evidence Test?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official testimony, government records, reporting, and standards of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official testimony, government records, reporting, and standards of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Directly addresses government UAP investigations, reporting structures, secrecy claims, and evidentiary questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses government UAP investigations, reporting structures, secrecy claims, and evidentiary questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines whistleblower claims, hidden programs, disclosure efforts, and how evidence should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines whistleblower claims, hidden programs, disclosure efforts, and how evidence should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for assessing extraordinary claims, weighing evidence, and avoiding unsupported conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for assessing extraordinary claims, weighing evidence, and avoiding unsupported conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="aaro-channels-did-official-reporting-change-the-evidence-test-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-official-reporting-change-the-evidence-test-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-official-reporting-change-the-evidence-test-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ The reporting channel therefore functions less as proof of suppression and more 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ The reporting channel therefore functions less as proof of suppression and more 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ The reporting channel therefore functions less as proof of suppression and more 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ The reporting channel therefore functions less as proof of suppression and more 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ The reporting channel therefore functions less as proof of suppression and more 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,177 +783,177 @@ The reporting channel therefore functions less as proof of suppression and more 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportAARO is accepting reports from current or former U.S. Government employees, service members, or contractor personnel w...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: department of defense launches secure reporting mechanism on the all domain ano  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — This phase of the secure reporting mechanism is for cur...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3575027/department-of-defense-launches-secure-reporting-mechanism-on-the-all-domain-ano/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Launches Secure Reporting...31 Oct 2023 — This phase of the secure reporting mechanism is for cur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod unidentified anomalous phenomena office launches new reporting tool  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Unidentified Anomalous Phenomena Office...31 Oct 2023 — &quot;By law AARO can receive all UAP-related information includ...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Unidentified Anomalous Phenomena Office...31 Oct 2023 — &quot;By law AARO can receive all UAP-related information includ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO&#x27;s website also hosts the secure mechanism for autho...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO&#x27;s website also hosts the secure mechanism for autho...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — This phase of the reporting mechanism is for cu...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...Oct 31, 2023 — This phase of the reporting mechanism is for cu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Transparency and Whistleblower Protection.” During the hearing... protect whistleblowers who come forward with information on UAPs.R...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: meritalk.com  
-   Link: <a href="https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reintroduce UAP Whistleblower Protection BillSep 8, 2025 — Reps. Reintroduce UAP Whistleblower Protection Bill... Lawmakers are once aga...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reintroduce UAP Whistleblower Protection BillSep 8, 2025 — Reps. Reintroduce UAP Whistleblower Protection Bill... Lawmakers are once aga...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 23, 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcri...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 23, 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcri...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/[congress" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/[congress</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
+   Link:<a href="https://time.com/6298287/[congress" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/[congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: legion.org  
-   Link: <a href="https://www.legion.org/information-center/news/security/2025/september/lawmakers-accuse-pentagon-of-lack-of-transparency-over-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/security/2025/september/lawmakers-accuse-pentagon-of-lack-of-transparency-over-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American LegionLawmakers accuse Pentagon of lack of transparency over...Sep 11, 2025 — Mysterious aircraft that withstood missile st...</p></details>
+   Link:<a href="https://www.legion.org/information-center/news/security/2025/september/lawmakers-accuse-pentagon-of-lack-of-transparency-over-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/security/2025/september/lawmakers-accuse-pentagon-of-lack-of-transparency-over-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The American LegionLawmakers accuse Pentagon of lack of transparency over...Sep 11, 2025 — Mysterious aircraft that withstood missile st...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — All-domain Anomaly Resolution Office&#x27;s (AARO) Histori...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — All-domain Anomaly Resolution Office&#x27;s (AARO) Histori...</p></details>
    Published: March 9, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: meritalk.com  
    Title: uap ufo witnesses stress need for more transparency  
-   Link: <a href="https://www.meritalk.com/articles/uap-ufo-witnesses-stress-need-for-more-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-ufo-witnesses-stress-need-for-more-transparency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government hid...Read more...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/uap-ufo-witnesses-stress-need-for-more-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/uap-ufo-witnesses-stress-need-for-more-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government hid...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: meritalk.com  
    Title: aaro director calls for ongoing support to investigate uaps  
-   Link: <a href="https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 – outlined the over 1,600 UAP cases AARO has to investigate as of June 1, 2024. The DoD – and...Read more...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/aaro-director-calls-for-ongoing-support-to-investigate-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 – outlined the over 1,600 UAP cases AARO has to investigate as of June 1, 2024. The DoD – and...Read more...</p></details>
    Published: June 1, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: federalregister.gov  
    Title: Read more  
-   Link: <a href="https://www.federalregister.gov/documents/2024/05/06/2024-09608/privacy-act-of-1974-system-of-records" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/05/06/2024-09608/privacy-act-of-1974-system-of-records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterPrivacy Act of 1974; System of Records6 May 2024 — This system of records describes the AARO&#x27;s collection, use, and maint...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2024/05/06/2024-09608/privacy-act-of-1974-system-of-records" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/05/06/2024-09608/privacy-act-of-1974-system-of-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterPrivacy Act of 1974; System of Records6 May 2024 — This system of records describes the AARO&#x27;s collection, use, and maint...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oig.opm.gov  
-   Link: <a href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow">https://oig.opm.gov/report-oig/whistleblower-rights-protections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Inspector GeneralWhistleblower Rights &amp; ProtectionsIf you believe that you have been retaliated against for making a protec...</p></details>
+   Link:<a href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow">https://oig.opm.gov/report-oig/whistleblower-rights-protections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Inspector GeneralWhistleblower Rights &amp; ProtectionsIf you believe that you have been retaliated against for making a protec...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The allegations were made public by journalist Michael Shellenberger. Pentagon spokesperson Sue Gough stated that there is no record of s...</p></details>
+   Link:<a href="https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/09/us-news/pentagon-denies-report-claiming-to-reveal-name-of-top-secret-ufo-program-for-the-first-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The allegations were made public by journalist Michael Shellenberger. Pentagon spokesperson Sue Gough stated that there is no record of s...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitte...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The classified report has been submitte...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...The report details key findings from the workshop conducted at AUI headquarters in Augu...</p></details>
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...The report details key findings from the workshop conducted at AUI headquarters in Augu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sqwwdd/silence_on_the_uap_record_transfers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sqwwdd/silence_on_the_uap_record_transfers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silence on the UAP Record Transfers: r/UFOsI have been tracking the UAP record transfers to the National Archives over the past couple y...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sqwwdd/silence_on_the_uap_record_transfers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sqwwdd/silence_on_the_uap_record_transfers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silence on the UAP Record Transfers: r/UFOsI have been tracking the UAP record transfers to the National Archives over the past couple y...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies included claims from former Department of Defense officials about injuries caused by UFOs and a secret government UFO retriev...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SenKirstenGillibrand/posts/i-have-been-pushing-for-years-for-increased-disclosure-and-transparency-around-u/1462253181933147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SenKirstenGillibrand/posts/i-have-been-pushing-for-years-for-increased-disclosure-and-transparency-around-u/1462253181933147/</a>  
+   Link:<a href="https://www.facebook.com/SenKirstenGillibrand/posts/i-have-been-pushing-for-years-for-increased-disclosure-and-transparency-around-u/1462253181933147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SenKirstenGillibrand/posts/i-have-been-pushing-for-years-for-increased-disclosure-and-transparency-around-u/1462253181933147/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
+   Link:<a href="https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/18/dods-all-domain-anomaly-resolution-office-is-now-investigating-more-than-800-uap-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD&#x27;s All-domain Anomaly Resolution Office confirms...18 Oct 2023 — A new Pentagon report confirms that AARO has received a total of 801...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>secure means of getting that information directly to its investigators. whistleblower David Grusch speaks before Congress in July, 2023...</p></details>
+   Link:<a href="https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-aaro-rolls-out-its-new-secure-reporting-mechanism-for-uap-sort-of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>secure means of getting that information directly to its investigators. whistleblower David Grusch speaks before Congress in July, 2023...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to unidentified flying objects (UFO) and unidentified anomalous phenomena (UAP)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: defensescoop.com  
    Title: uap ufo disclosure congress hearing whistleblower protection act  
-   Link: <a href="https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Next UAP disclosure hearing set, as lawmakers consider...3 Sept 2025 — The UAP Whistleblower Protection Act marks Congress&#x27; latest move...</p></details>
+   Link:<a href="https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Next UAP disclosure hearing set, as lawmakers consider...3 Sept 2025 — The UAP Whistleblower Protection Act marks Congress&#x27; latest move...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: transparency safety and science the uap landscape in 2025  
-   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgTransparency, safety and science: the UAP landscape in 20252 Jan 2026 — Lawmakers pressed for stricter oversight, whistleblower p...</p></details>
+   Link:<a href="https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/transparency-safety-and-science-the-uap-landscape-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgTransparency, safety and science: the UAP landscape in 20252 Jan 2026 — Lawmakers pressed for stricter oversight, whistleblower p...</p></details>

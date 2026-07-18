@@ -274,7 +274,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_vir
 
 ## Introduction
 
-The viral “missing scientists” claim became more persuasive online not because new evidence emerged, but because separate events were presented as parts of a single narrative. Lists circulating in early 2026 combined deaths, disappearances and unrelated incidents involving people with varying connections to [aerospace]({{ 'aerospace/' | relative_url }}), defence, nuclear research and government laboratories. By repeatedly attaching labels such as “NASA”, “classified”, “[Los Alamos]({{ 'los-alamos/' | relative_url }})”, “nuclear secrets”, “advanced propulsion” and “UFOs”, the lists encouraged readers to infer a coordinated campaign where the publicly available evidence did not establish one. Reporting by the Associated Press and subsequent fact-checks found that the online narrative relied heavily on pattern-building rather than demonstrated links between the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</span></span></span>
+The viral “missing scientists” claim became more persuasive online not because new evidence emerged, but because separate events were presented as parts of a single narrative. Lists circulating in early 2026 combined deaths, disappearances and unrelated incidents involving people with varying connections to [aerospace]({{ 'aerospace/' | relative_url }}), defence, nuclear research and government laboratories. By repeatedly attaching labels such as “NASA”, “classified”, “[Los Alamos]({{ 'los-alamos/' | relative_url }})”, “nuclear secrets”, “advanced propulsion” and “UFOs”, the lists encouraged readers to infer a coordinated campaign where the publicly available evidence did not establish one. Reporting by the Associated Press and subsequent fact-checks found that the online narrative relied heavily on pattern-building rather than demonstrated links between the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-1-dark.svg" | relative_url }}" alt="Viral List illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The viral “missing scientists” claim became more persuasive online not becau
 
 [The list]({{ 'the-list/' | relative_url }}) did not originate as a formal document. Instead, it evolved through social media posts, discussion forums, blogs and reposted graphics, with names being added over time. Individual cases that had originally been reported separately were gradually presented as entries in a growing catalogue of allegedly suspicious deaths.
 
-This process changed how readers interpreted the cases. Rather than asking whether any individual disappearance was unusual, audiences encountered a ready-made collection implying that the accumulation itself constituted evidence. As more names appeared, the apparent size of the list became part of the argument, even though the additions often reflected expanding inclusion criteria rather than newly discovered connections. Associated Press documented how speculation spread from niche online communities into mainstream political discussion within weeks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</span></span></span>
+This process changed how readers interpreted the cases. Rather than asking whether any individual disappearance was unusual, audiences encountered a ready-made collection implying that the accumulation itself constituted evidence. As more names appeared, the apparent size of the list became part of the argument, even though the additions often reflected expanding inclusion criteria rather than newly discovered connections. Associated Press documented how speculation spread from niche online communities into mainstream political discussion within weeks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</span></span></span>
 
 The mechanism resembled a common feature of conspiracy narratives: unrelated events become increasingly difficult to evaluate individually once they are repeatedly presented as elements of an existing pattern.
 
@@ -306,7 +306,7 @@ Rather than emphasising specific research projects or documented collaboration, 
 
 </div>
 
-These descriptors were broad enough to encompass people whose actual work differed substantially. Some individuals were research scientists, others were engineers, administrators, military officers or staff members working within large organisations. In several cases, the connection consisted only of past employment or indirect association with an institution that also conducted sensitive research. Fact-checking organisations found that not everyone presented as a "scientist" was publicly known to have held that role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</span></span></span>
+These descriptors were broad enough to encompass people whose actual work differed substantially. Some individuals were research scientists, others were engineers, administrators, military officers or staff members working within large organisations. In several cases, the connection consisted only of past employment or indirect association with an institution that also conducted sensitive research. Fact-checking organisations found that not everyone presented as a "scientist" was publicly known to have held that role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</span></span></span>
 
 Because [institutions]({{ 'institutions/' | relative_url }}) such as NASA, Los Alamos and Air Force research facilities already occupy an important place in UFO folklore and secrecy narratives, simply mentioning them encouraged readers to assume deeper relationships than the available evidence demonstrated.
 
@@ -319,7 +319,7 @@ Another important mechanism was the gradual expansion of the list's boundaries.
 
 ### Expanding the timeline
 
-Early presentations implied that numerous scientists had disappeared within a short period. Later reporting showed that the cited incidents actually stretched across several years, from 2022 through early 2026, involving deaths, disappearances and unrelated criminal investigations occurring under very different circumstances. Compressing a multi-year [timeline]({{ 'timeline/' | relative_url }}) into a single "wave" made the events appear unusually concentrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</span></span></span>
+Early presentations implied that numerous scientists had disappeared within a short period. Later reporting showed that the cited incidents actually stretched across several years, from 2022 through early 2026, involving deaths, disappearances and unrelated criminal investigations occurring under very different circumstances. Compressing a multi-year [timeline]({{ 'timeline/' | relative_url }}) into a single "wave" made the events appear unusually concentrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</span></span></span>
 
 ### Broadening occupational categories
 
@@ -339,7 +339,7 @@ Lists frequently included:
 
 </div>
 
-The broader the category became, the easier it was to identify additional people whose biographies contained one of the recurring keywords. This expansion increased the apparent scale of the pattern without necessarily increasing the evidential strength of the claimed connection. The Wall Street Journal and multiple fact-checks noted that some listed individuals had only indirect links to the research themes emphasised in viral posts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal How a Fringe Conspiracy Theory About Missing Scientists</span><span class="citation-popover-snippet">The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...April 25, 2026 — Apr 25, 2026 — Speculation over disapp...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+The broader the category became, the easier it was to identify additional people whose biographies contained one of the recurring keywords. This expansion increased the apparent scale of the pattern without necessarily increasing the evidential strength of the claimed connection. The Wall Street Journal and multiple fact-checks noted that some listed individuals had only indirect links to the research themes emphasised in viral posts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal How a Fringe Conspiracy Theory About Missing Scientists</span><span class="citation-popover-snippet">The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...April 25, 2026 — Apr 25, 2026 — Speculation over disapp...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-2-dark.svg" | relative_url }}" alt="Viral List illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,7 +347,7 @@ The broader the category became, the easier it was to identify additional people
 
 Deaths from natural causes, homicides, missing-person cases and unresolved disappearances were often presented side by side with little distinction.
 
-Grouping these fundamentally different categories under a single heading encouraged readers to interpret them as manifestations of one underlying process despite the absence of publicly established evidence that they shared a common cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — In April 2026, rumors circulated online that at least...</span><span class="citation-popover-meta">Published: April 2026</span></span></span>
+Grouping these fundamentally different categories under a single heading encouraged readers to interpret them as manifestations of one underlying process despite the absence of publicly established evidence that they shared a common cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-snippet">Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — In April 2026, rumors circulated online that at least...</span><span class="citation-popover-meta">Published: April 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tkKTDnPVitQ" title="The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer">The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????</a></p><p class="youtube-embed-meta">Channel: Stephanie Harlowe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tkKTDnPVitQ">Open on YouTube</a></p></div></div></div>
@@ -362,7 +362,7 @@ Second, the lists relied on cumulative suggestion. Readers were rarely asked to 
 
 Third, missing information often strengthened rather than weakened the narrative. Where causes of death, investigations or personal circumstances were not immediately public, the absence of information was interpreted by some online commentators as evidence of secrecy rather than simply incomplete public reporting.
 
-Medical sociologist Robert Bartholomew described this process as an example of apophenia—the human tendency to perceive meaningful patterns among unrelated events—arguing that repeated online framing primed audiences to reinterpret otherwise disconnected incidents as parts of a hidden campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+Medical sociologist Robert Bartholomew described this process as an example of apophenia—the human tendency to perceive meaningful patterns among unrelated events—arguing that repeated online framing primed audiences to reinterpret otherwise disconnected incidents as parts of a hidden campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uwFAdMyf8rI" title="Are the mysterious deaths and disappearances of 10 American scientists connected?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uwFAdMyf8rI" target="_blank" rel="noopener noreferrer">Are the mysterious deaths and disappearances of 10 American scientists connected?</a></p><p class="youtube-embed-meta">Channel: Boston 25 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uwFAdMyf8rI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uwFAdMyf8rI">Open on YouTube</a></p></div></div></div>
@@ -378,206 +378,206 @@ Public reporting confirmed that:
 
 * the cited individuals were real;
 * several had worked in sensitive scientific or defence environments;
-* federal authorities examined whether any meaningful connections existed after public attention intensified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</span></span></span>
+* federal authorities examined whether any meaningful connections existed after public attention intensified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</span></span></span>
 
 </div>
 
 However, the publicly available evidence did not establish that the cases resulted from a single organised effort related to UFO research, anti-gravity technology or classified scientific knowledge.
 
-Subsequent reporting and fact-checking repeatedly found that many of the apparent connections were created through broad institutional labels, expanded occupational definitions and compressed timelines rather than demonstrated operational links. In some prominent cases, later investigations identified explanations specific to the individual incident rather than evidence supporting a wider conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter+2Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</span></span></span>
+Subsequent reporting and fact-checking repeatedly found that many of the apparent connections were created through broad institutional labels, expanded occupational definitions and compressed timelines rather than demonstrated operational links. In some prominent cases, later investigations identified explanations specific to the individual incident rather than evidence supporting a wider conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[poynter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-3-dark.svg" | relative_url }}" alt="Viral List illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_viral_list_mechanics_481e27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Viral List Made a Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Viral List Made a Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how pattern-seeking and weak evidence can produce persuasive but unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how pattern-seeking and weak evidence can produce persuasive but unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate viral narratives, evidence quality and misleading inference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate viral narratives, evidence quality and misleading inference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Addresses how conspiracy narratives develop and why collections of claims can appear convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how conspiracy narratives develop and why collections of claims can appear convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for UFO-related claims that often become linked with viral narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for UFO-related claims that often become linked with viral narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="viral-list-how-the-viral-list-made-a-pattern-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-viral-list-made-a-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-viral-list-made-a-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,101 +783,101 @@ Subsequent reporting and fact-checking repeatedly found that many of the apparen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: snopes.com  
-   Link: <a href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/news/2026/04/28/scientists-dead-missing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — In April 2026, rumors circulated online that at least...</p></details>
+   Link:<a href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/news/2026/04/28/scientists-dead-missing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — In April 2026, rumors circulated online that at least...</p></details>
    Published: April 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: poynter.org  
    Title: missing dead scientists ufo nuclear conspiracy fact check  
-   Link: <a href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</p></details>
+   Link:<a href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about the missing and dead scientists...Apr 30, 2026 — Viral posts link deaths and disappearances to UFO programs an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Major Gen. William Mc Casland ran the Air Force's secret lab — then DISAPPEARED  
-   Link: <a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — At a press gathering April 16, President Donald Trump w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...Apr 21, 2026 — The disappearances and deaths of 10 government workers...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wsj.com  
    Title: The Wall Street Journal How a Fringe Conspiracy Theory About Missing Scientists  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...April 25, 2026 — Apr 25, 2026 — Speculation over disapp...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...April 25, 2026 — Apr 25, 2026 — Speculation over disapp...</p></details>
    Published: April 25, 2026  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/private-investigator-thomas-mcnally-sees-no-link-between-the-disappearance-of-me/1338391284814132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/private-investigator-thomas-mcnally-sees-no-link-between-the-disappearance-of-me/1338391284814132/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Private investigator Thomas McNally sees no link between...Missing people ARE investigated. By normal law enforcement procedures, rather...</p></details>
+   Link:<a href="https://www.facebook.com/WSJ/posts/private-investigator-thomas-mcnally-sees-no-link-between-the-disappearance-of-me/1338391284814132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/private-investigator-thomas-mcnally-sees-no-link-between-the-disappearance-of-me/1338391284814132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Private investigator Thomas McNally sees no link between...Missing people ARE investigated. By normal law enforcement procedures, rather...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ksat.com  
-   Link: <a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-[white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
+   Link:<a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...3 days ago — The alleged connections between the cases of a dozen people linked to th...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...3 days ago — The alleged connections between the cases of a dozen people linked to th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the scientists supposedly all had access to sensitive government research and th  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/the-scientists-supposedly-all-had-access-to-sensitive-government-research-and-th/1544489947032270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-scientists-supposedly-all-had-access-to-sensitive-government-research-and-th/1544489947032270/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The scientists supposedly all had access to sensitive...As of April 2026, the FBI and the White House are reviewing a list... Many had...</p></details>
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/the-scientists-supposedly-all-had-access-to-sensitive-government-research-and-th/1544489947032270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-scientists-supposedly-all-had-access-to-sensitive-government-research-and-th/1544489947032270/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The scientists supposedly all had access to sensitive...As of April 2026, the FBI and the White House are reviewing a list... Many had...</p></details>
    Published: April 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who have died or disappeared in recent years was largely confined to niche online...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who have died or disappeared in recent years was largely confined to niche online...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fortune.com  
    Title: scientists disappear die nasa space blue origin spacex  
-   Link: <a href="https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI looks into dead or missing nuclear and space defense...21 Apr 2026 — Almost a dozen scientists related to nuclear and space defense...</p></details>
+   Link:<a href="https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI looks into dead or missing nuclear and space defense...21 Apr 2026 — Almost a dozen scientists related to nuclear and space defense...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXiSz2cD-js/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 DEAD OR MISSING SCIENTISTS TIED TO NUCLEAR OR AEROSPACE RESEARCH...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXiSz2cD-js/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 DEAD OR MISSING SCIENTISTS TIED TO NUCLEAR OR AEROSPACE RESEARCH...</p></details>
    Published: April 20, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists white house  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...Apr 25, 2026 — Claim of nefarious plot draws attention of lawmakers and president –...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...Apr 25, 2026 — Claim of nefarious plot draws attention of lawmakers and president –...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: millichronicle.com  
-   Link: <a href="https://millichronicle.com/2026/04/65864.html" target="_blank" rel="noopener noreferrer nofollow">https://millichronicle.com/2026/04/65864.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientists, UFO Claims and Political Panic5 days ago — A conspiracy theory linking the disappearances and deaths of at least 11 U.S...</p></details>
+   Link:<a href="https://millichronicle.com/2026/04/65864.html" target="_blank" rel="noopener noreferrer nofollow">https://millichronicle.com/2026/04/65864.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientists, UFO Claims and Political Panic5 days ago — A conspiracy theory linking the disappearances and deaths of at least 11 U.S...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXxVODxldQp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxVODxldQp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>missing and deceased scientists, stating there is “not much of a...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXxVODxldQp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxVODxldQp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>missing and deceased scientists, stating there is “not much of a...</p></details>

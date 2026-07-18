@@ -451,13 +451,13 @@ Deaths shortly before possible UFO or antigravity testimony can look compelling 
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-overview.webp" | relative_url }}" alt="Overview image for Whistleblowers" loading="eager" decoding="sync" fetchpriority="high">
-The clearest recent example is Matthew James [Sullivan]({{ 'sullivan/' | relative_url }}), a former U.S. Air Force intelligence officer whose May 2024 death was later pulled into the 2026 “missing scientists” narrative. His background was real: his obituary says he served as an Air Force intelligence officer at [institutions]({{ 'institutions/' | relative_url }}) including the National Air and Space Intelligence Center, the National Security Agency and the Air Force Intelligence Agency, and earned a Bronze Star in Operation Enduring Freedom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity Memorial Matthew Sullivan Obituary</span></span></span> Later reporting said he had agreed to speak to Congress about alleged secret UFO programmes, while the reported medical-examiner finding pointed to an accidental overdose, not a confirmed killing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span>
+The clearest recent example is Matthew James [Sullivan]({{ 'sullivan/' | relative_url }}), a former U.S. Air Force intelligence officer whose May 2024 death was later pulled into the 2026 “missing scientists” narrative. His background was real: his obituary says he served as an Air Force intelligence officer at [institutions]({{ 'institutions/' | relative_url }}) including the National Air and Space Intelligence Center, the National Security Agency and the Air Force Intelligence Agency, and earned a Bronze Star in Operation Enduring Freedom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity Memorial Matthew Sullivan Obituary</span></span></span> Later reporting said he had agreed to speak to Congress about alleged secret UFO programmes, while the reported medical-examiner finding pointed to an accidental overdose, not a confirmed killing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span>
 
 ## Why Testimony Timing Matters
 
-Whistleblower stories sit at the centre of modern UAP politics because much of the public record is not built around physical evidence, but around claims that insiders know more than they can safely say. In July 2023, former intelligence official David Grusch told a House Oversight hearing that he had been informed, in the course of official duties, of a multi-decade UAP crash-retrieval and reverse-engineering programme, that he had reported the matter to inspectors general, and that he had suffered retaliation for becoming a whistleblower. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
+Whistleblower stories sit at the centre of modern UAP politics because much of the public record is not built around physical evidence, but around claims that insiders know more than they can safely say. In July 2023, former intelligence official David Grusch told a House Oversight hearing that he had been informed, in the course of official duties, of a multi-decade UAP crash-retrieval and reverse-engineering programme, that he had reported the matter to inspectors general, and that he had suffered retaliation for becoming a whistleblower.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span>
 
-That hearing also shows why “pre-testimony” deaths feel significant to believers. Grusch said there were people with knowledge of alleged reverse-engineering programmes who might testify if given closed-door access and assurances that they would not be punished for breaking non-disclosure agreements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span> In that setting, a death before an interview can be read as more than a personal tragedy: it becomes a missing link in a chain of testimony that might have clarified what [Congress]({{ 'congress/' | relative_url }}) could not discuss publicly.
+That hearing also shows why “pre-testimony” deaths feel significant to believers. Grusch said there were people with knowledge of alleged reverse-engineering programmes who might testify if given closed-door access and assurances that they would not be punished for breaking non-disclosure agreements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span> In that setting, a death before an interview can be read as more than a personal tragedy: it becomes a missing link in a chain of testimony that might have clarified what [Congress]({{ 'congress/' | relative_url }}) could not discuss publicly.
 
 The problem is that a scheduled or possible interview is not the same thing as proof of suppression. A valid suspicion would need to connect at least three layers: the person’s actual access, the substance of what they intended to provide, and evidence that someone acted to prevent that disclosure. Many public claims collapse one or more of those layers into a single phrase such as “was about to testify”, which is emotionally powerful but evidentially incomplete.
 
@@ -465,9 +465,9 @@ The problem is that a scheduled or possible interview is not the same thing as p
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-1-dark.svg" | relative_url }}" alt="Whistleblowers illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Matthew Sullivan Case Shows the Evidential Gap
 
-Matthew Sullivan is the most important recent case because it fits the “death before testimony” template more closely than many older UFO-death stories. He was not merely a fringe commentator: contemporary memorial information places him in U.S. Air Force intelligence and named national-security institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity Memorial Matthew Sullivan Obituary</span></span></span> Reporting in April 2026 said he died at home in Falls Church, Virginia, on 12 May 2024, after agreeing to testify or speak to congressional investigators about alleged secret UFO programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span>
+Matthew Sullivan is the most important recent case because it fits the “death before testimony” template more closely than many older UFO-death stories. He was not merely a fringe commentator: contemporary memorial information places him in U.S. Air Force intelligence and named national-security institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity Memorial Matthew Sullivan Obituary</span></span></span> Reporting in April 2026 said he died at home in Falls Church, Virginia, on 12 May 2024, after agreeing to testify or speak to congressional investigators about alleged secret UFO programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span>
 
-The public record, however, points in different directions. The New York Post reported that the Northern District Office of the Chief Medical Examiner found Sullivan died from an accidental overdose involving alcohol, alprazolam, cyclobenzaprine and imipramine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span> Rep. Eric Burlison said his office referred concerns about the case to oversight channels and the FBI, and described the circumstances as suspicious because Sullivan had been expected to speak with congressional investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">rep burlison demands fbi probe top us scientists vanish turn dead</span><span class="citation-popover-snippet">rep burlison demands fbi probe top us scientists vanish turn dead</span></span></span> Those facts justify inquiry, but they do not by themselves establish homicide, coercion or a UFO-related motive.
+The public record, however, points in different directions. The New York Post reported that the Northern District Office of the Chief Medical Examiner found Sullivan died from an accidental overdose involving alcohol, alprazolam, cyclobenzaprine and imipramine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</span><span class="citation-popover-meta">Published: November 2024</span></span></span> Rep. Eric Burlison said his office referred concerns about the case to oversight channels and the FBI, and described the circumstances as suspicious because Sullivan had been expected to speak with congressional investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">rep burlison demands fbi probe top us scientists vanish turn dead</span><span class="citation-popover-snippet">rep burlison demands fbi probe top us scientists vanish turn dead</span></span></span> Those facts justify inquiry, but they do not by themselves establish homicide, coercion or a UFO-related motive.
 
 This distinction is crucial. A [medical finding]({{ 'medical-finding/' | relative_url }}) of accidental overdose can be wrong, incomplete or later challenged, but it is still evidence that must be weighed. A congressional concern can be serious without being proof. A person can have intelligence credentials without having first-hand knowledge of a concealed antigravity or crash-retrieval programme. The [Sullivan case]({{ 'sullivan-case/' | relative_url }}) is therefore best understood as an open evidential question in public discussion, not as a demonstrated “silencing”.
 
@@ -486,7 +486,7 @@ Useful evidence would include:
 * **Forensic contradiction:** medical, toxicological or scene evidence that conflicts with an official accidental, natural or suicide finding.
 * **Pattern evidence that survives comparison:** links between cases that are stronger than broad labels such as “[aerospace]({{ 'aerospace/' | relative_url }})”, “NASA”, “UFO”, “nuclear” or “clearance”.
 
-The broader UAP record shows why this standard matters. AARO’s 2024 historical review says it found no empirical evidence that the U.S. government or private companies have been reverse-engineering extraterrestrial technology, and that several named programmes described by interviewees either did not exist, were misidentified sensitive national-security programmes, or were discontinued efforts lacking evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) The same report warns that secrecy, incomplete access, popular culture, online reinforcement and circular reporting can all make claims appear more corroborated than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The broader UAP record shows why this standard matters. AARO’s 2024 historical review says it found no empirical evidence that the U.S. government or private companies have been reverse-engineering extraterrestrial technology, and that several named programmes described by interviewees either did not exist, were misidentified sensitive national-security programmes, or were discontinued efforts lacking evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) The same report warns that secrecy, incomplete access, popular culture, online reinforcement and circular reporting can all make claims appear more corroborated than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That does not settle every whistleblower allegation. It does mean that a death near a planned interview cannot carry the full burden of proving a hidden programme. The evidential work has to be done by documents, witnesses, forensic records and oversight findings.
 
@@ -494,9 +494,9 @@ That does not settle every whistleblower allegation. It does mean that a death n
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-2-dark.svg" | relative_url }}" alt="Whistleblowers illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Timing Can Mislead
 
-The 2026 “missing scientists” story is a useful warning because it shows how a list can become persuasive before its internal connections are proven. Associated Press reported that speculation about dead or missing people tied to sensitive research moved from online forums into mainstream political attention, but also reported that no definitive evidence had shown the cases were linked or that coordinated foul play had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</span></span></span> Scientific American likewise described federal attention to possible links while framing the matter as an investigation, not an established conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Open source on scientificamerican.com.</span></span></span>
+The 2026 “missing scientists” story is a useful warning because it shows how a list can become persuasive before its internal connections are proven. Associated Press reported that speculation about dead or missing people tied to sensitive research moved from online forums into mainstream political attention, but also reported that no definitive evidence had shown the cases were linked or that coordinated foul play had occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</span></span></span> Scientific American likewise described federal attention to possible links while framing the matter as an investigation, not an established conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Open source on scientificamerican.com.</span></span></span>
 
-The weakness is often selection. Once a theory exists, researchers can search backwards for people who died, disappeared, worked in aerospace, had a clearance, once touched a UAP-adjacent institution, or said something unusual online. Vanity Fair’s reporting on the 2026 narrative quoted sceptical investigators describing this as a “death-list” fallacy: the category expands until unrelated deaths appear to form a pattern. It also noted that several cases had ordinary or separate explanations, including known suspects in killings and family pushback against UFO-related speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing. It Was Only a Matter of Time Before Conspiracy Theories Hit the White House</span><span class="citation-popover-snippet">Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</span></span></span>
+The weakness is often selection. Once a theory exists, researchers can search backwards for people who died, disappeared, worked in aerospace, had a clearance, once touched a UAP-adjacent institution, or said something unusual online. Vanity Fair’s reporting on the 2026 narrative quoted sceptical investigators describing this as a “death-list” fallacy: the category expands until unrelated deaths appear to form a pattern. It also noted that several cases had ordinary or separate explanations, including known suspects in killings and family pushback against UFO-related speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing. It Was Only a Matter of Time Before Conspiracy Theories Hit the White House</span><span class="citation-popover-snippet">Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</span></span></span>
 
 Pre-testimony framing adds another distortion. “He died before he could testify” can mean a formal witness was days from a sworn appearance; it can also mean someone had been discussed as a possible interviewee, had spoken informally to advocates, or was later described as a source after death. Those distinctions matter. The closer the claim is to a documented congressional appointment, the more weight timing deserves. The vaguer the testimony plan, the more likely the timing is being used as a substitute for evidence.
 
@@ -505,9 +505,9 @@ Pre-testimony framing adds another distortion. “He died before he could testif
 
 ## Older UFO-Death Narratives Show the Same Pattern
 
-The same structure appears in older UFO lore, even when the details are very different. Morris K. Jessup, author of *The Case for the UFO*, became entangled in the Philadelphia Experiment myth after receiving letters from Carl Allen, also known as Carlos Allende, and after the Office of Naval Research was shown an annotated copy of Jessup’s book. The U.S. Navy’s own historical page treats the Philadelphia Experiment as an alleged myth rather than a real invisibility or teleportation project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">philadelphia experiment onr info sheet</span><span class="citation-popover-snippet">philadelphia experiment onr info sheet</span></span></span>
+The same structure appears in older UFO lore, even when the details are very different. Morris K. Jessup, author of *The Case for the UFO*, became entangled in the Philadelphia Experiment myth after receiving letters from Carl Allen, also known as Carlos Allende, and after the Office of Naval Research was shown an annotated copy of Jessup’s book. The U.S. Navy’s own historical page treats the Philadelphia Experiment as an alleged myth rather than a real invisibility or teleportation project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">philadelphia experiment onr info sheet</span><span class="citation-popover-snippet">philadelphia experiment onr info sheet</span></span></span>
 
-Jessup died in 1959, and his death was later absorbed into claims that he had known too much. But the better-documented account points to suicide by carbon-monoxide poisoning, with personal and professional distress preceding his death. Skeptical Inquirer’s detailed review argues that the scene evidence left little doubt about suicide, while the later “ufological murder” story depended on reinterpretation rather than new forensic proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
+Jessup died in 1959, and his death was later absorbed into claims that he had known too much. But the better-documented account points to suicide by carbon-monoxide poisoning, with personal and professional distress preceding his death. Skeptical Inquirer’s detailed review argues that the scene evidence left little doubt about suicide, while the later “ufological murder” story depended on reinterpretation rather than new forensic proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 Phil Schneider occupies a different place in the mythology. He claimed to have worked on underground bases and to have survived a violent encounter involving aliens, then died in 1996. His story remains popular in UFO communities, but the available public sourcing is far weaker than for official UAP hearings or documented congressional testimony. Most retellings rely on lecture recordings, family claims, paranormal media and later internet summaries rather than robust primary records. That does not prove the official account is correct in every detail, but it means Schneider’s death is a poor foundation for a serious “pre-testimony” argument unless stronger records are produced.
 
@@ -515,7 +515,7 @@ Phil Schneider occupies a different place in the mythology. He claimed to have w
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_whistleblower_timing_ac13c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Strongest Reading Is Cautious, Not Dismissive
 
-A fair assessment does not require mocking witnesses or ignoring secrecy. UAP reporting has involved real military pilots, real congressional hearings, real classified-information barriers and real concerns about retaliation. The 2023 House hearing included testimony about stigma, professional repercussions and the need for safer reporting systems for pilots and insiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span> Congress has also considered UAP-specific whistleblower protections, reflecting a genuine governance problem: people who believe they hold relevant information may fear career, legal or security consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+A fair assessment does not require mocking witnesses or ignoring secrecy. UAP reporting has involved real military pilots, real congressional hearings, real classified-information barriers and real concerns about retaliation. The 2023 House hearing included testimony about stigma, professional repercussions and the need for safer reporting systems for pilots and insiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">CHRG 118hhrg53022</span><span class="citation-popover-snippet">CHRG 118hhrg53022</span></span></span> Congress has also considered UAP-specific whistleblower protections, reflecting a genuine governance problem: people who believe they hold relevant information may fear career, legal or security consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
 But the specific claim that deaths before testimony prove a UFO or antigravity cover-up remains much weaker than the broader claim that witnesses need safe, lawful channels. The Sullivan case deserves careful treatment because it involves a real person with real intelligence credentials and reported congressional interest. It does not yet publicly demonstrate that he was killed to prevent testimony. The wider “missing scientists” lists are weaker still when they combine different professions, causes of death, missing-person cases and time periods into one suspicious-looking sequence.
 
@@ -526,194 +526,194 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Pre Testimony Deaths Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Pre Testimony Deaths Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony, official witnesses, credibility, evidence standards, and how insider claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony, official witnesses, credibility, evidence standards, and how insider claims should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines insider accounts, secrecy claims, sources, and the challenge of separating evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines insider accounts, secrecy claims, sources, and the challenge of separating evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides context on government programs, disclosure debates, and the role of insiders making public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on government programs, disclosure debates, and the role of insiders making public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="whistleblowers-do-pre-testimony-deaths-prove-anything-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -729,7 +729,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -749,7 +749,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -781,7 +781,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -833,7 +833,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -878,7 +878,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -919,163 +919,163 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg53022  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.navy.mil  
    Title: philadelphia experiment onr info sheet  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html</a>  
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: burchett.house.gov  
-   Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
+   Link:<a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: military.com  
    Title: truth behind wwiis creepy philadelphia experiment  
-   Link: <a href="https://www.military.com/off-duty/2020/05/04/truth-behind-wwiis-creepy-philadelphia-experiment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/off-duty/2020/05/04/truth-behind-wwiis-creepy-philadelphia-experiment.html</a>  
+   Link:<a href="https://www.military.com/off-duty/2020/05/04/truth-behind-wwiis-creepy-philadelphia-experiment.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/off-duty/2020/05/04/truth-behind-wwiis-creepy-philadelphia-experiment.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dignitymemorial.com  
    Title: Dignity Memorial Matthew Sullivan Obituary  
-   Link: <a href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
+   Link:<a href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</p></details>
+   Link:<a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His death, occurring months before planned congressional hearings in November 2024, has sparked serious concerns among lawmakers and nati...</p></details>
    Published: November 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: foxnews.com  
    Title: rep burlison demands fbi probe top us scientists vanish turn dead  
-   Link: <a href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead</a>  
+   Link:<a href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts caution that such conspiracy theories often arise from pattern recognition in tragic but unrelated events. Some of the deaths, in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/</a>  
+   Link:<a href="https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/08/solving-a-ufological-murder-the-case-of-morris-k-jessup/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Philadelphia Experiment  
-   Link: <a href="https://en.wikipedia.org/wiki/Philadelphia_Experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philadelphia_Experiment</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Philadelphia_Experiment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philadelphia_Experiment</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Morris K. Jessup  
-   Link: <a href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morris_K._Jessup</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Morris_K._Jessup" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morris_K._Jessup</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
    Title: Phil Schneider  
-   Link: <a href="https://www.imdb.com/name/nm7800796/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm7800796/bio/</a>  
+   Link:<a href="https://www.imdb.com/name/nm7800796/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm7800796/bio/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vanityfair.com  
    Title: missing scientists conspiracy theories white house  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house?srsltid=AfmBOopcUTAp_K7s8xCfOuFEg7TgyXLemDAuMI6Tj8lnwTY0noW6LEaA" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house?srsltid=AfmBOopcUTAp_K7s8xCfOuFEg7TgyXLemDAuMI6Tj8lnwTY0noW6LEaA</a>  
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house?srsltid=AfmBOopcUTAp_K7s8xCfOuFEg7TgyXLemDAuMI6Tj8lnwTY0noW6LEaA" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house?srsltid=AfmBOopcUTAp_K7s8xCfOuFEg7TgyXLemDAuMI6Tj8lnwTY0noW6LEaA</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: intelligencemurders.com  
-   Link: <a href="https://intelligencemurders.com/intelligence-service-murders/Details/Phil_Schneider/" target="_blank" rel="noopener noreferrer nofollow">https://intelligencemurders.com/intelligence-service-murders/Details/Phil_Schneider/</a>  
+   Link:<a href="https://intelligencemurders.com/intelligence-service-murders/Details/Phil_Schneider/" target="_blank" rel="noopener noreferrer nofollow">https://intelligencemurders.com/intelligence-service-murders/Details/Phil_Schneider/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: therevealer.org  
    Title: the philadelphia experiment  
-   Link: <a href="https://therevealer.org/the-philadelphia-experiment/" target="_blank" rel="noopener noreferrer nofollow">https://therevealer.org/the-philadelphia-experiment/</a>  
+   Link:<a href="https://therevealer.org/the-philadelphia-experiment/" target="_blank" rel="noopener noreferrer nofollow">https://therevealer.org/the-philadelphia-experiment/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: en.ikwipedia.org  
    Title: Phil Schneider  
-   Link: <a href="https://en.ikwipedia.org/wiki/Phil_Schneider" target="_blank" rel="noopener noreferrer nofollow">https://en.ikwipedia.org/wiki/Phil_Schneider</a>  
+   Link:<a href="https://en.ikwipedia.org/wiki/Phil_Schneider" target="_blank" rel="noopener noreferrer nofollow">https://en.ikwipedia.org/wiki/Phil_Schneider</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufo.fandom.com  
    Title: Phil Schneider  
-   Link: <a href="https://ufo.fandom.com/wiki/Phil_Schneider" target="_blank" rel="noopener noreferrer nofollow">https://ufo.fandom.com/wiki/Phil_Schneider</a>  
+   Link:<a href="https://ufo.fandom.com/wiki/Phil_Schneider" target="_blank" rel="noopener noreferrer nofollow">https://ufo.fandom.com/wiki/Phil_Schneider</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His case is part of a broader investigation now involving 14 scientists and officials—five missing and nine deceased—connected to high-le...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His case is part of a broader investigation now involving 14 scientists and officials—five missing and nine deceased—connected to high-le...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Missing U.S. Scientist Found Dead: Mystery Around UFO-Linked Researchers Deepens  
-   Link: <a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former UFO Investigator Died Before Revealing Secret Programs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former UFO Investigator Died Before Revealing Secret Programs...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OVGhgT5NiU8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVGhgT5NiU8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OVGhgT5NiU8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVGhgT5NiU8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Former UFO Investigator Died Before Revealing Secret Programs  
-   Link: <a href="https://www.youtube.com/watch?v=AeE9nyoTaX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AeE9nyoTaX4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Deaths of UFO Researchers Date Back to 1940s, Fresh Claim Emerges...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AeE9nyoTaX4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AeE9nyoTaX4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Deaths of UFO Researchers Date Back to 1940s, Fresh Claim Emerges...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Missing Scientist Found Dead in Chilling Forest Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Scientist Missing Mysterious Deaths....UFO coverup...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Scientist Missing Mysterious Deaths....UFO coverup...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1st0ygh/and_there_were_multiple_objects_all_at_once_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1st0ygh/and_there_were_multiple_objects_all_at_once_so/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1st0ygh/and_there_were_multiple_objects_all_at_once_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1st0ygh/and_there_were_multiple_objects_all_at_once_so/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: geo.tv  
-   Link: <a href="https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress</a>  
+   Link:<a href="https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: thelibertyline.com  
-   Link: <a href="https://thelibertyline.com/2026/04/25/ufo-whistleblower-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://thelibertyline.com/2026/04/25/ufo-whistleblower-overdose/</a>  
+   Link:<a href="https://thelibertyline.com/2026/04/25/ufo-whistleblower-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://thelibertyline.com/2026/04/25/ufo-whistleblower-overdose/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/</a>  
+   Link:<a href="https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/someamazingfacts/posts/a-decorated-air-force-intelligence-officer-named-matthew-sullivan-had-agreed-to-/1765151942308576/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  

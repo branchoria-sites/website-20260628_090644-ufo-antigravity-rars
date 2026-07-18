@@ -280,27 +280,27 @@ image: /assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthof
 
 ## Introduction
 
-Within stories about allegedly suppressed UFO technology, few documents are cited more often than the speculative [aerospace]({{ 'aerospace/' | relative_url }}) papers associated with physicists Hal Puthoff and Eric Davis. Because these studies discussed concepts such as warp drives, spacetime engineering, antigravity, wormholes and vacuum energy under a government-funded programme, they are frequently presented as evidence that secret UFO propulsion systems already exist. The documents themselves support a more limited conclusion. They show that a U.S. defence-related programme funded reviews of highly speculative physics topics and asked researchers to assess whether any might have future aerospace relevance. They do not demonstrate that antigravity craft were built, that recovered UFO technology was being reverse-engineered, or that scientists connected to the papers became part of a documented pattern of suspicious deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic teleportation.” (Dr.Read more</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative...</span></span></span>
+Within stories about allegedly suppressed UFO technology, few documents are cited more often than the speculative [aerospace]({{ 'aerospace/' | relative_url }}) papers associated with physicists Hal Puthoff and Eric Davis. Because these studies discussed concepts such as warp drives, spacetime engineering, antigravity, wormholes and vacuum energy under a government-funded programme, they are frequently presented as evidence that secret UFO propulsion systems already exist. The documents themselves support a more limited conclusion. They show that a U.S. defence-related programme funded reviews of highly speculative physics topics and asked researchers to assess whether any might have future aerospace relevance. They do not demonstrate that antigravity craft were built, that recovered UFO technology was being reverse-engineered, or that scientists connected to the papers became part of a documented pattern of suspicious deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic teleportation.” (Dr.Read more</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-1-dark.svg" | relative_url }}" alt="Spec Papers illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because the Puthoff and Davis papers sit at the boundary between genuine government-sponsored research and far broader UFO narratives. They are real documents, written by credentialed researchers, but they are often interpreted far beyond what their contents establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
+This distinction matters because the Puthoff and Davis papers sit at the boundary between genuine government-sponsored research and far broader UFO narratives. They are real documents, written by credentialed researchers, but they are often interpreted far beyond what their contents establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-3-dark.svg" | relative_url }}" alt="Spec Papers illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AAWSAP-Era Studies and Why They Attracted Attention
 
-The papers emerged from the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) and related Defence Intelligence Agency activities. Through Freedom of Information Act releases, researchers and journalists obtained a list of 38 Defence Intelligence Reference Documents (DIRDs) commissioned under the programme. Topics included invisibility cloaking, metamaterials, high-frequency gravitational waves, negative mass propulsion, wormholes and advanced propulsion concepts. Federation of American Scientists+2National Taxpayers Union <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic teleportation.” (Dr.Read more</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative...</span></span></span>
+The papers emerged from the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) and related Defence Intelligence Agency activities. Through Freedom of Information Act releases, researchers and journalists obtained a list of 38 Defence Intelligence Reference Documents (DIRDs) commissioned under the programme. Topics included invisibility cloaking, metamaterials, high-frequency gravitational waves, negative mass propulsion, wormholes and advanced propulsion concepts. Federation of American Scientists+2National Taxpayers Union<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic teleportation.” (Dr.Read more</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative...</span></span></span>
 
 Eric Davis authored or co-authored several of the most frequently discussed studies, including:
 
-* *Traversable Wormholes, Stargates, and Negative Energy* <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">energy) localized inside the wormhole throat al-2 (Reference 8):. 5.Read more</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</span></span></span> * *Antigravity for Aerospace Applications* <span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[locationsunknown.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Antigravity for Aerospace Applications (PDF</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</span></span></span>
+* *Traversable Wormholes, Stargates, and Negative Energy*<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">energy) localized inside the wormhole throat al-2 (Reference 8):. 5.Read more</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</span></span></span> * *Antigravity for Aerospace Applications*<span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[locationsunknown.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Antigravity for Aerospace Applications (PDF</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</span></span></span>
 * *Concepts for Extracting Energy from the Quantum Vacuum*
 * Contributions to work on warp-drive and extra-dimension concepts
 
-Hal Puthoff authored *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering*, which explored theoretical approaches to manipulating spacetime itself as a propulsion method. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.org">[National Taxpayers Union+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.org</span><span class="citation-popover-snippet">National Taxpayers UnionTaxpayers Paid for Research into Stargates &amp; Warp Drive...24 Jan 2019 — Traversable Wormholes, Stargates, and Ne...</span></span></span>
+Hal Puthoff authored *Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering*, which explored theoretical approaches to manipulating spacetime itself as a propulsion method.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.org">[ntu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.org</span><span class="citation-popover-snippet">National Taxpayers UnionTaxpayers Paid for Research into Stargates &amp; Warp Drive...24 Jan 2019 — Traversable Wormholes, Stargates, and Ne...</span></span></span>
 
-The existence of official funding gave these papers an aura of hidden significance. To many readers, the combination of government sponsorship, advanced physics and UFO-related public discussion suggested that the documents were indirect admissions of secret technological breakthroughs. Yet the released papers are largely literature reviews and theoretical assessments rather than reports of successful engineering projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
+The existence of official funding gave these papers an aura of hidden significance. To many readers, the combination of government sponsorship, advanced physics and UFO-related public discussion suggested that the documents were indirect admissions of secret technological breakthroughs. Yet the released papers are largely literature reviews and theoretical assessments rather than reports of successful engineering projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XD4gQS_-qY" title="The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer">The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 1.6M &middot; Uploaded: May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XD4gQS_-qY">Open on YouTube</a></p></div></div></div>
@@ -309,13 +309,13 @@ The existence of official funding gave these papers an aura of hidden significan
 
 A common misunderstanding is that the papers described functioning warp drives or antigravity systems. In reality, they generally examined whether known physics offered any pathway—however remote—towards such capabilities.
 
-Puthoff's spacetime-engineering paper surveyed ideas from general relativity and quantum theory, discussing concepts such as warp drives and traversable wormholes as theoretical consequences of manipulating spacetime geometry. The paper explicitly framed these possibilities as speculative extrapolations from existing physics rather than demonstrated technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
+Puthoff's spacetime-engineering paper surveyed ideas from general relativity and quantum theory, discussing concepts such as warp drives and traversable wormholes as theoretical consequences of manipulating spacetime geometry. The paper explicitly framed these possibilities as speculative extrapolations from existing physics rather than demonstrated technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</span><span class="citation-popover-meta">Published: February 3, 2012</span></span></span>
 
-Similarly, Davis's wormhole study reviewed theoretical work involving [negative energy]({{ 'negative-energy/' | relative_url }}) and exotic spacetime structures. The document explored what would be required for traversable wormholes under known equations, while repeatedly acknowledging severe physical and engineering obstacles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">energy) localized inside the wormhole throat al-2 (Reference 8):. 5.Read more</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</span></span></span>
+Similarly, Davis's wormhole study reviewed theoretical work involving [negative energy]({{ 'negative-energy/' | relative_url }}) and exotic spacetime structures. The document explored what would be required for traversable wormholes under known equations, while repeatedly acknowledging severe physical and engineering obstacles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">energy) localized inside the wormhole throat al-2 (Reference 8):. 5.Read more</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</span></span></span>
 
-The antigravity paper followed the same pattern. Rather than documenting a working propulsion breakthrough, it assessed whether any known or proposed physical mechanisms might eventually permit gravitational manipulation for aerospace applications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Antigravity for Aerospace Applications (PDF</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</span></span></span>
+The antigravity paper followed the same pattern. Rather than documenting a working propulsion breakthrough, it assessed whether any known or proposed physical mechanisms might eventually permit gravitational manipulation for aerospace applications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Antigravity for Aerospace Applications (PDF</span><span class="citation-popover-snippet">Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</span></span></span>
 
-An important context often lost in UFO discussions is that theoretical exploration of seemingly impossible concepts is not unique to these reports. Academic physics regularly studies wormholes, negative energy and exotic spacetime geometries as mathematical questions. Later peer-reviewed research by mainstream physicists has continued examining traversable wormhole models without implying that practical wormhole transport exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1807.04726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Traversable wormholes in four dimensions</span><span class="citation-popover-snippet">Traversable wormholes in four dimensionsJuly 12, 2018...</span><span class="citation-popover-meta">Published: July 12, 2018</span></span></span>
+An important context often lost in UFO discussions is that theoretical exploration of seemingly impossible concepts is not unique to these reports. Academic physics regularly studies wormholes, negative energy and exotic spacetime geometries as mathematical questions. Later peer-reviewed research by mainstream physicists has continued examining traversable wormhole models without implying that practical wormhole transport exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1807.04726" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Traversable wormholes in four dimensions</span><span class="citation-popover-snippet">Traversable wormholes in four dimensionsJuly 12, 2018...</span><span class="citation-popover-meta">Published: July 12, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X3CcaP3yAkc" title="Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer">Bonus Episode | The Basement Office | Eric Davis on working for Pentagon UFO program | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X3CcaP3yAkc">Open on YouTube</a></p></div></div></div>
@@ -342,7 +342,7 @@ Even critics of the programme focused largely on whether taxpayer money was spen
 Within narratives about suspicious deaths of scientists, the Puthoff and Davis papers are often used as connective tissue rather than direct evidence. The reasoning typically proceeds in several steps:
 
 [* Advanced propulsion papers existed.](#endnote-1 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXivADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe&quot;)...</p></details>
 * Therefore secret propulsion research must exist.
 * Therefore individuals connected to aerospace, defence or exotic physics may have known sensitive information.
 * Therefore unexplained deaths or disappearances could be linked to suppression.
@@ -358,7 +358,7 @@ This distinction is particularly important in the broader category of “UFO-lin
 The strongest evidence-based conclusion is narrower but still noteworthy.
 
 [The Puthoff and Davis documents show that:](#endnote-22 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Disclosure Fund Presentation with House Oversight...25 May 2025 — Davis wrote the DIRD papers referred to in post #6 for Puthoff&#x27;s E&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Disclosure Fund Presentation with House Oversight...25 May 2025 — Davis wrote the DIRD papers referred to in post #6 for Puthoff&#x27;s E&quot;)...</p></details>
 
 * Defence-related funding was used to examine highly unconventional aerospace concepts.
 * Government officials were willing to commission assessments of ideas outside mainstream engineering practice.
@@ -375,194 +375,194 @@ What the documents do not demonstrate is equally important:
 For readers examining claims about suspicious deaths, the Puthoff and Davis papers are therefore best understood as examples of how authentic government-funded speculative research can be transformed into much larger narratives. The documents are real, the physics questions are real, and the funding was real. The leap from those facts to claims of concealed UFO propulsion systems—or to assertions that researchers were silenced because of such systems—remains unproven by the papers themselves. [arXiv+2Federation of American Scientists](https://arxiv.org/pdf/1204.2184)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Fringe Propulsion Papers Prove UFO Secrets?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Fringe Propulsion Papers Prove UFO Secrets?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for claims about government UFO investigations and separates evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for claims about government UFO investigations and separates evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Directly engages with modern narratives about hidden aerospace projects and alleged advanced propulsion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly engages with modern narratives about hidden aerospace projects and alleged advanced propulsion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcceAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frontiers of Propulsion Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science">Frontiers of Propulsion Science</a>
-        </h4>
-        <p class="fr-book-author">By Marc G. Millis, Eric W. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qcceAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frontiers of Propulsion Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science">Frontiers of Propulsion Science</a>
+</h4>
+<p class="fr-book-author">By Marc G. Millis, Eric W. Davis</p>
         
-        <p class="fr-book-desc">Directly addresses speculative propulsion topics including concepts often invoked in UFO technology claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses speculative propulsion topics including concepts often invoked in UFO technology claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+by+Marc+G.+Millis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives, technology claims, and belief systems interact in contemporary culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives, technology claims, and belief systems interact in contemporary culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frontiers of Propulsion Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frontiers of Propulsion Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="spec-papers-do-fringe-propulsion-papers-prove-ufo-secrets-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="do-fringe-propulsion-papers-prove-ufo-secrets-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,129 +768,129 @@ For readers examining claims about suspicious deaths, the Puthoff and Davis pape
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADVANCED SPACE PROPULSION BASED ON VACUUM...February 3, 2012 — by HE Puthoff · 2012 · Cited by 44 — We provide here from a broad pe...</p></details>
    Published: February 3, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American Scientists&#x27; Project on Government Secrecy.... &quot;The Pentagon compiled research into invisibility cloaking, wormhol...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American Scientists&#x27; Project on Government Secrecy.... &quot;The Pentagon compiled research into invisibility cloaking, wormhol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dia.mil  
    Title: energy) localized inside the wormhole throat al-2 (Reference 8):. 5.Read more  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — uric&quot;&#x27; ii&quot;.&quot; Traversable Wormholes, Stargates, and Negative Energy...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Traversable wormholes in four dimensions  
-   Link: <a href="https://arxiv.org/abs/1807.04726" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.04726</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable wormholes in four dimensionsJuly 12, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1807.04726" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.04726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable wormholes in four dimensionsJuly 12, 2018...</p></details>
    Published: July 12, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Traversable Wormholes via a Double Trace Deformation  
-   Link: <a href="https://arxiv.org/abs/1608.05687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1608.05687</a>  
+   Link:<a href="https://arxiv.org/abs/1608.05687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1608.05687</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Transparentizing Black Holes to Eternal Traversable Wormholes  
-   Link: <a href="https://arxiv.org/abs/1901.07679" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07679</a>  
+   Link:<a href="https://arxiv.org/abs/1901.07679" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07679</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: envisioning.com  
-   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechStudies conducted by mainstream physicists (Eric Davis, Hal Puthoff, others) at academic rigor lev...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechStudies conducted by mainstream physicists (Eric Davis, Hal Puthoff, others) at academic rigor lev...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Steven Aftergood, former director of the Federation of Americ...</p></details>
+   Link:<a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...20 Apr 2022 — Steven Aftergood, former director of the Federation of Americ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntu.org  
-   Link: <a href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Taxpayers UnionTaxpayers Paid for Research into Stargates &amp; Warp Drive...24 Jan 2019 — Traversable Wormholes, Stargates, and Ne...</p></details>
+   Link:<a href="https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.org/foundation/detail/taxpayers-paid-for-research-into-stargates-warp-drive-in-secret-defense-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Taxpayers UnionTaxpayers Paid for Research into Stargates &amp; Warp Drive...24 Jan 2019 — Traversable Wormholes, Stargates, and Ne...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federalnewsnetwork.com  
    Title: warp speed wormholes invisibility cloaks why dias research isnt a joke  
-   Link: <a href="https://federalnewsnetwork.com/reporters-notebook-jason-miller/2019/02/warp-speed-wormholes-invisibility-cloaks-why-dias-research-isnt-a-joke/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/reporters-notebook-jason-miller/2019/02/warp-speed-wormholes-invisibility-cloaks-why-dias-research-isnt-a-joke/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkWarp speed, wormholes, invisibility cloaks: Why DIA&#x27;s...11 Feb 2019 — Warp speed, invisibility cloaks and harnessing...</p></details>
+   Link:<a href="https://federalnewsnetwork.com/reporters-notebook-jason-miller/2019/02/warp-speed-wormholes-invisibility-cloaks-why-dias-research-isnt-a-joke/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/reporters-notebook-jason-miller/2019/02/warp-speed-wormholes-invisibility-cloaks-why-dias-research-isnt-a-joke/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkWarp speed, wormholes, invisibility cloaks: Why DIA&#x27;s...11 Feb 2019 — Warp speed, invisibility cloaks and harnessing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cropper.watch.aetnd.com  
-   Link: <a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6. Casimir Effect: Negative Energy for Traversable Wormholes. IV. Constructing a Traversable Wormhole is not Easy..Read more...</p></details>
+   Link:<a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6. Casimir Effect: Negative Energy for Traversable Wormholes. IV. Constructing a Traversable Wormhole is not Easy..Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: locationsunknown.org  
    Title: Antigravity for Aerospace Applications (PDF  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Locations UnknownDefense Intelligence Reference Documents (DRIDs)Traversable Wormholes, Stargates, and Negative Energy (PDF - 42 Pages) · 19...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pdfcoffee.com  
    Title: Defense: Intelligence Reference Document  
-   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy UNCLASSIFIED//FOR OFFICIAL USE ONLY UNCLASSIFIED//FOR OFFICIAL USE ONLY Traversable...</p></details>
+   Link:<a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy UNCLASSIFIED//FOR OFFICIAL USE ONLY UNCLASSIFIED//FOR OFFICIAL USE ONLY Traversable...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis: r/UFOsHe is a true insider, worked on (and created the most studies) AAWSAP, likely went fully &#x27;black&#x27; after AAWSAP. He work...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/191378l/eric_davis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis: r/UFOsHe is a true insider, worked on (and created the most studies) AAWSAP, likely went fully &#x27;black&#x27; after AAWSAP. He work...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTL Space Warps: Theory and Applications | PDFDia Warpdrives. PDF. 100% (2). Dia Warpdrives. 34 pages. Traversable Wormholes and Stargate...</p></details>
+   Link:<a href="https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/739477728/EricWDavis-FTLSpaceWarps-StarShipCongress2013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTL Space Warps: Theory and Applications | PDFDia Warpdrives. PDF. 100% (2). Dia Warpdrives. 34 pages. Traversable Wormholes and Stargate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/o6egl8/have_we_reverse_engineered_uap_tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o6egl8/have_we_reverse_engineered_uap_tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have we reverse engineered UAP tech?: r/UFOsA whopping 4 of these papers were written by Davis, on the following topics: &#x27;traversable wo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/o6egl8/have_we_reverse_engineered_uap_tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o6egl8/have_we_reverse_engineered_uap_tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have we reverse engineered UAP tech?: r/UFOsA whopping 4 of these papers were written by Davis, on the following topics: &#x27;traversable wo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I went on ArXiV And Found Some of the Full Text of Papers...DIRD 5: Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Enginee...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/suh1ns/i_went_on_arxiv_and_found_some_of_the_full_text/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I went on ArXiV And Found Some of the Full Text of Papers...DIRD 5: Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Enginee...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIA-08-1004: Advanced Research on Warp Drive and Dark...This product is one in a series of advanced technology reports produced in FY 20...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIA-08-1004: Advanced Research on Warp Drive and Dark...This product is one in a series of advanced technology reports produced in FY 20...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Eric-Davis-16/publication/235107865_Advanced_Propulsion_Study/links/551212560cf270fd7e31e7d1/Advanced-Propulsion-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Eric-Davis-16/publication/235107865_Advanced_Propulsion_Study/links/551212560cf270fd7e31e7d1/Advanced-Propulsion-Study.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Eric-Davis-16/publication/235107865_Advanced_Propulsion_Study/links/551212560cf270fd7e31e7d1/Advanced-Propulsion-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Eric-Davis-16/publication/235107865_Advanced_Propulsion_Study/links/551212560cf270fd7e31e7d1/Advanced-Propulsion-Study.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/26056/heres-[the-list" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-[the-list</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s The List Of Studies The Military&#x27;s Secretive UFO...24 Jul 2020 — These reports cover a far wider breadth of topics than previousl...</p></details>
+   Link:<a href="https://www.twz.com/26056/heres-[the-list" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-[the-list</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s The List Of Studies The Military&#x27;s Secretive UFO...24 Jul 2020 — These reports cover a far wider breadth of topics than previousl...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metabunk.org  
    Title: uap disclosure fund presentation with house oversight committee may 2025.14218  
-   Link: <a href="https://www.metabunk.org/threads/uap-disclosure-fund-presentation-with-house-oversight-committee-may-2025.14218/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/uap-disclosure-fund-presentation-with-house-oversight-committee-may-2025.14218/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Disclosure Fund Presentation with House Oversight...25 May 2025 — Davis wrote the DIRD papers referred to in post #6 for Puthoff&#x27;s E...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/uap-disclosure-fund-presentation-with-house-oversight-committee-may-2025.14218/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/uap-disclosure-fund-presentation-with-house-oversight-committee-may-2025.14218/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Disclosure Fund Presentation with House Oversight...25 May 2025 — Davis wrote the DIRD papers referred to in post #6 for Puthoff&#x27;s E...</p></details>
    Published: may 2025  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 382981032 A Review of Stable Traversable Wormholes in fR Gravity Theories  
-   Link: <a href="https://www.researchgate.net/publication/382981032_A_Review_of_Stable_Traversable_Wormholes_in_fR_Gravity_Theories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382981032_A_Review_of_Stable_Traversable_Wormholes_in_fR_Gravity_Theories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>negative energy (i.e., traversable wormhole) lensing events very closely resemble the main. features of some GRBs. When background light...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/382981032_A_Review_of_Stable_Traversable_Wormholes_in_fR_Gravity_Theories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382981032_A_Review_of_Stable_Traversable_Wormholes_in_fR_Gravity_Theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>negative energy (i.e., traversable wormhole) lensing events very closely resemble the main. features of some GRBs. When background light...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.clearancejobs.com  
-   Link: <a href="https://news.clearancejobs.com/2019/01/17/wormholes-stargates-and-invisibility-cloaks-defense-departments-now-defunct-ufo-research-branch/" target="_blank" rel="noopener noreferrer nofollow">https://news.clearancejobs.com/2019/01/17/wormholes-stargates-and-invisibility-cloaks-defense-departments-now-defunct-ufo-research-branch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These are just a few of the programs the Department of Defense funded between 2007 and 2012.Read more...</p></details>
+   Link:<a href="https://news.clearancejobs.com/2019/01/17/wormholes-stargates-and-invisibility-cloaks-defense-departments-now-defunct-ufo-research-branch/" target="_blank" rel="noopener noreferrer nofollow">https://news.clearancejobs.com/2019/01/17/wormholes-stargates-and-invisibility-cloaks-defense-departments-now-defunct-ufo-research-branch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These are just a few of the programs the Department of Defense funded between 2007 and 2012.Read more...</p></details>

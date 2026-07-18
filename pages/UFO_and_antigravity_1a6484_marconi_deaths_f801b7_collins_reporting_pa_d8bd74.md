@@ -280,19 +280,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_r
 
 ## Introduction
 
-The [Marconi deaths]({{ 'marconi/' | relative_url }}) became a lasting public mystery not simply because several defence-related scientists and engineers died in unusual circumstances, but because a small group of early reports gave the events a coherent narrative. At the centre of that process was journalist Tony Collins, then writing for *Computer News*. Before national newspapers, television programmes and later conspiracy literature expanded the story into lists of dozens of deaths, Collins focused on a much narrower cluster. His reporting transformed what appeared to be isolated incidents into a recognisable pattern involving a handful of defence-computing specialists, eventually crystallising around what became known as the “six-scientist” story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+The [Marconi deaths]({{ 'marconi/' | relative_url }}) became a lasting public mystery not simply because several defence-related scientists and engineers died in unusual circumstances, but because a small group of early reports gave the events a coherent narrative. At the centre of that process was journalist Tony Collins, then writing for *Computer News*. Before national newspapers, television programmes and later conspiracy literature expanded the story into lists of dozens of deaths, Collins focused on a much narrower cluster. His reporting transformed what appeared to be isolated incidents into a recognisable pattern involving a handful of defence-computing specialists, eventually crystallising around what became known as the “six-scientist” story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-1-dark.svg" | relative_url }}" alt="Reporting illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding Collins's reporting is important because it reveals how the Marconi narrative was originally constructed. The first public pattern was not a claim about twenty-five scientists, UFO research or a vast Cold War assassination campaign. It was a much more specific attempt to determine whether several apparently unrelated deaths shared occupational links within a specialised area of defence computing and simulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+Understanding Collins's reporting is important because it reveals how the Marconi narrative was originally constructed. The first public pattern was not a claim about twenty-five scientists, UFO research or a vast Cold War assassination campaign. It was a much more specific attempt to determine whether several apparently unrelated deaths shared occupational links within a specialised area of defence computing and simulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 ## The Computer News Origin Trail
 
-The earliest influential reporting came from *Computer News*, an industry publication rather than a national newspaper. According to later reproductions of Collins's work, the magazine pursued the story for months before most mainstream media organisations paid serious attention. When the wider press eventually covered the deaths in 1987, they often referred back to Collins's investigations as the starting point of the controversy. catless.ncl.ac.uk+2Los Angeles Times <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+The earliest influential reporting came from *Computer News*, an industry publication rather than a national newspaper. According to later reproductions of Collins's work, the magazine pursued the story for months before most mainstream media organisations paid serious attention. When the wider press eventually covered the deaths in 1987, they often referred back to Collins's investigations as the starting point of the controversy. catless.ncl.ac.uk+2Los Angeles Times<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-A key feature of Collins's approach was that he did not begin with a broad conspiracy claim. Instead, he examined two deaths involving computer experts associated with Marconi-related defence work. Coroners' remarks, unusual circumstances surrounding the deaths, and the apparent absence of obvious personal motives created enough uncertainty to justify further investigation. Collins then began looking for additional cases that shared professional connections rather than merely unusual deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+A key feature of Collins's approach was that he did not begin with a broad conspiracy claim. Instead, he examined two deaths involving computer experts associated with Marconi-related defence work. Coroners' remarks, unusual circumstances surrounding the deaths, and the apparent absence of obvious personal motives created enough uncertainty to justify further investigation. Collins then began looking for additional cases that shared professional connections rather than merely unusual deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-This occupational focus distinguished the reporting from later retellings. Collins concentrated on technical specialists involved in defence systems, computer modelling and simulation work. The question he posed was not whether scientists were being murdered because of secret knowledge, but whether a statistically unusual concentration of deaths existed within a relatively small professional community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+This occupational focus distinguished the reporting from later retellings. Collins concentrated on technical specialists involved in defence systems, computer modelling and simulation work. The question he posed was not whether scientists were being murdered because of secret knowledge, but whether a statistically unusual concentration of deaths existed within a relatively small professional community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-LUPnrL1b8M" title="The Plot To Eliminate Cold War Scientists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer">The Plot To Eliminate Cold War Scientists</a></p><p class="youtube-embed-meta">Channel: New Mind</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-LUPnrL1b8M">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ This occupational focus distinguished the reporting from later retellings. Colli
 
 The most important step in building the Marconi pattern occurred when Collins expanded the inquiry beyond the original pair of deaths.
 
-In the version of his article later reproduced in the *RISKS Digest*, Collins wrote that the deaths of two Marconi systems experts had generated intense speculation. He then reported that five other defence workers had come to light, alongside a missing scientist and a senior computer-industry employee who had suffered a serious unexplained fall. This was the moment when readers were presented not with isolated tragedies but with a cluster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+In the version of his article later reproduced in the *RISKS Digest*, Collins wrote that the deaths of two Marconi systems experts had generated intense speculation. He then reported that five other defence workers had come to light, alongside a missing scientist and a senior computer-industry employee who had suffered a serious unexplained fall. This was the moment when readers were presented not with isolated tragedies but with a cluster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 Collins highlighted several features that appeared noteworthy:
 
@@ -309,11 +309,11 @@ Collins highlighted several features that appeared noteworthy:
 * Several had recently completed important projects or changed jobs.
 * Four of the deceased worked within the GEC group, including three connected with Marconi.
 * Others had links to the Royal Military College of Science at Shrivenham.
-* Many were involved in computer simulation and modelling, a specialised field used in advanced defence programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+* Many were involved in computer simulation and modelling, a specialised field used in advanced defence programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-The resulting narrative was powerful because it offered a specific framework. Rather than “scientists are dying,” the story became “specialists involved in defence simulation and advanced military technology are dying under unusual circumstances.” That framing gave journalists, politicians and the public a concrete pattern to examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+The resulting narrative was powerful because it offered a specific framework. Rather than “scientists are dying,” the story became “specialists involved in defence simulation and advanced military technology are dying under unusual circumstances.” That framing gave journalists, politicians and the public a concrete pattern to examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-Importantly, Collins did not present definitive proof of a conspiracy. Contemporary interviews show him emphasising that he was investigating [possible links]({{ 'possible-links/' | relative_url }}) rather than claiming to have established them. He argued that several of the individuals appeared connected through a narrow technical field, but the existence of a connection remained a question rather than a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1987 04 08 mn 185 story</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApr 8, 1987 — Tony Collins, a reporter who investigated the...</span></span></span>
+Importantly, Collins did not present definitive proof of a conspiracy. Contemporary interviews show him emphasising that he was investigating [possible links]({{ 'possible-links/' | relative_url }}) rather than claiming to have established them. He argued that several of the individuals appeared connected through a narrow technical field, but the existence of a connection remained a question rather than a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1987 04 08 mn 185 story</span><span class="citation-popover-snippet">Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApr 8, 1987 — Tony Collins, a reporter who investigated the...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-2-dark.svg" | relative_url }}" alt="Reporting illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,11 +321,11 @@ Importantly, Collins did not present definitive proof of a conspiracy. Contempor
 
 The six-scientist cluster gained attention because it combined three elements that journalists and readers find compelling.
 
-First, the deaths occurred within a Cold War defence environment characterised by secrecy. Many of the individuals worked in areas that outsiders only partially understood, making ordinary explanations difficult to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+First, the deaths occurred within a Cold War defence environment characterised by secrecy. Many of the individuals worked in areas that outsiders only partially understood, making ordinary explanations difficult to verify independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-Second, several deaths involved unusual or disturbing circumstances. Even when coroners or police investigations identified suicide or accident as the likely explanation, the details often appeared strange enough to invite further questions. Those details became central to press coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+Second, several deaths involved unusual or disturbing circumstances. Even when coroners or police investigations identified suicide or accident as the likely explanation, the details often appeared strange enough to invite further questions. Those details became central to press coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
-Third, Collins supplied a narrative structure. Human beings naturally seek patterns, and his reporting offered a way to connect incidents that otherwise would have remained local news stories. The resulting pattern was sufficiently coherent to attract attention from national newspapers, international media and members of Parliament who called for further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+Third, Collins supplied a narrative structure. Human beings naturally seek patterns, and his reporting offered a way to connect incidents that otherwise would have remained local news stories. The resulting pattern was sufficiently coherent to attract attention from national newspapers, international media and members of Parliament who called for further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ru37pQlXwWM" title="Project Mondaloy Murders: Top Scientists Dropping Dead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ru37pQlXwWM" target="_blank" rel="noopener noreferrer">Project Mondaloy Murders: Top Scientists Dropping Dead</a></p><p class="youtube-embed-meta">Channel: Coop</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ru37pQlXwWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ru37pQlXwWM">Open on YouTube</a></p></div></div></div>
@@ -334,16 +334,16 @@ Third, Collins supplied a narrative structure. Human beings naturally seek patte
 
 One of the most significant developments in the history of the Marconi story is the expansion from an initial cluster of roughly six defence-related cases to later lists containing twenty-five or more names.
 
-The early reporting centred on a relatively tight group of individuals linked through defence computing, simulation and associated organisations. As publicity increased, researchers, journalists and conspiracy writers began adding additional deaths that shared only partial similarities. Some worked for related companies; others were involved in defence research more generally. Over time, the boundaries of the dataset became increasingly flexible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+The early reporting centred on a relatively tight group of individuals linked through defence computing, simulation and associated organisations. As publicity increased, researchers, journalists and conspiracy writers began adding additional deaths that shared only partial similarities. Some worked for related companies; others were involved in defence research more generally. Over time, the boundaries of the dataset became increasingly flexible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-Tony Collins himself later continued investigating and eventually documented a much larger collection of cases. By the time he published *Open Verdict*, the number had expanded substantially beyond the original six-scientist narrative. Yet even later accounts acknowledged that the public story had begun with the smaller cluster he first identified in 1987. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">bbc pay author over stolen plot line 1357461</span><span class="citation-popover-snippet">The IndependentBBC pay author over stolen plot lineOct 9, 1996 — Mr Collins, 41, executive editor of Computer Weekly, broke the story of...</span></span></span>
+Tony Collins himself later continued investigating and eventually documented a much larger collection of cases. By the time he published *Open Verdict*, the number had expanded substantially beyond the original six-scientist narrative. Yet even later accounts acknowledged that the public story had begun with the smaller cluster he first identified in 1987.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">bbc pay author over stolen plot line 1357461</span><span class="citation-popover-snippet">The IndependentBBC pay author over stolen plot lineOct 9, 1996 — Mr Collins, 41, executive editor of Computer Weekly, broke the story of...</span></span></span>
 
 This expansion had two important consequences:
 
 * It increased public interest by creating the impression of a growing body of evidence.
-* It weakened the clarity of the original pattern because many later additions were more loosely connected than the first group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+* It weakened the clarity of the original pattern because many later additions were more loosely connected than the first group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
-As a result, modern discussions often merge two different subjects: Collins's initial investigation into a narrow cluster of defence specialists, and later claims involving much larger numbers of scientists and engineers. Historically, these are related but distinct stages in the evolution of the Marconi deaths narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+As a result, modern discussions often merge two different subjects: Collins's initial investigation into a narrow cluster of defence specialists, and later claims involving much larger numbers of scientists and engineers. Historically, these are related but distinct stages in the evolution of the Marconi deaths narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-3-dark.svg" | relative_url }}" alt="Reporting illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_marconi_deaths_f801b7_collins_reporting_pa_d8bd74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,203 +351,203 @@ As a result, modern discussions often merge two different subjects: Collins's in
 
 The lasting significance of Tony Collins's reporting lies less in proving a theory than in defining a dataset. Before his articles, the deaths existed as separate events investigated by local police, coroners and employers. After his reporting, they became part of a recognisable public pattern.
 
-That pattern rested on a limited but memorable proposition: several defence-computing specialists connected to advanced military projects had died or disappeared in circumstances that seemed unusual enough to warrant scrutiny. Whether those events reflected coincidence, occupational stress, hidden connections or something more sinister remained unresolved. What Collins contributed was the framework that allowed the public to see them as a single story. catless.ncl.ac.uk+2Los Angeles Times <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+That pattern rested on a limited but memorable proposition: several defence-computing specialists connected to advanced military projects had died or disappeared in circumstances that seemed unusual enough to warrant scrutiny. Whether those events reflected coincidence, occupational stress, hidden connections or something more sinister remained unresolved. What Collins contributed was the framework that allowed the public to see them as a single story. catless.ncl.ac.uk+2Los Angeles Times<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
-Within the broader history of alleged suspicious deaths involving defence researchers, UFO-related speculation and advanced technology programmes, the six-scientist story represents the crucial first stage. It was the reporting itself—not merely the deaths—that transformed a collection of incidents into the enduring phenomenon known as the [Marconi scientist]({{ 'marconi-6a88ac/' | relative_url }}) mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
+Within the broader history of alleged suspicious deaths involving defence researchers, UFO-related speculation and advanced technology programmes, the six-scientist story represents the crucial first stage. It was the reporting itself—not merely the deaths—that transformed a collection of incidents into the enduring phenomenon known as the [Marconi scientist]({{ 'marconi-6a88ac/' | relative_url }}) mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catless.ncl.ac.uk">[catless.ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catless.ncl.ac.uk</span><span class="citation-popover-snippet">The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NZXKQ_d9K68" title="The 11 Missing Scientists - Conspiracy or Coincidence?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NZXKQ_d9K68" target="_blank" rel="noopener noreferrer">The 11 Missing Scientists - Conspiracy or Coincidence?</a></p><p class="youtube-embed-meta">Channel: Michael Smerconish</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NZXKQ_d9K68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NZXKQ_d9K68">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Reporting Built the Marconi Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Reporting Built the Marconi Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how conspiracy stories develop, spread and gain cultural traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores how conspiracy stories develop, spread and gain cultural traction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores the culture of unusual military research and the myths that grow around classified programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides context for understanding how clusters of events can become interpreted as coordinated patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for understanding how clusters of events can become interpreted as coordinated patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Barkun</p>
         
-        <p class="fr-book-desc">Examines the evolution of conspiracy narratives, including how disparate claims become connected into larger stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the evolution of conspiracy narratives, including how disparate claims become connected into larger stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="reporting-how-reporting-built-the-marconi-pattern-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reporting-built-the-marconi-pattern-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-reporting-built-the-marconi-pattern-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ Within the broader history of alleged suspicious deaths involving defence resear
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ Within the broader history of alleged suspicious deaths involving defence resear
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ Within the broader history of alleged suspicious deaths involving defence resear
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ Within the broader history of alleged suspicious deaths involving defence resear
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ Within the broader history of alleged suspicious deaths involving defence resear
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,90 +753,90 @@ Within the broader history of alleged suspicious deaths involving defence resear
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: catless.ncl.ac.uk  
-   Link: <a href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/risks/4/81</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</p></details>
+   Link:<a href="https://catless.ncl.ac.uk/risks/4/81" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/risks/4/81</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RISKS Digest Volume 4 Issue 819 Apr 1987 —... two Marconi systems experts first reported in Computer News have sparked off intense s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: GEC-Marconi scientist deaths conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: catless.ncl.ac.uk  
-   Link: <a href="https://catless.ncl.ac.uk/Risks/index.4.html" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/Risks/index.4.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RISKS Digest Volume 4 Indexby PG Neumann — The RISKS Digest Volume 4 Index. Forum on Risks to the Public in Computers and Related Systems...</p></details>
+   Link:<a href="https://catless.ncl.ac.uk/Risks/index.4.html" target="_blank" rel="noopener noreferrer nofollow">https://catless.ncl.ac.uk/Risks/index.4.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RISKS Digest Volume 4 Indexby PG Neumann — The RISKS Digest Volume 4 Index. Forum on Risks to the Public in Computers and Related Systems...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: latimes.com  
    Title: la xpm 1987 04 08 mn 185 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApr 8, 1987 — Tony Collins, a reporter who investigated the...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesTheir Firm Linked to &#x27;Star Wars&#x27;: British Scientists&#x27; DeathsApr 8, 1987 — Tony Collins, a reporter who investigated the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au27 Nov 1988 - THE MARCONI MYSTERY - TroveThe conspiracy theories began when a journalist first linked the deaths of two scienti...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nla.gov.au27 Nov 1988 - THE MARCONI MYSTERY - TroveThe conspiracy theories began when a journalist first linked the deaths of two scienti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: independent.co.uk  
    Title: bbc pay author over stolen plot line 1357461  
-   Link: <a href="https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentBBC pay author over stolen plot lineOct 9, 1996 — Mr Collins, 41, executive editor of Computer Weekly, broke the story of...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/bbc-pay-author-over-stolen-plot-line-1357461.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentBBC pay author over stolen plot lineOct 9, 1996 — Mr Collins, 41, executive editor of Computer Weekly, broke the story of...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: math.tau.ac.il  
-   Link: <a href="https://www.math.tau.ac.il/~nachumd/verify/risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.math.tau.ac.il/~nachumd/verify/risks.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DigestIllustrative Risks to the Public in the Use of Computer Systems and Related Technology Peter G. Neumann, Computer Science Laborator...</p></details>
+   Link:<a href="https://www.math.tau.ac.il/~nachumd/verify/risks.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.math.tau.ac.il/~nachumd/verify/risks.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DigestIllustrative Risks to the Public in the Use of Computer Systems and Related Technology Peter G. Neumann, Computer Science Laborator...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cbnnews/posts/nearly-a-dozen-scientists-linked-to-us-nuclear-and-[aerospace" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbnnews/posts/nearly-a-dozen-scientists-linked-to-us-nuclear-and-[aerospace</a>  
+   Link:<a href="https://www.facebook.com/cbnnews/posts/nearly-a-dozen-scientists-linked-to-us-nuclear-and-[aerospace" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbnnews/posts/nearly-a-dozen-scientists-linked-to-us-nuclear-and-[aerospace</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LUPnrL1b8M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War ScientistsAmong them, UK&#x27;s Computer Weekly correspondent Tony Collins, would file a series of noteworthy s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-LUPnrL1b8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-LUPnrL1b8M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War ScientistsAmong them, UK&#x27;s Computer Weekly correspondent Tony Collins, would file a series of noteworthy s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: afr.com  
    Title: the baffling case of the dead scientists 19881202 j8ity  
-   Link: <a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTSDec 2, 1988 — But this was exploded by a journalist Tony Collins of Computer News who linked the...</p></details>
+   Link:<a href="https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity" target="_blank" rel="noopener noreferrer nofollow">https://www.afr.com/politics/the-baffling-case-of-the-dead-scientists-19881202-j8ity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BAFFLING CASE OF THE DEAD SCIENTISTSDec 2, 1988 — But this was exploded by a journalist Tony Collins of Computer News who linked the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FactifyyWorld/posts/recent-reports-indicate-a-troubling-pattern-in-which-high-profile-scientists-hav/924815623619226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FactifyyWorld/posts/recent-reports-indicate-a-troubling-pattern-in-which-high-profile-scientists-hav/924815623619226/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>h the SDI program aiming to develop advanced missile defense...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/FactifyyWorld/posts/recent-reports-indicate-a-troubling-pattern-in-which-high-profile-scientists-hav/924815623619226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FactifyyWorld/posts/recent-reports-indicate-a-troubling-pattern-in-which-high-profile-scientists-hav/924815623619226/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h the SDI program aiming to develop advanced missile defense...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: 1987 abc 2020 the sinister death of 26 marconi  
-   Link: <a href="https://www.reddit.com/r/threebodyproblem/comments/1st9svf/1987_abc_2020_the_sinister_death_of_26_marconi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/threebodyproblem/comments/1st9svf/1987_abc_2020_the_sinister_death_of_26_marconi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sinister death of 26 Marconi scientists in the UK. An old...1987 ABC 20/20: The sinister death of 26 Marconi scientists in the UK. A...</p></details>
+   Link:<a href="https://www.reddit.com/r/threebodyproblem/comments/1st9svf/1987_abc_2020_the_sinister_death_of_26_marconi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/threebodyproblem/comments/1st9svf/1987_abc_2020_the_sinister_death_of_26_marconi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sinister death of 26 Marconi scientists in the UK. An old...1987 ABC 20/20: The sinister death of 26 Marconi scientists in the UK. A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/msn/posts/at-least-10-scientists-connected-to-sensitive-us-government-or-defenserelated-re/982649417465302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/msn/posts/at-least-10-scientists-connected-to-sensitive-us-government-or-defenserelated-re/982649417465302/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0s? They were all working for top secret programs which...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/msn/posts/at-least-10-scientists-connected-to-sensitive-us-government-or-defenserelated-re/982649417465302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/msn/posts/at-least-10-scientists-connected-to-sensitive-us-government-or-defenserelated-re/982649417465302/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0s? They were all working for top secret programs which...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: computerweekly.com  
    Title: CW50 Bugs blunders and bad practices  
-   Link: <a href="https://www.computerweekly.com/feature/CW50-Bugs-blunders-and-bad-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/feature/CW50-Bugs-blunders-and-bad-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CW@50: Bugs, blunders and bad practicesAug 24, 2016 — One of the earliest was its investigations into the mysterious deaths of 25 scienti...</p></details>
+   Link:<a href="https://www.computerweekly.com/feature/CW50-Bugs-blunders-and-bad-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/feature/CW50-Bugs-blunders-and-bad-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CW@50: Bugs, blunders and bad practicesAug 24, 2016 — One of the earliest was its investigations into the mysterious deaths of 25 scienti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theunredacted.com  
    Title: dead scientists the marconi murders  
-   Link: <a href="https://theunredacted.com/dead-scientists-the-marconi-murders/" target="_blank" rel="noopener noreferrer nofollow">https://theunredacted.com/dead-scientists-the-marconi-murders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists: The Marconi MurdersFeb 21, 2018 — A cluster of strange and often grisly deaths amongst scientists and computer experts w...</p></details>
+   Link:<a href="https://theunredacted.com/dead-scientists-the-marconi-murders/" target="_blank" rel="noopener noreferrer nofollow">https://theunredacted.com/dead-scientists-the-marconi-murders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dead Scientists: The Marconi MurdersFeb 21, 2018 — A cluster of strange and often grisly deaths amongst scientists and computer experts w...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mekabay.com  
    Title: risks05 1987 06 12 1987 12 31  
-   Link: <a href="https://www.mekabay.com/overviews/risks/risks05_1987_06_12_1987-12-31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mekabay.com/overviews/risks/risks05_1987_06_12_1987-12-31.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Risks Digest Index to Volume 512 Jun 1987 — [Whereas the following three incidents are not directly computer related, they are clearl...</p></details>
+   Link:<a href="https://www.mekabay.com/overviews/risks/risks05_1987_06_12_1987-12-31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mekabay.com/overviews/risks/risks05_1987_06_12_1987-12-31.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Risks Digest Index to Volume 512 Jun 1987 — [Whereas the following three incidents are not directly computer related, they are clearl...</p></details>

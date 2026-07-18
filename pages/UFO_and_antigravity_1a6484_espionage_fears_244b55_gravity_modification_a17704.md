@@ -284,17 +284,17 @@ Within stories about suspicious deaths of scientists linked to UFOs, advanced pr
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-1-dark.svg" | relative_url }}" alt="Gravity Leap illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that this reasoning often skips several evidential steps. The mere existence of gravity-related research does not demonstrate that a breakthrough was achieved, that governments considered it operationally important, or that a death was connected to the work. In many cases, the “knew too much” narrative grows from the perceived importance of a technology rather than from evidence that such a technology actually existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
+The difficulty is that this reasoning often skips several evidential steps. The mere existence of gravity-related research does not demonstrate that a breakthrough was achieved, that governments considered it operationally important, or that a death was connected to the work. In many cases, the “knew too much” narrative grows from the perceived importance of a technology rather than from evidence that such a technology actually existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
 
 ## Why gravity modification sounds strategically valuable
 
-The attraction of the theory is easy to understand. A genuine ability to manipulate gravity would be among the most consequential discoveries in human history. It could potentially alter spacecraft propulsion, reduce fuel requirements, transform military mobility and reshape energy economics. Even popular science discussions regularly note that successful antigravity technology would revolutionise transportation and space exploration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
+The attraction of the theory is easy to understand. A genuine ability to manipulate gravity would be among the most consequential discoveries in human history. It could potentially alter spacecraft propulsion, reduce fuel requirements, transform military mobility and reshape energy economics. Even popular science discussions regularly note that successful antigravity technology would revolutionise transportation and space exploration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
 
 That strategic value creates a powerful psychological shortcut. If gravity control would be worth trillions of pounds and confer enormous military advantages, then it seems plausible that states would classify it, compete for it or even suppress information about it.
 
-The problem is that strategic value alone does not establish technical reality. Governments have repeatedly explored highly speculative propulsion concepts precisely because the potential payoff would be enormous if any proved workable. NASA's Breakthrough Propulsion Physics programme investigated ideas including gravity-electromagnetic coupling, propellantless propulsion, warp-drive concepts and related frontier questions. The programme existed because the rewards would have been extraordinary, not because those rewards had already been achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling...</span></span></span>
+The problem is that strategic value alone does not establish technical reality. Governments have repeatedly explored highly speculative propulsion concepts precisely because the potential payoff would be enormous if any proved workable. NASA's Breakthrough Propulsion Physics programme investigated ideas including gravity-electromagnetic coupling, propellantless propulsion, warp-drive concepts and related frontier questions. The programme existed because the rewards would have been extraordinary, not because those rewards had already been achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling...</span></span></span>
 
-In fact, much of the programme's work involved testing claims that ultimately failed to demonstrate the promised effects. Several proposed antigravity mechanisms and gravity-shielding concepts were judged non-viable or remained unconfirmed after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+In fact, much of the programme's work involved testing claims that ultimately failed to demonstrate the promised effects. Several proposed antigravity mechanisms and gravity-shielding concepts were judged non-viable or remained unconfirmed after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
 This distinction is crucial. Research interest and military relevance do not automatically imply successful technology.
 
@@ -310,10 +310,10 @@ Terms such as:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* gravity modification <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">gravity modification experiments, including purported black projects...Read more...</span></span></span>
+* gravity modification<span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">gravity modification experiments, including purported black projects...Read more...</span></span></span>
 * gravity control
 * electrogravitics
-* advanced propulsion * breakthrough propulsion physics(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+* advanced propulsion * breakthrough propulsion physics(#endnote-2 "Endnote 2")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 * exotic propulsion
 
 </div>
@@ -322,9 +322,9 @@ often describe a very broad spectrum of work. Some involves mainstream theoretic
 
 Online retellings frequently collapse these distinctions. A scientist who investigated unusual propulsion concepts may become described as an "antigravity scientist". A researcher interested in unconventional theories may become a holder of world-changing secrets. The label itself starts doing evidential work that the underlying facts do not support.
 
-The history of NASA's Breakthrough Propulsion Physics programme illustrates this dynamic. The project was designed to investigate whether any credible path existed toward radical propulsion breakthroughs. Its publications emphasised uncertainty, experimental testing and the need to eliminate false positives. Yet in conspiracy narratives, the mere existence of the programme is sometimes treated as proof that governments already possessed antigravity technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+The history of NASA's Breakthrough Propulsion Physics programme illustrates this dynamic. The project was designed to investigate whether any credible path existed toward radical propulsion breakthroughs. Its publications emphasised uncertainty, experimental testing and the need to eliminate false positives. Yet in conspiracy narratives, the mere existence of the programme is sometimes treated as proof that governments already possessed antigravity technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
-The same pattern appears around gravity-control researchers such as Ning Li. Li became famous for theoretical work suggesting possible links between [superconductors]({{ 'superconductors/' | relative_url }}) and gravity effects. Over time, stories about her research evolved into claims that she had discovered operational antigravity technology and was subsequently hidden from public view. However, the public record contains far [stronger evidence]({{ 'proof-test/' | relative_url }}) for ambitious theoretical work and incomplete experimental efforts than for a demonstrated gravity-control breakthrough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">April 30, 2026 — Ning Li was a Chinese-American physicist. She is known for her research into anti-gravity. In the 1990s, Li worked as a...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
+The same pattern appears around gravity-control researchers such as Ning Li. Li became famous for theoretical work suggesting possible links between [superconductors]({{ 'superconductors/' | relative_url }}) and gravity effects. Over time, stories about her research evolved into claims that she had discovered operational antigravity technology and was subsequently hidden from public view. However, the public record contains far [stronger evidence]({{ 'proof-test/' | relative_url }}) for ambitious theoretical work and incomplete experimental efforts than for a demonstrated gravity-control breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">April 30, 2026 — Ning Li was a Chinese-American physicist. She is known for her research into anti-gravity. In the 1990s, Li worked as a...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span>
 
 The label "antigravity researcher" often carries more weight in popular retellings than the actual state of the research.
 
@@ -334,13 +334,13 @@ The label "antigravity researcher" often carries more weight in popular retellin
 
 Recent discussions surrounding [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}) show how the mechanism operates in real time.
 
-Eskridge became a focal point in 2026 online discussions about allegedly connected deaths and disappearances of scientists. She had publicly discussed gravity-modification concepts and was associated with presentations exploring unconventional propulsion ideas. Reports noted that she intended to present research related to antigravity claims and gravity-modification concepts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...7 days ago — Missing PersonsScientistsConspiracy theories... gravity-modification experiments and c...</span></span></span>
+Eskridge became a focal point in 2026 online discussions about allegedly connected deaths and disappearances of scientists. She had publicly discussed gravity-modification concepts and was associated with presentations exploring unconventional propulsion ideas. Reports noted that she intended to present research related to antigravity claims and gravity-modification concepts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...7 days ago — Missing PersonsScientistsConspiracy theories... gravity-modification experiments and c...</span></span></span>
 
-Because "gravity modification" sounds revolutionary, her death quickly became incorporated into wider narratives involving hidden technologies, UFO secrecy and possible suppression. Supporters argued that her research area alone justified suspicion of foul play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">gravity modification experiments, including purported black projects...Read more...</span></span></span>
+Because "gravity modification" sounds revolutionary, her death quickly became incorporated into wider narratives involving hidden technologies, UFO secrecy and possible suppression. Supporters argued that her research area alone justified suspicion of foul play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">gravity modification experiments, including purported black projects...Read more...</span></span></span>
 
 Yet the leap from unusual research interests to assassination requires evidence that remains separate from the technology itself. Even if a field is genuinely important, investigators would still need indications of threats, surveillance, coercion, classified information exposure, suspicious forensic findings or other concrete links. The strategic significance of a topic cannot substitute for evidence connecting that topic to a death.
 
-This is why Eskridge's case became a central example in debates over the broader "missing scientists" narrative. The antigravity connection made the story memorable, but it did not by itself establish a causal explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists</span><span class="citation-popover-snippet">The GuardianConspiracy theory over UFOs and missing scientists ...April 25, 2026 — 25 Apr 2026 — Claim of nefarious plot draws attention...</span></span></span>
+This is why Eskridge's case became a central example in debates over the broader "missing scientists" narrative. The antigravity connection made the story memorable, but it did not by itself establish a causal explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists</span><span class="citation-popover-snippet">The GuardianConspiracy theory over UFOs and missing scientists ...April 25, 2026 — 25 Apr 2026 — Claim of nefarious plot draws attention...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/StKLeD5h_Tw" title="1 Marc Millis - Breakthrough Propulsion Study: Assessing Interstellar Flight Challenges / Prospects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=StKLeD5h_Tw" target="_blank" rel="noopener noreferrer">1 Marc Millis - Breakthrough Propulsion Study: Assessing Interstellar Flight Challenges / Prospects</a></p><p class="youtube-embed-meta">Channel: Interstellar Research Group</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=StKLeD5h_Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=StKLeD5h_Tw">Open on YouTube</a></p></div></div></div>
@@ -369,7 +369,7 @@ These approaches generally provide ongoing intelligence benefits. Killing a scie
 
 This does not mean targeted killings never occur in intelligence history. They do. But the common online assumption that a strategically important technology automatically implies murder reverses the normal burden of proof. Before considering extreme explanations, analysts typically ask whether less dramatic mechanisms would better fit the incentives of intelligence collection.
 
-For gravity-modification stories, that question is especially relevant because many of the underlying scientific claims remain disputed or unverified. If a technology has not yet been demonstrated to work, the rationale for an elaborate campaign of eliminations becomes weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2APEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+For gravity-modification stories, that question is especially relevant because many of the underlying scientific claims remain disputed or unverified. If a technology has not yet been demonstrated to work, the rationale for an elaborate campaign of eliminations becomes weaker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-3-dark.svg" | relative_url }}" alt="Gravity Leap illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_espionage_fears_244b55_gravity_modification_a17704-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -385,201 +385,201 @@ The first claim does not prove the second.
 
 In [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) death narratives, the gap between those propositions is often filled with inference rather than evidence. The extraordinary potential value of hypothetical technology creates an atmosphere in which almost any unexplained event can appear sinister. Yet the stronger the claimed breakthrough, the stronger the evidence needed to connect it to a suspicious death.
 
-As a result, the most important analytical question is usually not whether antigravity would matter if it existed. It is whether there is independent evidence that a specific researcher actually possessed such knowledge, and whether there is independent evidence linking that knowledge to the events being explained. In most cases, those are the very links that remain weakest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[Wikipedia+3HowStuffWorks+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
+As a result, the most important analytical question is usually not whether antigravity would matter if it existed. It is whether there is independent evidence that a specific researcher actually possessed such knowledge, and whether there is independent evidence linking that knowledge to the events being explained. In most cases, those are the very links that remain weakest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9doOLHeW8p4" title="TEDx Brussels 2010 - Marc Millis - Building Icarus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9doOLHeW8p4" target="_blank" rel="noopener noreferrer">TEDx Brussels 2010 - Marc Millis - Building Icarus</a></p><p class="youtube-embed-meta">Channel: TEDx Talks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9doOLHeW8p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9doOLHeW8p4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The &#x27;Knew Too Much&#x27; Leap in Antigravity Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The &#x27;Knew Too Much&#x27; Leap in Antigravity Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides real-world context on classified aerospace development, helping readers compare documented secret programs with speculation abou...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context on classified aerospace development, helping readers compare documented secret programs with speculation abou...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses evidential standards, extraordinary claims, and the reasoning issues that often appear in &#x27;knew too much&#x27; stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Addresses evidential standards, extraordinary claims, and the reasoning issues that often appear in &#x27;knew too much&#x27; stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines how secrecy, advanced aerospace projects, and rumor can become intertwined in public narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how secrecy, advanced aerospace projects, and rumor can become intertwined in public narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a serious treatment of UFO claims without relying solely on conspiracy explanations, fitting the page&#x27;s discussion of evidence ver...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a serious treatment of UFO claims without relying solely on conspiracy explanations, fitting the page&#x27;s discussion of evidence ver...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263"><img src="{{ '/assets/images/marketplace-covers/bd40f15ba75b30a41185.jpg' | relative_url }}" alt="Listing image for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263"><img src="{{ '/assets/images/marketplace-covers/bd40f15ba75b30a41185.jpg' | relative_url }}" alt="Listing image for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="gravity-leap-the-knew-too-much-leap-in-antigravity-claims-ufo-and-antigravity-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ As a result, the most important analytical question is usually not whether antig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ As a result, the most important analytical question is usually not whether antig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ As a result, the most important analytical question is usually not whether antig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ As a result, the most important analytical question is usually not whether antig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ As a result, the most important analytical question is usually not whether antig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,166 +785,166 @@ As a result, the most important analytical question is usually not whether antig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/innovation/science-questions/antigravity.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</p></details>
+   Link:<a href="https://science.howstuffworks.com/innovation/science-questions/antigravity.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/innovation/science-questions/antigravity.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is antigravity?27 Feb 2024 — Antigravity technology would revolutionize space exploration and energy production. It wou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Breakthrough Propulsion Physics Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
    Title: news050124 8  
-   Link: <a href="https://www.nature.com/articles/news050124-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news050124-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity has feet of clay26 Jan 2005 — Space agency report is a downer for gravity-control researchers...</p></details>
+   Link:<a href="https://www.nature.com/articles/news050124-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news050124-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity has feet of clay26 Jan 2005 — Space agency report is a downer for gravity-control researchers...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Responding to Mechanical AntigravityPDF | Based on the experiences of the NASA Breakthrough Propulsion Physics Project, suggestions...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Responding to Mechanical AntigravityPDF | Based on the experiences of the NASA Breakthrough Propulsion Physics Project, suggestions...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Marc-Millis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Marc-Millis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marc G. MillisThe term “Breakthrough Propulsion Physics” comes from the NASA project by that name which examined non-rocket space drives...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Marc-Millis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Marc-Millis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marc G. MillisThe term “Breakthrough Propulsion Physics” comes from the NASA project by that name which examined non-rocket space drives...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: [Ning Li](&#123;&#123; 'ning-li/' | relative_url &#125;&#125;) (physicist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — Ning Li was a Chinese-American physicist. She is known for her research into anti-gravity. In the 1990s, Li worked as a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2026 — Ning Li was a Chinese-American physicist. She is known for her research into anti-gravity. In the 1990s, Li worked as a...</p></details>
    Published: April 30, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newsweek.com  
    Title: Who is Amy Eskridge?  
-   Link: <a href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Death Queried Amid US...7 days ago — Missing PersonsScientistsConspiracy theories... gravity-modification experiments and c...</p></details>
+   Link:<a href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Death Queried Amid US...7 days ago — Missing PersonsScientistsConspiracy theories... gravity-modification experiments and c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gravity modification experiments, including purported black projects...Read more...</p></details>
+   Link:<a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gravity modification experiments, including purported black projects...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theoryIn 2026, a conspiracy theory emerged alleging that the deaths or disappearances of several people...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists conspiracy theoryIn 2026, a conspiracy theory emerged alleging that the deaths or disappearances of several people...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Breakthrough (2019 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Breakthrough_%282019_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_%282019_film%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough (2019 film)The film tells the story of a St. Louis teenager who slipped through an icy lake on January 19, 2015, and was...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Breakthrough_%282019_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_%282019_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough (2019 film)The film tells the story of a St. Louis teenager who slipped through an icy lake on January 19, 2015, and was...</p></details>
    Published: January 19, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 7268256 Assessing Potential Propulsion Breakthroughs  
-   Link: <a href="https://www.researchgate.net/publication/7268256_Assessing_Potential_Propulsion_Breakthroughs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7268256_Assessing_Potential_Propulsion_Breakthroughs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Assessing Potential Propulsion BreakthroughsIn the period 1996-2004, NASA funded the Breakthrough Physics Program, managed by Marc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/7268256_Assessing_Potential_Propulsion_Breakthroughs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7268256_Assessing_Potential_Propulsion_Breakthroughs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Assessing Potential Propulsion BreakthroughsIn the period 1996-2004, NASA funded the Breakthrough Physics Program, managed by Marc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 365606892 Theory of Artificial Anti gravity  
-   Link: <a href="https://www.researchgate.net/publication/365606892_Theory_of_Artificial_Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365606892_Theory_of_Artificial_Anti-gravity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Theory of Artificial Anti-gravity31 Mar 2026 — In this paper a high-power and propellant-free electromagnetic propulsion is propose...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365606892_Theory_of_Artificial_Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365606892_Theory_of_Artificial_Anti-gravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Theory of Artificial Anti-gravity31 Mar 2026 — In this paper a high-power and propellant-free electromagnetic propulsion is propose...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian Conspiracy theory over UFOs and missing scientists  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianConspiracy theory over UFOs and missing scientists...April 25, 2026 — 25 Apr 2026 — Claim of nefarious plot draws attention...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianConspiracy theory over UFOs and missing scientists...April 25, 2026 — 25 Apr 2026 — Claim of nefarious plot draws attention...</p></details>
    Published: April 25, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and death...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and death...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/live/2026/jun/05/international-space-station-astronauts-evacuation-air-leak-latest-news-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/live/2026/jun/05/international-space-station-astronauts-evacuation-air-leak-latest-news-updates</a>  
+   Link:<a href="https://www.theguardian.com/science/live/2026/jun/05/international-space-station-astronauts-evacuation-air-leak-latest-news-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/live/2026/jun/05/international-space-station-astronauts-evacuation-air-leak-latest-news-updates</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nasa.fandom.com  
    Title: Breakthrough Propulsion Physics Program  
-   Link: <a href="https://nasa.fandom.com/wiki/Breakthrough_Propulsion_Physics_Program" target="_blank" rel="noopener noreferrer nofollow">https://nasa.fandom.com/wiki/Breakthrough_Propulsion_Physics_Program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propulsion Physics ProgramAfter funding for research ended, the Project&#x27;s founder and manager, Marc G. Millis, was supported by NASA to c...</p></details>
+   Link:<a href="https://nasa.fandom.com/wiki/Breakthrough_Propulsion_Physics_Program" target="_blank" rel="noopener noreferrer nofollow">https://nasa.fandom.com/wiki/Breakthrough_Propulsion_Physics_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propulsion Physics ProgramAfter funding for research ended, the Project&#x27;s founder and manager, Marc G. Millis, was supported by NASA to c...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: earthtech.org  
-   Link: <a href="https://earthtech.org/breakthrough-propulsion/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/breakthrough-propulsion/antigravity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the primary concepts for active gravity control is antigravity, which is technically defined as a repulsive gravitational...</p></details>
+   Link:<a href="https://earthtech.org/breakthrough-propulsion/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/breakthrough-propulsion/antigravity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the primary concepts for active gravity control is antigravity, which is technically defined as a repulsive gravitational...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/anti" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/anti</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANTI Definition &amp; Meaning1... a... of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an op...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/anti" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/anti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANTI Definition &amp; Meaning1... a... of the same kind but situated opposite, exerting energy in the opposite direction, or pursuing an op...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/mark-sokol-anti-gravity-with-present-technology-1210164dc065" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/mark-sokol-anti-gravity-with-present-technology-1210164dc065</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Sokol: Anti-Gravity with Present TechnologyIn his presentation “Anti-Gravity with Present Technology”, recently delivered at Deep Te...</p></details>
+   Link:<a href="https://medium.com/%40timventura/mark-sokol-anti-gravity-with-present-technology-1210164dc065" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/mark-sokol-anti-gravity-with-present-technology-1210164dc065</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Sokol: Anti-Gravity with Present TechnologyIn his presentation “Anti-Gravity with Present Technology”, recently delivered at Deep Te...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unanswered Death of Amy Eskridge: Inside the Anti-...... scientist working on what she called “gravity-modification research,”...</p></details>
+   Link:<a href="https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unanswered Death of Amy Eskridge: Inside the Anti-...... scientist working on what she called “gravity-modification research,”...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: astronomynow.com  
-   Link: <a href="https://astronomynow.com/books/Frontiers%20of%20Propulsion%20Science.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomynow.com/books/Frontiers%20of%20Propulsion%20Science.html</a>  
+   Link:<a href="https://astronomynow.com/books/Frontiers%20of%20Propulsion%20Science.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomynow.com/books/Frontiers%20of%20Propulsion%20Science.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac</a>  
+   Link:<a href="https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.euroavia.eu  
-   Link: <a href="https://blog.euroavia.eu/2024/11/12/the-anti-gravity-suppression-conspiracy-are-we-missing-out-on-game-changing-technology/" target="_blank" rel="noopener noreferrer nofollow">https://blog.euroavia.eu/2024/11/12/the-anti-gravity-suppression-conspiracy-are-we-missing-out-on-game-changing-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity Suppression Conspiracy: Are We Missing Out...12 Nov 2024 — While the science behind anti-gravity remains speculative, some...</p></details>
+   Link:<a href="https://blog.euroavia.eu/2024/11/12/the-anti-gravity-suppression-conspiracy-are-we-missing-out-on-game-changing-technology/" target="_blank" rel="noopener noreferrer nofollow">https://blog.euroavia.eu/2024/11/12/the-anti-gravity-suppression-conspiracy-are-we-missing-out-on-game-changing-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity Suppression Conspiracy: Are We Missing Out...12 Nov 2024 — While the science behind anti-gravity remains speculative, some...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: amy eskridge died by suicide in 2022 her name is the 11th on a list of scientist  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/amy-eskridge-died-by-suicide-in-2022-her-name-is-the-11th-on-a-list-of-scientist/975948484812169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/amy-eskridge-died-by-suicide-in-2022-her-name-is-the-11th-on-a-list-of-scientist/975948484812169/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge died by suicide in 2022. Her name is the...George Di Vein all scientists with connections to the common job investigations...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/amy-eskridge-died-by-suicide-in-2022-her-name-is-the-11th-on-a-list-of-scientist/975948484812169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/amy-eskridge-died-by-suicide-in-2022-her-name-is-the-11th-on-a-list-of-scientist/975948484812169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge died by suicide in 2022. Her name is the...George Di Vein all scientists with connections to the common job investigations...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: foxnews.com  
    Title: 11th scientist death emerges string missing dead officials access us secrets  
-   Link: <a href="https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11th scientist death emerges in string of missing, dead...17 Apr 2026 — Researcher Amy Eskridge is now cited as an 11th case in a growin...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11th scientist death emerges in string of missing, dead...17 Apr 2026 — Researcher Amy Eskridge is now cited as an 11th case in a growin...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The disappearance of America&#x27;s leading anti-gravity...Chinese-American physicist Ning Li published a series of controversial papers theo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The disappearance of America&#x27;s leading anti-gravity...Chinese-American physicist Ning Li published a series of controversial papers theo...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: altpropulsion.com  
    Title: the gem effect new evidence for electromagnetic gravity modification  
-   Link: <a href="https://www.altpropulsion.com/the-gem-effect-new-evidence-for-electromagnetic-gravity-modification/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-gem-effect-new-evidence-for-electromagnetic-gravity-modification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GEM Effect: New Evidence for Electromagnetic Gravity...01 Mar 2026 — Dr. John Brandenburg reports that an electromagnetic device sho...</p></details>
+   Link:<a href="https://www.altpropulsion.com/the-gem-effect-new-evidence-for-electromagnetic-gravity-modification/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-gem-effect-new-evidence-for-electromagnetic-gravity-modification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GEM Effect: New Evidence for Electromagnetic Gravity...01 Mar 2026 — Dr. John Brandenburg reports that an electromagnetic device sho...</p></details>

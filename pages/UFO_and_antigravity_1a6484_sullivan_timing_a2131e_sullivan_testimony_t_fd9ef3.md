@@ -274,22 +274,22 @@ image: /assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan
 
 ## Introduction
 
-The central question in the Matthew James [Sullivan case]({{ 'sullivan-case/' | relative_url }}) is not whether he was connected to UAP (Unidentified Anomalous Phenomena) discussions, but what he was actually expected to tell investigators before his death in May 2024. Public reporting consistently states that [Sullivan]({{ 'sullivan/' | relative_url }}) had agreed to speak with congressional or congressional-linked UAP investigators. What remains far less clear is the substance of his anticipated testimony, whether it would have involved firsthand knowledge, and whether any formal testimony session had been scheduled. The available record establishes a timeline of reported contacts and expectations, but it does not publicly document the detailed contents of any statement Sullivan intended to provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+The central question in the Matthew James [Sullivan case]({{ 'sullivan-case/' | relative_url }}) is not whether he was connected to UAP (Unidentified Anomalous Phenomena) discussions, but what he was actually expected to tell investigators before his death in May 2024. Public reporting consistently states that [Sullivan]({{ 'sullivan/' | relative_url }}) had agreed to speak with congressional or congressional-linked UAP investigators. What remains far less clear is the substance of his anticipated testimony, whether it would have involved firsthand knowledge, and whether any formal testimony session had been scheduled. The available record establishes a timeline of reported contacts and expectations, but it does not publicly document the detailed contents of any statement Sullivan intended to provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-1-dark.svg" | relative_url }}" alt="Testimony Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader debate about alleged suspicious deaths connected to [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-related claims, Sullivan's case stands out because the controversy centres on a missing testimony rather than on testimony that was actually delivered. The evidence therefore consists largely of statements by lawmakers, journalists and UAP advocates describing what they believed Sullivan was preparing to discuss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+Within the broader debate about alleged suspicious deaths connected to [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-related claims, Sullivan's case stands out because the controversy centres on a missing testimony rather than on testimony that was actually delivered. The evidence therefore consists largely of statements by lawmakers, journalists and UAP advocates describing what they believed Sullivan was preparing to discuss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3eHNnWBavCg" title="Congressman Burlison shows &quot;orb&quot; surviving missile strike at UFO hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3eHNnWBavCg" target="_blank" rel="noopener noreferrer">Congressman Burlison shows &quot;orb&quot; surviving missile strike at UFO hearing</a></p><p class="youtube-embed-meta">Channel: Ozarks First &middot; Views: 37.1K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3eHNnWBavCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3eHNnWBavCg">Open on YouTube</a></p></div></div></div>
 
 ## Reported Contact With Congressional UAP Investigators
 
-The earliest publicly documented element of the [timeline]({{ 'timeline/' | relative_url }}) is the claim that Sullivan agreed to cooperate with investigators examining UAP-related allegations. Representative Eric Burlison later stated that Sullivan had been expected to serve as a witness for congressional investigators studying UAP matters and that he had been scheduled to speak with them before his death. According to Burlison's later public comments, Sullivan's intelligence background and access to classified programmes made him a potentially significant source of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+The earliest publicly documented element of the [timeline]({{ 'timeline/' | relative_url }}) is the claim that Sullivan agreed to cooperate with investigators examining UAP-related allegations. Representative Eric Burlison later stated that Sullivan had been expected to serve as a witness for congressional investigators studying UAP matters and that he had been scheduled to speak with them before his death. According to Burlison's later public comments, Sullivan's intelligence background and access to classified programmes made him a potentially significant source of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
-The reporting that emerged in 2026 describes Sullivan as having died on 12 May 2024, months before a planned UAP-related congressional hearing later that year. Several accounts portray him as part of a pool of prospective witnesses being developed after the publicity surrounding David Grusch's allegations regarding alleged crash-retrieval programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
+The reporting that emerged in 2026 describes Sullivan as having died on 12 May 2024, months before a planned UAP-related congressional hearing later that year. Several accounts portray him as part of a pool of prospective witnesses being developed after the publicity surrounding David Grusch's allegations regarding alleged crash-retrieval programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
 
-Some reports go further and claim Sullivan had agreed to an interview with congressional investigators only weeks before his death. These accounts generally originate from secondary reporting and statements by UAP advocates rather than from publicly released congressional records. As a result, the precise dates of investigator contact, witness preparation and anticipated interviews remain incompletely documented in public sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.listnr.com">[LiSTNR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.listnr.com</span><span class="citation-popover-title">Li STNRPotential UFO Whistleblower Died Before He Could Testify</span><span class="citation-popover-snippet">Potential UFO Whistleblower Died Before He Could TestifyMay 1, 2026 — Virginia, Bronze Star-winning Air Force intelligence officer...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+Some reports go further and claim Sullivan had agreed to an interview with congressional investigators only weeks before his death. These accounts generally originate from secondary reporting and statements by UAP advocates rather than from publicly released congressional records. As a result, the precise dates of investigator contact, witness preparation and anticipated interviews remain incompletely documented in public sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.listnr.com">[LiSTNR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.listnr.com</span><span class="citation-popover-title">Li STNRPotential UFO Whistleblower Died Before He Could Testify</span><span class="citation-popover-snippet">Potential UFO Whistleblower Died Before He Could TestifyMay 1, 2026 — Virginia, Bronze Star-winning Air Force intelligence officer...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 A cautious reconstruction of the timeline therefore looks like this:
 
@@ -300,7 +300,7 @@ A cautious reconstruction of the timeline therefore looks like this:
 * At some point before May 2024, he reportedly agreed to cooperate with UAP investigators.
 * Congressional figures later stated that he was expected to provide information relevant to ongoing UAP inquiries.
 * He died on 12 May 2024 before any public testimony occurred.
-* Claims about what would have been disclosed emerged only after his death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+* Claims about what would have been disclosed emerged only after his death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
 </div>
 
@@ -311,18 +311,18 @@ A cautious reconstruction of the timeline therefore looks like this:
 
 This is the most disputed part of the timeline.
 
-The strongest claims portray Sullivan as a firsthand witness. Some later reports, citing unnamed sources, asserted that he had personally seen craft or materials connected to an alleged government crash-retrieval programme and that he intended to discuss those experiences with investigators. These accounts describe him as someone who had direct knowledge rather than merely having heard stories from others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</span></span></span>
+The strongest claims portray Sullivan as a firsthand witness. Some later reports, citing unnamed sources, asserted that he had personally seen craft or materials connected to an alleged government crash-retrieval programme and that he intended to discuss those experiences with investigators. These accounts describe him as someone who had direct knowledge rather than merely having heard stories from others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</span></span></span>
 
 However, publicly available documentation does not presently include:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A sworn statement from Sullivan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
+* A sworn statement from Sullivan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
 * A transcript of any interview.
 * Written testimony prepared by him.
 * Public congressional records detailing the exact claims he intended to make.
-* Corroborating documentation establishing personal access to alleged recovered non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
+* Corroborating documentation establishing personal access to alleged recovered non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
 
 </div>
 
@@ -330,11 +330,11 @@ As a result, the distinction between firsthand and secondhand knowledge remains 
 
 There are effectively three layers of claim visible in the public record:
 
-**Established fact:** Sullivan reportedly agreed to cooperate with UAP investigators before his death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+**Established fact:** Sullivan reportedly agreed to cooperate with UAP investigators before his death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
-**Reported expectation:** Some lawmakers and UAP advocates believed he possessed important information relevant to alleged secret UAP programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+**Reported expectation:** Some lawmakers and UAP advocates believed he possessed important information relevant to alleged secret UAP programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
-**Unverified assertion:** He personally witnessed recovered craft or participated directly in a long-running crash-retrieval programme. Public evidence supporting this level of claim has not been released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</span></span></span>
+**Unverified assertion:** He personally witnessed recovered craft or participated directly in a long-running crash-retrieval programme. Public evidence supporting this level of claim has not been released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</span></span></span>
 
 The absence of surviving public testimony means the strongest assertions about Sullivan's knowledge are presently based on what others later said he would have told investigators.
 
@@ -344,9 +344,9 @@ The absence of surviving public testimony means the strongest assertions about S
 
 One of the most important features of the Sullivan timeline is how narrow the confirmed record is compared with the much broader online narrative.
 
-Publicly available records do establish Sullivan's professional background. His obituary identifies service in Air Force intelligence and assignments connected with major national-security organisations. That background helps explain why congressional figures considered him a potentially important witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+Publicly available records do establish Sullivan's professional background. His obituary identifies service in Air Force intelligence and assignments connected with major national-security organisations. That background helps explain why congressional figures considered him a potentially important witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-Public reporting also establishes that Representative Burlison later raised concerns about Sullivan's death and cited the fact that Sullivan had been preparing to provide information to [Congress]({{ 'congress/' | relative_url }}). Burlison's statements are the principal source for many claims linking Sullivan to anticipated UAP testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-whistleblowers-overdose-sparks-buzz-amid-missing-scientists-row-101777148288134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Matthew James Sullivan cause of death: &#x27;UFO ...2 days ago — Authorities confirmed Matthew James Sullivan died from an acc</span><span class="citation-popover-snippet">Hindustan TimesMatthew James Sullivan cause of death: &#x27;UFO ...2 days ago — Authorities confirmed Matthew James Sullivan died from an acci...</span></span></span>
+Public reporting also establishes that Representative Burlison later raised concerns about Sullivan's death and cited the fact that Sullivan had been preparing to provide information to [Congress]({{ 'congress/' | relative_url }}). Burlison's statements are the principal source for many claims linking Sullivan to anticipated UAP testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-whistleblowers-overdose-sparks-buzz-amid-missing-scientists-row-101777148288134.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Matthew James Sullivan cause of death: &#x27;UFO ...2 days ago — Authorities confirmed Matthew James Sullivan died from an acc</span><span class="citation-popover-snippet">Hindustan TimesMatthew James Sullivan cause of death: &#x27;UFO ...2 days ago — Authorities confirmed Matthew James Sullivan died from an acci...</span></span></span>
 
 What public records do **not** establish is equally important:
 
@@ -357,7 +357,7 @@ What public records do **not** establish is equally important:
 * They do not publicly verify that he possessed firsthand knowledge of recovered craft.
 * They do not demonstrate that he had already provided evidence to Congress before his death.
 * They do not show that any testimony was taken under oath.
-* They do not establish that his death prevented the release of information that cannot be obtained elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
+* They do not establish that his death prevented the release of information that cannot be obtained elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</span></span></span>
 
 </div>
 
@@ -370,202 +370,202 @@ This evidentiary gap is why discussions of Sullivan often shift from documented 
 
 The reason Sullivan's anticipated testimony continues to attract attention is that it sits at the intersection of two uncertainties: an unfinished whistleblower process and a death that occurred before any public statement was made.
 
-Supporters of the cover-up interpretation focus on the sequence of events: agreement to cooperate, anticipated UAP testimony, and death before disclosure. Critics point out that the public never received the testimony itself and therefore cannot independently evaluate what Sullivan actually knew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+Supporters of the cover-up interpretation focus on the sequence of events: agreement to cooperate, anticipated UAP testimony, and death before disclosure. Critics point out that the public never received the testimony itself and therefore cannot independently evaluate what Sullivan actually knew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
-For historians and researchers examining alleged UFO-related whistleblower cases, the most defensible conclusion is limited but significant. The available evidence supports the claim that Sullivan was reportedly expected to provide information to UAP investigators. It does not establish with certainty what that information would have been, whether it was firsthand or secondhand, or whether it would have materially changed the public understanding of alleged UAP programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
+For historians and researchers examining alleged UFO-related whistleblower cases, the most defensible conclusion is limited but significant. The available evidence supports the claim that Sullivan was reportedly expected to provide information to UAP investigators. It does not establish with certainty what that information would have been, whether it was firsthand or secondhand, or whether it would have materially changed the public understanding of alleged UAP programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-3-dark.svg" | relative_url }}" alt="Testimony Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_testimony_t_fd9ef3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was Sullivan Expected to Say?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was Sullivan Expected to Say?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UAP allegations, witnesses, intelligence sources, and disputed testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UAP allegations, witnesses, intelligence sources, and disputed testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides context on government investigations, insider claims, and the significance of witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on government investigations, insider claims, and the significance of witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses witness testimony, government involvement, and the evaluation of UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness testimony, government involvement, and the evaluation of UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="testimony-timeline-what-was-sullivan-expected-to-say-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-was-sullivan-expected-to-say-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-was-sullivan-expected-to-say-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For historians and researchers examining alleged UFO-related whistleblower cases
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For historians and researchers examining alleged UFO-related whistleblower cases
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For historians and researchers examining alleged UFO-related whistleblower cases
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For historians and researchers examining alleged UFO-related whistleblower cases
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For historians and researchers examining alleged UFO-related whistleblower cases
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,92 +771,92 @@ For historians and researchers examining alleged UFO-related whistleblower cases
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: brobible.com  
    Title: congressman death air force whistleblower ufo secrets suspicious  
-   Link: <a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</p></details>
+   Link:<a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...20 Apr 2026 — Congressman says death of 39-year-old former Air Force intellig...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: play.listnr.com  
    Title: Li STNRPotential UFO Whistleblower Died Before He Could Testify  
-   Link: <a href="https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news" target="_blank" rel="noopener noreferrer nofollow">https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential UFO Whistleblower Died Before He Could TestifyMay 1, 2026 — Virginia, Bronze Star-winning Air Force intelligence officer...</p></details>
+   Link:<a href="https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news" target="_blank" rel="noopener noreferrer nofollow">https://play.listnr.com/podcast/crime-house-daily/episode/potential-ufo-whistleblower-died-before-he-could-testify-true-crime-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential UFO Whistleblower Died Before He Could TestifyMay 1, 2026 — Virginia, Bronze Star-winning Air Force intelligence officer...</p></details>
    Published: May 1, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</p></details>
+   Link:<a href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Would-be UFO whistleblower died of accidental drug...19 hours ago — Sullivan had personally seen UFOs in the federal government&#x27;s pos...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dozen U.S. scientists.Matthew James Sullivan died at 39 yea…...</p></details>
+   Link:<a href="https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dozen U.S. scientists.Matthew James Sullivan died at 39 yea…...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</p></details>
+   Link:<a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesMatthew James Sullivan cause of death: &#x27;UFO...2 days ago — Authorities confirmed Matthew James Sullivan died from an acci...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesMatthew James Sullivan cause of death: &#x27;UFO...2 days ago — Authorities confirmed Matthew James Sullivan died from an acci...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ChrisUKSharp/with_replies" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ChrisUKSharp/with_replies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Sharp (@ChrisUKSharp) / Posts and Replies / XBurlison reveals the name of a UFO whistleblower colleague of David Grusch &amp; Jak...</p></details>
+   Link:<a href="https://x.com/ChrisUKSharp/with_replies" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ChrisUKSharp/with_replies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Sharp (@ChrisUKSharp) / Posts and Replies / XBurlison reveals the name of a UFO whistleblower colleague of David Grusch &amp; Jak...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The medical examiner ruled his death an accidental drug overdose caused by a combination of alcohol, anti-anxiety medication, a muscle re...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38928813/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The medical examiner ruled his death an accidental drug overdose caused by a combination of alcohol, anti-anxiety medication, a muscle re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wanttoknow.info  
-   Link: <a href="https://www.wanttoknow.info/ufosmediaarticles-0-10000" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufosmediaarticles-0-10000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Media Articles... interviewed several other whistleblowers... Key speakers included former Pentagon official turned UAP whistleblowe...</p></details>
+   Link:<a href="https://www.wanttoknow.info/ufosmediaarticles-0-10000" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufosmediaarticles-0-10000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Media Articles... interviewed several other whistleblowers... Key speakers included former Pentagon official turned UAP whistleblowe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXkBuVfEerC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXkBuVfEerC/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Whistleblower Mysteriously Passes Away After...He was about to testify to congress before he DIED suspiciously&quot; The decorated Ai...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXkBuVfEerC/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXkBuVfEerC/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Whistleblower Mysteriously Passes Away After...He was about to testify to congress before he DIED suspiciously&quot; The decorated Ai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXkBuVfEerC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXkBuVfEerC/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXkBuVfEerC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXkBuVfEerC/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/i/trending/2048041178243740110?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/i/trending/2048041178243740110?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stify before Congress on alleged secret UFO programs, died of an accidental...Read more...</p></details>
+   Link:<a href="https://x.com/i/trending/2048041178243740110?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/i/trending/2048041178243740110?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stify before Congress on alleged secret UFO programs, died of an accidental...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is home in Virginia from an accidental drug overdose, the medical examiner...Read more...</p></details>
+   Link:<a href="https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is home in Virginia from an accidental drug overdose, the medical examiner...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thesun.ie  
-   Link: <a href="https://www.thesun.ie/news/16872666/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16872666/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s home in Virginia from an accidental drug overdose, the medical examiner...Read more...</p></details>
+   Link:<a href="https://www.thesun.ie/news/16872666/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.ie/news/16872666/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s home in Virginia from an accidental drug overdose, the medical examiner...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bollywoodshaadis.com  
    Title: Bollywood Shaadis Was Matthew James Sullivan Married?  
-   Link: <a href="https://www.bollywoodshaadis.com/articles/was-matthew-james-sullivan-married-inside-the-ufo-whistleblowers-life-78254" target="_blank" rel="noopener noreferrer nofollow">https://www.bollywoodshaadis.com/articles/was-matthew-james-sullivan-married-inside-the-ufo-whistleblowers-life-78254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The UFO...8 hours ago — Before his death, Sullivan had reportedly agreed to be a whistleblower tied to classified UFO or UAP prog...</p></details>
+   Link:<a href="https://www.bollywoodshaadis.com/articles/was-matthew-james-sullivan-married-inside-the-ufo-whistleblowers-life-78254" target="_blank" rel="noopener noreferrer nofollow">https://www.bollywoodshaadis.com/articles/was-matthew-james-sullivan-married-inside-the-ufo-whistleblowers-life-78254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The UFO...8 hours ago — Before his death, Sullivan had reportedly agreed to be a whistleblower tied to classified UFO or UAP prog...</p></details>

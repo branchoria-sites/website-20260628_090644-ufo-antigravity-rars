@@ -278,15 +278,15 @@ In discussions about alleged suspicious deaths connected to UFO research, antigr
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_suicide_uncertainty_8dac63-Illustration-1-dark.svg" | relative_url }}" alt="Suicide Claims illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_suicide_uncertainty_8dac63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a_suicide_uncertainty_8dac63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many of the cases that appear on “dead scientist” or “UFO researcher” lists involve very different circumstances. Some are homicides, some disappearances, some natural deaths, and some deaths where suicide has been reported, suspected or debated. Investigators, coroners and medical examiners are trained to distinguish between these categories through evidence-based procedures. Public audiences, by contrast, often encounter fragments of information stripped of context and then reinterpret uncertainty as suspicious by default. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
+This matters because many of the cases that appear on “dead scientist” or “UFO researcher” lists involve very different circumstances. Some are homicides, some disappearances, some natural deaths, and some deaths where suicide has been reported, suspected or debated. Investigators, coroners and medical examiners are trained to distinguish between these categories through evidence-based procedures. Public audiences, by contrast, often encounter fragments of information stripped of context and then reinterpret uncertainty as suspicious by default.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
 
 ## Why Cause and Manner of Death Should Not Be Guessed
 
-A key distinction in death investigation is the difference between *cause of death* and *manner of death*. The cause identifies what physically led to death, while the manner addresses whether the death was natural, accidental, suicide, homicide or undetermined. Determining either category can require extensive investigation, witness interviews, medical records, toxicology testing and forensic review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
+A key distinction in death investigation is the difference between *cause of death* and *manner of death*. The cause identifies what physically led to death, while the manner addresses whether the death was natural, accidental, suicide, homicide or undetermined. Determining either category can require extensive investigation, witness interviews, medical records, toxicology testing and forensic review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
 
-In many jurisdictions, investigators deliberately avoid premature conclusions. An “undetermined” finding does not automatically imply foul play. It often reflects insufficient evidence to establish one explanation with confidence. Research on death classification has noted that undetermined categories exist precisely because some cases cannot be conclusively separated into suicide, accident or another manner of death using available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</span></span></span>
+In many jurisdictions, investigators deliberately avoid premature conclusions. An “undetermined” finding does not automatically imply foul play. It often reflects insufficient evidence to establish one explanation with confidence. Research on death classification has noted that undetermined categories exist precisely because some cases cannot be conclusively separated into suicide, accident or another manner of death using available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</span></span></span>
 
-This becomes important when people associated with sensitive research fields die unexpectedly. Once a person's biography includes terms such as “nuclear scientist”, “aerospace engineer”, “UFO researcher” or “[gravity-modification]({{ 'gravity-leap/' | relative_url }}) researcher”, uncertainty surrounding a death may be interpreted differently than it would be for someone outside those fields. Yet occupational background is not evidence about the manner of death. The investigative standards remain the same regardless of a person's research interests or security clearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
+This becomes important when people associated with sensitive research fields die unexpectedly. Once a person's biography includes terms such as “nuclear scientist”, “aerospace engineer”, “UFO researcher” or “[gravity-modification]({{ 'gravity-leap/' | relative_url }}) researcher”, uncertainty surrounding a death may be interpreted differently than it would be for someone outside those fields. Yet occupational background is not evidence about the manner of death. The investigative standards remain the same regardless of a person's research interests or security clearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</span></span></span>
 
 ## How Suicide Can Be Reframed as Conspiracy Evidence
 
@@ -307,18 +307,18 @@ In conspiracy-oriented discussions, several recurring arguments appear:
 
 </div>
 
-Researchers who study conspiracy belief formation have long noted that such narratives often grow by linking unrelated events through pattern-seeking rather than through demonstrated causal connections. The existence of uncertainty becomes part of the evidence structure rather than a reason for caution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Conspiracy vs science: A large-scale analysis of online discussion cascadesJune 1, 2020...</span><span class="citation-popover-meta">Published: June 1, 2020</span></span></span>
+Researchers who study conspiracy belief formation have long noted that such narratives often grow by linking unrelated events through pattern-seeking rather than through demonstrated causal connections. The existence of uncertainty becomes part of the evidence structure rather than a reason for caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Conspiracy vs science: A large-scale analysis of online discussion cascadesJune 1, 2020...</span><span class="citation-popover-meta">Published: June 1, 2020</span></span></span>
 
-This dynamic has appeared in recent discussions surrounding lists of missing or deceased scientists and researchers associated online with UFO or advanced-technology topics. Journalistic investigations have repeatedly noted that the cited cases include a mixture of disappearances, homicides, natural deaths and suicides rather than a single category of event. Experts interviewed about these narratives have warned against assuming that diverse cases automatically form a coordinated pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
+This dynamic has appeared in recent discussions surrounding lists of missing or deceased scientists and researchers associated online with UFO or advanced-technology topics. Journalistic investigations have repeatedly noted that the cited cases include a mixture of disappearances, homicides, natural deaths and suicides rather than a single category of event. Experts interviewed about these narratives have warned against assuming that diverse cases automatically form a coordinated pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ggqe0Pa69d0" title="Why We Believe In Conspiracy Theories with Michael Shermer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ggqe0Pa69d0" target="_blank" rel="noopener noreferrer">Why We Believe In Conspiracy Theories with Michael Shermer</a></p><p class="youtube-embed-meta">Channel: StarTalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ggqe0Pa69d0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ggqe0Pa69d0">Open on YouTube</a></p></div></div></div>
 
 ## A Case Study in Narrative Expansion
 
-The contemporary “missing scientists” narrative illustrates how quickly disparate cases can become connected in public imagination. Reporting by CBS News found that federal authorities were reviewing a number of deaths and disappearances involving people connected to sensitive laboratories or research facilities, while also noting that relatives and colleagues frequently described personal, tragic or unrelated circumstances rather than evidence of a single conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
+The contemporary “missing scientists” narrative illustrates how quickly disparate cases can become connected in public imagination. Reporting by CBS News found that federal authorities were reviewing a number of deaths and disappearances involving people connected to sensitive laboratories or research facilities, while also noting that relatives and colleagues frequently described personal, tragic or unrelated circumstances rather than evidence of a single conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
 
-As the story spread online, some commentators began incorporating deaths involving alleged suicide or disputed suicide into broader theories about UFO disclosure, classified technologies or antigravity research. Media coverage of the phenomenon has highlighted how rapidly these connections were made despite the absence of publicly demonstrated links among many of the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2NBC4 Washington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House</span><span class="citation-popover-snippet">scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</span></span></span>
+As the story spread online, some commentators began incorporating deaths involving alleged suicide or disputed suicide into broader theories about UFO disclosure, classified technologies or antigravity research. Media coverage of the phenomenon has highlighted how rapidly these connections were made despite the absence of publicly demonstrated links among many of the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House</span><span class="citation-popover-snippet">scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</span></span></span>
 
 One consequence is that any ambiguity becomes self-reinforcing. If a death is ruled suicide, the ruling may be described as a cover-up. If the ruling is delayed, the delay may be described as evidence of suppression. If the manner remains undetermined, the lack of certainty may be presented as proof that investigators are hiding something. In each scenario, uncertainty is converted into confirmation rather than treated as a reason for restraint.
 
@@ -328,7 +328,7 @@ One consequence is that any ambiguity becomes self-reinforcing. If a death is ru
 
 Family members and colleagues frequently experience a different reality from online audiences.
 
-For relatives, an unresolved or traumatic death is already emotionally complex. Public claims that a loved one was assassinated, silenced or targeted can transform private grief into a permanent public controversy. In some recent scientist-disappearance cases, relatives have explicitly challenged speculative narratives and argued that online commentators were ignoring personal circumstances in favour of dramatic explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
+For relatives, an unresolved or traumatic death is already emotionally complex. Public claims that a loved one was assassinated, silenced or targeted can transform private grief into a permanent public controversy. In some recent scientist-disappearance cases, relatives have explicitly challenged speculative narratives and argued that online commentators were ignoring personal circumstances in favour of dramatic explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
 
 The tension is especially sharp when suicide is involved. Families may disagree with official findings, accept them, or remain uncertain themselves. None of those reactions automatically establish an alternative explanation. Genuine disagreement about a death investigation is different from claiming that a death must be part of a hidden campaign connected to UFO secrecy or advanced technology programmes.
 
@@ -363,7 +363,7 @@ Less reliable wording includes:
 
 </div>
 
-The distinction may seem minor, but language strongly influences how audiences interpret uncertainty. Public-health and media-guidance organisations emphasise accurate, restrained reporting of suicide-related matters because speculation and sensational framing can distort public understanding and cause additional harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ipso.co.uk/resources/reporting-suicide-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipso.co.uk">[IPSO+2Samaritans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipso.co.uk</span><span class="citation-popover-title">IPSOReporting on suicide</span><span class="citation-popover-snippet">This guidance explains how the Editors&#x27; Code applies to the reporting of suicide, focusing closely on the issue of restricting the re...</span></span></span>
+The distinction may seem minor, but language strongly influences how audiences interpret uncertainty. Public-health and media-guidance organisations emphasise accurate, restrained reporting of suicide-related matters because speculation and sensational framing can distort public understanding and cause additional harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ipso.co.uk/resources/reporting-suicide-guidance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipso.co.uk">[ipso.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipso.co.uk</span><span class="citation-popover-title">IPSOReporting on suicide</span><span class="citation-popover-snippet">This guidance explains how the Editors&#x27; Code applies to the reporting of suicide, focusing closely on the issue of restricting the re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fI72YCqz99k" title="How Neuroscience Can Help Explain Conspiracy Theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fI72YCqz99k" target="_blank" rel="noopener noreferrer">How Neuroscience Can Help Explain Conspiracy Theories</a></p><p class="youtube-embed-meta">Channel: BrainFacts.org</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fI72YCqz99k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fI72YCqz99k">Open on YouTube</a></p></div></div></div>
@@ -374,201 +374,201 @@ For the specific question of UFO-linked death claims, the most useful policy pri
 
 That principle does not require blind trust in official findings. Investigations can be challenged, records can be reviewed, and evidence can be re-examined. However, responsible scrutiny begins with what is known rather than with what is imagined.
 
-When deaths involving researchers, scientists or engineers are discussed in [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) contexts, the strongest safeguard against misinformation is to separate three distinct categories: verified facts, unresolved questions and speculative theories. Once those categories are collapsed into one another, suicide rulings, suspected suicides and undetermined deaths can all be transformed into the same conspiracy narrative regardless of what the evidence actually shows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[The Guardian+3PMC+3CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</span></span></span>
+When deaths involving researchers, scientists or engineers are discussed in [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) contexts, the strongest safeguard against misinformation is to separate three distinct categories: verified facts, unresolved questions and speculative theories. Once those categories are collapsed into one another, suicide rulings, suspected suicides and undetermined deaths can all be transformed into the same conspiracy narrative regardless of what the evidence actually shows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jvj7rMRyL2M" title="GBI Chief ME Dr. Eisenstat - Cause v. Manner of Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jvj7rMRyL2M" target="_blank" rel="noopener noreferrer">GBI Chief ME Dr. Eisenstat - Cause v. Manner of Death</a></p><p class="youtube-embed-meta">Channel: Georgia Bureau of Investigation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jvj7rMRyL2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jvj7rMRyL2M">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Unclear Deaths Need Careful Language. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Unclear Deaths Need Careful Language. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
-        </h4>
-        <p class="fr-book-author">By Richard Shepherd</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
+</h4>
+<p class="fr-book-author">By Richard Shepherd</p>
         
-        <p class="fr-book-desc">Provides insight into how causes and manners of death are determined through careful forensic investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how causes and manners of death are determined through careful forensic investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
-        </h4>
-        <p class="fr-book-author">By Gavin De Becker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
+</h4>
+<p class="fr-book-author">By Gavin De Becker</p>
         
-        <p class="fr-book-desc">Encourages evidence-based evaluation of danger and claims rather than speculation or rumor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based evaluation of danger and claims rather than speculation or rumor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzbJwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzbJwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores how people misinterpret incomplete information and draw incorrect conclusions from limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people misinterpret incomplete information and draw incorrect conclusions from limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dying to Be Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fw_XDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dying to Be Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dying to Be Free">Dying to Be Free</a>
-        </h4>
-        <p class="fr-book-author">By Beverly Cobain, Jean Larch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dying to Be Free on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fw_XDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dying to Be Free" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dying to Be Free">Dying to Be Free</a>
+</h4>
+<p class="fr-book-author">By Beverly Cobain, Jean Larch</p>
         
-        <p class="fr-book-desc">Addresses suicide with sensitivity and helps readers avoid simplistic or sensational interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses suicide with sensitivity and helps readers avoid simplistic or sensational interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dying+to+Be+Free+by+Beverly+Cobain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model display">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model display</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+display+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model display -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="suicide-claims-why-unclear-deaths-need-careful-language-ufo-and-antigravity-ufo-model-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,129 +774,129 @@ When deaths involving researchers, scientists or engineers are discussed in [UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</p></details>
+   Link:<a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/00001318.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current Trends Operational Criteria for Determining SuicideA coroner or medical examiner usually determines whether a death is a suici...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deciphering Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Undetermined deaths are made up large...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy vs science: A large-scale analysis of online discussion cascadesJune 1, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy vs science: A large-scale analysis of online discussion cascadesJune 1, 2020...</p></details>
    Published: June 1, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ipso.co.uk  
    Title: IPSOReporting on suicide  
-   Link: <a href="https://www.ipso.co.uk/resources/reporting-suicide-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipso.co.uk/resources/reporting-suicide-guidance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This guidance explains how the Editors&#x27; Code applies to the reporting of suicide, focusing closely on the issue of restricting the re...</p></details>
+   Link:<a href="https://www.ipso.co.uk/resources/reporting-suicide-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipso.co.uk/resources/reporting-suicide-guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This guidance explains how the Editors&#x27; Code applies to the reporting of suicide, focusing closely on the issue of restricting the re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: samaritans.org  
-   Link: <a href="https://www.samaritans.org/documents/1037/Guidance_for_reporting_on_inquests_FINAL_xjL1HHW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.samaritans.org/documents/1037/Guidance_for_reporting_on_inquests_FINAL_xjL1HHW.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for reporting on inquestsInquests routinely include significant amounts of information about the circumstances surrounding a dea...</p></details>
+   Link:<a href="https://www.samaritans.org/documents/1037/Guidance_for_reporting_on_inquests_FINAL_xjL1HHW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.samaritans.org/documents/1037/Guidance_for_reporting_on_inquests_FINAL_xjL1HHW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for reporting on inquestsInquests routinely include significant amounts of information about the circumstances surrounding a dea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theweek.com  
-   Link: <a href="https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media has been rife with speculation about [possible links](&amp;#123;&amp;#123; &#x27;possible-links/&#x27; | relative_url &amp;#125;&amp;#125;) to sabotage or [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;). Among the cases are a retir...</p></details>
+   Link:<a href="https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media has been rife with speculation about [possible links](&amp;#123;&amp;#123; &#x27;possible-links/&#x27; | relative_url &amp;#125;&amp;#125;) to sabotage or [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;). Among the cases are a retir...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into deaths, disappearances of staff at secretive...The FBI is investigating the cases of at least 10 staffers at secret g...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into deaths, disappearances of staff at secretive...The FBI is investigating the cases of at least 10 staffers at secret g...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nbcwashington.com  
    Title: conspiracy theories missing dead scientists white house  
-   Link: <a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO community,” he does not have any privileged knowledge about aliens.Read more...</p></details>
+   Link:<a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO community,” he does not have any privileged knowledge about aliens.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/changeinthestandardofproofusedbycoronersandtheimpactonsuicidedeathregistrationsdatainenglandandwales/2020-12-08" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/changeinthestandardofproofusedbycoronersandtheimpactonsuicidedeathregistrationsdatainenglandandwales/2020-12-08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change in the standard of proof used by coroners and...8 Dec 2020 — This article looks at whether the lower evidence threshold now used...</p></details>
+   Link:<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/changeinthestandardofproofusedbycoronersandtheimpactonsuicidedeathregistrationsdatainenglandandwales/2020" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/changeinthestandardofproofusedbycoronersandtheimpactonsuicidedeathregistrationsdatainenglandandwales/2020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change in the standard of proof used by coroners and...8 Dec 2020 — This article looks at whether the lower evidence threshold now used...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: judiciary.uk  
-   Link: <a href="https://www.judiciary.uk/guidance-and-resources/conclusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/conclusions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 15: Conclusions1 Jan 2025 — The coroner or jury must determine the deceased&#x27;s name and record this on the ROI as established, on...</p></details>
+   Link:<a href="https://www.judiciary.uk/guidance-and-resources/conclusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/conclusions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 15: Conclusions1 Jan 2025 — The coroner or jury must determine the deceased&#x27;s name and record this on the ROI as established, on...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wbaltv.com  
    Title: fbi probes deaths disappearances nuclear aerospace scientists  
-   Link: <a href="https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...21 Apr 2026 — At least 10 scientists tied to sensitive U.S. research have...</p></details>
+   Link:<a href="https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...21 Apr 2026 — At least 10 scientists tied to sensitive U.S. research have...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rcpsych.ac.uk  
-   Link: <a href="https://www.rcpsych.ac.uk/docs/default-source/members/supporting-you/if-a-patient-dies-by-suicide/if-a-patient-dies-by-suicide---for-mental-health-professionals.pdf?sfvrsn=d9a8230b_2" target="_blank" rel="noopener noreferrer nofollow">https://www.rcpsych.ac.uk/docs/default-source/members/supporting-you/if-a-patient-dies-by-suicide/if-a-patient-dies-by-suicide---for-mental-health-professionals.pdf?sfvrsn=d9a8230b_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>death from the post- mortem examination, if the death is found to be unnatural.Read more...</p></details>
+   Link:<a href="https://www.rcpsych.ac.uk/docs/default-source/members/supporting-you/if-a-patient-dies-by-suicide/if-a-patient-dies-by-suicide---for-mental-health-professionals.pdf?sfvrsn=d9a8230b_2" target="_blank" rel="noopener noreferrer nofollow">https://www.rcpsych.ac.uk/docs/default-source/members/supporting-you/if-a-patient-dies-by-suicide/if-a-patient-dies-by-suicide---for-mental-health-professionals.pdf?sfvrsn=d9a8230b_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>death from the post- mortem examination, if the death is found to be unnatural.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A federal investigation is underway after at least 10 people...Rep Burlison on the Dead UFO Scientists: Is the FBI even investigating??...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A federal investigation is underway after at least 10 people...Rep Burlison on the Dead UFO Scientists: Is the FBI even investigating??...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/missing-dead-scientists-connections-government-185431588.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/missing-dead-scientists-connections-government-185431588.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Steven Garcia · Frank Maiwald · Carl Grillmair · Michael David...</p></details>
+   Link:<a href="https://www.aol.com/articles/missing-dead-scientists-connections-government-185431588.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/missing-dead-scientists-connections-government-185431588.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Steven Garcia · Frank Maiwald · Carl Grillmair · Michael David...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sojoaz/speculation_swirls_around_deaths_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sojoaz/speculation_swirls_around_deaths_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lap with the UAP reverse-engineering conversation. · Six people...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sojoaz/speculation_swirls_around_deaths_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sojoaz/speculation_swirls_around_deaths_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lap with the UAP reverse-engineering conversation. · Six people...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rams are missing or dead. That&#x27;s 10 times the other conspiracy...</p></details>
+   Link:<a href="https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rams are missing or dead. That&#x27;s 10 times the other conspiracy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXQcI5ajwEB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXQcI5ajwEB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who work at top secret NASA facilities or energy...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXQcI5ajwEB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXQcI5ajwEB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who work at top secret NASA facilities or energy...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wsj.com  
    Title: Her disappearance has nothing to do with UFOs, he says.Read more  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — In the past couple of weeks, he&#x27;s found himself working to dispe...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — In the past couple of weeks, he&#x27;s found himself working to dispe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSEveningNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1453568540143522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1453568540143522/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ince 2023. Are the cases linked? Here&#x27;s what we know...</p></details>
+   Link:<a href="https://www.facebook.com/CBSEveningNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1453568540143522/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1453568540143522/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ince 2023. Are the cases linked? Here&#x27;s what we know...</p></details>

@@ -280,11 +280,11 @@ image: /assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_spec
 
 ## Introduction
 
-The strongest documented facts about William “Neil” McCasland’s career are that he held senior positions connected to highly classified [aerospace]({{ 'aerospace/' | relative_url }}) and defence programmes, including serving as Director of Special Programs within the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics and later commanding the Air Force Research Laboratory (AFRL). Those positions make him relevant to discussions about secret military technology. They do not, by themselves, establish any connection to recovered extraterrestrial craft, alien technology, or reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
+The strongest documented facts about William “Neil” McCasland’s career are that he held senior positions connected to highly classified [aerospace]({{ 'aerospace/' | relative_url }}) and defence programmes, including serving as Director of Special Programs within the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics and later commanding the Air Force Research Laboratory (AFRL). Those positions make him relevant to discussions about secret military technology. They do not, by themselves, establish any connection to recovered extraterrestrial craft, alien technology, or reverse-engineering programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_special_programs_ali_8dbc91-Illustration-1-dark.svg" | relative_url }}" alt="Special Programs illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_special_programs_ali_8dbc91-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_special_programs_ali_8dbc91-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to understanding why McCasland appears so often in UFO-related speculation. Classified aerospace work is real. Special Access Programs are real. Highly restricted research projects exist within the U.S. defence system. The leap from those facts to claims about alien technology requires additional evidence that has not been publicly demonstrated. The question is not whether secret programmes exist, but whether secrecy itself proves the presence of non-human technology. The available evidence suggests it does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdse.edu">[cdse.edu+2esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdse.edu</span><span class="citation-popover-snippet">Student Guide Course: Special Access Program (SAP)...SAPs are referred to using both their protection level and category; you may see ac...</span></span></span>
+This distinction is central to understanding why McCasland appears so often in UFO-related speculation. Classified aerospace work is real. Special Access Programs are real. Highly restricted research projects exist within the U.S. defence system. The leap from those facts to claims about alien technology requires additional evidence that has not been publicly demonstrated. The question is not whether secret programmes exist, but whether secrecy itself proves the presence of non-human technology. The available evidence suggests it does not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdse.edu">[cdse.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdse.edu</span><span class="citation-popover-snippet">Student Guide Course: Special Access Program (SAP)...SAPs are referred to using both their protection level and category; you may see ac...</span></span></span>
 
 ## Does Classified Aerospace Mean Alien Technology?
 
@@ -292,9 +292,9 @@ The short answer is no.
 
 Many discussions of McCasland begin with the observation that he worked in areas shielded by extraordinary levels of security. That observation is accurate. The mistake often comes in treating classified access as evidence of a particular hidden subject matter.
 
-In practice, defence organisations classify information for many reasons unrelated to UFOs. Sensitive programmes may involve stealth aircraft, satellite systems, intelligence collection methods, electronic warfare capabilities, advanced sensors, propulsion research, cyber operations, or nuclear command-and-control systems. Some programmes remain secret because revealing even their existence could expose military capabilities or vulnerabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2cdse.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
+In practice, defence organisations classify information for many reasons unrelated to UFOs. Sensitive programmes may involve stealth aircraft, satellite systems, intelligence collection methods, electronic warfare capabilities, advanced sensors, propulsion research, cyber operations, or nuclear command-and-control systems. Some programmes remain secret because revealing even their existence could expose military capabilities or vulnerabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
-McCasland's documented career path fits comfortably within that established national-security framework. His public biography identifies leadership roles in space acquisition, special programmes, and advanced Air Force research. None of the official descriptions mention extraterrestrial materials, recovered craft, or reverse-engineering projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
+McCasland's documented career path fits comfortably within that established national-security framework. His public biography identifies leadership roles in space acquisition, special programmes, and advanced Air Force research. None of the official descriptions mention extraterrestrial materials, recovered craft, or reverse-engineering projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
 
 ## What Special Programs Usually Cover
 
@@ -310,13 +310,13 @@ According to Department of Defense guidance and long-standing oversight structur
 * Acquisition programmes involving research, development, testing, and procurement of advanced military systems.
 * Intelligence programmes involving especially sensitive collection methods or operations.
 * Operational support activities requiring exceptional secrecy.
-* Certain compartmented activities where access is restricted to a small group with both clearance and demonstrated need-to-know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[uscode.house.gov+3Wikipedia+3cdse.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
+* Certain compartmented activities where access is restricted to a small group with both clearance and demonstrated need-to-know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
 </div>
 
 Importantly, many SAPs concern technologies that are entirely terrestrial. Historic examples include stealth aircraft development, reconnaissance platforms, [classified sensors]({{ 'secrecy-leap/' | relative_url }}), and other military capabilities that were once secret but later became public knowledge.
 
-Because SAPs can be acknowledged, unacknowledged, or even subject to specialised reporting arrangements, outsiders often know little about their contents. That lack of visibility creates room for speculation. Yet secrecy alone does not reveal what is inside a programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
+Because SAPs can be acknowledged, unacknowledged, or even subject to specialised reporting arrangements, outsiders often know little about their contents. That lack of visibility creates room for speculation. Yet secrecy alone does not reveal what is inside a programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
@@ -338,9 +338,9 @@ When a person occupies a senior position in a compartmented programme, observers
 
 The problem is that the third step does not logically follow from the first two.
 
-Wright-Patterson Air Force Base provides a useful example. The base has long occupied a special place in UFO folklore because it hosted Project Blue Book, the Air Force's official UFO investigation programme. As a result, many conspiracy theories portray Wright-Patterson as a repository of hidden extraterrestrial evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force Base</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</span></span></span>
+Wright-Patterson Air Force Base provides a useful example. The base has long occupied a special place in UFO folklore because it hosted Project Blue Book, the Air Force's official UFO investigation programme. As a result, many conspiracy theories portray Wright-Patterson as a repository of hidden extraterrestrial evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force Base</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</span></span></span>
 
-At the same time, Wright-Patterson is also one of the most important centres of conventional aerospace research in the United States. Thousands of scientists, engineers, military personnel, and contractors have worked there on aircraft, propulsion, materials, sensors, logistics, and weapons programmes over many decades. Association with the base therefore does not distinguish between ordinary classified work and extraordinary UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
+At the same time, Wright-Patterson is also one of the most important centres of conventional aerospace research in the United States. Thousands of scientists, engineers, military personnel, and contractors have worked there on aircraft, propulsion, materials, sensors, logistics, and weapons programmes over many decades. Association with the base therefore does not distinguish between ordinary classified work and extraordinary UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
 
 The attraction of UFO interpretations comes partly from the public's inability to see what classified programmes actually contain. When information is unavailable, narratives often emerge to fill the gap.
 
@@ -350,7 +350,7 @@ The attraction of UFO interpretations comes partly from the public's inability t
 
 A useful historical comparison comes from the Cold War.
 
-Many UFO reports investigated during the Project Blue Book era were eventually linked to secret American aircraft programmes. Pilots and civilians observed unusual objects in the sky without knowing that highly classified reconnaissance aircraft were operating overhead. The sightings appeared mysterious because the underlying technology was hidden. Later declassification revealed that some reports involved aircraft such as the U-2 and A-12 rather than extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Many UFO reports investigated during the Project Blue Book era were eventually linked to secret American aircraft programmes. Pilots and civilians observed unusual objects in the sky without knowing that highly classified reconnaissance aircraft were operating overhead. The sightings appeared mysterious because the underlying technology was hidden. Later declassification revealed that some reports involved aircraft such as the U-2 and A-12 rather than extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 This historical pattern demonstrates an important analytical lesson: secret aerospace programmes can generate UFO speculation even when the underlying technology is entirely human-made.
 
@@ -364,19 +364,19 @@ For researchers examining claims surrounding McCasland or similar figures, sever
 
 **Access is not evidence.**
 
-Holding a high-level clearance shows that a person could encounter sensitive information. It does not reveal what information they actually possessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
+Holding a high-level clearance shows that a person could encounter sensitive information. It does not reveal what information they actually possessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Special access program</span><span class="citation-popover-snippet">Special access program</span></span></span>
 
 **Position is not programme content.**
 
-A title such as Director of Special Programs indicates involvement with protected activities, but not the subject matter of every programme under that umbrella. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
+A title such as Director of Special Programs indicates involvement with protected activities, but not the subject matter of every programme under that umbrella.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
 
 **Secrecy is not confirmation.**
 
-Many programmes remain classified for reasons unrelated to UFOs. Extraordinary claims require evidence beyond the fact that information is restricted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">DoDM 5205.07, &quot;Special Access Program Security Manual...17 Jan 2025 — Develops, establishes, and maintains SAP facility (SAPF) accredit...</span></span></span>
+Many programmes remain classified for reasons unrelated to UFOs. Extraordinary claims require evidence beyond the fact that information is restricted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">DoDM 5205.07, &quot;Special Access Program Security Manual...17 Jan 2025 — Develops, establishes, and maintains SAP facility (SAPF) accredit...</span></span></span>
 
 **Institutional proximity is not direct knowledge.**
 
-Working at Wright-Patterson or AFRL places an individual near organisations associated with both advanced research and UFO lore. That proximity alone does not establish involvement in alleged crash-retrieval or reverse-engineering efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force Base</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</span></span></span>
+Working at Wright-Patterson or AFRL places an individual near organisations associated with both advanced research and UFO lore. That proximity alone does not establish involvement in alleged crash-retrieval or reverse-engineering efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force Base</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/205CkT-aQyw" title="Air Force General Linked to UFO Research Disappears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=205CkT-aQyw" target="_blank" rel="noopener noreferrer">Air Force General Linked to UFO Research Disappears</a></p><p class="youtube-embed-meta">Channel: Law&amp;Crime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=205CkT-aQyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=205CkT-aQyw">Open on YouTube</a></p></div></div></div>
@@ -385,9 +385,9 @@ Working at Wright-Patterson or AFRL places an individual near organisations asso
 
 Within the broader discussion of UFOs, antigravity research, and alleged attempts to suppress sensitive knowledge, McCasland's documented record supports a narrower conclusion than many online narratives suggest.
 
-The evidence shows that he occupied positions where advanced and highly classified aerospace work was conducted. It shows that he had access to restricted information and participated in the management of sensitive defence programmes. It also explains why his name became attractive to those seeking insiders connected to hidden technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
+The evidence shows that he occupied positions where advanced and highly classified aerospace work was conducted. It shows that he had access to restricted information and participated in the management of sensitive defence programmes. It also explains why his name became attractive to those seeking insiders connected to hidden technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</span></span></span>
 
-What the public record does not show is a documented bridge from those special-programme roles to recovered extraterrestrial technology. Even discussions surrounding his later association with UFO-disclosure advocates have produced no publicly verifiable evidence that he possessed unique knowledge of alien craft or stored extraterrestrial materials. Public statements from those closest to him have explicitly rejected such claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Air Force General William &quot;Neil&quot; McCasland has been missing since February 27, prompting a major search effort involving local authoritie...</span></span></span>
+What the public record does not show is a documented bridge from those special-programme roles to recovered extraterrestrial technology. Even discussions surrounding his later association with UFO-disclosure advocates have produced no publicly verifiable evidence that he possessed unique knowledge of alien craft or stored extraterrestrial materials. Public statements from those closest to him have explicitly rejected such claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Air Force General William &quot;Neil&quot; McCasland has been missing since February 27, prompting a major search effort involving local authoritie...</span></span></span>
 
 The key historical lesson is therefore straightforward: classified aerospace programmes and alien-technology claims occupy overlapping cultural territory, but they are not the same thing. McCasland's career demonstrates why the distinction is easy to blur—and why it remains essential for evaluating extraordinary claims.
 
@@ -396,178 +396,178 @@ The key historical lesson is therefore straightforward: classified aerospace pro
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Classified Aerospace Mean Alien Technology?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Classified Aerospace Mean Alien Technology?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines government and military UFO reports while emphasizing evidentiary standards rather than assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government and military UFO reports while emphasizing evidentiary standards rather than assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers claims about secret programs and alleged recovered technology, providing context for contemporary speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers claims about secret programs and alleged recovered technology, providing context for contemporary speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly addresses how classified defense projects generate speculation about advanced or exotic technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how classified defense projects generate speculation about advanced or exotic technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Shows how genuinely secret aircraft programs operate, helping readers separate secrecy from extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how genuinely secret aircraft programs operate, helping readers separate secrecy from extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="special-programs-does-classified-aerospace-mean-alien-technology-ufo-and-antigravity-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The key historical lesson is therefore straightforward: classified aerospace pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The key historical lesson is therefore straightforward: classified aerospace pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The key historical lesson is therefore straightforward: classified aerospace pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The key historical lesson is therefore straightforward: classified aerospace pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The key historical lesson is therefore straightforward: classified aerospace pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,125 +773,125 @@ The key historical lesson is therefore straightforward: classified aerospace pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>major general william n. mccaslandHe previously served at the Pentagon, first as the Director, Space Acquisition, in the Office of the Se...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Neil Mc Casland  
-   Link: <a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCaslandIn 2009 he was promoted to director of special programs within the Office of the Under Secretary of Defense for Acquisit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCaslandIn 2009 he was promoted to director of special programs within the Office of the Under Secretary of Defense for Acquisit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdse.edu  
-   Link: <a href="https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Guide Course: Special Access Program (SAP)...SAPs are referred to using both their protection level and category; you may see ac...</p></details>
+   Link:<a href="https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Guide Course: Special Access Program (SAP)...SAPs are referred to using both their protection level and category; you may see ac...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DoDM 5205.07, &quot;Special Access Program Security Manual...17 Jan 2025 — Develops, establishes, and maintains SAP facility (SAPF) accredit...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507m1.PDF?ver=o_3_m4lDAtLKPOLQHatcYA%3D%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoDM 5205.07, &quot;Special Access Program Security Manual...17 Jan 2025 — Develops, establishes, and maintains SAP facility (SAPF) accredit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uscode.house.gov  
-   Link: <a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title10-section119" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title10-section119</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 USC 119: Special access programs: congressional...(a)(1) Not later than March 1 of each year, the Secretary of Defense shall submit t...</p></details>
+   Link:<a href="https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title10-section119" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=prelim&amp;num=0&amp;req=granuleid%3AUSC-prelim-title10-section119</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 USC 119: Special access programs: congressional...(a)(1) Not later than March 1 of each year, the Secretary of Defense shall submit t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Special access program  
-   Link: <a href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Special_access_program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Special_access_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Special_access_program</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force Base  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Objects unde...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsweek.com  
    Title: Who Is William Neil Mc Casland?  
-   Link: <a href="https://www.newsweek.com/who-is-william-neil-mccasland-ex-us-general-linked-to-ufo-research-missing-11609887" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-william-neil-mccasland-ex-us-general-linked-to-ufo-research-missing-11609887</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-US General Linked to...Mar 3, 2026 — McCasland held several high‑ranking and influential positions within the U.S. Air Force, particu...</p></details>
+   Link:<a href="https://www.newsweek.com/who-is-william-neil-mccasland-ex-us-general-linked-to-ufo-research-missing-11609887" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-william-neil-mccasland-ex-us-general-linked-to-ufo-research-missing-11609887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-US General Linked to...Mar 3, 2026 — McCasland held several high‑ranking and influential positions within the U.S. Air Force, particu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsweek.com  
    Title: disappearance of ufo expert is national security crisis 11645230  
-   Link: <a href="https://www.newsweek.com/disappearance-of-ufo-expert-is-national-security-crisis-11645230" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/disappearance-of-ufo-expert-is-national-security-crisis-11645230</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>His disappearance has drawn attention because of his senior roles in military...Read more...</p></details>
+   Link:<a href="https://www.newsweek.com/disappearance-of-ufo-expert-is-national-security-crisis-11645230" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/disappearance-of-ufo-expert-is-national-security-crisis-11645230</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>His disappearance has drawn attention because of his senior roles in military...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fas.org  
    Title: dod saps  
-   Link: <a href="https://fas.org/publication/dod_saps/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/dod_saps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotlight on DoD Special Access Programs7 Feb 2013 — “Waived SAPs” are the most sensitive of special access programs, and... congression...</p></details>
+   Link:<a href="https://fas.org/publication/dod_saps/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/dod_saps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spotlight on DoD Special Access Programs7 Feb 2013 — “Waived SAPs” are the most sensitive of special access programs, and... congression...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General William &quot;Neil&quot; McCasland has been missing since February 27, prompting a major search effort involving local authoritie...</p></details>
+   Link:<a href="https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/12/us-news/missing-retired-us-air-force-general-william-mccasland-has-ufo-community-ties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General William &quot;Neil&quot; McCasland has been missing since February 27, prompting a major search effort involving local authoritie...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: Majestic 12 or "MJ-12" Reference Report.Read more  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying ObjectsThere are not now nor ever have been, any extraterrestrial visitors or equipment on Wright...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying ObjectsThere are not now nor ever have been, any extraterrestrial visitors or equipment on Wright...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-retired-us-air-force-general-with-vast-knowledge-of-ufo-research-has-been-miss/946848717722146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-retired-us-air-force-general-with-vast-knowledge-of-ufo-research-has-been-miss/946848717722146/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A retired US Air Force general with vast knowledge of UFO...McCasland led research at Wright‐Patterson Air Force Base in Ohio, a base lo...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-retired-us-air-force-general-with-vast-knowledge-of-ufo-research-has-been-miss/946848717722146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-retired-us-air-force-general-with-vast-knowledge-of-ufo-research-has-been-miss/946848717722146/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A retired US Air Force general with vast knowledge of UFO...McCasland led research at Wright‐Patterson Air Force Base in Ohio, a base lo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/renewed-attention-is-falling-on-the-base-after-the-disappearance-of-retired-air-/1308902127769102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/renewed-attention-is-falling-on-the-base-after-the-disappearance-of-retired-air-/1308902127769102/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNNWilliam Neil McCasland, a former commander of the Air Force Research Laboratory at Wright-Patterson whose career placed him at the cen...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/renewed-attention-is-falling-on-the-base-after-the-disappearance-of-retired-air-/1308902127769102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/renewed-attention-is-falling-on-the-base-after-the-disappearance-of-retired-air-/1308902127769102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNNWilliam Neil McCasland, a former commander of the Air Force Research Laboratory at Wright-Patterson whose career placed him at the cen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked emails reveal General Neil McCasland&#x27;s pivotal...William N. McCasland is the Director of Special Programs, Office of the Under Se...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked emails reveal General Neil McCasland&#x27;s pivotal...William N. McCasland is the Director of Special Programs, Office of the Under Se...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBased at Wright-Patterson, the operation collected all reports of UFO sightings. Air Force inv...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBased at Wright-Patterson, the operation collected all reports of UFO sightings. Air Force inv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kpcnm.org  
-   Link: <a href="https://kpcnm.org/board/neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://kpcnm.org/board/neil-mccasland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland, PhDDr. Neil McCasland is the Director of Technology at Applied Technology Associates (ATA), a small business providing hi...</p></details>
+   Link:<a href="https://kpcnm.org/board/neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://kpcnm.org/board/neil-mccasland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland, PhDDr. Neil McCasland is the Director of Technology at Applied Technology Associates (ATA), a small business providing hi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/38591950/air-force-general-disappears-hiking-rocket-scientist-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38591950/air-force-general-disappears-hiking-rocket-scientist-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Major General William Neil McCasland, 68, mysteriously vanished during a hike near his Albuquerque home on February 27, 2026. H...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38591950/air-force-general-disappears-hiking-rocket-scientist-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38591950/air-force-general-disappears-hiking-rocket-scientist-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Major General William Neil McCasland, 68, mysteriously vanished during a hike near his Albuquerque home on February 27, 2026. H...</p></details>
    Published: February 27, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-[mccasland-missing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general missing once led Wright...17 Mar 2026 — But Wright-Patterson has played a central role in the US militar...</p></details>
+   Link:<a href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-[mccasland-missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general missing once led Wright...17 Mar 2026 — But Wright-Patterson has played a central role in the US militar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc7.com  
-   Link: <a href="https://abc7.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland missing: Retired US Air Force maj....16 Mar 2026 — William Neil McCasland, missing general who retired from the U...</p></details>
+   Link:<a href="https://abc7.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland missing: Retired US Air Force maj....16 Mar 2026 — William Neil McCasland, missing general who retired from the U...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland missing: Retired US Air Force maj....Mar 16, 2026 — William Neil McCasland, missing general who retired from the...</p></details>
+   Link:<a href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland missing: Retired US Air Force maj....Mar 16, 2026 — William Neil McCasland, missing general who retired from the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  

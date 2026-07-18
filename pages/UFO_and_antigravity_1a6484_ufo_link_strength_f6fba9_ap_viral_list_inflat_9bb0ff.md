@@ -274,26 +274,26 @@ image: /assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_ap_vir
 
 ## Introduction
 
-In the debate over allegedly suspicious deaths and disappearances connected to UFO, [aerospace]({{ 'aerospace/' | relative_url }}) or advanced-technology circles, one of the most important pieces of evidence is not a new case but a reporting exercise. In April 2026, Associated Press (AP) examined the rapidly growing online narrative that a group of “missing or dead scientists” had been targeted because of sensitive knowledge. Its reporting showed how viral lists can expand far beyond the public record by broadening who counts as a scientist, mixing together unrelated incidents, and treating official attention as evidence of a hidden pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+In the debate over allegedly suspicious deaths and disappearances connected to UFO, [aerospace]({{ 'aerospace/' | relative_url }}) or advanced-technology circles, one of the most important pieces of evidence is not a new case but a reporting exercise. In April 2026, Associated Press (AP) examined the rapidly growing online narrative that a group of “missing or dead scientists” had been targeted because of sensitive knowledge. Its reporting showed how viral lists can expand far beyond the public record by broadening who counts as a scientist, mixing together unrelated incidents, and treating official attention as evidence of a hidden pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_ap_viral_list_inflat_9bb0ff-Illustration-1-dark.svg" | relative_url }}" alt="Viral Lists illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_ap_viral_list_inflat_9bb0ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_ap_viral_list_inflat_9bb0ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to separate genuine unanswered questions from speculation, the AP coverage is valuable because it focuses on a basic evidential issue: whether the people being grouped together actually shared the same roles, circumstances or documented connections. The answer was often far less straightforward than viral posts suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+For readers trying to separate genuine unanswered questions from speculation, the AP coverage is valuable because it focuses on a basic evidential issue: whether the people being grouped together actually shared the same roles, circumstances or documented connections. The answer was often far less straightforward than viral posts suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YcHt-OBkabU" title="UFO insider reveals pattern behind missing scientists | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer">UFO insider reveals pattern behind missing scientists | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 509.8K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YcHt-OBkabU">Open on YouTube</a></p></div></div></div>
 
 ## What the AP Reporting Added
 
-The AP investigation arrived after online discussion had already transformed a handful of deaths and disappearances into a narrative involving aerospace secrets, nuclear research, UFOs and possible foreign interference. By the time the story reached national politics, some public figures were referring to roughly ten or more cases as though they were already part of a coherent pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2NBC4 Washington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The AP investigation arrived after online discussion had already transformed a handful of deaths and disappearances into a narrative involving aerospace secrets, nuclear research, UFOs and possible foreign interference. By the time the story reached national politics, some public figures were referring to roughly ten or more cases as though they were already part of a coherent pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-AP's contribution was not to prove or disprove every individual case. Instead, it tested the assumptions behind [the list]({{ 'the-list/' | relative_url }}) itself. The reporting highlighted that the people being grouped together came from different [institutions]({{ 'institutions/' | relative_url }}), different disciplines and different circumstances. In several cases, publicly reported information already pointed toward explanations unrelated to any wider conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+AP's contribution was not to prove or disprove every individual case. Instead, it tested the assumptions behind [the list]({{ 'the-list/' | relative_url }}) itself. The reporting highlighted that the people being grouped together came from different [institutions]({{ 'institutions/' | relative_url }}), different disciplines and different circumstances. In several cases, publicly reported information already pointed toward explanations unrelated to any wider conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Among the examples cited:
 
-* MIT fusion scientist Nuno [Loureiro]({{ 'loureiro/' | relative_url }}) was killed in a shooting linked to a named suspect who also carried out another attack. Authorities had identified a specific individual connected to the crime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
-* Astrophysicist Carl Grillmair's death was associated with a criminal investigation and an identified murder suspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
-* Other cases remained unresolved, but unresolved does not automatically mean connected. AP emphasised that the available evidence differed substantially from one case to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+* MIT fusion scientist Nuno [Loureiro]({{ 'loureiro/' | relative_url }}) was killed in a shooting linked to a named suspect who also carried out another attack. Authorities had identified a specific individual connected to the crime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+* Astrophysicist Carl Grillmair's death was associated with a criminal investigation and an identified murder suspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+* Other cases remained unresolved, but unresolved does not automatically mean connected. AP emphasised that the available evidence differed substantially from one case to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 This mattered because many online summaries presented the cases as if they all carried the same level of mystery and the same type of evidential support.
 
@@ -304,9 +304,9 @@ This mattered because many online summaries presented the cases as if they all c
 
 ## How Roles Get Broadened Online
 
-The most striking finding in the AP reporting concerned classification. Viral lists frequently relied on the label “scientist” even when the individual's documented role was something different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The most striking finding in the AP reporting concerned classification. Viral lists frequently relied on the label “scientist” even when the individual's documented role was something different.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-A prominent example was Melissa Casias of [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory. AP reported that online discussions often described her as a scientist. Yet publicly available employment information indicated that she worked as an administrative assistant rather than as a scientific researcher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+A prominent example was Melissa Casias of [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory. AP reported that online discussions often described her as a scientist. Yet publicly available employment information indicated that she worked as an administrative assistant rather than as a scientific researcher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 This distinction is important for understanding how list inflation works. The process typically follows several steps:
 
@@ -348,194 +348,194 @@ The reporting did not establish that all cases were unrelated. Nor did it establ
 For researchers examining alleged patterns involving UFOs, antigravity research or classified technology, that is a crucial methodological lesson. Before asking whether a list of cases shares a hidden cause, it is necessary to ask whether the list itself is being assembled consistently. The AP reporting showed that in at least some widely circulated versions, the answer was no. [AP News](https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Viral Lists Stretch the Word Scientist. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Viral Lists Stretch the Word Scientist. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for serious UFO reporting and the distinction between documented cases and speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for serious UFO reporting and the distinction between documented cases and speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains how weak evidence, misleading narratives and faulty reasoning can spread in public discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how weak evidence, misleading narratives and faulty reasoning can spread in public discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Offers practical tools for evaluating claims, patterns and conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers practical tools for evaluating claims, patterns and conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how evidence, skepticism and scientific reasoning should be applied to sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how evidence, skepticism and scientific reasoning should be applied to sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="viral-lists-099178-how-viral-lists-stretch-the-word-scientist-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,76 +741,76 @@ For researchers examining alleged patterns involving UFOs, antigravity research 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apnews.com  
    Title: AP News How conspiracy theories about missing or dead scientists  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</p></details>
    Published: April 24, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nbcwashington.com  
    Title: conspiracy theories missing dead scientists white house  
-   Link: <a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who have died or disappeared in recent years was largely confined to niche online...Read more...</p></details>
+   Link:<a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists who have died or disappeared in recent years was largely confined to niche online...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
+   Link:<a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ksat.com  
-   Link: <a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
+   Link:<a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with t...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and deaths grew for months onlin...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and deaths grew for months onlin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=s47RUJu1oBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s47RUJu1oBY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI says it is looking into whether cases of missing and...FBI says it is looking into whether cases of missing and dead scientists are...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s47RUJu1oBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s47RUJu1oBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI says it is looking into whether cases of missing and...FBI says it is looking into whether cases of missing and dead scientists are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One person was an administrative assistant. One was a UFO researcher who thought he could...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One person was an administrative assistant. One was a UFO researcher who thought he could...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: foxla.com  
    Title: white house fbi investigation la county scientists missing reza  
-   Link: <a href="https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza" target="_blank" rel="noopener noreferrer nofollow">https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 missing or dead scientists draw federal scrutiny...by AM Asperin · 2026 — The Trump administration is reviewing 11 cases of missing o...</p></details>
+   Link:<a href="https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza" target="_blank" rel="noopener noreferrer nofollow">https://www.foxla.com/news/white-house-fbi-investigation-la-county-scientists-missing-reza</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 missing or dead scientists draw federal scrutiny...by AM Asperin · 2026 — The Trump administration is reviewing 11 cases of missing o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists white house  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...25 Apr 2026 — Claim of nefarious plot draws attention of lawmakers and president –...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...25 Apr 2026 — Claim of nefarious plot draws attention of lawmakers and president –...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/suspicion-grows-over-list-of-missing-and-dead-scientists-newsnation-live/2199508260588616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/suspicion-grows-over-list-of-missing-and-dead-scientists-newsnation-live/2199508260588616/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ith connections to government research. No definitive links have...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/suspicion-grows-over-list-of-missing-and-dead-scientists-newsnation-live/2199508260588616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/suspicion-grows-over-list-of-missing-and-dead-scientists-newsnation-live/2199508260588616/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ith connections to government research. No definitive links have...</p></details>

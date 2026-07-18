@@ -383,11 +383,11 @@ That distinction matters because the subject attracts understandable suspicion. 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484-overview.webp" | relative_url }}" alt="Overview image for UFO and antigravity" loading="eager" decoding="sync" fetchpriority="high">
 ## Why UFO and antigravity deaths become conspiracy material
 
-UFO and antigravity stories are unusually prone to pattern-building because the surrounding institutions are already opaque. The U.S. Department of Defense’s All-domain Anomaly Resolution Office, or AARO, says the U.S. government has funded UAP investigations since 1945 to assess flight safety risks, possible foreign technological advances, and claims of “off-world technology under intelligent control”. Its 2024 [historical review]({{ 'historical-review/' | relative_url }}) says it examined official investigations, classified and unclassified archives, around 30 interviews, and oversight records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+UFO and antigravity stories are unusually prone to pattern-building because the surrounding institutions are already opaque. The U.S. Department of Defense’s All-domain Anomaly Resolution Office, or AARO, says the U.S. government has funded UAP investigations since 1945 to assess flight safety risks, possible foreign technological advances, and claims of “off-world technology under intelligent control”. Its 2024 [historical review]({{ 'historical-review/' | relative_url }}) says it examined official investigations, classified and unclassified archives, around 30 interviews, and oversight records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-NASA’s 2023 independent UAP study took a different, scientific framing: it said there is no conclusive peer-reviewed evidence that UAP have an extraterrestrial origin, and that the central problem is often missing or low-quality data rather than a single hidden answer. NASA also argued that extraterrestrial life should be treated as a “hypothesis of last resort” after ordinary explanations have been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+NASA’s 2023 independent UAP study took a different, scientific framing: it said there is no conclusive peer-reviewed evidence that UAP have an extraterrestrial origin, and that the central problem is often missing or low-quality data rather than a single hidden answer. NASA also argued that extraterrestrial life should be treated as a “hypothesis of last resort” after ordinary explanations have been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-Antigravity adds another layer. A declassified Defense Intelligence Agency reference document titled “Antigravity for Aerospace Applications” was produced under the Advanced Aerospace Weapon System Applications programme, showing that exotic propulsion ideas have been considered within official advanced-technology contexts. But that does not mean the government had working antigravity craft, nor that everyone associated with such topics held dangerous secrets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
+Antigravity adds another layer. A declassified Defense Intelligence Agency reference document titled “Antigravity for Aerospace Applications” was produced under the Advanced Aerospace Weapon System Applications programme, showing that exotic propulsion ideas have been considered within official advanced-technology contexts. But that does not mean the government had working antigravity craft, nor that everyone associated with such topics held dangerous secrets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
 
 The gap between “officials studied strange or speculative possibilities” and “scientists were killed to hide them” is where most of the unsupported claims grow.
 
@@ -395,34 +395,34 @@ The gap between “officials studied strange or speculative possibilities” and
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-1-dark.svg" | relative_url }}" alt="UFO and antigravity illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2026 “missing scientists” narrative
 
-The most current version of the story centres on a viral claim that 10, 11, 12 or more scientists connected to sensitive U.S. research had recently died or disappeared. Associated Press reported in April 2026 that the speculation had moved from niche online communities into national politics, with the FBI and Congress looking for possible connections. But AP also reported that no evidence had been found that definitively linked the cases or established coordinated foul play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
+The most current version of the story centres on a viral claim that 10, 11, 12 or more scientists connected to sensitive U.S. research had recently died or disappeared. Associated Press reported in April 2026 that the speculation had moved from niche online communities into national politics, with the FBI and Congress looking for possible connections. But AP also reported that no evidence had been found that definitively linked the cases or established coordinated foul play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
 
-CBS News reported that the FBI was leading an effort to look for possible connections among 10 missing or deceased scientists and staff tied to sensitive nuclear or space-technology laboratories. Yet CBS also quoted people close to the investigations saying they saw no links, and described the underlying events as disparate, personal and tragic rather than a clear spy-thriller pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+CBS News reported that the FBI was leading an effort to look for possible connections among 10 missing or deceased scientists and staff tied to sensitive nuclear or space-technology laboratories. Yet CBS also quoted people close to the investigations saying they saw no links, and described the underlying events as disparate, personal and tragic rather than a clear spy-thriller pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
-PolitiFact reviewed 14 names circulating in these claims and found several important weaknesses in the narrative. The people did not all work together. They were spread across NASA, [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory, the U.S. Air Force, MIT, Caltech, Novartis, the Kansas City National Security Campus, and smaller or independent organisations. Some were not scientists; some worked at scientific or nuclear-related facilities in non-scientific roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
+PolitiFact reviewed 14 names circulating in these claims and found several important weaknesses in the narrative. The people did not all work together. They were spread across NASA, [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory, the U.S. Air Force, MIT, Caltech, Novartis, the Kansas City National Security Campus, and smaller or independent organisations. Some were not scientists; some worked at scientific or nuclear-related facilities in non-scientific roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
 
-The UFO and antigravity connection is also uneven. PolitiFact found that Ning Li and Amy Eskridge studied antigravity, and that retired Air Force Major General William McCasland had a brief post-retirement association with the UFO community. Other cited people worked on comets, asteroids, microwave radiometry, Earth science missions, rocket materials, electrical engineering, dark matter, chemical biology or nuclear science. That is not the same as a shared UFO or antigravity programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
+The UFO and antigravity connection is also uneven. PolitiFact found that Ning Li and Amy Eskridge studied antigravity, and that retired Air Force Major General William McCasland had a brief post-retirement association with the UFO community. Other cited people worked on comets, asteroids, microwave radiometry, Earth science missions, rocket materials, electrical engineering, dark matter, chemical biology or nuclear science. That is not the same as a shared UFO or antigravity programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
 ## Cases often cited by believers
 
-Amy Eskridge is one of the most frequently named figures because she was explicitly connected to antigravity research. Her obituary describes her as chairwoman and president of the Institute for Exotic Science in Huntsville, Alabama, which she co-founded, and says she had studied across chemistry, biology, electrical engineering, physics, genetic engineering and nanotechnology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">amy eskridge obituary</span></span></span>
+Amy Eskridge is one of the most frequently named figures because she was explicitly connected to antigravity research. Her obituary describes her as chairwoman and president of the Institute for Exotic Science in Huntsville, Alabama, which she co-founded, and says she had studied across chemistry, biology, electrical engineering, physics, genetic engineering and nanotechnology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">amy eskridge obituary</span></span></span>
 
-Online claims often present Eskridge’s death as inherently suspicious because of her antigravity work and reported fears before her death. The public record is more limited. PolitiFact reported that news outlets said Eskridge died of a self-inflicted gunshot wound, while also noting that she is among the people whose names have been drawn into the wider “missing scientists” list. That leaves room for grief, questions and scrutiny, but it does not by itself establish murder or a UFO-related motive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
+Online claims often present Eskridge’s death as inherently suspicious because of her antigravity work and reported fears before her death. The public record is more limited. PolitiFact reported that news outlets said Eskridge died of a self-inflicted gunshot wound, while also noting that she is among the people whose names have been drawn into the wider “missing scientists” list. That leaves room for grief, questions and scrutiny, but it does not by itself establish murder or a UFO-related motive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
 
-William Neil McCasland is another major case because he was a retired Air Force major general and former commander of the Air Force Research Laboratory, a background that overlaps with aerospace research and UFO speculation. CBS reported that he disappeared from the Albuquerque area in February 2026 and that his past role at Wright-Patterson Air Force Base sparked online speculation about classified military programmes and UFOs. PolitiFact reported that his wife said he had retired almost 13 years earlier, had only a brief association with the UFO community through consultancy on a fiction book, and that it seemed unlikely he was taken for dated secrets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+William Neil McCasland is another major case because he was a retired Air Force major general and former commander of the Air Force Research Laboratory, a background that overlaps with aerospace research and UFO speculation. CBS reported that he disappeared from the Albuquerque area in February 2026 and that his past role at Wright-Patterson Air Force Base sparked online speculation about classified military programmes and UFOs. PolitiFact reported that his wife said he had retired almost 13 years earlier, had only a brief association with the UFO community through consultancy on a fiction book, and that it seemed unlikely he was taken for dated secrets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
-Ning Li is often mentioned in antigravity lists because she worked at the University of Alabama in Huntsville and founded AC Gravity. PolitiFact included her among the circulated names and noted that she died in 2021, but also stated that the reasons for some deaths, including Li’s, were not public. Lack of public cause-of-death information is not proof of foul play; it is an evidence gap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
+Ning Li is often mentioned in antigravity lists because she worked at the University of Alabama in Huntsville and founded AC Gravity. PolitiFact included her among the circulated names and noted that she died in 2021, but also stated that the reasons for some deaths, including Li’s, were not public. Lack of public cause-of-death information is not proof of foul play; it is an evidence gap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
 
-Matthew Sullivan is usually framed as UFO-linked because a member of Congress said he died before testifying in a federal whistleblower case on UFOs. PolitiFact reported that Sullivan died from a lethal mix of alcohol and drugs, citing news reporting on the medical finding. The UFO-adjacent timing may invite speculation, but the reported cause points to a specific non-UFO explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
+Matthew Sullivan is usually framed as UFO-linked because a member of Congress said he died before testifying in a federal whistleblower case on UFOs. PolitiFact reported that Sullivan died from a lethal mix of alcohol and drugs, citing news reporting on the medical finding. The UFO-adjacent timing may invite speculation, but the reported cause points to a specific non-UFO explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-snippet">Open source on politifact.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-2-dark.svg" | relative_url }}" alt="UFO and antigravity illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The older Marconi pattern
 
-The British GEC-Marconi deaths are the historical template for many modern “dead scientists” stories. In the 1980s, newspapers and later books connected a series of deaths among British defence scientists and engineers to Marconi, the Strategic Defense Initiative, radar, torpedoes or other sensitive military work. A 1988 Canberra Times article noted that conspiracy theories began after a journalist linked two deaths of people working for Marconi, and that the story had grown to include no fewer than 22 defence scientists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The British GEC-Marconi deaths are the historical template for many modern “dead scientists” stories. In the 1980s, newspapers and later books connected a series of deaths among British defence scientists and engineers to Marconi, the Strategic Defense Initiative, radar, torpedoes or other sensitive military work. A 1988 Canberra Times article noted that conspiracy theories began after a journalist linked two deaths of people working for Marconi, and that the story had grown to include no fewer than 22 defence scientists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 The Marconi story remains memorable because some individual deaths were genuinely bizarre or violent. But the leap from unusual deaths to a coordinated assassination programme was never firmly established. Even the contemporary reporting framed the matter as a question under scrutiny, not as a solved conspiracy. The relevance to UFO and antigravity claims is indirect: the Marconi cases are usually invoked as evidence that advanced defence scientists can be targeted, not because the documented deaths were clearly tied to UFO research.
 
@@ -432,7 +432,7 @@ This matters for readers assessing the newer U.S. claims. A list can sound compe
 
 Some “antigravity” research is legitimate theoretical physics. General relativity permits exotic mathematical ideas such as negative mass, wormholes or metric engineering, but these ideas do not translate into deployable craft without enormous unresolved problems. Other antigravity claims come from high-voltage devices and the Biefeld-Brown effect, where an asymmetric capacitor appears to produce thrust.
 
-That effect has long been popular in UFO and “electrogravitics” circles because Thomas Townsend Brown believed it pointed to an electricity-gravity connection. However, later technical work has repeatedly pointed towards ordinary electrical-fluid effects rather than antigravity. A 2004 AIAA Journal paper by Martin Tajmar concluded that corona wind effects had probably been misinterpreted as a gravity-electromagnetism connection, and a later analysis of the Brown-Biefeld effect stated that many recent researchers attribute the observed force to ion wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.9095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[arc.aiaa.org+2TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">Open source on aiaa.org.</span></span></span>
+That effect has long been popular in UFO and “electrogravitics” circles because Thomas Townsend Brown believed it pointed to an electricity-gravity connection. However, later technical work has repeatedly pointed towards ordinary electrical-fluid effects rather than antigravity. A 2004 AIAA Journal paper by Martin Tajmar concluded that corona wind effects had probably been misinterpreted as a gravity-electromagnetism connection, and a later analysis of the Brown-Biefeld effect stated that many recent researchers attribute the observed force to ion wind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arc.aiaa.org/doi/10.2514/1.9095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[aiaa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">Open source on aiaa.org.</span></span></span>
 
 This does not make every researcher foolish or dishonest. Frontier propulsion attracts serious curiosity because any breakthrough would be transformative. But it does mean the technical background does not currently support the idea that a working antigravity technology is being protected by a trail of suspicious deaths.
 
@@ -441,7 +441,7 @@ This does not make every researcher foolish or dishonest. Frontier propulsion at
 
 ## What would count as stronger evidence
 
-The strongest version of the suspicious-deaths claim would need more than a list of names. It would need documents, communications, forensic inconsistencies, linked suspects, shared projects, common access to the same classified programme, or a repeated operational signature across cases. The currently public evidence is much weaker: mixed causes, different institutions, uncertain professional links, and several cases with ordinary or partly explained circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
+The strongest version of the suspicious-deaths claim would need more than a list of names. It would need documents, communications, forensic inconsistencies, linked suspects, shared projects, common access to the same classified programme, or a repeated operational signature across cases. The currently public evidence is much weaker: mixed causes, different institutions, uncertain professional links, and several cases with ordinary or partly explained circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
 
 Several details actively weaken the coordinated-UFO-cover-up theory:
 
@@ -450,7 +450,7 @@ Several details actively weaken the coordinated-UFO-cover-up theory:
 * Some deaths have identified suspects or reported medical explanations.
 * Some disappearances have no public evidence of foul play.
 * The cited cases span multiple years rather than a single tightly connected period.
-* Official UAP reviews acknowledge government interest in UAP but do not confirm recovered alien technology or a hidden antigravity programme. U.S. Department of War+2NASA Science <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+* Official UAP reviews acknowledge government interest in UAP but do not confirm recovered alien technology or a hidden antigravity programme. U.S. Department of War+2NASA Science<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
 The unresolved cases should not be dismissed. Families deserve answers, investigators should test [possible links]({{ 'possible-links/' | relative_url }}), and sensitive research environments can create legitimate national-security questions. But a responsible reading keeps two ideas separate: investigation is justified; a proven UFO-antigravity assassination pattern has not been shown.
 
@@ -467,194 +467,194 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to UFO and antigravity. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to UFO and antigravity. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern UAP allegations, witnesses, intelligence sources, and disputed testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UAP allegations, witnesses, intelligence sources, and disputed testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses witness testimony, government involvement, and the evaluation of UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness testimony, government involvement, and the evaluation of UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly explains Blue Book, official Air Force investigations, and the distinction between documented cases and speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains Blue Book, official Air Force investigations, and the distinction between documented cases and speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how evidence, skepticism and scientific reasoning should be applied to sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how evidence, skepticism and scientific reasoning should be applied to sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -819,7 +819,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -860,142 +860,142 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: politifact.com  
-   Link: <a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
+   Link:<a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arc.aiaa.org  
-   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.9095" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.9095</a>  
+   Link:<a href="https://arc.aiaa.org/doi/10.2514/1.9095" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.9095</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tu-dresden.de  
-   Link: <a href="https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf</a>  
+   Link:<a href="https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apnews.com  
    Title: AP News Conspiracy theories about missing or dead scientists boil over | AP News  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: obits.al.com  
    Title: amy eskridge obituary  
-   Link: <a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
+   Link:<a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Thomas Townsend Brown  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
+   Link:<a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arabheritagememorialchapel.com  
    Title: amy eskridge  
-   Link: <a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
+   Link:<a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Mystery behind 11 missing or dead scientists spark FBI investigation  
-   Link: <a href="https://www.youtube.com/watch?v=S8D0_5f0iZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8D0_5f0iZ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump says US will know more on missing scientists in the next week and a half...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S8D0_5f0iZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8D0_5f0iZ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump says US will know more on missing scientists in the next week and a half...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkKTDnPVitQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery behind 11 missing or dead scientists spark FBI investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkKTDnPVitQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery behind 11 missing or dead scientists spark FBI investigation...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Trump says US will know more on missing scientists in the next week and a half  
-   Link: <a href="https://www.youtube.com/watch?v=Ax3GoVcXK_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ax3GoVcXK_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ax3GoVcXK_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ax3GoVcXK_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect</a>  
+   Link:<a href="https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust</a>  
+   Link:<a href="https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/swdeb5/10_ufo_investigators_who_died_mysteriously_under/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/swdeb5/10_ufo_investigators_who_died_mysteriously_under/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/swdeb5/10_ufo_investigators_who_died_mysteriously_under/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/swdeb5/10_ufo_investigators_who_died_mysteriously_under/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174</a>  
+   Link:<a href="https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wfmd.com  
-   Link: <a href="https://www.wfmd.com/2026/04/17/11th-scientist-death-emerges-in-string-of-missing-dead-officials-with-access-to-us-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://www.wfmd.com/2026/04/17/11th-scientist-death-emerges-in-string-of-missing-dead-officials-with-access-to-us-secrets/</a>  
+   Link:<a href="https://www.wfmd.com/2026/04/17/11th-scientist-death-emerges-in-string-of-missing-dead-officials-with-access-to-us-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://www.wfmd.com/2026/04/17/11th-scientist-death-emerges-in-string-of-missing-dead-officials-with-access-to-us-secrets/</a>  

@@ -284,15 +284,15 @@ Among the many claims used to explain [Ning Li]({{ 'ning-li/' | relative_url }})
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-1-dark.svg" | relative_url }}" alt="Clearance Claim illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The strongest publicly cited source for the clearance story is not a government document, declassified programme file, or court record. It is testimony from Li’s son in a 2023 interview. That testimony helps explain why her public research trail appears to end so abruptly. What it does not do is establish what research she performed after leaving public academia, whether her work succeeded, or whether it had any connection to advanced propulsion systems. The distinction is crucial because the clearance claim explains silence; it does not, by itself, prove breakthrough results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+The strongest publicly cited source for the clearance story is not a government document, declassified programme file, or court record. It is testimony from Li’s son in a 2023 interview. That testimony helps explain why her public research trail appears to end so abruptly. What it does not do is establish what research she performed after leaving public academia, whether her work succeeded, or whether it had any connection to advanced propulsion systems. The distinction is crucial because the clearance claim explains silence; it does not, by itself, prove breakthrough results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
 ## Did Classification Explain Ning Li's Silence?
 
-The public record shows that Li moved away from conventional academic publishing after leaving the University of Alabama in Huntsville and creating [AC Gravity]({{ 'ac-gravity/' | relative_url }}) LLC. Her company later received a Department of Defense grant worth approximately $449,000 to continue research related to her gravity theories. Publicly available information about the outcomes of that work is extremely limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+The public record shows that Li moved away from conventional academic publishing after leaving the University of Alabama in Huntsville and creating [AC Gravity]({{ 'ac-gravity/' | relative_url }}) LLC. Her company later received a Department of Defense grant worth approximately $449,000 to continue research related to her gravity theories. Publicly available information about the outcomes of that work is extremely limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 This gap has encouraged two competing interpretations.
 
-One interpretation is mundane: many defence-related projects produce little public output because work changes direction, funding ends, experiments fail, or findings remain proprietary. The other interpretation is that Li entered classified research and therefore could no longer publish or discuss what she was doing. The clearance claim sits at the centre of the second explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+One interpretation is mundane: many defence-related projects produce little public output because work changes direction, funding ends, experiments fail, or findings remain proprietary. The other interpretation is that Li entered classified research and therefore could no longer publish or discuss what she was doing. The clearance claim sits at the centre of the second explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 Importantly, the available evidence does not allow researchers to determine which specific projects, if any, became classified. The existence of a security clearance would not itself reveal what work was performed.
 
@@ -301,11 +301,11 @@ Importantly, the available evidence does not allow researchers to determine whic
 
 ## What Li's Family Reportedly Said
 
-The most frequently cited account comes from Li’s son, George Men, who was interviewed by the Huntsville Business Journal in 2023. According to that report, Men stated that his mother continued antigravity-related work for the U.S. Department of Defense and stopped publishing or discussing her findings after receiving a Top Secret security clearance. He also described later Chinese efforts to recruit her back to China, which she reportedly declined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+The most frequently cited account comes from Li’s son, George Men, who was interviewed by the Huntsville Business Journal in 2023. According to that report, Men stated that his mother continued antigravity-related work for the U.S. Department of Defense and stopped publishing or discussing her findings after receiving a Top Secret security clearance. He also described later Chinese efforts to recruit her back to China, which she reportedly declined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
-For historians and investigators, this testimony is significant because it comes from a close family member rather than from anonymous internet sources. It offers a plausible explanation for why a scientist who had previously published papers and spoken publicly would suddenly become difficult to track through academic databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+For historians and investigators, this testimony is significant because it comes from a close family member rather than from anonymous internet sources. It offers a plausible explanation for why a scientist who had previously published papers and spoken publicly would suddenly become difficult to track through academic databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
-At the same time, family testimony has limits. Men did not publicly release classified documents, programme descriptions, technical reports, or evidence demonstrating what research his mother conducted after obtaining clearance. His account addresses the question of silence more directly than it answers the question of achievement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+At the same time, family testimony has limits. Men did not publicly release classified documents, programme descriptions, technical reports, or evidence demonstrating what research his mother conducted after obtaining clearance. His account addresses the question of silence more directly than it answers the question of achievement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
 That distinction often disappears in online retellings. The statement “she received Top Secret clearance” is frequently transformed into “she successfully built antigravity technology,” even though the second claim does not logically follow from the first.
 
@@ -313,7 +313,7 @@ That distinction often disappears in online retellings. The statement “she rec
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-2-dark.svg" | relative_url }}" alt="Clearance Claim illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Classification Can Shrink a Public Research Trail
 
-A security clearance is not proof that a scientific breakthrough occurred. It is permission to access protected information under specified conditions. In the U.S. system, a Top Secret clearance allows access to information whose unauthorised disclosure could cause exceptionally grave damage to national security, but access still depends on a demonstrated need to know and, in some cases, additional compartmented authorisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Classified information in the United States</span><span class="citation-popover-snippet">Classified information in the United States</span></span></span>
+A security clearance is not proof that a scientific breakthrough occurred. It is permission to access protected information under specified conditions. In the U.S. system, a Top Secret clearance allows access to information whose unauthorised disclosure could cause exceptionally grave damage to national security, but access still depends on a demonstrated need to know and, in some cases, additional compartmented authorisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Classified information in the United States</span><span class="citation-popover-snippet">Classified information in the United States</span></span></span>
 
 If a scientist transitions from open academic research into classified work, several visible changes can occur:
 
@@ -324,7 +324,7 @@ If a scientist transitions from open academic research into classified work, sev
 * Conference presentations may become rare or disappear.
 * Patent activity may decline or become restricted.
 * Colleagues outside authorised programmes may lose visibility into ongoing work.
-* Public biographies may become difficult to update accurately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Classified information in the United States</span><span class="citation-popover-snippet">Classified information in the United States</span></span></span>
+* Public biographies may become difficult to update accurately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Classified information in the United States</span><span class="citation-popover-snippet">Classified information in the United States</span></span></span>
 
 </div>
 
@@ -337,7 +337,7 @@ For that reason, the clearance claim is not inherently extraordinary. Similar pa
 
 ## Where Explanation Ends and Speculation Begins
 
-The evidence supporting the clearance narrative remains limited but specific. A family member stated that Li obtained a Top Secret clearance and stopped discussing her work. That statement is consistent with how classified programmes operate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+The evidence supporting the clearance narrative remains limited but specific. A family member stated that Li obtained a Top Secret clearance and stopped discussing her work. That statement is consistent with how classified programmes operate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[huntsvillebusinessjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
 The evidence does not establish several claims that are commonly attached to it:
 
@@ -347,215 +347,215 @@ The evidence does not establish several claims that are commonly attached to it:
 * It does not prove that Li achieved practical antigravity.
 * It does not prove that the Department of Defense validated her theories.
 * It does not prove a connection to UFO propulsion systems.
-* It does not demonstrate that her later work was hidden because it succeeded rather than because it remained exploratory, inconclusive, or simply classified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2KSBW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+* It does not demonstrate that her later work was hidden because it succeeded rather than because it remained exploratory, inconclusive, or simply classified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 </div>
 
-This is the key boundary in the Ning Li story. The clearance claim helps explain why researchers encounter a sudden reduction in public information after the early 2000s. It does not fill the resulting evidence gap. The absence of public records can support many explanations simultaneously, ranging from routine classified research to extraordinary technological success. Without additional documentary evidence, the available record cannot distinguish confidently between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+This is the key boundary in the Ning Li story. The clearance claim helps explain why researchers encounter a sudden reduction in public information after the early 2000s. It does not fill the resulting evidence gap. The absence of public records can support many explanations simultaneously, ranging from routine classified research to extraordinary technological success. Without additional documentary evidence, the available record cannot distinguish confidently between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[huntsvillebusinessjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-3-dark.svg" | relative_url }}" alt="Clearance Claim illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_clearance_silence_464351-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Claim Became Central to UFO Narratives
 
-Within UFO and advanced-propulsion discussions, the clearance story functions as a bridge between two otherwise separate facts: Li’s documented interest in gravity-related physics and her later disappearance from public scientific debate. Online discussions frequently treat the clearance claim as evidence that authorities recognised transformative technology and removed it from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Solving the Mystery Behind the Disappearance of Dr</span><span class="citation-popover-snippet">Ning LiJuly 28, 2023 — As the title “Huntsville Business Journal... It follows that she then received top secret clearance and was being...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+Within UFO and advanced-propulsion discussions, the clearance story functions as a bridge between two otherwise separate facts: Li’s documented interest in gravity-related physics and her later disappearance from public scientific debate. Online discussions frequently treat the clearance claim as evidence that authorities recognised transformative technology and removed it from public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Solving the Mystery Behind the Disappearance of Dr</span><span class="citation-popover-snippet">Ning LiJuly 28, 2023 — As the title “Huntsville Business Journal... It follows that she then received top secret clearance and was being...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
-The difficulty is that this argument depends on missing information rather than disclosed information. The public knows that Li conducted unconventional gravity research. The public also knows that her visible publication record became sparse. What remains unknown is what happened in between. The clearance claim offers a plausible mechanism for that silence, but it does not reveal the contents of the hidden period itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+The difficulty is that this argument depends on missing information rather than disclosed information. The public knows that Li conducted unconventional gravity research. The public also knows that her visible publication record became sparse. What remains unknown is what happened in between. The clearance claim offers a plausible mechanism for that silence, but it does not reveal the contents of the hidden period itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
-For that reason, the claim remains important in discussions of Ning Li and the antigravity evidence gap. It is one of the strongest available explanations for her reduced public profile, yet it is not evidence that the underlying scientific claims were proven. The documented fact is the reported clearance and subsequent silence; the leap from silence to technological breakthrough remains speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
+For that reason, the claim remains important in discussions of Ning Li and the antigravity evidence gap. It is one of the strongest available explanations for her reduced public profile, yet it is not evidence that the underlying scientific claims were proven. The documented fact is the reported clearance and subsequent silence; the leap from silence to technological breakthrough remains speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" title="Mysterious case of missing and dead scientists tied to UFO programs sounds alarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer">Mysterious case of missing and dead scientists tied to UFO programs sounds alarms</a></p><p class="youtube-embed-meta">Channel: The Hill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tqs6Z3OQSk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Classification Explain Ning Li&#x27;s Silence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Classification Explain Ning Li&#x27;s Silence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for how sensitive military and aerospace projects can disappear from public view.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how sensitive military and aerospace projects can disappear from public view.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores classified research environments often invoked in discussions about hidden technological work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores classified research environments often invoked in discussions about hidden technological work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses evidentiary standards, official secrecy, and the limits of public knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidentiary standards, official secrecy, and the limits of public knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="clearance-claim-did-classification-explain-ning-li-s-silence-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-classification-explain-ning-li-s-silence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-classification-explain-ning-li-s-silence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For that reason, the claim remains important in discussions of Ning Li and the a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For that reason, the claim remains important in discussions of Ning Li and the a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For that reason, the claim remains important in discussions of Ning Li and the a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For that reason, the claim remains important in discussions of Ning Li and the a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For that reason, the claim remains important in discussions of Ning Li and the a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,98 +761,98 @@ For that reason, the claim remains important in discussions of Ning Li and the a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ning Li (physicist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Classified information in the United States  
-   Link: <a href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Classified_information_in_the_United_States</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Classified_information_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Classified_information_in_the_United_States</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: United States security clearance  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_security_clearance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_security_clearance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_security_clearance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_security_clearance</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ksbw.com  
    Title: missing scientists nuclear weapons ufos  
-   Link: <a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead U.S. scientists29 Apr 2026 — Ning Li, died in 2021; worked at the University of Alabama in Hunts...</p></details>
+   Link:<a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead U.S. scientists29 Apr 2026 — Ning Li, died in 2021; worked at the University of Alabama in Hunts...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Solving the Mystery Behind the Disappearance of Dr  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning LiJuly 28, 2023 — As the title “Huntsville Business Journal... It follows that she then received top secret clearance and was being...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning LiJuly 28, 2023 — As the title “Huntsville Business Journal... It follows that she then received top secret clearance and was being...</p></details>
    Published: July 28, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: huntsvillebusinessjournal.com  
-   Link: <a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</p></details>
+   Link:<a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li&#x27;s son talks about his mom&#x27;s career and legacy — and the internet&#x27;s long, strange obsession with her so-called “disappearance.”...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tilln.com  
    Title: ning li this scientist got 450k from the dod then she disappeared  
-   Link: <a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...14 May 2024 — Ning Li was a Chinese-American physicist who made breakthrough...</p></details>
+   Link:<a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...14 May 2024 — Ning Li was a Chinese-American physicist who made breakthrough...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity Researcher Speaks on Scientist Death CaseAnti-Gravity Researcher Speaks on Scientist Death Case · Recent Posts · What happen...</p></details>
+   Link:<a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity Researcher Speaks on Scientist Death CaseAnti-Gravity Researcher Speaks on Scientist Death Case · Recent Posts · What happen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SUeQWs1vWDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SUeQWs1vWDw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ning Li Disappearance | Noah LoganDr. Ning Li made global headlines after claiming to control gravity with [superconductors](&amp;#123;&amp;#123; &#x27;superconductors/&#x27; | relative_url &amp;#125;&amp;#125;) - and then...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SUeQWs1vWDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SUeQWs1vWDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ning Li Disappearance | Noah LoganDr. Ning Li made global headlines after claiming to control gravity with [superconductors](&amp;#123;&amp;#123; &#x27;superconductors/&#x27; | relative_url &amp;#125;&amp;#125;) - and then...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newsweek.com  
    Title: The results of that grant were never published  
-   Link: <a href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing, dead scientists: Congressman raises concerns...20 Apr 2026 — Ning Li died in 2021, Li, who worked at the University of...</p></details>
+   Link:<a href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing, dead scientists: Congressman raises concerns...20 Apr 2026 — Ning Li died in 2021, Li, who worked at the University of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wdsu.com  
    Title: Fact-checking claims about missing, dead U.S  
-   Link: <a href="https://www.wdsu.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.wdsu.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists29 Apr 2026 — Ning Li, died in 2021; worked at the University of Alabama in... The Hill reported that he had top security clea...</p></details>
+   Link:<a href="https://www.wdsu.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.wdsu.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists29 Apr 2026 — Ning Li, died in 2021; worked at the University of Alabama in... The Hill reported that he had top security clea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox4kc/posts/a-man-contracted-out-of-kcs-national-security-campus-is-among-10-missing-or-dead/1606180064197679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox4kc/posts/a-man-contracted-out-of-kcs-national-security-campus-is-among-10-missing-or-dead/1606180064197679/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t a critical nuclear weapons facility. His disappearance on...</p></details>
+   Link:<a href="https://www.facebook.com/fox4kc/posts/a-man-contracted-out-of-kcs-national-security-campus-is-among-10-missing-or-dead/1606180064197679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox4kc/posts/a-man-contracted-out-of-kcs-national-security-campus-is-among-10-missing-or-dead/1606180064197679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t a critical nuclear weapons facility. His disappearance on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HzYns1zmYe4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li top secret clearance [public silence](&amp;#123;&amp;#123; &#x27;public-silence/&#x27; | relative_url &amp;#125;&amp;#125;) 【AI Drama】He Was a Broken Old Man at 90. Then a System Gave Him a Billion Times More Talent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HzYns1zmYe4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li top secret clearance [public silence](&amp;#123;&amp;#123; &#x27;public-silence/&#x27; | relative_url &amp;#125;&amp;#125;) 【AI Drama】He Was a Broken Old Man at 90. Then a System Gave Him a Billion Times More Talent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podcasts.apple.com  
    Title: Podcasts The Vanishing of Dr  
-   Link: <a href="https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li –…–Missing Persons Archives31 Jul 2025 — Li vanished from public view—no papers, no patents, no trace. Her company, AC Gravity LL...</p></details>
+   Link:<a href="https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li –…–Missing Persons Archives31 Jul 2025 — Li vanished from public view—no papers, no patents, no trace. Her company, AC Gravity LL...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The disappearance of America's leading anti-gravity researcher  
-   Link: <a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW0b7RSAUKS/?img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0b7RSAUKS/?img_index=4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A series of cases involving US scientists missing or found...Ning Li, 78, died in 2021 in Huntsville, AL, where she worked in the field...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW0b7RSAUKS/?img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW0b7RSAUKS/?img_index=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A series of cases involving US scientists missing or found...Ning Li, 78, died in 2021 in Huntsville, AL, where she worked in the field...</p></details>

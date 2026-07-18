@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294-ove
 
 ## Introduction
 
-Sensitive nuclear, space and defence laboratories attract rumours because they sit at the exact point where real secrecy, real national-security work and real personal tragedy meet. In the wider [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-death narrative, this matters because many claims lean on an apparently persuasive shortcut: if someone worked near a classified laboratory, then an unexplained death or disappearance must be strategically connected. The record supports a more careful conclusion. These laboratories do handle consequential work, including nuclear stockpile stewardship, advanced aerospace research, classified computing and sensor programmes. But secrecy around a workplace does not, by itself, turn unrelated deaths, suicides, homicides or missing-person cases into evidence of a coordinated operation. Recent reporting on the “missing scientists” claim found federal and congressional interest in [possible links]({{ 'possible-links/' | relative_url }}), yet no public evidence proving a connected plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+Sensitive nuclear, space and defence laboratories attract rumours because they sit at the exact point where real secrecy, real national-security work and real personal tragedy meet. In the wider [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-death narrative, this matters because many claims lean on an apparently persuasive shortcut: if someone worked near a classified laboratory, then an unexplained death or disappearance must be strategically connected. The record supports a more careful conclusion. These laboratories do handle consequential work, including nuclear stockpile stewardship, advanced aerospace research, classified computing and sensor programmes. But secrecy around a workplace does not, by itself, turn unrelated deaths, suicides, homicides or missing-person cases into evidence of a coordinated operation. Recent reporting on the “missing scientists” claim found federal and congressional interest in [possible links]({{ 'possible-links/' | relative_url }}), yet no public evidence proving a connected plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294-overview.webp" | relative_url }}" alt="Overview image for Sensitive Labs" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,23 +455,23 @@ The useful question is not whether national-security laboratories are ordinary w
 
 ## What Sensitive Labs Actually Do
 
-The laboratories most often pulled into these narratives are not vague “secret science” sites. They have public missions, published histories and visible institutional roles, even though parts of their work are classified. The U.S. Department of Energy says the National Nuclear Security Administration oversees three primary national laboratories that form the backbone of the U.S. nuclear security enterprise, responsible for maintaining the safety, security and effectiveness of the nuclear weapons stockpile without nuclear testing, while also supporting counterterrorism, non-proliferation and nuclear threat reduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/national-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govNational LaboratoriesThe National Nuclear Security Administration (NNSA) oversees three primary nati...</span></span></span>
+The laboratories most often pulled into these narratives are not vague “secret science” sites. They have public missions, published histories and visible institutional roles, even though parts of their work are classified. The U.S. Department of Energy says the National Nuclear Security Administration oversees three primary national laboratories that form the backbone of the U.S. nuclear security enterprise, responsible for maintaining the safety, security and effectiveness of the nuclear weapons stockpile without nuclear testing, while also supporting counterterrorism, non-proliferation and nuclear threat reduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/national-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govNational LaboratoriesThe National Nuclear Security Administration (NNSA) oversees three primary nati...</span></span></span>
 
-[Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory describes its mission as solving national-security challenges through science, technology and innovation, with priorities set by the Department of Energy’s National Nuclear Security Administration and wider national strategy guidance. It says capabilities developed through stockpile research also support science, energy and environmental missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/about/mission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Los Alamos National LaboratoryMission &#124; Los Alamos National LaboratoryThe mission of Los Alamos National Laborator is to solve national s...</span></span></span> Lawrence Livermore National Laboratory similarly describes stockpile stewardship as a programme for ensuring the safety, security and effectiveness of the U.S. nuclear deterrent without nuclear explosive testing, while noting that the same capabilities now support broader national-security missions involving nuclear, conventional, space and cyber domains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sd.llnl.gov">[sd.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sd.llnl.gov</span><span class="citation-popover-title">Stockpile Stewardship Program</span><span class="citation-popover-snippet">Stockpile Stewardship Program</span></span></span>
+[Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory describes its mission as solving national-security challenges through science, technology and innovation, with priorities set by the Department of Energy’s National Nuclear Security Administration and wider national strategy guidance. It says capabilities developed through stockpile research also support science, energy and environmental missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/about/mission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Los Alamos National LaboratoryMission &#124; Los Alamos National LaboratoryThe mission of Los Alamos National Laborator is to solve national s...</span></span></span> Lawrence Livermore National Laboratory similarly describes stockpile stewardship as a programme for ensuring the safety, security and effectiveness of the U.S. nuclear deterrent without nuclear explosive testing, while noting that the same capabilities now support broader national-security missions involving nuclear, conventional, space and cyber domains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sd.llnl.gov">[sd.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sd.llnl.gov</span><span class="citation-popover-title">Stockpile Stewardship Program</span><span class="citation-popover-snippet">Stockpile Stewardship Program</span></span></span>
 
 That blend is important. A person can be genuinely connected to a high-security institution without personally working on UFOs, antigravity, exotic propulsion or hidden craft. National labs employ physicists, engineers, software specialists, administrative workers, technicians, security staff, procurement professionals, medical staff and contractors. In public rumour cycles, those distinctions often collapse into a single phrase such as “classified scientist” or “nuclear researcher”. The phrase may be technically suggestive, but it can hide wide differences in role, access, seniority and subject matter.
 
-The work itself also spans open and closed worlds. The same lab may publish peer-reviewed science, host user facilities, operate unclassified research programmes and support classified defence work. At Lawrence Livermore, the National Ignition Facility is publicly described as supporting understanding of nuclear-explosion physics and stockpile reliability; at Los Alamos, official descriptions include stockpile-related research alongside theoretical and applied work in materials science, physics, environmental science, energy and health. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov The U.S. Nuclear Weapons Stockpile</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.gov The U.S. Nuclear Weapons Stockpile</span></span></span> This mixed environment makes lab affiliation a poor stand-alone indicator of what someone knew.
+The work itself also spans open and closed worlds. The same lab may publish peer-reviewed science, host user facilities, operate unclassified research programmes and support classified defence work. At Lawrence Livermore, the National Ignition Facility is publicly described as supporting understanding of nuclear-explosion physics and stockpile reliability; at Los Alamos, official descriptions include stockpile-related research alongside theoretical and applied work in materials science, physics, environmental science, energy and health.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov The U.S. Nuclear Weapons Stockpile</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.gov The U.S. Nuclear Weapons Stockpile</span></span></span> This mixed environment makes lab affiliation a poor stand-alone indicator of what someone knew.
 
 ## Why Secrecy Is Expected, Not Automatically Sinister
 
-Secrecy around nuclear and defence laboratories is not an improvised cover for UFO stories. It is built into U.S. law, classification policy and the history of weapons research. The Department of Energy’s Office of Classification develops and interprets policy for identifying Restricted Data, Formerly Restricted Data and other nuclear-related classified information, and it performs document classification and declassification reviews to protect national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/ehss/office-classification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Office of Classification</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.gov Office of Classification</span></span></span> Federal regulations define Restricted Data as information concerning the design, manufacture or use of atomic weapons, the production of special nuclear material, or the use of special nuclear material in energy production, except where declassified or removed from that category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
+Secrecy around nuclear and defence laboratories is not an improvised cover for UFO stories. It is built into U.S. law, classification policy and the history of weapons research. The Department of Energy’s Office of Classification develops and interprets policy for identifying Restricted Data, Formerly Restricted Data and other nuclear-related classified information, and it performs document classification and declassification reviews to protect national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/ehss/office-classification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">The Department of Energy&#x27;s Energy.gov Office of Classification</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.gov Office of Classification</span></span></span> Federal regulations define Restricted Data as information concerning the design, manufacture or use of atomic weapons, the production of special nuclear material, or the use of special nuclear material in energy production, except where declassified or removed from that category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span>
 
-This creates an unusual public-information problem. Most government secrets require an affirmative classification act, but nuclear-weapons information has a special legal history. A National Academies review of Department of Energy classification described two classification systems: ordinary national-security information classified under executive authority, and the separate Atomic Energy Act system for nuclear information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/4967/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span> To a public reader, that can look like excessive opacity. To a nuclear-security agency, it is part of the basic architecture of preventing weapons-design knowledge, sensitive materials information and related capabilities from spreading.
+This creates an unusual public-information problem. Most government secrets require an affirmative classification act, but nuclear-weapons information has a special legal history. A National Academies review of Department of Energy classification described two classification systems: ordinary national-security information classified under executive authority, and the separate Atomic Energy Act system for nuclear information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/4967/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span> To a public reader, that can look like excessive opacity. To a nuclear-security agency, it is part of the basic architecture of preventing weapons-design knowledge, sensitive materials information and related capabilities from spreading.
 
-U.S. classification policy also explicitly acknowledges the tension. Executive Order 13526 states that democratic principles require the public to be informed about government activities, while national defence sometimes requires information to be kept confidential to protect citizens, [institutions]({{ 'institutions/' | relative_url }}), homeland security and foreign relations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obamawhitehouse.archives.gov">[whitehouse.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obamawhitehouse.archives.gov</span><span class="citation-popover-title">executive order classified national security information</span><span class="citation-popover-snippet">executive order classified national security information</span></span></span> This is exactly the tension that conspiracy narratives exploit: openness is limited for real reasons, but those limits can make it difficult for outsiders to test claims.
+U.S. classification policy also explicitly acknowledges the tension. Executive Order 13526 states that democratic principles require the public to be informed about government activities, while national defence sometimes requires information to be kept confidential to protect citizens, [institutions]({{ 'institutions/' | relative_url }}), homeland security and foreign relations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obamawhitehouse.archives.gov">[whitehouse.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obamawhitehouse.archives.gov</span><span class="citation-popover-title">executive order classified national security information</span><span class="citation-popover-snippet">executive order classified national security information</span></span></span> This is exactly the tension that conspiracy narratives exploit: openness is limited for real reasons, but those limits can make it difficult for outsiders to test claims.
 
-UAP research adds a second layer of opacity because it intersects with military sensors, airspace safety and intelligence collection. NASA’s independent UAP study said analysis is often hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and inconsistent data quality. It also contrasted NASA’s scientific transparency with Department of Defense data that can be classified because of sensor and platform sensitivities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The All-domain Anomaly Resolution Office, created inside the Department of Defense, publicly frames UAP reporting around government personnel, pilot reports and records review, not around public release of every raw military sensor file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+UAP research adds a second layer of opacity because it intersects with military sensors, airspace safety and intelligence collection. NASA’s independent UAP study said analysis is often hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and inconsistent data quality. It also contrasted NASA’s scientific transparency with Department of Defense data that can be classified because of sensor and platform sensitivities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The All-domain Anomaly Resolution Office, created inside the Department of Defense, publicly frames UAP reporting around government personnel, pilot reports and records review, not around public release of every raw military sensor file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That arrangement makes sense from a defence perspective, but it produces a persistent public gap. If a radar track, infrared image or satellite observation cannot be fully released because it exposes capabilities, sceptical readers may suspect that the missing data hides an extraordinary answer. Yet the absence of public data is not the same as evidence of extraterrestrial technology, antigravity breakthroughs or targeted killings. It is often just the ordinary friction between public science and classified collection systems.
 
@@ -481,7 +481,7 @@ That arrangement makes sense from a defence perspective, but it produces a persi
 
 Sensitive-lab rumours usually depend on a chain of associations rather than direct evidence. A person worked at, near or with an institution that has classified work. That institution touches nuclear weapons, [aerospace]({{ 'aerospace/' | relative_url }}), propulsion, sensors or space research. Those fields overlap in the public imagination with UFOs and antigravity. Therefore, the person’s death or disappearance is treated as potentially strategic. The weak link is the jump from “institutional proximity” to “causal motive”.
 
-The 2026 “missing scientists” narrative shows the mechanism clearly. Associated Press reported that speculation about deaths and disappearances of at least 12 U.S. scientists grew from online communities into national politics, with the FBI and Congress looking for possible connections. But the same reporting stressed that no evidence had established coordinated foul play, and that some cases had identifiable suspects or were misunderstood because of the person’s actual role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The 2026 “missing scientists” narrative shows the mechanism clearly. Associated Press reported that speculation about deaths and disappearances of at least 12 U.S. scientists grew from online communities into national politics, with the FBI and Congress looking for possible connections. But the same reporting stressed that no evidence had established coordinated foul play, and that some cases had identifiable suspects or were misunderstood because of the person’s actual role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Several factors make these stories sticky:
 
@@ -489,7 +489,7 @@ Several factors make these stories sticky:
 
 **Job titles blur technical boundaries.** “Plasma physicist”, “aerospace engineer”, “lab worker” and “national-security researcher” are often grouped together even when their actual work differs sharply. Fusion science, astrophysics, nuclear stockpile stewardship and UAP reporting are not interchangeable fields.
 
-**Classified access is often overstated.** Having worked in a sensitive ecosystem does not mean a person currently holds exceptional secrets. In the case of retired Major General William “Neil” McCasland, whose disappearance helped fuel the 2026 narrative, reports noted his former role at the Air Force Research Laboratory and his links to UFO discussion, but also reported family statements pushing back on misinformation and noting health concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">ABC7 Chicago General William Neil Mc Casland missing: Warm spring</span><span class="citation-popover-snippet">ABC7 Chicago General William Neil Mc Casland missing: Warm spring</span></span></span>
+**Classified access is often overstated.** Having worked in a sensitive ecosystem does not mean a person currently holds exceptional secrets. In the case of retired Major General William “Neil” McCasland, whose disappearance helped fuel the 2026 narrative, reports noted his former role at the Air Force Research Laboratory and his links to UFO discussion, but also reported family statements pushing back on misinformation and noting health concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">ABC7 Chicago General William Neil Mc Casland missing: Warm spring</span><span class="citation-popover-snippet">ABC7 Chicago General William Neil Mc Casland missing: Warm spring</span></span></span>
 
 **Silence can be misread as confirmation.** Families, police, employers and agencies may withhold details for privacy, investigative or classification reasons. Online audiences sometimes treat that restraint as proof of a hidden national-security motive, even when it is routine.
 
@@ -504,13 +504,13 @@ This is why sensitive labs are such powerful narrative devices in UFO and antigr
 
 Some cases cited in the broader “scientists being silenced” story are serious, tragic and worthy of careful reporting. They do not become stronger by being forced into one plot.
 
-Nuno [Loureiro]({{ 'loureiro/' | relative_url }}), director of MIT’s Plasma Science and Fusion Center, died at 47 in December 2025. MIT described him as a professor, plasma physicist and director of one of its major fusion research centres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.mit.edu">[MIT Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.mit.edu</span><span class="citation-popover-title">Physics Nuno Loureiro, professor and director of MIT&#x27;s Plasma</span><span class="citation-popover-snippet">Physics Nuno Loureiro, professor and director of MIT&#x27;s Plasma</span></span></span> His death was later folded into online speculation because fusion research sounds strategically important and because he had connections to high-level physics institutions. That does not establish a UFO or antigravity motive.
+Nuno [Loureiro]({{ 'loureiro/' | relative_url }}), director of MIT’s Plasma Science and Fusion Center, died at 47 in December 2025. MIT described him as a professor, plasma physicist and director of one of its major fusion research centres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.mit.edu">[MIT Physics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.mit.edu</span><span class="citation-popover-title">Physics Nuno Loureiro, professor and director of MIT&#x27;s Plasma</span><span class="citation-popover-snippet">Physics Nuno Loureiro, professor and director of MIT&#x27;s Plasma</span></span></span> His death was later folded into online speculation because fusion research sounds strategically important and because he had connections to high-level physics institutions. That does not establish a UFO or antigravity motive.
 
-Carl Grillmair, a Caltech astrophysicist associated with the Infrared Processing and Analysis Center, was fatally shot at his rural California home in February 2026. The Guardian reported that authorities arrested a suspect who faced charges including murder, carjacking and burglary; later Los Angeles Times reporting said investigators had found no clear motive and did not believe the two men knew each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span> A solved or partially solved homicide can still be frightening, but it is not automatically evidence of a strategic campaign.
+Carl Grillmair, a Caltech astrophysicist associated with the Infrared Processing and Analysis Center, was fatally shot at his rural California home in February 2026. The Guardian reported that authorities arrested a suspect who faced charges including murder, carjacking and burglary; later Los Angeles Times reporting said investigators had found no clear motive and did not believe the two men knew each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span> A solved or partially solved homicide can still be frightening, but it is not automatically evidence of a strategic campaign.
 
-Amy Eskridge is another recurring name because she was publicly associated with exotic science and antigravity ideas. Her obituary described her as chairwoman and president of the Institute for Exotic Science in Huntsville, Alabama, and noted her interest in unconventional questions about the universe and matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">amy eskridge obituary</span></span></span> That makes her relevant to antigravity folklore, but the public record around her death is not equivalent to proof that she possessed a suppressed technology or was targeted because of it.
+Amy Eskridge is another recurring name because she was publicly associated with exotic science and antigravity ideas. Her obituary described her as chairwoman and president of the Institute for Exotic Science in Huntsville, Alabama, and noted her interest in unconventional questions about the universe and matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">amy eskridge obituary</span></span></span> That makes her relevant to antigravity folklore, but the public record around her death is not equivalent to proof that she possessed a suppressed technology or was targeted because of it.
 
-McCasland’s disappearance is especially potent for rumour because it joins several charged symbols: retired Air Force general, Wright-Patterson Air Force Base, advanced aerospace research and UFO community links. Reports said he disappeared from Albuquerque in February 2026, leaving behind some devices and taking items including hiking boots, wallet and a revolver; authorities expressed concern for his safety, and his wife pushed back against exaggerated claims about alien-related insider knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</span></span></span> The unresolved nature of a disappearance naturally invites worry. But unresolved does not mean explained by the most dramatic theory available.
+McCasland’s disappearance is especially potent for rumour because it joins several charged symbols: retired Air Force general, Wright-Patterson Air Force Base, advanced aerospace research and UFO community links. Reports said he disappeared from Albuquerque in February 2026, leaving behind some devices and taking items including hiking boots, wallet and a revolver; authorities expressed concern for his safety, and his wife pushed back against exaggerated claims about alien-related insider knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</span></span></span> The unresolved nature of a disappearance naturally invites worry. But unresolved does not mean explained by the most dramatic theory available.
 
 The recurring problem is aggregation. One unresolved disappearance, one suicide, one homicide with a suspect, one natural death and one misunderstood administrative role can look ominous when placed in a list under a title about “classified scientists”. The list creates the impression of a single phenomenon before the evidence has shown that one exists.
 
@@ -520,11 +520,11 @@ The recurring problem is aggregation. One unresolved disappearance, one suicide,
 
 Suspicion becomes most misleading when it treats real secrecy as if it were direct evidence of a specific hidden event. National-security laboratories are secretive because they deal with weapons, sensors, intelligence, materials, computing and strategic vulnerability. That explains why some information is unavailable. It does not explain why a particular person died.
 
-A useful credibility test is to ask what kind of evidence would be needed to move from atmosphere to allegation. A strong claim would need more than lab affiliation. It would need specific links such as a shared programme, shared classified access, a common threat stream, a documented security warning, a repeated operational method, connected suspects, financial or espionage trails, or official findings tying cases together. Public reporting on the 2026 scientist-death narrative has not produced that level of evidence. AP reported investigation and concern, but not proof of a coordinated campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+A useful credibility test is to ask what kind of evidence would be needed to move from atmosphere to allegation. A strong claim would need more than lab affiliation. It would need specific links such as a shared programme, shared classified access, a common threat stream, a documented security warning, a repeated operational method, connected suspects, financial or espionage trails, or official findings tying cases together. Public reporting on the 2026 scientist-death narrative has not produced that level of evidence. AP reported investigation and concern, but not proof of a coordinated campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Another warning sign is when a theory expands faster than it verifies. Early versions of the narrative cited a smaller number of cases; later versions grew to 10, 11, 12 or more, depending on which names were included. That fluidity matters. A stable pattern usually becomes clearer as evidence improves. A rumour pattern often grows by loosening its entry criteria.
 
-The same caution applies to “UFO-adjacent” credentials. The U.S. government has indeed studied UAP. AARO’s historical review and NASA’s independent study show that unidentified anomalous phenomena are a real government and scientific topic, especially where aviation safety, sensor data and possible foreign technology are concerned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> But AARO’s 2024 historical review reported no verified evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Index:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Index:AARO Historical Record Report Volume 1 2024</span></span></span> NASA’s study likewise found no conclusive peer-reviewed evidence for an extraterrestrial origin and treated better data collection as the central need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The same caution applies to “UFO-adjacent” credentials. The U.S. government has indeed studied UAP. AARO’s historical review and NASA’s independent study show that unidentified anomalous phenomena are a real government and scientific topic, especially where aviation safety, sensor data and possible foreign technology are concerned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> But AARO’s 2024 historical review reported no verified evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Index:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Index:AARO Historical Record Report Volume</span></span></span> NASA’s study likewise found no conclusive peer-reviewed evidence for an extraterrestrial origin and treated better data collection as the central need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That distinction is central. Government interest in UAP makes the subject legitimate to study. It does not validate every claim that touches UAP, nor does it convert every tragedy near aerospace or nuclear research into a cover-up.
 
@@ -535,7 +535,7 @@ That distinction is central. Government interest in UAP makes the subject legiti
 
 The rumours persist because they attach themselves to real anxieties. Nuclear weapons laboratories are not benign in the public imagination. Aerospace research has a long history of black programmes, classified aircraft and delayed public disclosure. UAP reporting has often involved military witnesses and sensors. Antigravity occupies a liminal space between speculative physics, visionary engineering and fringe claims. When a person connected to any of those worlds dies unexpectedly, the mind reaches for a plot that matches the scale of the institution.
 
-There is also a cultural inheritance. Stories about missing scientists, hidden space programmes and elite secrecy have circulated for decades. The Guardian recently connected renewed “missing scientist” panic to the afterlife of *Alternative 3*, a 1977 British mockumentary about disappearing scientists and secret off-world survival plans, noting how fiction, satire and conspiracy lore can blur over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</span></span></span> That history does not disprove any individual case, but it explains why the same narrative shape reappears: scientists vanish, governments know more than they say, and space or advanced technology supplies the hidden motive.
+There is also a cultural inheritance. Stories about missing scientists, hidden space programmes and elite secrecy have circulated for decades. The Guardian recently connected renewed “missing scientist” panic to the afterlife of *Alternative 3*, a 1977 British mockumentary about disappearing scientists and secret off-world survival plans, noting how fiction, satire and conspiracy lore can blur over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</span></span></span> That history does not disprove any individual case, but it explains why the same narrative shape reappears: scientists vanish, governments know more than they say, and space or advanced technology supplies the hidden motive.
 
 The internet intensifies the effect by flattening evidentiary quality. An obituary, a local police report, a lab biography, a speculative podcast and a classified-programme reference can be presented side by side as if they carry equal weight. In that environment, “connected to a sensitive lab” becomes a mood rather than a documented causal link.
 
@@ -567,194 +567,194 @@ National-security laboratories attract rumours because they combine three things
 But the available public evidence does not show that sensitive laboratories are the missing mechanism behind a coordinated campaign against UFO or antigravity researchers. What it shows is a more human and more difficult reality: real classified work creates information gaps; information gaps invite suspicion; and suspicion can outrun proof when grief, national security and extraordinary technology stories are blended into one narrative.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why National Security Labs Attract Rumors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why National Security Labs Attract Rumors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly examines how secret installations generate speculation, rumors, and conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how secret installations generate speculation, rumors, and conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how genuine classified research programs can fuel public misunderstanding and speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how genuine classified research programs can fuel public misunderstanding and speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for separating evidence from rumor when confronting conspiracy theories and unexplained stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for separating evidence from rumor when confronting conspiracy theories and unexplained stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how secrecy, government institutions, and limited information shape UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secrecy, government institutions, and limited information shape UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="sensitive-labs-why-national-security-labs-attract-rumors-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-national-security-labs-attract-rumors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-national-security-labs-attract-rumors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -770,7 +770,7 @@ But the available public evidence does not show that sensitive laboratories are 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -790,7 +790,7 @@ But the available public evidence does not show that sensitive laboratories are 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -822,7 +822,7 @@ But the available public evidence does not show that sensitive laboratories are 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -874,7 +874,7 @@ But the available public evidence does not show that sensitive laboratories are 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -919,7 +919,7 @@ But the available public evidence does not show that sensitive laboratories are 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -960,359 +960,359 @@ But the available public evidence does not show that sensitive laboratories are 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/national-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/national-laboratories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govNational LaboratoriesThe National Nuclear Security Administration (NNSA) oversees three primary nati...</p></details>
+   Link:<a href="https://www.energy.gov/national-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/national-laboratories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govNational LaboratoriesThe National Nuclear Security Administration (NNSA) oversees three primary nati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/nnsa/national-nuclear-security-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/national-nuclear-security-administration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govNational Nuclear Security AdministrationOne of NNSA&#x27;s core missions is to ensure the United States m...</p></details>
+   Link:<a href="https://www.energy.gov/nnsa/national-nuclear-security-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/national-nuclear-security-administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govNational Nuclear Security AdministrationOne of NNSA&#x27;s core missions is to ensure the United States m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sd.llnl.gov  
    Title: Stockpile Stewardship Program  
-   Link: <a href="https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship</a>  
+   Link:<a href="https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://sd.llnl.gov/nuclear-deterrence/stockpile-stewardship</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: energy.gov  
    Title: The Department of Energy's Energy.gov The U.S. Nuclear Weapons Stockpile  
-   Link: <a href="https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile</a>  
+   Link:<a href="https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/us-nuclear-weapons-stockpile</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/ea/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ea/los-alamos-national-laboratory</a>  
+   Link:<a href="https://www.energy.gov/ea/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ea/los-alamos-national-laboratory</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: energy.gov  
    Title: The Department of Energy's Energy.gov Office of Classification  
-   Link: <a href="https://www.energy.gov/ehss/office-classification" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ehss/office-classification</a>  
+   Link:<a href="https://www.energy.gov/ehss/office-classification" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ehss/office-classification</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-X/part-1045/subpart-A</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc7chicago.com  
    Title: ABC7 Chicago General William Neil Mc Casland missing: Warm spring  
-   Link: <a href="https://abc7chicago.com/post/general-william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-[mccasland-missing</a>  
+   Link:<a href="https://abc7chicago.com/post/general-william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-[mccasland-missing</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: physics.mit.edu  
    Title: Physics Nuno Loureiro, professor and director of MIT's Plasma  
-   Link: <a href="https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/" target="_blank" rel="noopener noreferrer nofollow">https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/</a>  
+   Link:<a href="https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/" target="_blank" rel="noopener noreferrer nofollow">https://physics.mit.edu/news/nuno-loureiro-professor-and-director-of-mits-plasma-science-and-fusion-center-dies-at-47/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: people.com  
-   Link: <a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland’s name surfaced in public UFO discourse following a 2016 WikiLeaks release mentioning his potential advisory role to Tom DeLong...</p></details>
+   Link:<a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland’s name surfaced in public UFO discourse following a 2016 WikiLeaks release mentioning his potential advisory role to Tom DeLong...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: energy.gov  
    Title: nnsa stockpile stewardship and management plan  
-   Link: <a href="https://www.energy.gov/nnsa/articles/nnsa-stockpile-stewardship-and-management-plan" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/articles/nnsa-stockpile-stewardship-and-management-plan</a>  
+   Link:<a href="https://www.energy.gov/nnsa/articles/nnsa-stockpile-stewardship-and-management-plan" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/articles/nnsa-stockpile-stewardship-and-management-plan</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/</a>  
+   Link:<a href="https://www.energy.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: energy.gov  
    Title: FY24SSMP FINAL NOVEMBER 2023 0  
-   Link: <a href="https://www.energy.gov/sites/default/files/2023-11/FY24SSMP_FINAL_NOVEMBER_2023_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2023-11/FY24SSMP_FINAL_NOVEMBER_2023_0.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/default/files/2023-11/FY24SSMP_FINAL_NOVEMBER_2023_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2023-11/FY24SSMP_FINAL_NOVEMBER_2023_0.pdf</a>  
    Published: NOVEMBER 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: energy.gov  
    Title: FY2025 Stockpile Stewardship and Management Plan  
-   Link: <a href="https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/FY2025%20Stockpile%20Stewardship%20and%20Management%20Plan.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: energy.gov  
    Title: 20 years success stockpile stewardship  
-   Link: <a href="https://www.energy.gov/nnsa/20-years-success-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/20-years-success-stockpile-stewardship</a>  
+   Link:<a href="https://www.energy.gov/nnsa/20-years-success-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/20-years-success-stockpile-stewardship</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nnsa.energy.gov  
    Title: 2014 02 21 2013 12 SSQ V3 N4  
-   Link: <a href="https://nnsa.energy.gov/sites/default/files/nnsa/02-14-inlinefiles/2014-02-21%202013-12%20SSQ%20V3%20N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nnsa.energy.gov/sites/default/files/nnsa/02-14-inlinefiles/2014-02-21%202013-12%20SSQ%20V3%20N4.pdf</a>  
+   Link:<a href="https://nnsa.energy.gov/sites/default/files/nnsa/02-14-inlinefiles/2014-02-21%202013-12%20SSQ%20V3%20N4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nnsa.energy.gov/sites/default/files/nnsa/02-14-inlinefiles/2014-02-21%202013-12%20SSQ%20V3%20N4.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: energy.gov  
    Title: 2017 year review us nuclear deterrent  
-   Link: <a href="https://www.energy.gov/nnsa/2017-year-review-us-nuclear-deterrent" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/2017-year-review-us-nuclear-deterrent</a>  
+   Link:<a href="https://www.energy.gov/nnsa/2017-year-review-us-nuclear-deterrent" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/2017-year-review-us-nuclear-deterrent</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: energy.gov  
    Title: nnsa celebrates may fourth question who shot first  
-   Link: <a href="https://www.energy.gov/nnsa/articles/nnsa-celebrates-may-fourth-question-who-shot-first" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/articles/nnsa-celebrates-may-fourth-question-who-shot-first</a>  
+   Link:<a href="https://www.energy.gov/nnsa/articles/nnsa-celebrates-may-fourth-question-who-shot-first" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/articles/nnsa-celebrates-may-fourth-question-who-shot-first</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/sites/prod/files/migrated/nnsa/2017/11/f45/SSAP%20Annual%20Book_Final_Feb%202016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/migrated/nnsa/2017/11/f45/SSAP%20Annual%20Book_Final_Feb%202016.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/prod/files/migrated/nnsa/2017/11/f45/SSAP%20Annual%20Book_Final_Feb%202016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/migrated/nnsa/2017/11/f45/SSAP%20Annual%20Book_Final_Feb%202016.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: energy.gov  
    Title: FY2021 SSMP  
-   Link: <a href="https://www.energy.gov/sites/prod/files/2020/12/f82/FY2021_SSMP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2020/12/f82/FY2021_SSMP.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/prod/files/2020/12/f82/FY2021_SSMP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2020/12/f82/FY2021_SSMP.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: energy.gov  
    Title: NNSA 2024 Enterprise Blueprint 508 compliant 10.21.24 update  
-   Link: <a href="https://www.energy.gov/sites/default/files/2024-10/NNSA%202024%20Enterprise%20Blueprint_508_compliant_10.21.24_update.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/NNSA%202024%20Enterprise%20Blueprint_508_compliant_10.21.24_update.pdf</a>  
+   Link:<a href="https://www.energy.gov/sites/default/files/2024-10/NNSA%202024%20Enterprise%20Blueprint_508_compliant_10.21.24_update.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/default/files/2024-10/NNSA%202024%20Enterprise%20Blueprint_508_compliant_10.21.24_update.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/sites/prod/files/2019/03/f60/Classification_of_Nuclear_Weapons-Related%20Information-20190220_0.pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2019/03/f60/Classification_of_Nuclear_Weapons-Related%20Information-20190220_0.pptx</a>  
+   Link:<a href="https://www.energy.gov/sites/prod/files/2019/03/f60/Classification_of_Nuclear_Weapons-Related%20Information-20190220_0.pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2019/03/f60/Classification_of_Nuclear_Weapons-Related%20Information-20190220_0.pptx</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: llnl.gov  
-   Link: <a href="https://www.llnl.gov/tags/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/tags/stockpile-stewardship</a>  
+   Link:<a href="https://www.llnl.gov/tags/stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/tags/stockpile-stewardship</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lasers.llnl.gov  
    Title: nif stockpile modernization  
-   Link: <a href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-modernization</a>  
+   Link:<a href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-modernization</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/3</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/1</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/1</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/7" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/7</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/7" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/7</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/t/avc/rls/212189.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/avc/rls/212189.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/t/avc/rls/212189.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/avc/rls/212189.htm</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) and U.S. Congress. Theories propose...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) and U.S. Congress. Theories propose...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/about/mission" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/about/mission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryMission | Los Alamos National LaboratoryThe mission of Los Alamos National Laborator is to solve national s...</p></details>
+   Link:<a href="https://www.lanl.gov/about/mission" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/about/mission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryMission | Los Alamos National LaboratoryThe mission of Los Alamos National Laborator is to solve national s...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/4967/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/4967/chapter/5</a>  
+   Link:<a href="https://www.nationalacademies.org/read/4967/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/4967/chapter/5</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: obamawhitehouse.archives.gov  
    Title: executive order classified national security information  
-   Link: <a href="https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information</a>  
+   Link:<a href="https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/the-press-office/executive-order-classified-national-security-information</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</p></details>
+   Link:<a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
    Title: caltech scientist carl grillmair shooting death  
-   Link: <a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: obits.al.com  
    Title: amy eskridge obituary  
-   Link: <a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
+   Link:<a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</p></details>
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: Wikipedia  
    Title: National Nuclear Security Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: Wikipedia  
    Title: Los Alamos National Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: Wikipedia  
    Title: Stockpile stewardship  
-   Link: <a href="https://en.wikipedia.org/wiki/Stockpile_stewardship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stockpile_stewardship</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stockpile_stewardship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stockpile_stewardship</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: Wikipedia  
    Title: Nuno Loureiro  
-   Link: <a href="https://en.wikipedia.org/wiki/Nuno_Loureiro" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuno_Loureiro</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nuno_Loureiro" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuno_Loureiro</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: Wikipedia  
    Title: Carl Grillmair  
-   Link: <a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: Wikipedia  
    Title: Restricted Data  
-   Link: <a href="https://en.wikipedia.org/wiki/Restricted_Data" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Restricted_Data</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Restricted_Data" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Restricted_Data</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: aau.edu  
    Title: national academies report says us must prioritize  
-   Link: <a href="https://www.aau.edu/newsroom/leading-research-universities-report/national-academies-report-says-us-must-prioritize" target="_blank" rel="noopener noreferrer nofollow">https://www.aau.edu/newsroom/leading-research-universities-report/national-academies-report-says-us-must-prioritize</a>  
+   Link:<a href="https://www.aau.edu/newsroom/leading-research-universities-report/national-academies-report-says-us-must-prioritize" target="_blank" rel="noopener noreferrer nofollow">https://www.aau.edu/newsroom/leading-research-universities-report/national-academies-report-says-us-must-prioritize</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: arabheritagememorialchapel.com  
    Title: amy eskridge  
-   Link: <a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
+   Link:<a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/projects/PGA-POLICY-20-20" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-POLICY-20-20</a>  
+   Link:<a href="https://www.nationalacademies.org/projects/PGA-POLICY" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-POLICY</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/4967/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/4967/chapter/7</a>  
+   Link:<a href="https://www.nationalacademies.org/read/4967/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/4967/chapter/7</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists white house  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: theguardian.com  
    Title: mit shooting death nuno loureiro  
-   Link: <a href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro</a>  
+   Link:<a href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science</a>  
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: lanl.gov  
    Title: 0423 lawrence livermore national laboratory  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/0423-lawrence-livermore-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/0423-lawrence-livermore-national-laboratory</a>  
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/0423-lawrence-livermore-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/0423-lawrence-livermore-national-laboratory</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: nukewatch.org  
    Title: Los Alamos National Lab  
-   Link: <a href="https://nukewatch.org/nuclear-weapons-complex-maps/active-map/los-alamos-national-lab/" target="_blank" rel="noopener noreferrer nofollow">https://nukewatch.org/nuclear-weapons-complex-maps/active-map/los-alamos-national-lab/</a>  
+   Link:<a href="https://nukewatch.org/nuclear-weapons-complex-maps/active-map/los-alamos-national-lab/" target="_blank" rel="noopener noreferrer nofollow">https://nukewatch.org/nuclear-weapons-complex-maps/active-map/los-alamos-national-lab/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
 ### Additional References
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rq2JZ6MIcdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rq2JZ6MIcdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Utterly Absurd to Downplay&quot; Missing UFO General: Coulthart | William Neil McCasland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rq2JZ6MIcdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rq2JZ6MIcdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Utterly Absurd to Downplay&quot; Missing UFO General: Coulthart | William Neil McCasland...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BMeGBrSzCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BMeGBrSzCUg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BMeGBrSzCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BMeGBrSzCUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates | Backscroll...</p></details>
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: youtube.com  
    Title: MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL  
-   Link: <a href="https://www.youtube.com/watch?v=uieW485BXOI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uieW485BXOI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientist: Former FBI agent breaks down the mystery | Elizabeth Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uieW485BXOI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uieW485BXOI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientist: Former FBI agent breaks down the mystery | Elizabeth Vargas Reports...</p></details>
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/integrity-and-security-in-the-global-research-ecosystem_2bd8511d/1c416f43-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/integrity-and-security-in-the-global-research-ecosystem_2bd8511d/1c416f43-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/integrity-and-security-in-the-global-research-ecosystem_2bd8511d/1c416f43-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/06/integrity-and-security-in-the-global-research-ecosystem_2bd8511d/1c416f43-en.pdf</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: bnl.gov  
-   Link: <a href="https://www.bnl.gov/nx/" target="_blank" rel="noopener noreferrer nofollow">https://www.bnl.gov/nx/</a>  
+   Link:<a href="https://www.bnl.gov/nx/" target="_blank" rel="noopener noreferrer nofollow">https://www.bnl.gov/nx/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/stip/about/sti-defined/sti-types/classified-ucni" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/stip/about/sti-defined/sti-types/classified-ucni</a>  
+   Link:<a href="https://www.osti.gov/stip/about/sti-defined/sti-types/classified-ucni" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/stip/about/sti-defined/sti-types/classified-ucni</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: sandia.gov  
-   Link: <a href="https://www.sandia.gov/news/publications/fact-sheets/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/news/publications/fact-sheets/</a>  
+   Link:<a href="https://www.sandia.gov/news/publications/fact-sheets/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/news/publications/fact-sheets/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: dnfsb.gov  
-   Link: <a href="https://www.dnfsb.gov/doe-sites/lawrence-livermore-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.dnfsb.gov/doe-sites/lawrence-livermore-national-laboratory</a>  
+   Link:<a href="https://www.dnfsb.gov/doe-sites/lawrence-livermore-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.dnfsb.gov/doe-sites/lawrence-livermore-national-laboratory</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: sandia.gov  
-   Link: <a href="https://www.sandia.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/</a>  
+   Link:<a href="https://www.sandia.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/</a>  

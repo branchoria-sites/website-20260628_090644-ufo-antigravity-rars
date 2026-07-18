@@ -283,17 +283,17 @@ Within discussions about [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}), a
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-1-dark.svg" | relative_url }}" alt="Official Papers illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding this distinction is important. Official antigravity papers help explain why figures such as Amy Eskridge attract attention in UFO and advanced-propulsion circles. Yet the documents themselves generally show governments investigating speculative possibilities, evaluating claims, and identifying research questions—not announcing successful antigravity systems. The gap between what the papers actually say and how they are sometimes interpreted online is a major source of confusion. Defense Intelligence Agency+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+Understanding this distinction is important. Official antigravity papers help explain why figures such as Amy Eskridge attract attention in UFO and advanced-propulsion circles. Yet the documents themselves generally show governments investigating speculative possibilities, evaluating claims, and identifying research questions—not announcing successful antigravity systems. The gap between what the papers actually say and how they are sometimes interpreted online is a major source of confusion. Defense Intelligence Agency+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 ## What Official Antigravity Papers Show
 
 Several government-linked programmes have examined ideas that could loosely be described as antigravity, gravity control, or breakthrough propulsion.
 
-One of the best-known examples is NASA’s Breakthrough Propulsion Physics (BPP) programme, active from 1996 to 2002. The programme was created to investigate whether radically new methods of space travel might be possible if future discoveries changed our understanding of physics. Its goals included propulsion without propellant, faster interstellar travel, and other concepts that would require major scientific breakthroughs. NASA publications from the programme openly discussed gravity manipulation, vacuum energy, wormholes, and related ideas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20050041926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerBreakthrough Propulsion Physics Projectby MG Millis · 2004 · Cited by 9 — Three visionary breakthroughs are...</span></span></span>
+One of the best-known examples is NASA’s Breakthrough Propulsion Physics (BPP) programme, active from 1996 to 2002. The programme was created to investigate whether radically new methods of space travel might be possible if future discoveries changed our understanding of physics. Its goals included propulsion without propellant, faster interstellar travel, and other concepts that would require major scientific breakthroughs. NASA publications from the programme openly discussed gravity manipulation, vacuum energy, wormholes, and related ideas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20050041926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerBreakthrough Propulsion Physics Projectby MG Millis · 2004 · Cited by 9 — Three visionary breakthroughs are...</span></span></span>
 
-The key point is that BPP was an exploratory research effort. It existed precisely because such concepts were unproven. NASA's own reviews emphasised testing claims, identifying unknowns, and determining which ideas appeared non-viable, which deserved further study, and which remained unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+The key point is that BPP was an exploratory research effort. It existed precisely because such concepts were unproven. NASA's own reviews emphasised testing claims, identifying unknowns, and determining which ideas appeared non-viable, which deserved further study, and which remained unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
-Another frequently cited source is the Defence Intelligence Agency-sponsored paper *Antigravity for [Aerospace]({{ 'aerospace/' | relative_url }}) Applications*, produced under the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})). The document discusses theoretical routes toward affecting gravity, reviews historical claims, and examines possible aerospace implications if such breakthroughs ever became feasible. It is a survey and assessment document rather than evidence that operational antigravity craft exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+Another frequently cited source is the Defence Intelligence Agency-sponsored paper *Antigravity for [Aerospace]({{ 'aerospace/' | relative_url }}) Applications*, produced under the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})). The document discusses theoretical routes toward affecting gravity, reviews historical claims, and examines possible aerospace implications if such breakthroughs ever became feasible. It is a survey and assessment document rather than evidence that operational antigravity craft exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 These programmes demonstrate something significant but limited: official [institutions]({{ 'institutions/' | relative_url }}) were willing to examine unconventional propulsion concepts. They do not demonstrate that those concepts worked.
 
@@ -306,11 +306,11 @@ A common misunderstanding arises from treating government interest as evidence o
 
 Large research organisations routinely investigate ideas that later fail, remain unresolved, or turn out to be impossible. Defence agencies and space agencies often study technologies because the potential payoff would be enormous if they worked, even when the probability of success is low.
 
-The NASA BPP programme illustrates this clearly. Its final assessments reported negative or inconclusive results for several widely publicised antigravity-style claims. Experiments related to alleged gravity shielding effects and other propulsion concepts failed to produce convincing evidence supporting the extraordinary claims being examined. Some approaches were explicitly categorised as non-viable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+The NASA BPP programme illustrates this clearly. Its final assessments reported negative or inconclusive results for several widely publicised antigravity-style claims. Experiments related to alleged gravity shielding effects and other propulsion concepts failed to produce convincing evidence supporting the extraordinary claims being examined. Some approaches were explicitly categorised as non-viable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
-Likewise, the existence of a government-funded report about antigravity should not be confused with the existence of antigravity technology. Agencies commission studies on hypothetical threats, future technologies, and emerging scientific possibilities all the time. A report evaluating a concept often reflects uncertainty rather than confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+Likewise, the existence of a government-funded report about antigravity should not be confused with the existence of antigravity technology. Agencies commission studies on hypothetical threats, future technologies, and emerging scientific possibilities all the time. A report evaluating a concept often reflects uncertainty rather than confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
-This distinction matters in the Amy Eskridge narrative. Her public presentations referenced [gravity modification]({{ 'gravity-leap/' | relative_url }}) and the history of antigravity research. Because official documents also exist on related subjects, some observers infer that she was working near a hidden technological reality. Yet the official literature largely shows a landscape of speculative investigation rather than demonstrated engineering breakthroughs. Defense Intelligence Agency+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+This distinction matters in the Amy Eskridge narrative. Her public presentations referenced [gravity modification]({{ 'gravity-leap/' | relative_url }}) and the history of antigravity research. Because official documents also exist on related subjects, some observers infer that she was working near a hidden technological reality. Yet the official literature largely shows a landscape of speculative investigation rather than demonstrated engineering breakthroughs. Defense Intelligence Agency+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-2-dark.svg" | relative_url }}" alt="Official Papers illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,7 +318,7 @@ This distinction matters in the Amy Eskridge narrative. Her public presentations
 
 The [wording]({{ 'wording/' | relative_url }}) used in advanced-technology studies often contributes to later exaggeration.
 
-Terms such as “gravity control”, “metric engineering”, “negative mass propulsion”, “vacuum energy”, and “antigravity applications” sound dramatic outside their original context. In technical reports, these phrases frequently describe theoretical possibilities, research questions, or mathematical models. Online retellings sometimes transform those discussions into claims that governments already possess functioning systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+Terms such as “gravity control”, “metric engineering”, “negative mass propulsion”, “vacuum energy”, and “antigravity applications” sound dramatic outside their original context. In technical reports, these phrases frequently describe theoretical possibilities, research questions, or mathematical models. Online retellings sometimes transform those discussions into claims that governments already possess functioning systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 A typical pattern looks like this:
 
@@ -334,7 +334,7 @@ A typical pattern looks like this:
 
 By the end of that process, a feasibility study can be reframed as a disclosure document even when the original authors never made such a claim.
 
-The AAWSAP and related Defence Intelligence Agency documents provide a good example. Their titles often sound extraordinary, covering topics such as antigravity, warp drives, wormholes, and advanced propulsion. The papers are real and official. However, they generally function as horizon-scanning exercises that assess possibilities rather than announce successful programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+The AAWSAP and related Defence Intelligence Agency documents provide a good example. Their titles often sound extraordinary, covering topics such as antigravity, warp drives, wormholes, and advanced propulsion. The papers are real and official. However, they generally function as horizon-scanning exercises that assess possibilities rather than announce successful programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qADh7asQKGk" title="Is Anti-gravity Even Possible? | Weird Science | BBC Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qADh7asQKGk" target="_blank" rel="noopener noreferrer">Is Anti-gravity Even Possible? | Weird Science | BBC Studios</a></p><p class="youtube-embed-meta">Channel: BBC Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qADh7asQKGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qADh7asQKGk">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ Official antigravity documents occupy a unique place in UFO and researcher-death
 
 For people already inclined to suspect hidden aerospace breakthroughs, the documents serve as a credible-looking foundation. When a researcher such as Amy Eskridge publicly discusses gravity modification and later dies under circumstances that become controversial online, those official papers are often woven into a larger story involving secrecy, suppression, and alleged technological cover-ups.
 
-The problem is that the evidentiary leap is much larger than it first appears. The documents establish government curiosity and occasional funding for speculative research. They do not establish that antigravity technology exists, that Eskridge had access to it, or that her death was connected to classified programmes. Defense Intelligence Agency+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+The problem is that the evidentiary leap is much larger than it first appears. The documents establish government curiosity and occasional funding for speculative research. They do not establish that antigravity technology exists, that Eskridge had access to it, or that her death was connected to classified programmes. Defense Intelligence Agency+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
 That distinction is easy to lose because the papers themselves are genuine. Their authenticity gives conspiracy narratives a stronger appearance than claims based solely on rumours. Yet authenticity of the documents and authenticity of the conclusions drawn from them are separate questions.
 
@@ -353,203 +353,203 @@ That distinction is easy to lose because the papers themselves are genuine. Thei
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-3-dark.svg" | relative_url }}" alt="Official Papers illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_official_antigravity_bac83c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Important Takeaway
 
-Official antigravity papers are real, and they show that government agencies have occasionally examined gravity modification and breakthrough propulsion concepts as potentially transformative technologies. That fact helps explain why antigravity remains a persistent theme in UFO culture and why researchers associated with the subject can attract unusual attention. Defense Intelligence Agency+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
+Official antigravity papers are real, and they show that government agencies have occasionally examined gravity modification and breakthrough propulsion concepts as potentially transformative technologies. That fact helps explain why antigravity remains a persistent theme in UFO culture and why researchers associated with the subject can attract unusual attention. Defense Intelligence Agency+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">One of the primary concepts for the goal of affecting gravity is &quot;antigravity,</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</span></span></span>
 
-What the documents do not show is equally important. They do not provide public evidence that operational antigravity craft exist. They do not demonstrate that gravity-control technology was successfully developed in secret. And they do not establish a causal link between researchers such as Amy Eskridge and allegations of suppression, murder, or disappearance. Most often, they reveal governments doing what governments and research institutions frequently do: investigating extraordinary possibilities because the consequences would be revolutionary if they proved true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
+What the documents do not show is equally important. They do not provide public evidence that operational antigravity craft exist. They do not demonstrate that gravity-control technology was successfully developed in secret. And they do not establish a causal link between researchers such as Amy Eskridge and allegations of suppression, murder, or disappearance. Most often, they reveal governments doing what governments and research institutions frequently do: investigating extraordinary possibilities because the consequences would be revolutionary if they proved true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Breakthrough Propulsion Physics Project</span><span class="citation-popover-snippet">Breakthrough Propulsion Physics Project</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1yUjWCuYe80" title="A Secret Project to Counter the Force of Gravity | Space’s Deepest Secrets | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1yUjWCuYe80" target="_blank" rel="noopener noreferrer">A Secret Project to Counter the Force of Gravity | Space’s Deepest Secrets | Science Channel</a></p><p class="youtube-embed-meta">Channel: Science Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1yUjWCuYe80" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1yUjWCuYe80">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Official Antigravity Documents Fuel Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Official Antigravity Documents Fuel Suspicion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly examines antigravity research claims, government interest, and the gap between rumor, documents, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines antigravity research claims, government interest, and the gap between rumor, documents, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Explores speculative technologies including advanced propulsion and evaluates them through established physics rather than conspiracy cla...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores speculative technologies including advanced propulsion and evaluates them through established physics rather than conspiracy cla...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official documents, testimony, and how government evidence is interpreted, paralleling debates around antigravity papers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official documents, testimony, and how government evidence is interpreted, paralleling debates around antigravity papers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to evaluating speculation, evidence quality, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to evaluating speculation, evidence quality, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity pen Patent Drawing Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/DRQAAeSwluho-QgY/s-l225.jpg" alt="Listing image for Anti-gravity pen Patent Drawing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity pen Patent Drawing Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/-1sAAeSwXhNp1Tia/s-l225.jpg" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lX8AAeSwzU1pwYNU/s-l225.jpg" alt="Listing image for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="official-papers-when-official-antigravity-documents-fuel-suspicion-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/dpQAAeSw~adp1~S6/s-l225.jpg" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-official-antigravity-documents-fuel-suspicion-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="when-official-antigravity-documents-fuel-suspicion-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ What the documents do not show is equally important. They do not provide public 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ What the documents do not show is equally important. They do not provide public 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ What the documents do not show is equally important. They do not provide public 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ What the documents do not show is equally important. They do not provide public 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ What the documents do not show is equally important. They do not provide public 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,127 +755,127 @@ What the documents do not show is equally important. They do not provide public 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gravity Modification Study. The European. Space Agency (ESA) sponsored a study on the prospects of gravity control for propulsion [46].Re...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gravity Modification Study. The European. Space Agency (ESA) sponsored a study on the prospects of gravity control for propulsion [46].Re...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20050041926" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20050041926</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerBreakthrough Propulsion Physics Projectby MG Millis · 2004 · Cited by 9 — Three visionary breakthroughs are...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20050041926" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20050041926</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerBreakthrough Propulsion Physics Projectby MG Millis · 2004 · Cited by 9 — Three visionary breakthroughs are...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling of gravity a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222305815_NASA_breakthrough_propulsion_physics_program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NASA breakthrough propulsion physics programTopics of interest include experiments and theories regarding the coupling of gravity a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Breakthrough Propulsion Physics Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1101.1063" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1101.1063</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRESS IN REVOLUTIONARY PROPULSION PHYSICSby MG Millis · 2011 · Cited by 11 — Coverage includes: prerequisites for space drive physics...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1101.1063" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1101.1063</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRESS IN REVOLUTIONARY PROPULSION PHYSICSby MG Millis · 2011 · Cited by 11 — Coverage includes: prerequisites for space drive physics...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe Advanced Aerospace Threat Identification Program (AATIP) to study unidentified fly...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe Advanced Aerospace Threat Identification Program (AATIP) to study unidentified fly...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Anti gravity  
-   Link: <a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: the earth observer offering perspectives from space through time  
-   Link: <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Observer: Offering Perspectives from Space...29 Dec 2025 — &quot;The Editor&#x27;s Corner&quot; column in the newsletter gave the EOS Senior Proj...</p></details>
+   Link:<a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Observer: Offering Perspectives from Space...29 Dec 2025 — &quot;The Editor&#x27;s Corner&quot; column in the newsletter gave the EOS Senior Proj...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19970009634/downloads/19970009634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19970009634/downloads/19970009634.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Haisch. 1994 and Puthoff 1989), anomalous.Rea...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19970009634/downloads/19970009634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19970009634/downloads/19970009634.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Haisch. 1994 and Puthoff 1989), anomalous.Rea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 267837612 Responding to Mechanical Antigravity  
-   Link: <a href="https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Responding to Mechanical Antigravity9 Jul 2006 — From 1996 to 2002, NASA supported the Breakthrough Propulsion Physics Project to e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267837612_Responding_to_Mechanical_Antigravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Responding to Mechanical Antigravity9 Jul 2006 — From 1996 to 2002, NASA supported the Breakthrough Propulsion Physics Project to e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dia.mil  
    Title: One of the primary concepts for the goal of affecting gravity is "antigravity,"  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMar 30, 2010 — Advanced Aerospace Weapon System Applications (AAWSA) Pro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Field Effects on Biological Tissues. Positron Aerospace Propulsion. Vacuum Energy Applications. Improved Statistical...Read more...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Field Effects on Biological Tissues. Positron Aerospace Propulsion. Vacuum Energy Applications. Improved Statistical...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: earthtech.org  
-   Link: <a href="https://earthtech.org/breakthrough-propulsion/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/breakthrough-propulsion/antigravity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the primary concepts for active gravity control is antigravity, which is technically defined as a repulsive gravitational...</p></details>
+   Link:<a href="https://earthtech.org/breakthrough-propulsion/antigravity/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/breakthrough-propulsion/antigravity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the primary concepts for active gravity control is antigravity, which is technically defined as a repulsive gravitational...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/zpln8s/based_on_our_current_understanding_of_physics_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/zpln8s/based_on_our_current_understanding_of_physics_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore potential of antigravity technologyI know, it&#x27;s an odd question, however eventually we&#x27;ll need to develop something other than ro...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/zpln8s/based_on_our_current_understanding_of_physics_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/zpln8s/based_on_our_current_understanding_of_physics_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore potential of antigravity technologyI know, it&#x27;s an odd question, however eventually we&#x27;ll need to develop something other than ro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Breakthrough Propulsion Physics: Revisiting The...A leading researcher to look up for modern ionic-wind propulsion (as real atmosph...</p></details>
+   Link:<a href="https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects-6beaaa1079ac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Breakthrough Propulsion Physics: Revisiting The...A leading researcher to look up for modern ionic-wind propulsion (as real atmosph...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: handwiki.org  
-   Link: <a href="https://handwiki.org/wiki/Unsolved%3ABreakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3ABreakthrough_Propulsion_Physics_Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:Breakthrough Propulsion Physics ProjectThe Breakthrough Propulsion Physics Project (BPP) was a research project funded by NASA f...</p></details>
+   Link:<a href="https://handwiki.org/wiki/Unsolved%3ABreakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3ABreakthrough_Propulsion_Physics_Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:Breakthrough Propulsion Physics ProjectThe Breakthrough Propulsion Physics Project (BPP) was a research project funded by NASA f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ineducationonline.org  
-   Link: <a href="https://ineducationonline.org/2024/08/23/exploring-the-frontiers-of-anti-gravity-technology-current-breakthroughs-and-future-possibilities/" target="_blank" rel="noopener noreferrer nofollow">https://ineducationonline.org/2024/08/23/exploring-the-frontiers-of-anti-gravity-technology-current-breakthroughs-and-future-possibilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Frontiers of Anti-Gravity Technology23 Aug 2024 — Explore the latest breakthroughs and theoretical advancements in anti-gra...</p></details>
+   Link:<a href="https://ineducationonline.org/2024/08/23/exploring-the-frontiers-of-anti-gravity-technology-current-breakthroughs-and-future-possibilities/" target="_blank" rel="noopener noreferrer nofollow">https://ineducationonline.org/2024/08/23/exploring-the-frontiers-of-anti-gravity-technology-current-breakthroughs-and-future-possibilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Frontiers of Anti-Gravity Technology23 Aug 2024 — Explore the latest breakthroughs and theoretical advancements in anti-gra...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sam.gov  
    Title: Advanced Aerospace Weapon System Applications Program This is a U.S  
-   Link: <a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Services Administration Federal Government computer system that is &quot;FOR OFFICIAL USE ONLY.&quot; This system is subject to monitoring...</p></details>
+   Link:<a href="https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/2e30b8192aaa2fb3f32c1497570cbcad/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Services Administration Federal Government computer system that is &quot;FOR OFFICIAL USE ONLY.&quot; This system is subject to monitoring...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/26056/heres-[the-list" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-[the-list</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s The List Of Studies The Military&#x27;s Secretive UFO...Jul 24, 2020 — “The purpose of AATIP was to investigate foreign advanced aeros...</p></details>
+   Link:<a href="https://www.twz.com/26056/heres-[the-list" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/26056/heres-[the-list</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s The List Of Studies The Military&#x27;s Secretive UFO...Jul 24, 2020 — “The purpose of AATIP was to investigate foreign advanced aeros...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UsnzhlucGj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UsnzhlucGj8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-NASA Engineer Says He Created a Gravity-Defying EngineAn ex-NASA engineer claimed he built a machine that can lift itself against grav...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UsnzhlucGj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UsnzhlucGj8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-NASA Engineer Says He Created a Gravity-Defying EngineAn ex-NASA engineer claimed he built a machine that can lift itself against grav...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qADh7asQKGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qADh7asQKGk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Anti-gravity Even Possible? | Weird Science | BBC StudiosDr. Josie Peters explores the incredible global space race focused on control...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qADh7asQKGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qADh7asQKGk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Anti-gravity Even Possible? | Weird Science | BBC StudiosDr. Josie Peters explores the incredible global space race focused on control...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Scientist That "Discovered Antigravity" Then Disappeared Completely  
-   Link: <a href="https://www.youtube.com/watch?v=eS_rEzKdzBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eS_rEzKdzBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists ufo antigravity paper secrets Killer Patents &amp; Secret Science Vol. 1 | Free Energy &amp; Anti-Gravity Cover-Ups The Why Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eS_rEzKdzBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eS_rEzKdzBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists ufo antigravity paper secrets Killer Patents &amp; Secret Science Vol. 1 | Free Energy &amp; Anti-Gravity Cover-Ups The Why Files...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: altpropulsion.com  
    Title: nasa breakthrough propulsion physics revisiting the top prospects  
-   Link: <a href="https://www.altpropulsion.com/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Breakthrough Propulsion Physics: Revisiting The...Jan 2, 2026 — This item covers a sober angle: identify credible experiments and a...</p></details>
+   Link:<a href="https://www.altpropulsion.com/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/nasa-breakthrough-propulsion-physics-revisiting-the-top-prospects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Breakthrough Propulsion Physics: Revisiting The...Jan 2, 2026 — This item covers a sober angle: identify credible experiments and a...</p></details>

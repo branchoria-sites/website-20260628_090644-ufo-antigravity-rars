@@ -280,18 +280,18 @@ image: /assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delo
 
 ## Introduction
 
-The most frequently cited public link between retired Air Force Major General William “Neil” McCasland and UFO-disclosure narratives is not a government document, a declassified report, or a sworn testimony. It is a leaked 2016 email from musician and UFO advocate Tom DeLonge to John Podesta, released through the WikiLeaks publication of Podesta’s emails. The message became influential because it appeared to place a former commander of the Air Force Research Laboratory inside DeLonge’s efforts to build a network of advisers around UFO disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org+2wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+The most frequently cited public link between retired Air Force Major General William “Neil” McCasland and UFO-disclosure narratives is not a government document, a declassified report, or a sworn testimony. It is a leaked 2016 email from musician and UFO advocate Tom DeLonge to John Podesta, released through the WikiLeaks publication of Podesta’s emails. The message became influential because it appeared to place a former commander of the Air Force Research Laboratory inside DeLonge’s efforts to build a network of advisers around UFO disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-1-dark.svg" | relative_url }}" alt="De Longe Email illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most quoted portion of the email described McCasland as someone who was “very aware” of what DeLonge was attempting to achieve. DeLonge further asserted that McCasland had helped assemble his advisory network and stated that the general had been “in charge” of the laboratory at Wright-Patterson Air Force Base that UFO lore associates with the alleged examination of Roswell debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+The most quoted portion of the email described McCasland as someone who was “very aware” of what DeLonge was attempting to achieve. DeLonge further asserted that McCasland had helped assemble his advisory network and stated that the general had been “in charge” of the laboratory at Wright-Patterson Air Force Base that UFO lore associates with the alleged examination of Roswell debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 Several themes in the email attracted attention:
 
 * DeLonge portrayed McCasland as a significant behind-the-scenes figure.
 * He connected McCasland’s Air Force Research Laboratory leadership role to long-standing Roswell narratives.
 * He suggested that advice and planning related to disclosure were already occurring.
-* He implied that McCasland understood and supported at least some aspects of his broader UFO agenda. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+* He implied that McCasland understood and supported at least some aspects of his broader UFO agenda.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 The email therefore appeared to offer a direct line between a senior retired Air Force officer and a civilian UFO-disclosure effort.
 
@@ -300,11 +300,11 @@ The email therefore appeared to offer a direct line between a senior retired Air
 
 ## Why the Email Became a UFO Anchor
 
-The document emerged at a moment when DeLonge was transitioning from being known primarily as a musician to becoming a prominent public advocate for UFO disclosure. The WikiLeaks release exposed correspondence showing that he was communicating with Podesta, who had long expressed interest in greater transparency regarding UFO records. Major news organisations highlighted the unusual nature of those exchanges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2rollingstone.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">blink 182 hillary clintons campaign chief ufos tom delonge john podesta</span><span class="citation-popover-snippet">The GuardianBlink-182 singer contacted Hillary Clinton&#x27;s campaign chief...Oct 11, 2016 — The latest WikiLeaks email dump contains notes...</span></span></span>
+The document emerged at a moment when DeLonge was transitioning from being known primarily as a musician to becoming a prominent public advocate for UFO disclosure. The WikiLeaks release exposed correspondence showing that he was communicating with Podesta, who had long expressed interest in greater transparency regarding UFO records. Major news organisations highlighted the unusual nature of those exchanges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">blink 182 hillary clintons campaign chief ufos tom delonge john podesta</span><span class="citation-popover-snippet">The GuardianBlink-182 singer contacted Hillary Clinton&#x27;s campaign chief...Oct 11, 2016 — The latest WikiLeaks email dump contains notes...</span></span></span>
 
-McCasland’s biography amplified the impact of the email. He had commanded the Air Force Research Laboratory at Wright-Patterson, an installation deeply embedded in UFO folklore because of its historical association with Project Blue Book and decades of speculation about recovered materials. As a result, DeLonge’s references to Wright-Patterson resonated strongly with existing UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">retired air force general linked to ufo research goes missing 11918672</span><span class="citation-popover-snippet">Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</span></span></span>
+McCasland’s biography amplified the impact of the email. He had commanded the Air Force Research Laboratory at Wright-Patterson, an installation deeply embedded in UFO folklore because of its historical association with Project Blue Book and decades of speculation about recovered materials. As a result, DeLonge’s references to Wright-Patterson resonated strongly with existing UFO narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">retired air force general linked to ufo research goes missing 11918672</span><span class="citation-popover-snippet">Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</span></span></span>
 
-The email also appeared to provide a rare named connection between disclosure advocates and a retired senior officer with extensive experience in classified [aerospace]({{ 'aerospace/' | relative_url }}) programmes. For many UFO researchers, that made it one of the most tangible public documents linking McCasland to the subject at all. The message has consequently been cited repeatedly in discussions of disclosure efforts, To The Stars-related projects, and later speculation surrounding McCasland’s disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Tom Delonge&#x27;s Advisor McCasland and disclosure theoryIn this email Delonge says of General McCasland: &quot;Trust me, the advice is alre...</span></span></span>
+The email also appeared to provide a rare named connection between disclosure advocates and a retired senior officer with extensive experience in classified [aerospace]({{ 'aerospace/' | relative_url }}) programmes. For many UFO researchers, that made it one of the most tangible public documents linking McCasland to the subject at all. The message has consequently been cited repeatedly in discussions of disclosure efforts, To The Stars-related projects, and later speculation surrounding McCasland’s disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Tom Delonge&#x27;s Advisor McCasland and disclosure theoryIn this email Delonge says of General McCasland: &quot;Trust me, the advice is alre...</span></span></span>
 
 Importantly, the email's influence came less from what it demonstrated conclusively than from the possibilities readers inferred from it.
 
@@ -314,14 +314,14 @@ Importantly, the email's influence came less from what it demonstrated conclusiv
 
 The central limitation of the McCasland email is straightforward: it is evidence of DeLonge’s statements, not evidence that those statements were true.
 
-The document confirms that DeLonge represented McCasland to Podesta as an important adviser and someone familiar with sensitive aerospace matters. It does not contain a response from McCasland endorsing those claims. Nor does it include supporting documentation, official records, technical evidence, or corroborating testimony establishing that McCasland possessed knowledge of extraterrestrial craft, reverse-engineering projects, or antigravity technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+The document confirms that DeLonge represented McCasland to Podesta as an important adviser and someone familiar with sensitive aerospace matters. It does not contain a response from McCasland endorsing those claims. Nor does it include supporting documentation, official records, technical evidence, or corroborating testimony establishing that McCasland possessed knowledge of extraterrestrial craft, reverse-engineering projects, or antigravity technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 Several specific claims often attributed to the email go beyond what the document actually proves:
 
-* **It does not prove Roswell debris was stored at Wright-Patterson.** DeLonge referenced a longstanding UFO claim, but the email provides no evidence for that claim itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
-* **It does not prove McCasland managed a UFO programme.** The email references his leadership of a laboratory, not leadership of a confirmed extraterrestrial-research effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
-* **It does not prove McCasland disclosed classified information.** No classified material appears in the released correspondence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
-* **It does not verify DeLonge’s interpretation of McCasland’s views.** The email reflects DeLonge’s characterisation rather than a direct public statement from McCasland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+* **It does not prove Roswell debris was stored at Wright-Patterson.** DeLonge referenced a longstanding UFO claim, but the email provides no evidence for that claim itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+* **It does not prove McCasland managed a UFO programme.** The email references his leadership of a laboratory, not leadership of a confirmed extraterrestrial-research effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+* **It does not prove McCasland disclosed classified information.** No classified material appears in the released correspondence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+* **It does not verify DeLonge’s interpretation of McCasland’s views.** The email reflects DeLonge’s characterisation rather than a direct public statement from McCasland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 This distinction is particularly important because later retellings sometimes transformed the email from a report of a conversation into supposed proof of hidden programmes. The original document does not support that stronger conclusion.
 
@@ -330,9 +330,9 @@ This distinction is particularly important because later retellings sometimes tr
 
 ## The Skepticism Question
 
-One overlooked detail in the broader discussion is that DeLonge’s own account suggested McCasland had described himself as a sceptic. Later reporting noted that DeLonge rejected that self-description, but the existence of the claim complicates portrayals of McCasland as an unquestioning believer in UFO theories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing</span><span class="citation-popover-snippet">It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</span></span></span>
+One overlooked detail in the broader discussion is that DeLonge’s own account suggested McCasland had described himself as a sceptic. Later reporting noted that DeLonge rejected that self-description, but the existence of the claim complicates portrayals of McCasland as an unquestioning believer in UFO theories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing</span><span class="citation-popover-snippet">It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</span></span></span>
 
-This creates a tension often lost in simplified retellings. The leaked correspondence portrays McCasland as important to DeLonge’s efforts, yet the publicly available material does not show McCasland publicly advocating UFO-disclosure claims or confirming the interpretations that later grew around his name. The available evidence therefore supports a more restrained conclusion: he appears to have had some level of contact with DeLonge and his circle, but the nature and depth of his involvement remain only partially documented in public records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+This creates a tension often lost in simplified retellings. The leaked correspondence portrays McCasland as important to DeLonge’s efforts, yet the publicly available material does not show McCasland publicly advocating UFO-disclosure claims or confirming the interpretations that later grew around his name. The available evidence therefore supports a more restrained conclusion: he appears to have had some level of contact with DeLonge and his circle, but the nature and depth of his involvement remain only partially documented in public records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BHKDWoLFLpA" title="Ross Coulthart Q&amp;A: General McCasland’s disappearance, flight MH370 and Jim Carrey | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BHKDWoLFLpA" target="_blank" rel="noopener noreferrer">Ross Coulthart Q&amp;A: General McCasland’s disappearance, flight MH370 and Jim Carrey | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BHKDWoLFLpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BHKDWoLFLpA">Open on YouTube</a></p></div></div></div>
@@ -341,202 +341,202 @@ This creates a tension often lost in simplified retellings. The leaked correspon
 
 Within the broader debate over alleged hidden aerospace technologies and the later speculation surrounding McCasland, the 2016 email occupies a narrow but influential role.
 
-It establishes that DeLonge viewed McCasland as a valuable contact connected to advanced aerospace research and believed he was supportive of disclosure-related efforts. That is a real and documentable fact. What the email does not establish is the existence of secret UFO technology, antigravity systems, recovered extraterrestrial materials, or a motive for silencing anyone connected to such subjects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+It establishes that DeLonge viewed McCasland as a valuable contact connected to advanced aerospace research and believed he was supportive of disclosure-related efforts. That is a real and documentable fact. What the email does not establish is the existence of secret UFO technology, antigravity systems, recovered extraterrestrial materials, or a motive for silencing anyone connected to such subjects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
-As a result, the email is best understood as a gateway document. It explains how McCasland entered UFO-disclosure lore and why his name later attracted extraordinary attention. Its evidentiary value is genuine but limited: it documents DeLonge’s claims about McCasland, not proof of the extraordinary propositions that many readers subsequently attached to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
+As a result, the email is best understood as a gateway document. It explains how McCasland entered UFO-disclosure lore and why his name later attracted extraordinary attention. Its evidentiary value is genuine but limited: it documents DeLonge’s claims about McCasland, not proof of the extraordinary propositions that many readers subsequently attached to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">The Podesta Emails</span><span class="citation-popover-snippet">General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</span><span class="citation-popover-meta">Published: January 25, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-3-dark.svg" | relative_url }}" alt="De Longe Email illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_delonge_mccasland_em_fd5b3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the De Longe Email Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the De Longe Email Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly covers Project Blue Book, the programme headquartered at Wright-Patterson Air Force Base.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Project Blue Book, the programme headquartered at Wright-Patterson Air Force Base.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses military, government, and aviation perspectives that mirror speculation around senior Air Force figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses military, government, and aviation perspectives that mirror speculation around senior Air Force figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores claims involving defense officials, secrecy, and alleged hidden aerospace programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims involving defense officials, secrecy, and alleged hidden aerospace programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Shows how genuinely secret aircraft programs operate, helping readers separate secrecy from extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how genuinely secret aircraft programs operate, helping readers separate secrecy from extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Flight Test Center 412th Test Wing TMG Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/138cc748936b88b1b37a.jpg' | relative_url }}" alt="Listing image for Air Force Flight Test Center 412th Test Wing TMG Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Flight Test Center 412th Test Wing TMG Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force Flight Test Center 412th Test Wing TMG Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/138cc748936b88b1b37a.jpg' | relative_url }}" alt="Listing image for Air Force Flight Test Center 412th Test Wing TMG Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force Flight Test Center 412th Test Wing TMG Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="de-longe-email-what-did-the-de-longe-email-really-prove-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ As a result, the email is best understood as a gateway document. It explains how
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ As a result, the email is best understood as a gateway document. It explains how
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ As a result, the email is best understood as a gateway document. It explains how
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ As a result, the email is best understood as a gateway document. It explains how
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ As a result, the email is best understood as a gateway document. It explains how
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,164 +742,164 @@ As a result, the email is best understood as a gateway document. It explains how
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wikileaks.org  
    Title: The Podesta Emails  
-   Link: <a href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/3099</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/3099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General McCaslandView email; View source. General McCasland. From:t.delonge@me.com To: john.podesta@gmail.com Date: 2016-01-25 16:04 Subj...</p></details>
    Published: January 25, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsSubject: Re: Invitation: DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30am - 11:30am (neilmcc79@gmail.com)...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsSubject: Re: Invitation: DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30am - 11:30am (neilmcc79@gmail.com)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge&#x27;s Advisor McCasland and disclosure theoryIn this email Delonge says of General McCasland: &quot;Trust me, the advice is alre...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nwjkts/tom_delonges_advisor_mccasland_and_disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge&#x27;s Advisor McCasland and disclosure theoryIn this email Delonge says of General McCasland: &quot;Trust me, the advice is alre...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rollingstone.com  
    Title: read tom delonges leaked email to hillary clinton campaign about ufos 103832  
-   Link: <a href="https://www.rollingstone.com/music/music-news/read-tom-delonges-leaked-email-to-hillary-clinton-campaign-about-ufos-103832/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/read-tom-delonges-leaked-email-to-hillary-clinton-campaign-about-ufos-103832/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Read Tom DeLonge&#x27;s Leaked Email to Hillary Clinton...Oct 11, 2016 — Tom DeLonge sent two e-mails to Clinton campaign chair, John Podesta...</p></details>
+   Link:<a href="https://www.rollingstone.com/music/music-news/read-tom-delonges-leaked-email-to-hillary-clinton-campaign-about-ufos-103832/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-news/read-tom-delonges-leaked-email-to-hillary-clinton-campaign-about-ufos-103832/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read Tom DeLonge&#x27;s Leaked Email to Hillary Clinton...Oct 11, 2016 — Tom DeLonge sent two e-mails to Clinton campaign chair, John Podesta...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
    Title: retired air force general linked to ufo research goes missing 11918672  
-   Link: <a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</p></details>
+   Link:<a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsSubject: Follow up note from Tom Delonge · 2015-07-20 01:44 · 2016-11-05... Subject: Fwd: Podesta/UFO · 20...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsSubject: Follow up note from Tom Delonge · 2015-07-20 01:44 · 2016-11-05... Subject: Fwd: Podesta/UFO · 20...</p></details>
    Published: July 20, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=Tom+DeLonge&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=Tom+DeLonge&amp;sort=6&amp;title=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsTom DeLonge (29 results, viewing 1 to 50); Subject: Re: FLAG: MidA Finance Council Meeting; 2016-01-24 08...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=Tom+DeLonge&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=Tom+DeLonge&amp;sort=6&amp;title=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsTom DeLonge (29 results, viewing 1 to 50); Subject: Re: FLAG: MidA Finance Council Meeting; 2016-01-24 08...</p></details>
    Published: January 24, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delany%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delany%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta Emailsdelonge|&quot;tom delany&quot;|&quot;blink182&quot;|&quot;blink 182&quot;|UFO (125 results, viewing 1 to 50); Subject: Mother Jones | UF...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delany%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delany%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta Emailsdelonge|&quot;tom delany&quot;|&quot;blink182&quot;|&quot;blink 182&quot;|UFO (125 results, viewing 1 to 50); Subject: Mother Jones | UF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=tom+delonge&amp;sort=1&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=tom+delonge&amp;sort=1&amp;title=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta Emailstom delonge (29 results, viewing 1 to 50); Subject: Materials for Mr. Podesta; 2016-01-25 05:27 · 2016-11...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=tom+delonge&amp;sort=1&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=50&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=tom+delonge&amp;sort=1&amp;title=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta Emailstom delonge (29 results, viewing 1 to 50); Subject: Materials for Mr. Podesta; 2016-01-25 05:27 · 2016-11...</p></details>
    Published: January 25, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wikileaks.org  
-   Link: <a href="https://wikileaks.org/podesta-emails/emailid/2635" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/2635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From:susanmccw123@gmail.com To: john.podesta@gmail.com Date: 2016-01-24 23:44 Subject: Event...Read more...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/emailid/2635" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/2635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From:susanmccw123@gmail.com To: john.podesta@gmail.com Date: 2016-01-24 23:44 Subject: Event...Read more...</p></details>
    Published: January 24, 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/emailid/2125" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/2125</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsHi John- Tom DeLonge here, The one who interviewed you for that special documentary not to long ago. Things...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/emailid/2125" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/2125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Podesta EmailsHi John- Tom DeLonge here, The one who interviewed you for that special documentary not to long ago. Things...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wikileaks.org  
-   Link: <a href="https://wikileaks.org/podesta-emails/emailid/5078" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/5078</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30amRe: Invitation: DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30am - 11:30am (neilmcc79...</p></details>
+   Link:<a href="https://wikileaks.org/podesta-emails/emailid/5078" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/5078</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30amRe: Invitation: DeLonge/Podesta Meeting @ Mon Jan 25, 2016 10:30am - 11:30am (neilmcc79...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14k8hza/a_delonge_theory_on_why_disclosure_now_alien_wars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14k8hza/a_delonge_theory_on_why_disclosure_now_alien_wars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Techno-Fascist Scheme Behind UFO Disclosure. substack.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14k8hza/a_delonge_theory_on_why_disclosure_now_alien_wars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14k8hza/a_delonge_theory_on_why_disclosure_now_alien_wars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Techno-Fascist Scheme Behind UFO Disclosure. substack.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: blink 182 hillary clintons campaign chief ufos tom delonge john podesta  
-   Link: <a href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianBlink-182 singer contacted Hillary Clinton&#x27;s campaign chief...Oct 11, 2016 — The latest WikiLeaks email dump contains notes...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianBlink-182 singer contacted Hillary Clinton&#x27;s campaign chief...Oct 11, 2016 — The latest WikiLeaks email dump contains notes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2016/10/hillary-clinton-wikileaks" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2016/10/hillary-clinton-wikileaks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The leaked e-mails cast light on key issues, revealing strategic conversations about Clinton&#x27;s perceived establishment ties, campaign str...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2016/10/hillary-clinton-wikileaks" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2016/10/hillary-clinton-wikileaks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The leaked e-mails cast light on key issues, revealing strategic conversations about Clinton&#x27;s perceived establishment ties, campaign str...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: air force vet missing ufo b2938017  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/air-force-vet-missing-ufo-b2938017.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/air-force-vet-missing-ufo-b2938017.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials trying to discredit links between general&#x27;s...13 Mar 2026 — William “Neil” McCasland have hit back at speculation linking his...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/air-force-vet-missing-ufo-b2938017.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/air-force-vet-missing-ufo-b2938017.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officials trying to discredit links between general&#x27;s...13 Mar 2026 — William “Neil” McCasland have hit back at speculation linking his...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/william-neil-mccasland-was-said-to-be-sympathetic-to-the-idea-of-bringing-the-pu/952196200520731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/william-neil-mccasland-was-said-to-be-sympathetic-to-the-idea-of-bringing-the-pu/952196200520731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland was said to be sympathetic...William Neil McCasland was said to be sympathetic to the idea of bringing the public...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/william-neil-mccasland-was-said-to-be-sympathetic-to-the-idea-of-bringing-the-pu/952196200520731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/william-neil-mccasland-was-said-to-be-sympathetic-to-the-idea-of-bringing-the-pu/952196200520731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland was said to be sympathetic...William Neil McCasland was said to be sympathetic to the idea of bringing the public...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/news/roswell-et-among-topics-in-leaked-emails-from-blink-182-rocker-apollo-astronaut-to-clinton-adviser/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/roswell-et-among-topics-in-leaked-emails-from-blink-182-rocker-apollo-astronaut-to-clinton-adviser/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Podesta and DeLonge. But the San Diego-based rocker wasn&#x27;t the only big name to contact Podesta on the subject of UFOs. An email dated Au...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/news/roswell-et-among-topics-in-leaked-emails-from-blink-182-rocker-apollo-astronaut-to-clinton-adviser/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/news/roswell-et-among-topics-in-leaked-emails-from-blink-182-rocker-apollo-astronaut-to-clinton-adviser/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Podesta and DeLonge. But the San Diego-based rocker wasn&#x27;t the only big name to contact Podesta on the subject of UFOs. An email dated Au...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked emails reveal General Neil McCasland&#x27;s pivotal...In those emails, DeLonge claimed he had been working with individuals connected...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/leaked-emails-reveal-general-neil-mccaslands-pivotal-role-in-covert-uap-disclosu/1523296859158305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked emails reveal General Neil McCasland&#x27;s pivotal...In those emails, DeLonge claimed he had been working with individuals connected...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: this story exploded because william neil mccasland had the kind of career that i  
-   Link: <a href="https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force general&#x27;s disappearance sparks UFO theoriesIn 2016 WikiLeaks emails, musician Tom DeLonge told Hillary Clinton&#x27;s campaign chair...</p></details>
+   Link:<a href="https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force general&#x27;s disappearance sparks UFO theoriesIn 2016 WikiLeaks emails, musician Tom DeLonge told Hillary Clinton&#x27;s campaign chair...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wsj.com  
    Title: wikileaks reveals ufo messages in clinton campaign emails 1476123038  
-   Link: <a href="https://www.wsj.com/articles/wikileaks-reveals-ufo-messages-in-clinton-campaign-emails-1476123038?gaa_at=eafs&amp;gaa_n=AWEtsqfoO-_rMC-g7LAb5HAU4a1UQwj_goL9Orwy29uoqqiHbmIeIG9koLCI&amp;gaa_sig=oEaBrX1xHCwYVnp2HZGwfsdcKcSf6SsdVxzDHLgJOzWd4UC_xtGeij_6hctp4RwK1-EnHKpJ7-qNsCqDAgIGFw%3D%3D&amp;gaa_ts=69d10bf9" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/wikileaks-reveals-ufo-messages-in-clinton-campaign-emails-1476123038?gaa_at=eafs&amp;gaa_n=AWEtsqfoO-_rMC-g7LAb5HAU4a1UQwj_goL9Orwy29uoqqiHbmIeIG9koLCI&amp;gaa_sig=oEaBrX1xHCwYVnp2HZGwfsdcKcSf6SsdVxzDHLgJOzWd4UC_xtGeij_6hctp4RwK1-EnHKpJ7-qNsCqDAgIGFw%3D%3D&amp;gaa_ts=69d10bf9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiLeaks Reveals UFO ​Messages in Clinton Campaign...10 Oct 2016 — The former lead singer of the band Blink 182 was in recent contact w...</p></details>
+   Link:<a href="https://www.wsj.com/articles/wikileaks-reveals-ufo-messages-in-clinton-campaign-emails-1476123038?gaa_at=eafs&amp;gaa_n=AWEtsqfoO-_rMC-g7LAb5HAU4a1UQwj_goL9Orwy29uoqqiHbmIeIG9koLCI&amp;gaa_sig=oEaBrX1xHCwYVnp2HZGwfsdcKcSf6SsdVxzDHLgJOzWd4UC_xtGeij_6hctp4RwK1-EnHKpJ7-qNsCqDAgIGFw%3D%3D&amp;gaa_ts=69d10bf9" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/wikileaks-reveals-ufo-messages-in-clinton-campaign-emails-1476123038?gaa_at=eafs&amp;gaa_n=AWEtsqfoO-_rMC-g7LAb5HAU4a1UQwj_goL9Orwy29uoqqiHbmIeIG9koLCI&amp;gaa_sig=oEaBrX1xHCwYVnp2HZGwfsdcKcSf6SsdVxzDHLgJOzWd4UC_xtGeij_6hctp4RwK1-EnHKpJ7-qNsCqDAgIGFw%3D%3D&amp;gaa_ts=69d10bf9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WikiLeaks Reveals UFO ​Messages in Clinton Campaign...10 Oct 2016 — The former lead singer of the band Blink 182 was in recent contact w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: billboard.com  
    Title: blink 182 tom delonge emailing hillary clinton adviser ufos 7534442  
-   Link: <a href="https://www.billboard.com/music/rock/blink-182-tom-delonge-emailing-hillary-clinton-adviser-ufos-7534442/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rock/blink-182-tom-delonge-emailing-hillary-clinton-adviser-ufos-7534442/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge Has Been Emailing Hillary...10 Oct 2016 — Tom DeLonge had a number of reasons for leaving Blink-182 last year, b...</p></details>
+   Link:<a href="https://www.billboard.com/music/rock/blink-182-tom-delonge-emailing-hillary-clinton-adviser-ufos-7534442/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rock/blink-182-tom-delonge-emailing-hillary-clinton-adviser-ufos-7534442/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge Has Been Emailing Hillary...10 Oct 2016 — Tom DeLonge had a number of reasons for leaving Blink-182 last year, b...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wbaltv.com  
    Title: blink 182 rockers leaked emails to clinton talking about ufos  
-   Link: <a href="https://www.wbaltv.com/article/blink-182-rockers-leaked-emails-to-clinton-talking-about-ufos/5276840" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/blink-182-rockers-leaked-emails-to-clinton-talking-about-ufos/5276840</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182 Rocker&#x27;s Leaked Emails to Clinton Talking About...Sep 5, 2017 — Hillary Clinton&#x27;s campaign manager and former Blink 182 band m...</p></details>
+   Link:<a href="https://www.wbaltv.com/article/blink-182-rockers-leaked-emails-to-clinton-talking-about-ufos/5276840" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/blink-182-rockers-leaked-emails-to-clinton-talking-about-ufos/5276840</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182 Rocker&#x27;s Leaked Emails to Clinton Talking About...Sep 5, 2017 — Hillary Clinton&#x27;s campaign manager and former Blink 182 band m...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nbcmiami.com  
    Title: former blink 182 delonge reached out to clinton camp to discuss aliens  
-   Link: <a href="https://www.nbcmiami.com/news/national-international/former-blink-182-delonge-reached-out-to-clinton-camp-to-discuss-aliens/1981031/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcmiami.com/news/national-international/former-blink-182-delonge-reached-out-to-clinton-camp-to-discuss-aliens/1981031/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2016, under the subject header &quot;General McCasland&quot; DeLonge reportedly writes he&#x27;s been in contact with an...Read more...</p></details>
+   Link:<a href="https://www.nbcmiami.com/news/national-international/former-blink-182-delonge-reached-out-to-clinton-camp-to-discuss-aliens/1981031/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcmiami.com/news/national-international/former-blink-182-delonge-reached-out-to-clinton-camp-to-discuss-aliens/1981031/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2016, under the subject header &quot;General McCasland&quot; DeLonge reportedly writes he&#x27;s been in contact with an...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: coasttocoastam.com  
    Title: former general linked to top secret ufo lab goes missing  
-   Link: <a href="https://www.coasttocoastam.com/article/former-general-linked-to-top-secret-ufo-lab-goes-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/former-general-linked-to-top-secret-ufo-lab-goes-missing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former General Linked to Top-Secret UFO Lab Goes Missing8 Mar 2026 — The author of those emails, Blink-182 guitarist and frontman Tom DeL...</p></details>
+   Link:<a href="https://www.coasttocoastam.com/article/former-general-linked-to-top-secret-ufo-lab-goes-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/article/former-general-linked-to-top-secret-ufo-lab-goes-missing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former General Linked to Top-Secret UFO Lab Goes Missing8 Mar 2026 — The author of those emails, Blink-182 guitarist and frontman Tom DeL...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vice.com  
    Title: The Tom De Longe Wikileaks Conspiracy Goes Deeper  
-   Link: <a href="https://www.vice.com/en/article/the-tom-delonge-wikileaks-conspiracy-goes-deeper-than-we-thought/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-tom-delonge-wikileaks-conspiracy-goes-deeper-than-we-thought/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tom DeLonge Wikileaks Conspiracy Goes Deeper...May 25, 2017 — Tom DeLonge is using the same Deep State connections he cultivated to...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-tom-delonge-wikileaks-conspiracy-goes-deeper-than-we-thought/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-tom-delonge-wikileaks-conspiracy-goes-deeper-than-we-thought/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tom DeLonge Wikileaks Conspiracy Goes Deeper...May 25, 2017 — Tom DeLonge is using the same Deep State connections he cultivated to...</p></details>
    Published: May 25, 2017  

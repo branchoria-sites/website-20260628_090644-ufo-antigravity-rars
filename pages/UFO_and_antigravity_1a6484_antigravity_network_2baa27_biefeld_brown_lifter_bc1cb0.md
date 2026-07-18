@@ -284,15 +284,15 @@ Among all the devices associated with antigravity claims, few have been as influ
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-1-dark.svg" | relative_url }}" alt="Lifters illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That appearance helped keep Thomas Townsend Brown's electrogravitics ideas alive within [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) circles. Yet the central scientific question was never whether lifters move—they do—but why they move. Decades of investigation have led most researchers to conclude that the thrust comes from ionised air, often called ion wind or electrohydrodynamic (EHD) thrust, rather than from any reduction or cancellation of gravity. The distinction matters because lifters became one of the most widely circulated pieces of apparent evidence for antigravity technology despite the mainstream explanation being rooted in atmospheric electricity rather than gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
+That appearance helped keep Thomas Townsend Brown's electrogravitics ideas alive within [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) circles. Yet the central scientific question was never whether lifters move—they do—but why they move. Decades of investigation have led most researchers to conclude that the thrust comes from ionised air, often called ion wind or electrohydrodynamic (EHD) thrust, rather than from any reduction or cancellation of gravity. The distinction matters because lifters became one of the most widely circulated pieces of apparent evidence for antigravity technology despite the mainstream explanation being rooted in atmospheric electricity rather than gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
 
 ## Brown's Electrogravitics Idea in Plain Terms
 
-Thomas Townsend Brown began experimenting with high-voltage capacitors in the 1920s. Working with concepts that later became known as the Biefeld–Brown effect, he observed that asymmetric capacitor arrangements appeared to produce a directional force when subjected to very high voltages. Brown interpreted this as evidence that strong electric fields could interact with gravity, a concept he eventually called electrogravitics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
+Thomas Townsend Brown began experimenting with high-voltage capacitors in the 1920s. Working with concepts that later became known as the Biefeld–Brown effect, he observed that asymmetric capacitor arrangements appeared to produce a directional force when subjected to very high voltages. Brown interpreted this as evidence that strong electric fields could interact with gravity, a concept he eventually called electrogravitics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
 
-The basic observation was straightforward. If one electrode was thin and the other broad, the assembly seemed to move toward one side when energised. Brown believed the force was fundamentally linked to gravity. Over time he patented various devices and promoted the idea that sufficiently advanced electrogravitic systems might provide revolutionary propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
+The basic observation was straightforward. If one electrode was thin and the other broad, the assembly seemed to move toward one side when energised. Brown believed the force was fundamentally linked to gravity. Over time he patented various devices and promoted the idea that sufficiently advanced electrogravitic systems might provide revolutionary propulsion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
 
-Within UFO culture, this interpretation acquired a life of its own. Electrogravitics offered a seemingly plausible bridge between unexplained aerial craft and a real experimental phenomenon. As a result, Brown became one of the most frequently cited historical figures in discussions of alleged antigravity technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
+Within UFO culture, this interpretation acquired a life of its own. Electrogravitics offered a seemingly plausible bridge between unexplained aerial craft and a real experimental phenomenon. As a result, Brown became one of the most frequently cited historical figures in discussions of alleged antigravity technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tXXjQ3BMBKc" title="Biefeld-Brown Effect in Vacuum Chamber | Falcon Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tXXjQ3BMBKc" target="_blank" rel="noopener noreferrer">Biefeld-Brown Effect in Vacuum Chamber | Falcon Space</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tXXjQ3BMBKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tXXjQ3BMBKc">Open on YouTube</a></p></div></div></div>
@@ -313,9 +313,9 @@ The visual effect was striking:
 
 </div>
 
-Videos and photographs spread widely through online forums, UFO websites and alternative-science communities in the late 1990s and early 2000s. Because observers could see a physical object lifting itself into the air, lifters became far more persuasive to many enthusiasts than abstract theories about gravity manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
+Videos and photographs spread widely through online forums, UFO websites and alternative-science communities in the late 1990s and early 2000s. Because observers could see a physical object lifting itself into the air, lifters became far more persuasive to many enthusiasts than abstract theories about gravity manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Thomas Townsend Brown</span><span class="citation-popover-snippet">Thomas Townsend Brown</span></span></span>
 
-Importantly, the demonstrations were genuine. The devices were not hoaxes. The disagreement concerned the mechanism. Supporters of electrogravitics viewed the motion as evidence that Brown had discovered a gravity-related force. Critics argued that the effect could be explained entirely through known electrical interactions with the surrounding air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-idea-of-reality/the-biefeld-brown-effect-68b6ab065e35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: The visual effect resembles antigravity.">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">The visual effect resembles antigravity.</span><span class="citation-popover-snippet">Open source on medium.com.</span></span></span>
+Importantly, the demonstrations were genuine. The devices were not hoaxes. The disagreement concerned the mechanism. Supporters of electrogravitics viewed the motion as evidence that Brown had discovered a gravity-related force. Critics argued that the effect could be explained entirely through known electrical interactions with the surrounding air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-idea-of-reality/the-biefeld-brown-effect-68b6ab065e35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: The visual effect resembles antigravity.">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">The visual effect resembles antigravity.</span><span class="citation-popover-snippet">Open source on medium.com.</span></span></span>
 
 This dispute helped make lifters a recurring feature of antigravity rumour networks. Unlike many exotic propulsion claims, people could build one themselves and watch it fly.
 
@@ -326,9 +326,9 @@ This dispute helped make lifters a recurring feature of antigravity rumour netwo
 
 The dominant scientific explanation is based on electrohydrodynamics, the study of forces generated when electric fields act on gases.
 
-In a typical lifter, the thin wire electrode creates an extremely intense electric field. Air molecules near the wire become ionised through corona discharge. These charged particles accelerate toward the opposite electrode and collide with neutral air molecules along the way. The resulting stream of moving air creates thrust. The device is effectively pushing against the atmosphere around it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
+In a typical lifter, the thin wire electrode creates an extremely intense electric field. Air molecules near the wire become ionised through corona discharge. These charged particles accelerate toward the opposite electrode and collide with neutral air molecules along the way. The resulting stream of moving air creates thrust. The device is effectively pushing against the atmosphere around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
 
-The process is often described as ion wind or ionic drift. Although invisible, it is a real airflow capable of producing measurable force. Modern electrohydrodynamic thrusters intentionally use the same principle and are studied for specialised propulsion and cooling applications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/12/6/2997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2DOAJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis of the Efficiency of the Electrohydrodynamic...by MF Cabanas · 2022 · Cited by 13 — The phenomenon known as the Biefeld-Bro...</span></span></span>
+The process is often described as ion wind or ionic drift. Although invisible, it is a real airflow capable of producing measurable force. Modern electrohydrodynamic thrusters intentionally use the same principle and are studied for specialised propulsion and cooling applications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/12/6/2997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis of the Efficiency of the Electrohydrodynamic...by MF Cabanas · 2022 · Cited by 13 — The phenomenon known as the Biefeld-Bro...</span></span></span>
 
 Several lines of evidence support this explanation:
 
@@ -336,20 +336,20 @@ Several lines of evidence support this explanation:
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-2-dark.svg" | relative_url }}" alt="Lifters illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The effect depends on air
 
-If thrust comes from accelerated ions colliding with air molecules, performance should decline as air is removed. Experimental work generally shows exactly that behaviour. As pressure drops, the available medium for momentum transfer decreases and the force falls dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
+If thrust comes from accelerated ions colliding with air molecules, performance should decline as air is removed. Experimental work generally shows exactly that behaviour. As pressure drops, the available medium for momentum transfer decreases and the force falls dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
 
 ### Vacuum tests fail to show antigravity thrust
 
 One of the strongest tests of Brown's interpretation is to place the apparatus in a high-quality vacuum. If the effect truly results from a gravity-electricity interaction, thrust should remain when air is absent.
 
-Repeated investigations have generally failed to find sustained thrust under such conditions. Air Force researcher R. L. Talley reported no measurable propulsion from Brown-style capacitors in high vacuum, while later investigations by NASA-related researchers and other experimental groups similarly failed to observe the claimed effect once atmospheric influences were removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia+2TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
+Repeated investigations have generally failed to find sustained thrust under such conditions. Air Force researcher R. L. Talley reported no measurable propulsion from Brown-style capacitors in high vacuum, while later investigations by NASA-related researchers and other experimental groups similarly failed to observe the claimed effect once atmospheric influences were removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q2iu2N_P-Vw" title="Lifters, Antigravity of the American Physicist Townsend Brown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q2iu2N_P-Vw" target="_blank" rel="noopener noreferrer">Lifters, Antigravity of the American Physicist Townsend Brown</a></p><p class="youtube-embed-meta">Channel: Dyslexic Artist Theory on the Physics of Time</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q2iu2N_P-Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q2iu2N_P-Vw">Open on YouTube</a></p></div></div></div>
 
 ### Quantitative models reproduce the force
 
-Researchers have developed mathematical descriptions of ion-driven thrust and compared them with measurements from lifter experiments. These analyses show that the observed lift can be explained by ion acceleration and momentum transfer without invoking new gravitational physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2PDXScholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1011.1393] An analysis of the Brown-Biefeld effectNovember 5, 2010 — by R Ianconescu · 2010 · Cited by 50 — This work calculates th...</span><span class="citation-popover-meta">Published: November 5, 2010</span></span></span>
+Researchers have developed mathematical descriptions of ion-driven thrust and compared them with measurements from lifter experiments. These analyses show that the observed lift can be explained by ion acceleration and momentum transfer without invoking new gravitational physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1011.1393] An analysis of the Brown-Biefeld effectNovember 5, 2010 — by R Ianconescu · 2010 · Cited by 50 — This work calculates th...</span><span class="citation-popover-meta">Published: November 5, 2010</span></span></span>
 
 ## Why the Debate Persisted
 
@@ -362,9 +362,9 @@ For believers in hidden propulsion technologies, several features were attractiv
 * The devices appeared to challenge everyday intuition.
 * The underlying physics involved high voltages and plasma effects unfamiliar to most people.
 
-These ingredients encouraged speculation that official science had overlooked, misunderstood or concealed a breakthrough. UFO authors and conspiracy-oriented writers frequently portrayed Brown as a pioneer whose discoveries pointed toward advanced propulsion systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
+These ingredients encouraged speculation that official science had overlooked, misunderstood or concealed a breakthrough. UFO authors and conspiracy-oriented writers frequently portrayed Brown as a pioneer whose discoveries pointed toward advanced propulsion systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biefeld%E2%80%93Brown_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikipedia.org">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikipedia.org</span><span class="citation-popover-title">Biefeld–Brown effect</span><span class="citation-popover-snippet">Biefeld–Brown effect</span></span></span>
 
-Mainstream assessments reached a different conclusion. Reviews of breakthrough propulsion concepts and later experimental studies consistently treated the lifter phenomenon as an electrohydrodynamic effect rather than evidence of gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2TU Dresden]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Tajmar, M., “The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena...Read more...</span></span></span>
+Mainstream assessments reached a different conclusion. Reviews of breakthrough propulsion concepts and later experimental studies consistently treated the lifter phenomenon as an electrohydrodynamic effect rather than evidence of gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Tajmar, M., “The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-3-dark.svg" | relative_url }}" alt="Lifters illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27_biefeld_brown_lifter_bc1cb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -379,194 +379,194 @@ Their significance comes from a combination of three facts:
 2. **The visual effect resembles antigravity.** A lightweight structure appears to float without conventional propulsion. [Medium](https://medium.com/the-idea-of-reality/the-biefeld-brown-effect-68b6ab065e35)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Lifters Look Like Antigravity but Aren&#x27;t. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Lifters Look Like Antigravity but Aren&#x27;t. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Covers Townsend Brown, electrogravitics, and claims of breakthrough propulsion technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Townsend Brown, electrogravitics, and claims of breakthrough propulsion technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secrets of Antigravity Propulsion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eutzmAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Secrets of Antigravity Propulsion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrets of Antigravity Propulsion">Secrets of Antigravity Propulsion</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. LaViolette</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secrets of Antigravity Propulsion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eutzmAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Secrets of Antigravity Propulsion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secrets of Antigravity Propulsion">Secrets of Antigravity Propulsion</a>
+</h4>
+<p class="fr-book-author">By Paul A. LaViolette</p>
         
-        <p class="fr-book-desc">Directly addresses antigravity concepts, electrogravitics claims, and propulsion ideas associated with lifter discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses antigravity concepts, electrogravitics claims, and propulsion ideas associated with lifter discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion+by+Paul+A.+LaViolette&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ndAoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electrodynamics">Introduction to Electrodynamics</a>
-        </h4>
-        <p class="fr-book-author">By David J. Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ndAoDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electrodynamics">Introduction to Electrodynamics</a>
+</h4>
+<p class="fr-book-author">By David J. Griffiths</p>
         
-        <p class="fr-book-desc">Provides the mainstream electromagnetic principles needed to understand ion wind and high-voltage effects behind lifters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the mainstream electromagnetic principles needed to understand ion wind and high-voltage effects behind lifters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Electrodynamics+by+David+J.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the wider UFO and advanced-technology context in which lifter and electrogravitics claims are often discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the wider UFO and advanced-technology context in which lifter and electrogravitics claims are often discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secrets of Antigravity Propulsion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electrodynamics books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secrets+of+Antigravity+Propulsion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secrets of Antigravity Propulsion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electrodynamics books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="lifters-why-lifters-look-like-antigravity-but-aren-t-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ Their significance comes from a combination of three facts:
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ Their significance comes from a combination of three facts:
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ Their significance comes from a combination of three facts:
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Their significance comes from a combination of three facts:
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ Their significance comes from a combination of three facts:
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,125 +772,125 @@ Their significance comes from a combination of three facts:
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Thomas Townsend Brown  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Townsend Brown | Encyclopedia MDPIIn recent years Brown&#x27;s research has had an influence in the community of amateur experimenters...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Townsend Brown | Encyclopedia MDPIIn recent years Brown&#x27;s research has had an influence in the community of amateur experimenters...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/12/6/2997" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/12/6/2997</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Efficiency of the Electrohydrodynamic...by MF Cabanas · 2022 · Cited by 13 — The phenomenon known as the Biefeld-Bro...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/12/6/2997" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/12/6/2997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Efficiency of the Electrohydrodynamic...by MF Cabanas · 2022 · Cited by 13 — The phenomenon known as the Biefeld-Bro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1906.10210" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.10210</a>  
+   Link:<a href="https://arxiv.org/abs/1906.10210" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.10210</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/6e2a789781e94e3b848f63143c3e4132" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/6e2a789781e94e3b848f63143c3e4132</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ect of study since its discovery with the aim of being applied to aircraft...</p></details>
+   Link:<a href="https://doaj.org/article/6e2a789781e94e3b848f63143c3e4132" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/6e2a789781e94e3b848f63143c3e4132</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ect of study since its discovery with the aim of being applied to aircraft...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/37635" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/37635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ionocraft | Encyclopedia MDPI1 Dec 2022 — An ionocraft or ion-propelled aircraft (commonly known as a lifter or hexalifter) is a device t...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/37635" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/37635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ionocraft | Encyclopedia MDPI1 Dec 2022 — An ionocraft or ion-propelled aircraft (commonly known as a lifter or hexalifter) is a device t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tu-dresden.de  
-   Link: <a href="https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, any thrust in vacuum chambers claimed by Brown was most likely a corona wind triggered by not.Read more...</p></details>
+   Link:<a href="https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/ressourcen/dateien/forschung/folder-2007-08-21-5231434330/ag_raumfahrtantriebe/Biefeld-Brown-Effect-AIAA-Journal-Revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, any thrust in vacuum chambers claimed by Brown was most likely a corona wind triggered by not.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajmar, M., “The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena...Read more...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tajmar, M., “The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1011.1393</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1011.1393] An analysis of the Brown-Biefeld effectNovember 5, 2010 — by R Ianconescu · 2010 · Cited by 50 — This work calculates th...</p></details>
+   Link:<a href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1011.1393</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[1011.1393] An analysis of the Brown-Biefeld effectNovember 5, 2010 — by R Ianconescu · 2010 · Cited by 50 — This work calculates th...</p></details>
    Published: November 5, 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bielefeld" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bielefeld</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BielefeldBielefeld is a city in the Ostwestfalen-Lippe region in the north-east of North Rhine-Westphalia, Germany. With a population...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bielefeld" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bielefeld</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BielefeldBielefeld is a city in the Ostwestfalen-Lippe region in the north-east of North Rhine-Westphalia, Germany. With a population...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/1004.0810v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctric wind phenomenon. The other try to verify the adequacy of Biefeld...</p></details>
+   Link:<a href="https://arxiv.org/html/1004.0810v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctric wind phenomenon. The other try to verify the adequacy of Biefeld...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pdxscholar.library.pdx.edu  
-   Link: <a href="https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1060&amp;context=honorstheses" target="_blank" rel="noopener noreferrer nofollow">https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1060&amp;context=honorstheses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There have even...</p></details>
+   Link:<a href="https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1060&amp;context=honorstheses" target="_blank" rel="noopener noreferrer nofollow">https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1060&amp;context=honorstheses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There have even...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychology.ua.edu  
    Title: sharla biefield  
-   Link: <a href="https://psychology.ua.edu/people/sharla-biefield/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ua.edu/people/sharla-biefield/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biefeld - Department of PsychologyAbout Dr. Biefeld is an Assistant Professor with the Center for Youth Development and Intervention and...</p></details>
+   Link:<a href="https://psychology.ua.edu/people/sharla-biefield/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ua.edu/people/sharla-biefield/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biefeld - Department of PsychologyAbout Dr. Biefeld is an Assistant Professor with the Center for Youth Development and Intervention and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: altpropulsion.com  
-   Link: <a href="https://www.altpropulsion.com/electrogravitics/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/electrogravitics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We cover physics, ion wind questions, vacuum tests, materials, and power electronics—plus...</p></details>
+   Link:<a href="https://www.altpropulsion.com/electrogravitics/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/electrogravitics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We cover physics, ion wind questions, vacuum tests, materials, and power electronics—plus...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An analysis of the Brown–Biefeld effectThe Brown-Biefeld effect generates thrust in asymmetric capacitors due to ionic air propulsi...</p></details>
+   Link:<a href="https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41307832/An_analysis_of_the_Brown_Biefeld_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An analysis of the Brown–Biefeld effectThe Brown-Biefeld effect generates thrust in asymmetric capacitors due to ionic air propulsi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Physics/comments/1m7v06w/what_is_the_physics_communitys_thoughts_on_thomas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Physics/comments/1m7v06w/what_is_the_physics_communitys_thoughts_on_thomas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights on Thomas Townsend Brown in physicsHe inaccurately attributed ion winds to anti-gravity. The anti-gravity hypothesis is easily s...</p></details>
+   Link:<a href="https://www.reddit.com/r/Physics/comments/1m7v06w/what_is_the_physics_communitys_thoughts_on_thomas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Physics/comments/1m7v06w/what_is_the_physics_communitys_thoughts_on_thomas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insights on Thomas Townsend Brown in physicsHe inaccurately attributed ion winds to anti-gravity. The anti-gravity hypothesis is easily s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/9z7u91/mit_just_managed_a_60_meter_powered_flight_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/9z7u91/mit_just_managed_a_60_meter_powered_flight_with/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT just managed a 60 meter powered flight with no...Some folks back then thought this was the so-called &quot;Biefeld-Brown&quot; effect, or anti...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/9z7u91/mit_just_managed_a_60_meter_powered_flight_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/9z7u91/mit_just_managed_a_60_meter_powered_flight_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT just managed a 60 meter powered flight with no...Some folks back then thought this was the so-called &quot;Biefeld-Brown&quot; effect, or anti...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=55806" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=55806</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Electrogravitics &amp; Electrokinetics PropulsionElectrogravitics and electrokinetics can be traced to T. Townsend Brown&#x27;s first ar...</p></details>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=55806" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=55806</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Electrogravitics &amp; Electrokinetics PropulsionElectrogravitics and electrokinetics can be traced to T. Townsend Brown&#x27;s first ar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ithy.com  
-   Link: <a href="https://ithy.com/article/electrogravitics-overview-x1ubijwo" target="_blank" rel="noopener noreferrer nofollow">https://ithy.com/article/electrogravitics-overview-x1ubijwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mysteries of Electric-Gravity InteractionDespite claims of revolutionary applications in propulsion and energy, mainstream...</p></details>
+   Link:<a href="https://ithy.com/article/electrogravitics-overview-x1ubijwo" target="_blank" rel="noopener noreferrer nofollow">https://ithy.com/article/electrogravitics-overview-x1ubijwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Mysteries of Electric-Gravity InteractionDespite claims of revolutionary applications in propulsion and energy, mainstream...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/289802803_Study_of_the_lifter_based_on_Biefeld-Brown_effect_with_corona_discharge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289802803_Study_of_the_lifter_based_on_Biefeld-Brown_effect_with_corona_discharge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study of the lifter based on Biefeld-Brown effect with...24 Feb 2026 — The lifter based on Biefeld-Brown effect is a asymmetry capacitor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/289802803_Study_of_the_lifter_based_on_Biefeld-Brown_effect_with_corona_discharge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289802803_Study_of_the_lifter_based_on_Biefeld-Brown_effect_with_corona_discharge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study of the lifter based on Biefeld-Brown effect with...24 Feb 2026 — The lifter based on Biefeld-Brown effect is a asymmetry capacitor...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RedHorseLeather1/posts/thomas-townsend-brown-born-in-1905-was-an-electrical-engineer-who-made-waves-in-/1322825469846566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RedHorseLeather1/posts/thomas-townsend-brown-born-in-1905-was-an-electrical-engineer-who-made-waves-in-/1322825469846566/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Townsend Brown, born in 1905, was an electrical...Skeptics argue that the observed thrust might be a result of ion wind, promptin...</p></details>
+   Link:<a href="https://www.facebook.com/RedHorseLeather1/posts/thomas-townsend-brown-born-in-1905-was-an-electrical-engineer-who-made-waves-in-/1322825469846566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RedHorseLeather1/posts/thomas-townsend-brown-born-in-1905-was-an-electrical-engineer-who-made-waves-in-/1322825469846566/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Townsend Brown, born in 1905, was an electrical...Skeptics argue that the observed thrust might be a result of ion wind, promptin...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tXXjQ3BMBKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tXXjQ3BMBKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biefeld-Brown Effect in Vacuum Chamber | Falcon SpaceDemonstration of a Biefeld-Brown effect &quot;Campbell Thruster&quot; built by Nam Tran in a V...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tXXjQ3BMBKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tXXjQ3BMBKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biefeld-Brown Effect in Vacuum Chamber | Falcon SpaceDemonstration of a Biefeld-Brown effect &quot;Campbell Thruster&quot; built by Nam Tran in a V...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q2iu2N_P-Vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2iu2N_P-Vw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lifters, Antigravity of the American Physicist Townsend BrownAlthough most people disagree with Brown&#x27;s ideas, there is no logical explan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q2iu2N_P-Vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q2iu2N_P-Vw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lifters, Antigravity of the American Physicist Townsend BrownAlthough most people disagree with Brown&#x27;s ideas, there is no logical explan...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uum electromagnetic zero-point field and the high potential electric field.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uum electromagnetic zero-point field and the high potential electric field.Read more...</p></details>

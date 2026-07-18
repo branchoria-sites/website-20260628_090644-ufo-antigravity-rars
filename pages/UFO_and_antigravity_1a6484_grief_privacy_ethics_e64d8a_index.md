@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-grief/
 description: Focused pages that expand on Ethics.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a
 parent_title: Ethics
@@ -16,7 +16,7 @@ parent_permalink: /ethics/
 
 # Explore Topics in Ethics
 
-The following pages expand on the main **[Ethics]({{ '/ethics/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ethics]({{ '/ethics/' | relative_url }})** page and cover its key branches in.
 
 - [Mc Casland]({{ '/mc-casland-004ca0/' | relative_url }})
 - [Memorials]({{ '/memorials/' | relative_url }})

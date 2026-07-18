@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-sensitive/
 description: Focused pages that expand on Sensitive Labs.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294
 parent_title: Sensitive Labs
@@ -16,7 +16,7 @@ parent_permalink: /sensitive-labs/
 
 # Explore Topics in Sensitive Labs
 
-The following pages expand on the main **[Sensitive Labs]({{ '/sensitive-labs/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Sensitive Labs]({{ '/sensitive-labs/' | relative_url }})** page and cover its key branches in.
 
 - [Proximity Trap]({{ '/proximity-trap/' | relative_url }})
 - [Job Titles]({{ '/job-titles-7bc35d/' | relative_url }})

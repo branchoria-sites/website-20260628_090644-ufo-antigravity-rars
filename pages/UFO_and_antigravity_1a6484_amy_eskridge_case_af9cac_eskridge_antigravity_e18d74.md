@@ -275,24 +275,24 @@ image: /assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskrid
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-1-dark.svg" | relative_url }}" alt="Eskridge Antigravity illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The public record shows that Eskridge openly promoted the study of antigravity, gravity modification, electrogravitics, advanced propulsion and related frontier concepts. She held leadership roles in organisations devoted to those subjects and gave at least one substantial public presentation on the history of antigravity research. However, the same public record does not contain a demonstrated antigravity device, a peer-reviewed breakthrough proving gravity control, or independently verified evidence that her organisations had achieved a working engineering solution. The distinction between research advocacy and proven results is central to understanding her legacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The public record shows that Eskridge openly promoted the study of antigravity, gravity modification, electrogravitics, advanced propulsion and related frontier concepts. She held leadership roles in organisations devoted to those subjects and gave at least one substantial public presentation on the history of antigravity research. However, the same public record does not contain a demonstrated antigravity device, a peer-reviewed breakthrough proving gravity control, or independently verified evidence that her organisations had achieved a working engineering solution. The distinction between research advocacy and proven results is central to understanding her legacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 ## What Did Eskridge Actually Claim About Antigravity?
 
-The clearest public statement of Eskridge’s views is her December 2018 presentation, *A Historical Perspective on Anti-Gravity Technology*, delivered to the Huntsville Alabama L5 Society (HAL5), a long-running space-advocacy organisation. The event description presented her as president of the Institute for Exotic Science, an organisation focused on propulsion, quantum gravity and other advanced technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-title">program 2018 12.shtml</span><span class="citation-popover-snippet">HAL5 December 2018 ProgramIn this talk we will walk through the timeline of antigravity research and touch on modern efforts in this...</span><span class="citation-popover-meta">Published: December 2018</span></span></span>
+The clearest public statement of Eskridge’s views is her December 2018 presentation, *A Historical Perspective on Anti-Gravity Technology*, delivered to the Huntsville Alabama L5 Society (HAL5), a long-running space-advocacy organisation. The event description presented her as president of the Institute for Exotic Science, an organisation focused on propulsion, quantum gravity and other advanced technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-title">program 2018 12.shtml</span><span class="citation-popover-snippet">HAL5 December 2018 ProgramIn this talk we will walk through the timeline of antigravity research and touch on modern efforts in this...</span><span class="citation-popover-meta">Published: December 2018</span></span></span>
 
-In the presentation, Eskridge treated antigravity not as science fiction but as a legitimate area of inquiry. She defined antigravity broadly as the reduction, cancellation or shielding of gravitational effects and argued that researchers had explored related concepts for decades. Rather than unveiling a new invention, the talk surveyed historical claims, theoretical ideas, military rumours, electrogravitic experiments and proposed gravity-modification research programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+In the presentation, Eskridge treated antigravity not as science fiction but as a legitimate area of inquiry. She defined antigravity broadly as the reduction, cancellation or shielding of gravitational effects and argued that researchers had explored related concepts for decades. Rather than unveiling a new invention, the talk surveyed historical claims, theoretical ideas, military rumours, electrogravitic experiments and proposed gravity-modification research programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
-A notable feature of the presentation is what it did not contain. There was no publicly demonstrated prototype, no published experimental data showing controlled antigravity effects, and no reproducible engineering result that could be independently verified by outside researchers. The presentation functioned primarily as a historical and conceptual overview rather than a technical disclosure of a successful device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+A notable feature of the presentation is what it did not contain. There was no publicly demonstrated prototype, no published experimental data showing controlled antigravity effects, and no reproducible engineering result that could be independently verified by outside researchers. The presentation functioned primarily as a historical and conceptual overview rather than a technical disclosure of a successful device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
-This matters because later online retellings often compress the distinction between “researching antigravity” and “having solved antigravity”. The surviving public materials support the first claim but not the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+This matters because later online retellings often compress the distinction between “researching antigravity” and “having solved antigravity”. The surviving public materials support the first claim but not the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H8lfH19tZbM" title="Amy Eskridge - Gravity Modification, Huntsville Alabama L5 Society" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H8lfH19tZbM" target="_blank" rel="noopener noreferrer">Amy Eskridge - Gravity Modification, Huntsville Alabama L5 Society</a></p><p class="youtube-embed-meta">Channel: Last Minute Lacey</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H8lfH19tZbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H8lfH19tZbM">Open on YouTube</a></p></div></div></div>
 
 ## The 2018 Antigravity Presentation
 
-The HAL5 slide deck remains the most important public document associated with Eskridge’s antigravity work. It presents antigravity research as a historical continuum stretching from early twentieth-century speculation through later [aerospace]({{ 'aerospace/' | relative_url }})-era investigations. The slides discuss gravity modification, electrogravitics, metamaterials, propulsion concepts and various figures associated with unconventional aerospace theories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The HAL5 slide deck remains the most important public document associated with Eskridge’s antigravity work. It presents antigravity research as a historical continuum stretching from early twentieth-century speculation through later [aerospace]({{ 'aerospace/' | relative_url }})-era investigations. The slides discuss gravity modification, electrogravitics, metamaterials, propulsion concepts and various figures associated with unconventional aerospace theories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 Several themes stand out:
 
@@ -301,11 +301,11 @@ Several themes stand out:
 
 * **Antigravity as an engineering challenge rather than a mystical phenomenon.** Eskridge framed the subject in technological terms and repeatedly suggested that gravity modification should be approached as a research problem.
 * **Interest in electrogravitics.** The presentation devoted attention to claims that high-voltage electrical systems might produce effects relevant to propulsion or gravity modification.
-* **Historical survey rather than experimental proof.** Much of the material reviewed earlier researchers, claims and programmes instead of presenting new results from her own laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+* **Historical survey rather than experimental proof.** Much of the material reviewed earlier researchers, claims and programmes instead of presenting new results from her own laboratory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 </div>
 
-The talk also helped establish the public image that later became attached to her name. Viewers encountered a young Huntsville-based researcher speaking confidently about gravity modification, advanced propulsion and exotic science at a venue connected to the local aerospace community. That image would later be reused in online narratives about allegedly suppressed technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The talk also helped establish the public image that later became attached to her name. Viewers encountered a young Huntsville-based researcher speaking confidently about gravity modification, advanced propulsion and exotic science at a venue connected to the local aerospace community. That image would later be reused in online narratives about allegedly suppressed technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TIVcbQtIiDQ" title="New! The Amy Eskridge Mystery: Breakthrough Science, and a Death That Raised Alarms, UAP News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TIVcbQtIiDQ" target="_blank" rel="noopener noreferrer">New! The Amy Eskridge Mystery: Breakthrough Science, and a Death That Raised Alarms, UAP News</a></p><p class="youtube-embed-meta">Channel: UAPtruth33</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TIVcbQtIiDQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TIVcbQtIiDQ">Open on YouTube</a></p></div></div></div>
@@ -314,19 +314,19 @@ The talk also helped establish the public image that later became attached to he
 
 Eskridge’s antigravity identity was not built solely on a single lecture. Public records show that she occupied leadership positions in organisations explicitly oriented toward unconventional propulsion and gravity-related research.
 
-The 2018 presentation identified her as CEO of HoloChron LLC while simultaneously serving as president of the Institute for Exotic Science. HoloChron was described as a public-benefit corporation working in areas such as quantum computing, gravity modification, metamaterial science and communications. The presentation also described the company as a Huntsville-based effort involving international collaborators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The 2018 presentation identified her as CEO of HoloChron LLC while simultaneously serving as president of the Institute for Exotic Science. HoloChron was described as a public-benefit corporation working in areas such as quantum computing, gravity modification, metamaterial science and communications. The presentation also described the company as a Huntsville-based effort involving international collaborators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
-The same materials highlighted a partnership with her father, Richard Eskridge, who was presented as HoloChron’s chief technology officer and identified as a retired NASA engineer and scientist. This connection contributed significantly to the credibility that supporters perceived in the project, particularly within aerospace and UFO-adjacent communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The same materials highlighted a partnership with her father, Richard Eskridge, who was presented as HoloChron’s chief technology officer and identified as a retired NASA engineer and scientist. This connection contributed significantly to the credibility that supporters perceived in the project, particularly within aerospace and UFO-adjacent communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
-The Institute for Exotic Science occupied a related role. Public descriptions portrayed it as an interdisciplinary organisation interested in propulsion, quantum gravity, advanced materials and other frontier research areas. HAL5’s event announcement referred to it as an international research institute specialising in propulsion and quantum-gravity-related topics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-title">program 2018 12.shtml</span><span class="citation-popover-snippet">HAL5 December 2018 ProgramIn this talk we will walk through the timeline of antigravity research and touch on modern efforts in this...</span><span class="citation-popover-meta">Published: December 2018</span></span></span>
+The Institute for Exotic Science occupied a related role. Public descriptions portrayed it as an interdisciplinary organisation interested in propulsion, quantum gravity, advanced materials and other frontier research areas. HAL5’s event announcement referred to it as an international research institute specialising in propulsion and quantum-gravity-related topics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-title">program 2018 12.shtml</span><span class="citation-popover-snippet">HAL5 December 2018 ProgramIn this talk we will walk through the timeline of antigravity research and touch on modern efforts in this...</span><span class="citation-popover-meta">Published: December 2018</span></span></span>
 
-Her obituary likewise described her as chairwoman and president of the Institute for Exotic Science and emphasised her broad scientific interests across multiple disciplines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">Eskridge Obituary (1987 - 2022) - Huntsville...She was also an astute entrepreneur as Chairwoman and President of The Institute for Exot...</span></span></span>
+Her obituary likewise described her as chairwoman and president of the Institute for Exotic Science and emphasised her broad scientific interests across multiple disciplines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obits.al.com">[Legacy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obits.al.com</span><span class="citation-popover-title">amy eskridge obituary</span><span class="citation-popover-snippet">Eskridge Obituary (1987 - 2022) - Huntsville...She was also an astute entrepreneur as Chairwoman and President of The Institute for Exot...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-2-dark.svg" | relative_url }}" alt="Eskridge Antigravity illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Claimed Research Identity Versus Proven Results
 
-The strongest conclusion supported by the public record is that Eskridge genuinely presented herself as an antigravity researcher and entrepreneur. Her organisational roles, public lectures, interviews and promotional materials consistently placed gravity modification and advanced propulsion at the centre of her professional identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5+2HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+The strongest conclusion supported by the public record is that Eskridge genuinely presented herself as an antigravity researcher and entrepreneur. Her organisational roles, public lectures, interviews and promotional materials consistently placed gravity modification and advanced propulsion at the centre of her professional identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 A different question is whether the public record demonstrates that she achieved a breakthrough.
 
@@ -340,7 +340,7 @@ Publicly available materials show:
 * Leadership of organisations devoted to exotic propulsion research.
 * Public advocacy for gravity-modification research.
 * Historical and theoretical presentations on antigravity concepts.
-* Collaboration with others interested in advanced aerospace technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5+2HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+* Collaboration with others interested in advanced aerospace technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 </div>
 
@@ -352,213 +352,213 @@ They do not clearly show:
 * A peer-reviewed demonstration of antigravity.
 * Independently replicated gravity-control experiments.
 * Publicly released technical data proving successful gravity modification.
-* A verified engineering system capable of cancelling or reducing gravity in the manner commonly implied by the term “antigravity”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+* A verified engineering system capable of cancelling or reducing gravity in the manner commonly implied by the term “antigravity”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 </div>
 
-This gap between aspiration and demonstration is often lost in later retellings. Some online discussions describe Eskridge as if she had already developed revolutionary propulsion technology. The surviving public evidence supports a more limited conclusion: she was a visible advocate for researching antigravity-related concepts and sought to build [institutions]({{ 'institutions/' | relative_url }}) around that pursuit, but the publicly documented record does not establish that she solved the problem or possessed a proven breakthrough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+This gap between aspiration and demonstration is often lost in later retellings. Some online discussions describe Eskridge as if she had already developed revolutionary propulsion technology. The surviving public evidence supports a more limited conclusion: she was a visible advocate for researching antigravity-related concepts and sought to build [institutions]({{ 'institutions/' | relative_url }}) around that pursuit, but the publicly documented record does not establish that she solved the problem or possessed a proven breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-3-dark.svg" | relative_url }}" alt="Eskridge Antigravity illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_amy_eskridge_case_af9cac_eskridge_antigravity_e18d74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Public Record Matters
 
-Within broader claims about suspicious deaths among UFO or antigravity researchers, Eskridge’s public record serves an important evidentiary function. It confirms that she was not an invented internet figure and that her interest in gravity modification was real, public and long-standing. Her leadership of HoloChron and the Institute for Exotic Science, combined with her 2018 antigravity presentation, provides a documented basis for describing her as an antigravity-focused researcher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5+2HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+Within broader claims about suspicious deaths among UFO or antigravity researchers, Eskridge’s public record serves an important evidentiary function. It confirms that she was not an invented internet figure and that her interest in gravity modification was real, public and long-standing. Her leadership of HoloChron and the Institute for Exotic Science, combined with her 2018 antigravity presentation, provides a documented basis for describing her as an antigravity-focused researcher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
-At the same time, those same documents place limits on what can be claimed. They show a researcher advocating and exploring unconventional propulsion ideas, not a publicly verified inventor of working antigravity technology. Understanding that distinction is essential when evaluating later narratives that portray her as the holder of a secret, proven breakthrough. The available public record substantiates the research identity; it does not substantiate the breakthrough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
+At the same time, those same documents place limits on what can be claimed. They show a researcher advocating and exploring unconventional propulsion ideas, not a publicly verified inventor of working antigravity technology. Understanding that distinction is essential when evaluating later narratives that portray her as the holder of a secret, proven breakthrough. The available public record substantiates the research identity; it does not substantiate the breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal5.org">[HAL5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal5.org</span><span class="citation-popover-snippet">A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8A6y2pI7NCY" title="The Outer Nexus - Space Force Moving to Huntsville, Amy Eskridge, and Hidden Anti-Gravity Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8A6y2pI7NCY" target="_blank" rel="noopener noreferrer">The Outer Nexus - Space Force Moving to Huntsville, Amy Eskridge, and Hidden Anti-Gravity Research</a></p><p class="youtube-embed-meta">Channel: The Outer Nexus Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8A6y2pI7NCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8A6y2pI7NCY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Eskridge Antigravity. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Eskridge Antigravity. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Covers aerospace, antigravity research claims, secrecy, and the broader context that makes Eskridge-related speculation commercially legi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers aerospace, antigravity research claims, secrecy, and the broader context that makes Eskridge-related speculation commercially legi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO-related claims become public controversies and media narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO-related claims become public controversies and media narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the social and cultural ecosystem surrounding advanced-technology and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the social and cultural ecosystem surrounding advanced-technology and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Divine Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K7NDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Divine Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Divine Mind">The Divine Mind</a>
-        </h4>
-        <p class="fr-book-author">By Michael Gellert</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Divine Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K7NDDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Divine Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Divine Mind">The Divine Mind</a>
+</h4>
+<p class="fr-book-author">By Michael Gellert</p>
         
-        <p class="fr-book-desc">Explains why disparate events become linked into larger conspiratorial frameworks such as dead-scientist narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why disparate events become linked into larger conspiratorial frameworks such as dead-scientist narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Divine+Mind+by+Michael+Gellert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eskridge-antigravity-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="eskridge-antigravity-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-eskridge-actually-claim-about-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-eskridge-actually-claim-about-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ At the same time, those same documents place limits on what can be claimed. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ At the same time, those same documents place limits on what can be claimed. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ At the same time, those same documents place limits on what can be claimed. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ At the same time, those same documents place limits on what can be claimed. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ At the same time, those same documents place limits on what can be claimed. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,110 +764,110 @@ At the same time, those same documents place limits on what can be claimed. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hal5.org  
-   Link: <a href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</p></details>
+   Link:<a href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A HISTORICAL PERSPECTIVE ON ANTI-GRAVITY...ANTI-GRAVITY. TECHNOLOGY. Amy Eskridge. President &gt;&gt; The Institute for Exotic Science. CE...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hal5.org  
    Title: program 2018 12.shtml  
-   Link: <a href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/program-2018-12.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL5 December 2018 ProgramIn this talk we will walk through the [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of antigravity research and touch on modern efforts in this...</p></details>
+   Link:<a href="https://www.hal5.org/program-2018-12.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/program-2018-12.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HAL5 December 2018 ProgramIn this talk we will walk through the [timeline](&amp;#123;&amp;#123; &#x27;timeline/&#x27; | relative_url &amp;#125;&amp;#125;) of antigravity research and touch on modern efforts in this...</p></details>
    Published: December 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hal5.org  
-   Link: <a href="https://www.hal5.org/events-history.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/events-history.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HAL5&#x27;s Events and Activities HistoryHAL5 monthly program on &quot;A Historical Perspective on Anti-Gravity Technology&quot; with Amy Eskridge, Pres...</p></details>
+   Link:<a href="https://www.hal5.org/events-history.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/events-history.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HAL5&#x27;s Events and Activities HistoryHAL5 monthly program on &quot;A Historical Perspective on Anti-Gravity Technology&quot; with Amy Eskridge, Pres...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legacy.com  
    Title: amy eskridge obituary  
-   Link: <a href="https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-obituary?id=35311909</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022)She was also an astute entrepreneur as Chairwoman and President of The Institute for Exotic Science in Huntsville, AL, which...</p></details>
+   Link:<a href="https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-obituary?id=35311909</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1987 - 2022)She was also an astute entrepreneur as Chairwoman and President of The Institute for Exotic Science in Huntsville, AL, which...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: legacy.com  
    Title: amy eskridge memorial  
-   Link: <a href="https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-memorial?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-memorial?id=35311909</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thank you for everything that you have done with Exotic Science and Anti gravity technology amongst...Read more...</p></details>
+   Link:<a href="https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-memorial?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy.com/us/obituaries/legacyremembers/amy-eskridge-memorial?id=35311909</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thank you for everything that you have done with Exotic Science and Anti gravity technology amongst...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: obits.al.com  
    Title: amy eskridge obituary  
-   Link: <a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eskridge Obituary (1987 - 2022) - Huntsville...She was also an astute entrepreneur as Chairwoman and President of The Institute for Exot...</p></details>
+   Link:<a href="https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909" target="_blank" rel="noopener noreferrer nofollow">https://obits.al.com/us/obituaries/huntsville/name/amy-eskridge-obituary?id=35311909</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eskridge Obituary (1987 - 2022) - Huntsville...She was also an astute entrepreneur as Chairwoman and President of The Institute for Exot...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arabheritagememorialchapel.com  
    Title: Amy Eskridge  
-   Link: <a href="https://www.arabheritagememorialchapel.com/m/obituaries/Amy-Eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/Amy-Eskridge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Catherine Eskridge ObituaryJun 11, 2022 — Amy Catherine Eskridge went to her eternal rest in the Lord on Saturday, June 11, 2022. At...</p></details>
+   Link:<a href="https://www.arabheritagememorialchapel.com/m/obituaries/Amy-Eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/Amy-Eskridge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Catherine Eskridge ObituaryJun 11, 2022 — Amy Catherine Eskridge went to her eternal rest in the Lord on Saturday, June 11, 2022. At...</p></details>
    Published: June 11, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Amy Eskridge  
-   Link: <a href="https://www.youtube.com/watch?v=H8lfH19tZbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H8lfH19tZbM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=H8lfH19tZbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H8lfH19tZbM</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: x.com  
-   Link: <a href="https://x.com/DanteTheDon/status/2045104847079522695?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DanteTheDon/status/2045104847079522695?lang=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge Mystery ThreadThe anti-gravity propulsion researcher claimed antigravity has been discovered 4 different times. And each tim...</p></details>
+   Link:<a href="https://x.com/DanteTheDon/status/2045104847079522695?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DanteTheDon/status/2045104847079522695?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge Mystery ThreadThe anti-gravity propulsion researcher claimed antigravity has been discovered 4 different times. And each tim...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Thumars/the-silenced-spark-dr-amy-eskridges-final-stand-against-the-gravity-of-secrets-45754220d16f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Thumars/the-silenced-spark-dr-amy-eskridges-final-stand-against-the-gravity-of-secrets-45754220d16f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge&#x27;s Final Stand Against the Gravity of SecretsThis is the story of Dr. Amy Catherine Eskridge, the 34-year-old physicist whose...</p></details>
+   Link:<a href="https://medium.com/%40Thumars/the-silenced-spark-dr-amy-eskridges-final-stand-against-the-gravity-of-secrets-45754220d16f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Thumars/the-silenced-spark-dr-amy-eskridges-final-stand-against-the-gravity-of-secrets-45754220d16f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge&#x27;s Final Stand Against the Gravity of SecretsThis is the story of Dr. Amy Catherine Eskridge, the 34-year-old physicist whose...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unanswered Death of Amy Eskridge: Inside the Anti-...In December 2018, the local space society HAL5 hosted her lecture A Historical...</p></details>
+   Link:<a href="https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/the-unanswered-death-of-amy-eskridge-inside-the-anti-gravity-mystery-47894aa4d548</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unanswered Death of Amy Eskridge: Inside the Anti-...In December 2018, the local space society HAL5 hosted her lecture A Historical...</p></details>
    Published: December 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
    Title: The Triumvirate of UAP Truth, Russians, and Deadly LARPRs Eskridge, Amy. (  
-   Link: <a href="https://medium.com/%40courtneystrum/the-triumvirate-of-uap-truth-russians-and-deadly-larprs-d73f67ceec32" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40courtneystrum/the-triumvirate-of-uap-truth-russians-and-deadly-larprs-d73f67ceec32</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Triumvirate of UAP Truth, Russians, and Deadly LARPRsEskridge, Amy. (December 6, 2018). A Historical Perspective on Anti-Gravity Tech...</p></details>
+   Link:<a href="https://medium.com/%40courtneystrum/the-triumvirate-of-uap-truth-russians-and-deadly-larprs-d73f67ceec32" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40courtneystrum/the-triumvirate-of-uap-truth-russians-and-deadly-larprs-d73f67ceec32</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Triumvirate of UAP Truth, Russians, and Deadly LARPRsEskridge, Amy. (December 6, 2018). A Historical Perspective on Anti-Gravity Tech...</p></details>
    Published: December 6, 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/anti-gravity-technology-scientist-amy-eskridge-died-on-on-june-11-2022-at-the-ag/1397211859119223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/anti-gravity-technology-scientist-amy-eskridge-died-on-on-june-11-2022-at-the-ag/1397211859119223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She was also the chair and president of the Institute for Exotic Science in Huntsville...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CollectiveEvolutionPage/posts/anti-gravity-technology-scientist-amy-eskridge-died-on-on-june-11-2022-at-the-ag/1397211859119223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/anti-gravity-technology-scientist-amy-eskridge-died-on-on-june-11-2022-at-the-ag/1397211859119223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She was also the chair and president of the Institute for Exotic Science in Huntsville...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forum.hackliberty.org  
    Title: dr amy eskridge the death of a promising anti gravity researcher  
-   Link: <a href="https://forum.hackliberty.org/t/dr-amy-eskridge-the-death-of-a-promising-anti-gravity-researcher/130" target="_blank" rel="noopener noreferrer nofollow">https://forum.hackliberty.org/t/dr-amy-eskridge-the-death-of-a-promising-anti-gravity-researcher/130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMY ESKRIDGE: The DEATH of a promising ANTI-...22 May 2024 — Following her December, 2018 HAL5 conference presentation Dr. Amy Eskridge...</p></details>
+   Link:<a href="https://forum.hackliberty.org/t/dr-amy-eskridge-the-death-of-a-promising-anti-gravity-researcher/130" target="_blank" rel="noopener noreferrer nofollow">https://forum.hackliberty.org/t/dr-amy-eskridge-the-death-of-a-promising-anti-gravity-researcher/130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMY ESKRIDGE: The DEATH of a promising ANTI-...22 May 2024 — Following her December, 2018 HAL5 conference presentation Dr. Amy Eskridge...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skeptic.com  
    Title: the mystery of missing and dead scientists explained  
-   Link: <a href="https://www.skeptic.com/article/the-mystery-of-missing-and-dead-scientists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-mystery-of-missing-and-dead-scientists-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Missing and Dead Scientists, Explained25 Apr 2026 — One of the eleven scientists, for example, Amy Eskridge, who was presi...</p></details>
+   Link:<a href="https://www.skeptic.com/article/the-mystery-of-missing-and-dead-scientists-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-mystery-of-missing-and-dead-scientists-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Missing and Dead Scientists, Explained25 Apr 2026 — One of the eleven scientists, for example, Amy Eskridge, who was presi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spreaker.com  
    Title: anti gravity researcher amy eskridge they were watching me 71769849  
-   Link: <a href="https://www.spreaker.com/episode/anti-gravity-researcher-amy-eskridge-they-were-watching-me--71769849" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/anti-gravity-researcher-amy-eskridge-they-were-watching-me--71769849</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And a spiral into fear that ended in tragedy. In this episode, we dive into the unsettling story of Amy...Read more...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/anti-gravity-researcher-amy-eskridge-they-were-watching-me--71769849" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/anti-gravity-researcher-amy-eskridge-they-were-watching-me--71769849</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And a spiral into fear that ended in tragedy. In this episode, we dive into the unsettling story of Amy...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cybernews.com  
    Title: A scientist said, “I did not kill myself,” and died  
-   Link: <a href="https://cybernews.com/news/plasma-science-ufo-uap-classified/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/plasma-science-ufo-uap-classified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI...23 Apr 2026 — On June 11th, 2022, Amy Eskridge, a 34‑year‑old scientist working on anti‑gravity technology, was found dead in Hunt...</p></details>
+   Link:<a href="https://cybernews.com/news/plasma-science-ufo-uap-classified/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/plasma-science-ufo-uap-classified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI...23 Apr 2026 — On June 11th, 2022, Amy Eskridge, a 34‑year‑old scientist working on anti‑gravity technology, was found dead in Hunt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brobible.com  
    Title: scientist 11th person secret research missing die  
-   Link: <a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are So Many Scientists And Researchers Missing Or...Apr 17, 2026 — Eskridge and her father gave a presentation in 2018 detailing bot...</p></details>
+   Link:<a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are So Many Scientists And Researchers Missing Or...Apr 17, 2026 — Eskridge and her father gave a presentation in 2018 detailing bot...</p></details>

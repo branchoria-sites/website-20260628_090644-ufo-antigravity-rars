@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27-over
 
 ## Introduction
 
-Antigravity researchers occupy a special place in the UFO “suspicious deaths” rumour network because they appear to sit closest to the imagined prize: not just knowledge of unusual objects, but the physics that might make them fly. The strongest public evidence shows something more limited. A handful of real people — especially Ning Li, Eugene Podkletnov, Thomas Townsend Brown and, more recently, [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}) — became symbols because their work touched exotic propulsion, [superconductors]({{ 'superconductors/' | relative_url }}), high voltage effects or “gravity control”. Their names are repeatedly used to imply hidden technology and suppression. Yet the documented record supports a more cautious reading: unusual research existed, some of it attracted government or aerospace attention, and some researchers later disappeared from public view, but public evidence does not prove that their deaths or absences form a coordinated silencing campaign. AP’s 2026 review of the wider “missing scientists” narrative found no evidence definitively linking the cases or establishing coordinated foul play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
+Antigravity researchers occupy a special place in the UFO “suspicious deaths” rumour network because they appear to sit closest to the imagined prize: not just knowledge of unusual objects, but the physics that might make them fly. The strongest public evidence shows something more limited. A handful of real people — especially Ning Li, Eugene Podkletnov, Thomas Townsend Brown and, more recently, [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}) — became symbols because their work touched exotic propulsion, [superconductors]({{ 'superconductors/' | relative_url }}), high voltage effects or “gravity control”. Their names are repeatedly used to imply hidden technology and suppression. Yet the documented record supports a more cautious reading: unusual research existed, some of it attracted government or aerospace attention, and some researchers later disappeared from public view, but public evidence does not prove that their deaths or absences form a coordinated silencing campaign. AP’s 2026 review of the wider “missing scientists” narrative found no evidence definitively linking the cases or establishing coordinated foul play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27-overview.webp" | relative_url }}" alt="Overview image for Antigravity" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,7 +455,7 @@ Antigravity researchers occupy a special place in the UFO “suspicious deaths�
 
 In UFO death-rumour narratives, an “antigravity researcher” is not treated like a conventional [aerospace]({{ 'aerospace/' | relative_url }}) engineer. The title suggests someone who might have crossed from speculation into mechanism: gravity shielding, electrogravitics, superconducting propulsion, vacuum energy or field effects. That is why these cases feel different from ordinary UAP witness stories. A witness might have seen something; an antigravity researcher is imagined to have known how it worked.
 
-There is a real basis for the fascination. U.S. government documents released through the Defense Intelligence Agency show that “Antigravity for Aerospace Applications” and “The Role of Superconductors in Gravity Research” were among Advanced Aerospace Weapon System Applications reports produced in the late 2000s. The antigravity report framed the subject as an aerospace question involving Newtonian, relativistic and quantum concepts, while the superconductors report described a historical search for laboratory-scale manipulation of gravity using high-temperature superconductors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
+There is a real basis for the fascination. U.S. government documents released through the Defense Intelligence Agency show that “Antigravity for Aerospace Applications” and “The Role of Superconductors in Gravity Research” were among Advanced Aerospace Weapon System Applications reports produced in the late 2000s. The antigravity report framed the subject as an aerospace question involving Newtonian, relativistic and quantum concepts, while the superconductors report described a historical search for laboratory-scale manipulation of gravity using high-temperature superconductors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
 
 That official paper trail is important, but it is often stretched too far. A government report on speculative aerospace concepts is evidence of interest, not evidence of a working craft or a murder motive. The gap between “someone studied this” and “someone was killed for it” is the gap where the rumour network does most of its work.
 
@@ -465,11 +465,11 @@ That official paper trail is important, but it is often stretched too far. A gov
 
 [Ning Li]({{ 'ning-li/' | relative_url }}) is the central figure because her public record contains several elements that conspiracy narratives prize: peer-reviewed physics, NASA-linked work, a private company, a U.S. Department of Defense grant, an apparent withdrawal from publication, and a later death after years out of public view.
 
-In the early 1990s, Li and Douglas Torr published theoretical work on possible gravitomagnetic effects in superconductors. Their 1991 Physical Review D paper examined how a pure superconductor might affect external gravitomagnetic and magnetic fields; later work explored whether superconductors could couple to gravitational effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.aps.org/doi/10.1103/PhysRevD.43.457" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-title">Phys Rev D.43.457</span><span class="citation-popover-snippet">Phys Rev D.43.457</span></span></span> The key point is not that these papers proved practical antigravity. They did not. Their importance in the rumour network is that they gave the subject a technical vocabulary: superconductors, gravitomagnetism, YBCO ceramics and laboratory measurement.
+In the early 1990s, Li and Douglas Torr published theoretical work on possible gravitomagnetic effects in superconductors. Their 1991 Physical Review D paper examined how a pure superconductor might affect external gravitomagnetic and magnetic fields; later work explored whether superconductors could couple to gravitational effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.aps.org/doi/10.1103/PhysRevD.43.457" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-title">Phys Rev D.43.457</span><span class="citation-popover-snippet">Phys Rev D.43.457</span></span></span> The key point is not that these papers proved practical antigravity. They did not. Their importance in the rumour network is that they gave the subject a technical vocabulary: superconductors, gravitomagnetism, YBCO ceramics and laboratory measurement.
 
-The public experimental record is more restrained. A 1997 paper involving Li, David Noever and colleagues, listed in NASA’s Technical Reports Server, tested for a gravitational force coupled to type II YBCO superconductors. The result measured changes in acceleration of less than two parts in 10^8 of normal gravity, setting new limits on the proposed effect rather than confirming a useful antigravity force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The public experimental record is more restrained. A 1997 paper involving Li, David Noever and colleagues, listed in NASA’s Technical Reports Server, tested for a gravitational force coupled to type II YBCO superconductors. The result measured changes in acceleration of less than two parts in 10^8 of normal gravity, setting new limits on the proposed effect rather than confirming a useful antigravity force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The mystery element grew after Li left the University of Alabama in Huntsville and founded [AC Gravity]({{ 'ac-gravity/' | relative_url }}). A Huntsville Business Journal account reported that she founded AC Gravity in 1999, that UAH physics chair Larry Smalley joined her, and that the Department of Defense awarded AC Gravity $448,970 in 2001; it also reported that the grant results were never published and that her public trail became sparse after a 2003 MITRE presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Open source on huntsvillebusinessjournal.com.</span></span></span> Her obituary says she died on 27 July 2021 and describes her as a leading scientist in superconductivity antigravity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[Berryhill Funeral Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">ning li</span></span></span>
+The mystery element grew after Li left the University of Alabama in Huntsville and founded [AC Gravity]({{ 'ac-gravity/' | relative_url }}). A Huntsville Business Journal account reported that she founded AC Gravity in 1999, that UAH physics chair Larry Smalley joined her, and that the Department of Defense awarded AC Gravity $448,970 in 2001; it also reported that the grant results were never published and that her public trail became sparse after a 2003 MITRE presentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Open source on huntsvillebusinessjournal.com.</span></span></span> Her obituary says she died on 27 July 2021 and describes her as a leading scientist in superconductivity antigravity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[Berryhill Funeral Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">ning li</span></span></span>
 
 This is why Li’s case is powerful in online retellings: it contains a real research arc followed by real opacity. But opacity is not the same as proof of foul play. The strongest supported version is that Li did technically unusual work, some of it publicly funded, and later stopped publishing. The more dramatic claims — that she vanished into a black programme, was silenced, or held operational antigravity secrets — remain unproven in the public record.
 
@@ -477,9 +477,9 @@ This is why Li’s case is powerful in online retellings: it contains a real res
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27-Illustration-1-dark.svg" | relative_url }}" alt="Antigravity illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_antigravity_network_2baa27-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Eugene Podkletnov: the claim that made superconductors feel dangerous
 
-Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }})’s role is different. He is not usually framed as a death case, but as the experimental trigger for the superconducting antigravity mythos. In the 1990s, Podkletnov claimed that a rotating YBCO superconductor produced gravitational shielding, with test objects above the apparatus losing a small percentage of weight. His 1997 arXiv paper described reported weight losses initially around 0.3–0.5%, rising as high as 1.9–2.1% under certain conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/cond-mat/9701074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }})’s role is different. He is not usually framed as a death case, but as the experimental trigger for the superconducting antigravity mythos. In the 1990s, Podkletnov claimed that a rotating YBCO superconductor produced gravitational shielding, with test objects above the apparatus losing a small percentage of weight. His 1997 arXiv paper described reported weight losses initially around 0.3–0.5%, rising as high as 1.9–2.1% under certain conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/cond-mat/9701074" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Wired’s 1998 investigation captured why the story spread so widely: Podkletnov’s withdrawn paper, the reaction from his university, NASA interest in replication, and the sense that respectable institutions were reluctantly touching a forbidden subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/1998/03/antigravity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Breaking the Law of Gravity</span><span class="citation-popover-snippet">Breaking the Law of Gravity</span></span></span> The story became a template for later antigravity rumours: a startling measurement, institutional discomfort, partial replication attempts, and then a retreat from public certainty.
+Wired’s 1998 investigation captured why the story spread so widely: Podkletnov’s withdrawn paper, the reaction from his university, NASA interest in replication, and the sense that respectable institutions were reluctantly touching a forbidden subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/1998/03/antigravity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Breaking the Law of Gravity</span><span class="citation-popover-snippet">Breaking the Law of Gravity</span></span></span> The story became a template for later antigravity rumours: a startling measurement, institutional discomfort, partial replication attempts, and then a retreat from public certainty.
 
 Yet Podkletnov also shows why the antigravity death-rumour network often confuses controversy with suppression. Scientific controversy can derail a career without requiring a hidden assassination plot. In this case, the public dispute centred on reproducibility, measurement artefacts, withdrawn publication and institutional embarrassment — all ordinary, if painful, mechanisms in fringe-adjacent science.
 
@@ -487,7 +487,7 @@ Yet Podkletnov also shows why the antigravity death-rumour network often confuse
 
 Thomas Townsend Brown is the older ancestor of the network. Brown’s high-voltage asymmetric capacitor experiments produced what became known as the Biefeld-Brown effect, which he interpreted in terms of electrogravitics. Later hobbyist “lifters” made the idea visually memorable: lightweight frames of wire and foil rising under high voltage, looking uncannily like primitive antigravity craft.
 
-Modern analyses generally do not support Brown’s antigravity interpretation. A 2010 analysis of the Biefeld-Brown effect notes that many internet speculations describe it as antigravitation or space-warp physics, but that more recent researchers increasingly attribute the force to ion wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv An analysis of the Brown-Biefeld effect</span><span class="citation-popover-snippet">arXiv An analysis of the Brown-Biefeld effect</span></span></span> Wired’s account of the lifter subculture likewise found that enthusiasts treated the devices as antigravity clues, while sceptics argued that the thrust came from ionised air rather than gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2003/08/pwr-antigravity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The Super Power Issue The Antigravity Underground</span><span class="citation-popover-snippet">The Super Power Issue The Antigravity Underground</span></span></span>
+Modern analyses generally do not support Brown’s antigravity interpretation. A 2010 analysis of the Biefeld-Brown effect notes that many internet speculations describe it as antigravitation or space-warp physics, but that more recent researchers increasingly attribute the force to ion wind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv An analysis of the Brown-Biefeld effect</span><span class="citation-popover-snippet">arXiv An analysis of the Brown-Biefeld effect</span></span></span> Wired’s account of the lifter subculture likewise found that enthusiasts treated the devices as antigravity clues, while sceptics argued that the thrust came from ionised air rather than gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2003/08/pwr-antigravity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The Super Power Issue The Antigravity Underground</span><span class="citation-popover-snippet">The Super Power Issue The Antigravity Underground</span></span></span>
 
 Brown matters here because he supplies the mythic continuity. He died in 1985 and is not a modern suspicious-death case in the same way Li or Eskridge are invoked. But his name gives the network a lineage: electrogravitics in the early twentieth century, superconducting claims in the 1990s, post-2000 defence documents, and recent social-media claims about missing scientists.
 
@@ -496,7 +496,7 @@ Brown matters here because he supplies the mythic continuity. He died in 1985 an
 
 ### Amy Eskridge: why a recent tragedy was pulled into the antigravity frame
 
-Amy Eskridge entered the rumour network because she was young, associated with Huntsville, linked in public memory to exotic science and antigravity discussion, and died in 2022. Her obituary records that she was born on 19 September 1987 and died on 11 June 2022 at age 34; it also describes her as having co-founded the Institute for Exotic Science in Huntsville. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabheritagememorialchapel.com">[Arab Heritage Memorial Chapel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabheritagememorialchapel.com</span><span class="citation-popover-title">Arab Heritage Memorial Chapel Ms. Amy Catherine Eskridge Obituary</span><span class="citation-popover-snippet">Arab Heritage Memorial Chapel Ms. Amy Catherine Eskridge Obituary</span></span></span>
+Amy Eskridge entered the rumour network because she was young, associated with Huntsville, linked in public memory to exotic science and antigravity discussion, and died in 2022. Her obituary records that she was born on 19 September 1987 and died on 11 June 2022 at age 34; it also describes her as having co-founded the Institute for Exotic Science in Huntsville.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabheritagememorialchapel.com">[Arab Heritage Memorial Chapel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabheritagememorialchapel.com</span><span class="citation-popover-title">Arab Heritage Memorial Chapel Ms. Amy Catherine Eskridge Obituary</span><span class="citation-popover-snippet">Arab Heritage Memorial Chapel Ms. Amy Catherine Eskridge Obituary</span></span></span>
 
 Her case illustrates how quickly a personal tragedy can be absorbed into a broader pattern. In 2026, as public attention grew around dead or missing scientists, antigravity references around Eskridge were used to connect her to the same narrative orbit as Li and other advanced-technology figures. The evidentiary problem is that the antigravity association does not itself establish a motive, a perpetrator or a link to other cases. It makes the story feel connected; it does not prove that it is connected.
 
@@ -508,9 +508,9 @@ The ethical problem is just as important. Death-rumour networks often treat fami
 
 The antigravity rumour network survives because the underlying physics is neither ordinary nor entirely fictional. Superconductors, gravitomagnetism, high-voltage propulsion, vacuum energy and exotic aerospace concepts all have legitimate technical meanings. They also sit close enough to science fiction to invite overinterpretation.
 
-The Defense Intelligence Agency’s superconductors report is a good example of this ambiguity. It says superconductors made laboratory gravity-control speculation more tempting because high-temperature ceramic superconductors gave researchers large, experimentally useful macroscopic quantum systems. It also stresses the need to exclude artefacts — the mundane measurement errors, environmental effects and experimental confounders that can mimic extraordinary forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
+The Defense Intelligence Agency’s superconductors report is a good example of this ambiguity. It says superconductors made laboratory gravity-control speculation more tempting because high-temperature ceramic superconductors gave researchers large, experimentally useful macroscopic quantum systems. It also stresses the need to exclude artefacts — the mundane measurement errors, environmental effects and experimental confounders that can mimic extraordinary forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">File Id</span></span></span>
 
-The same ambiguity appears in the Li-Podkletnov thread. Podkletnov reported large enough weight changes to excite believers; Li and colleagues ran a static test and reported limits rather than confirmation. NASA’s record of the 1997 test is therefore not a suppressed proof of antigravity. It is a public example of how extraordinary claims entered a formal test environment and did not emerge as a practical propulsion breakthrough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The same ambiguity appears in the Li-Podkletnov thread. Podkletnov reported large enough weight changes to excite believers; Li and colleagues ran a static test and reported limits rather than confirmation. NASA’s record of the 1997 test is therefore not a suppressed proof of antigravity. It is a public example of how extraordinary claims entered a formal test environment and did not emerge as a practical propulsion breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That tension is exactly what makes these names sticky. If the science were obviously impossible to everyone, the rumours would have less traction. If it were openly confirmed, it would not need rumours. Instead, the public record contains partial signals: speculative defence reports, unusual academic papers, inconclusive tests, withdrawn claims, vanished publications and occasional personal tragedy.
 
@@ -532,7 +532,7 @@ Several warning signs appear repeatedly:
 
 </div>
 
-The wider 2026 missing-scientists narrative shows the same problem. AP reported that the story had moved from niche online communities into federal attention, but also that no evidence had been found definitively linking the deaths and disappearances or establishing coordinated foul play. Its reporting also noted that some cases on [the list]({{ 'the-list/' | relative_url }}) had conventional investigative explanations or known suspects, while others remained unresolved for reasons that did not point clearly to a shared plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
+The wider 2026 missing-scientists narrative shows the same problem. AP reported that the story had moved from niche online communities into federal attention, but also that no evidence had been found definitively linking the deaths and disappearances or establishing coordinated foul play. Its reporting also noted that some cases on [the list]({{ 'the-list/' | relative_url }}) had conventional investigative explanations or known suspects, while others remained unresolved for reasons that did not point clearly to a shared plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SUeQWs1vWDw" title="The Ning Li Disappearance | Noah Logan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SUeQWs1vWDw" target="_blank" rel="noopener noreferrer">The Ning Li Disappearance | Noah Logan</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SUeQWs1vWDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SUeQWs1vWDw">Open on YouTube</a></p></div></div></div>
@@ -550,194 +550,194 @@ The reader’s safest distinction is this: documented antigravity interest is re
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Antigravity Cases Feel Different. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Antigravity Cases Feel Different. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly examines antigravity narratives, aerospace secrecy claims, and the gap between evidence and speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines antigravity narratives, aerospace secrecy claims, and the gap between evidence and speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for how extraordinary aerospace claims become public mysteries without requiring conspiracy conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how extraordinary aerospace claims become public mysteries without requiring conspiracy conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores the distinction between intriguing cases and proven explanations, matching the article&#x27;s cautionary theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the distinction between intriguing cases and proven explanations, matching the article&#x27;s cautionary theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-why-antigravity-cases-feel-different-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ The reader’s safest distinction is this: documented antigravity interest is re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ The reader’s safest distinction is this: documented antigravity interest is re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ The reader’s safest distinction is this: documented antigravity interest is re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ The reader’s safest distinction is this: documented antigravity interest is re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ The reader’s safest distinction is this: documented antigravity interest is re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,170 +943,170 @@ The reader’s safest distinction is this: documented antigravity interest is re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.aps.org  
    Title: Phys Rev D.43.457  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevD.43.457" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevD.43.457</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevD.43.457" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevD.43.457</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/cond-mat/9701074" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/cond-mat/9701074</a>  
+   Link:<a href="https://arxiv.org/abs/cond-mat/9701074" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/cond-mat/9701074</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: Breaking the Law of Gravity  
-   Link: <a href="https://www.wired.com/1998/03/antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/03/antigravity</a>  
+   Link:<a href="https://www.wired.com/1998/03/antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/03/antigravity</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv An analysis of the Brown-Biefeld effect  
-   Link: <a href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1011.1393</a>  
+   Link:<a href="https://arxiv.org/abs/1011.1393" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1011.1393</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: The Super Power Issue The Antigravity Underground  
-   Link: <a href="https://www.wired.com/2003/08/pwr-antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2003/08/pwr-antigravity</a>  
+   Link:<a href="https://www.wired.com/2003/08/pwr-antigravity" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2003/08/pwr-antigravity</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990046249/downloads/19990046249.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unpublished.ca  
    Title: Missing Scientists, Fusion and Gravity  
-   Link: <a href="https://unpublished.ca/opinion/missing-scientists-fusion-and-gravity-investigating-the-jeffrey-epstein-connection" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/missing-scientists-fusion-and-gravity-investigating-the-jeffrey-epstein-connection</a>  
+   Link:<a href="https://unpublished.ca/opinion/missing-scientists-fusion-and-gravity-investigating-the-jeffrey-epstein-connection" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/missing-scientists-fusion-and-gravity-investigating-the-jeffrey-epstein-connection</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unpublished.ca  
    Title: Disappearance of Physicists  
-   Link: <a href="https://unpublished.ca/opinion/disappearance-of-physicists" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/disappearance-of-physicists</a>  
+   Link:<a href="https://unpublished.ca/opinion/disappearance-of-physicists" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/disappearance-of-physicists</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unpublished.ca  
-   Link: <a href="https://unpublished.ca/sites/default/files/letter/263060/NL%203-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/sites/default/files/letter/263060/NL%203-3.pdf</a>  
+   Link:<a href="https://unpublished.ca/sites/default/files/letter/263060/NL%203-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/sites/default/files/letter/263060/NL%203-3.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
    Title: hep th  
-   Link: <a href="https://arxiv.org/pdf/hep-th/0307225" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/hep-th/0307225</a>  
+   Link:<a href="https://arxiv.org/pdf/hep-th/0307225" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/hep-th/0307225</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/1004.0810v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v4</a>  
+   Link:<a href="https://arxiv.org/html/1004.0810v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v4</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/1004.0810v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v3</a>  
+   Link:<a href="https://arxiv.org/html/1004.0810v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/1004.0810v3</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SSs-GI75nF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SSs-GI75nF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gravity Control - Interview with Eugene Podkletnov (2004)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SSs-GI75nF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SSs-GI75nF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gravity Control - Interview with Eugene Podkletnov (2004)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Gravity Control  
-   Link: <a href="https://www.youtube.com/watch?v=1N8Og_7JnXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1N8Og_7JnXo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov - [Gravity Modification](&amp;#123;&amp;#123; &#x27;gravity-leap/&#x27; | relative_url &amp;#125;&amp;#125;) 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1N8Og_7JnXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1N8Og_7JnXo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Podkletnov - [Gravity Modification](&amp;#123;&amp;#123; &#x27;gravity-leap/&#x27; | relative_url &amp;#125;&amp;#125;) 2025...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Eugene Podkletnov  
-   Link: <a href="https://www.youtube.com/watch?v=Ol3K_mXhJ9U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ol3K_mXhJ9U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T. Townsend Brown - Out From Behind The Curtain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ol3K_mXhJ9U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ol3K_mXhJ9U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T. Townsend Brown - Out From Behind The Curtain...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
    Title: AP News Conspiracy theories about missing or dead scientists boil over | AP News  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: huntsvillebusinessjournal.com  
-   Link: <a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
+   Link:<a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: berryhillfh.com  
    Title: ning li  
-   Link: <a href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow">https://www.berryhillfh.com/obituaries/ning-li</a>  
+   Link:<a href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow">https://www.berryhillfh.com/obituaries/ning-li</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: arabheritagememorialchapel.com  
    Title: Arab Heritage Memorial Chapel Ms. Amy Catherine Eskridge Obituary  
-   Link: <a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
+   Link:<a href="https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://www.arabheritagememorialchapel.com/m/obituaries/amy-eskridge/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Thomas Townsend Brown  
-   Link: <a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Thomas_Townsend_Brown" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Thomas_Townsend_Brown</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
+   Link:<a href="https://encyclopedia.pub/entry/38829" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/38829</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The disappearance of America's leading anti-gravity researcher  
-   Link: <a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened to Amy Eskridge? | Anti-Gravity, Exotic Science, and Conspiracy Theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened to Amy Eskridge? | Anti-Gravity, Exotic Science, and Conspiracy Theories...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: x.com  
-   Link: <a href="https://x.com/md_deepesh/status/2066491159300526356" target="_blank" rel="noopener noreferrer nofollow">https://x.com/md_deepesh/status/2066491159300526356</a>  
+   Link:<a href="https://x.com/md_deepesh/status/2066491159300526356" target="_blank" rel="noopener noreferrer nofollow">https://x.com/md_deepesh/status/2066491159300526356</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/videos/gravitas-the-number-of-missing-or-dead-us-scientists-since-2022-has-surged-to-11/957832263651016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/gravitas-the-number-of-missing-or-dead-us-scientists-since-2022-has-surged-to-11/957832263651016/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/videos/gravitas-the-number-of-missing-or-dead-us-scientists-since-2022-has-surged-to-11/957832263651016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/gravitas-the-number-of-missing-or-dead-us-scientists-since-2022-has-surged-to-11/957832263651016/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field</a>  
+   Link:<a href="https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237638377_Explanation_of_dynamical_Biefeld-Brown_Effect_from_the_standpoint_of_ZPF_field</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust</a>  
+   Link:<a href="https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/143954665/Reality_and_Ramifications_of_Biefeld_Brown_Effect_Enigmatic_Thrust</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers</a>  
+   Link:<a href="https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354521867_A_simple_investigation_of_Static_test_for_a_gravitational_force_coupled_to_type_II_YBCO_superconductors_by_Li_and_coworkers</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: hiroko.or.jp  
-   Link: <a href="https://hiroko.or.jp/wp-content/file/gravity-control/Gravitational%20shielding/ShieldingBySuperconductivity/General%20remarks/803-page-Collection-of-Papers-on-Anti-Gravity-Research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hiroko.or.jp/wp-content/file/gravity-control/Gravitational%20shielding/ShieldingBySuperconductivity/General%20remarks/803-page-Collection-of-Papers-on-Anti-Gravity-Research.pdf</a>  
+   Link:<a href="https://hiroko.or.jp/wp-content/file/gravity-control/Gravitational%20shielding/ShieldingBySuperconductivity/General%20remarks/803-page-Collection-of-Papers-on-Anti-Gravity-Research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hiroko.or.jp/wp-content/file/gravity-control/Gravitational%20shielding/ShieldingBySuperconductivity/General%20remarks/803-page-Collection-of-Papers-on-Anti-Gravity-Research.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: hal5.org  
-   Link: <a href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf</a>  
+   Link:<a href="https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hal5.org/PDF/HAL5-Dec2018-Talk-AntiGravity.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/A-possibility-of-gravitational-force-shielding-by-Podkletnov-Nieminen/8496630cef362d2ef116539bc5d9baf8ba9d032b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-possibility-of-gravitational-force-shielding-by-Podkletnov-Nieminen/8496630cef362d2ef116539bc5d9baf8ba9d032b</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/A-possibility-of-gravitational-force-shielding-by-Podkletnov-Nieminen/8496630cef362d2ef116539bc5d9baf8ba9d032b" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-possibility-of-gravitational-force-shielding-by-Podkletnov-Nieminen/8496630cef362d2ef116539bc5d9baf8ba9d032b</a>  

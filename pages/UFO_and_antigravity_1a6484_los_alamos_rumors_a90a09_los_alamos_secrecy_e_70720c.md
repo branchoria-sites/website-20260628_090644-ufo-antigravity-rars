@@ -284,13 +284,13 @@ Within stories about UFO research, antigravity projects, and allegedly suspiciou
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-1-dark.svg" | relative_url }}" alt="Secrecy Effect illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism matters because Los Alamos is not merely rumoured to handle secrets—it demonstrably does. Founded as the Manhattan Project's wartime laboratory, it remains a major centre for nuclear-weapons design, stockpile stewardship, and other national-security missions. The existence of real classified work makes speculation easier to sustain, even when no direct evidence connects a particular event to UFOs, exotic propulsion, or the silencing of researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
+This mechanism matters because Los Alamos is not merely rumoured to handle secrets—it demonstrably does. Founded as the Manhattan Project's wartime laboratory, it remains a major centre for nuclear-weapons design, stockpile stewardship, and other national-security missions. The existence of real classified work makes speculation easier to sustain, even when no direct evidence connects a particular event to UFOs, exotic propulsion, or the silencing of researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
 
 ## Institutional Secrecy Versus Specific Motive
 
 The central mechanism is a common reasoning error: people often move from "this institution keeps secrets" to "therefore this specific mystery is probably one of those secrets."
 
-At Los Alamos, the first part is unquestionably true. The laboratory emerged from a top-secret weapons programme and continues to maintain extensive classified collections and restricted research infrastructure. Its National Security Research Center functions as a classified archive containing millions of records related to nuclear weapons and national-security science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: certifiedarchivists.org">[certifiedarchivists.org+2Descriptive Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">certifiedarchivists.org</span><span class="citation-popover-snippet">Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</span></span></span>
+At Los Alamos, the first part is unquestionably true. The laboratory emerged from a top-secret weapons programme and continues to maintain extensive classified collections and restricted research infrastructure. Its National Security Research Center functions as a classified archive containing millions of records related to nuclear weapons and national-security science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: certifiedarchivists.org">[certifiedarchivists.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">certifiedarchivists.org</span><span class="citation-popover-snippet">Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</span></span></span>
 
 The second step, however, requires additional evidence that is often missing. A disappearance, unexplained death, missing document, or unusual career history does not automatically become linked to classified programmes merely because a person worked at Los Alamos.
 
@@ -313,7 +313,7 @@ Because Los Alamos genuinely conducts classified work, the laboratory provides a
 
 ## Why Classified Work Changes Reader Expectations
 
-Most people expect universities, private companies, or public laboratories to explain unusual events openly. Los Alamos operates under different assumptions. Some information is intentionally restricted, some projects remain classified for decades, and access to many records is tightly controlled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory+2certifiedarchivists.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Los Alamos National LaboratoryNational Security ScienceNational Security Science magazine is the award-winning, authoritative resource on...</span></span></span>
+Most people expect universities, private companies, or public laboratories to explain unusual events openly. Los Alamos operates under different assumptions. Some information is intentionally restricted, some projects remain classified for decades, and access to many records is tightly controlled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[lanl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Los Alamos National LaboratoryNational Security ScienceNational Security Science magazine is the award-winning, authoritative resource on...</span></span></span>
 
 That reality changes how readers interpret uncertainty.
 
@@ -332,7 +332,7 @@ For example:
 
 </div>
 
-This effect is amplified by the laboratory's historical reputation. The public knows that major secrets were once hidden there successfully. The atomic bomb itself was developed under extraordinary wartime secrecy. As a result, people are more willing to believe that other major secrets could remain hidden as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
+This effect is amplified by the laboratory's historical reputation. The public knows that major secrets were once hidden there successfully. The atomic bomb itself was developed under extraordinary wartime secrecy. As a result, people are more willing to believe that other major secrets could remain hidden as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
 
 ## The Feedback Loop Between Real Secrets and Rumour
 
@@ -354,7 +354,7 @@ A typical rumour cycle works as follows:
 
 At that point, absence of evidence stops functioning as a warning sign and starts functioning as supporting evidence in the eyes of believers.
 
-This self-reinforcing pattern is especially visible in modern online discussions surrounding missing scientists. Reports involving individuals connected to national-security [institutions]({{ 'institutions/' | relative_url }}) frequently generate speculation that classified programmes are involved, even when publicly available facts do not establish such a link. Recent discussion surrounding Los Alamos-associated disappearances illustrates how quickly institutional secrecy can become part of the narrative framework through which ambiguous events are interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">national security and scientific research deepened after the body of Melissa Casias, a 54-year-old administrative assistant at Los Alamos...</span></span></span>
+This self-reinforcing pattern is especially visible in modern online discussions surrounding missing scientists. Reports involving individuals connected to national-security [institutions]({{ 'institutions/' | relative_url }}) frequently generate speculation that classified programmes are involved, even when publicly available facts do not establish such a link. Recent discussion surrounding Los Alamos-associated disappearances illustrates how quickly institutional secrecy can become part of the narrative framework through which ambiguous events are interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">national security and scientific research deepened after the body of Melissa Casias, a 54-year-old administrative assistant at Los Alamos...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-2-dark.svg" | relative_url }}" alt="Secrecy Effect illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_los_alamos_secrecy_e_70720c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ This self-reinforcing pattern is especially visible in modern online discussions
 
 One reason Los Alamos attracts speculation is that it visibly possesses exactly the kind of infrastructure conspiracy theories assume exists.
 
-The National Security Research Center contains vast collections of classified documents, photographs, films, technical reports, and historical records. The laboratory openly describes it as a repository of national-security knowledge accumulated since the Manhattan Project. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: certifiedarchivists.org">[certifiedarchivists.org+2Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">certifiedarchivists.org</span><span class="citation-popover-snippet">Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</span></span></span>
+The National Security Research Center contains vast collections of classified documents, photographs, films, technical reports, and historical records. The laboratory openly describes it as a repository of national-security knowledge accumulated since the Manhattan Project.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: certifiedarchivists.org">[certifiedarchivists.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">certifiedarchivists.org</span><span class="citation-popover-snippet">Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</span></span></span>
 
 For many observers, knowledge that such archives exist encourages a leap in reasoning:
 
@@ -386,7 +386,7 @@ Yet psychologically, the archive provides a tangible symbol of hidden knowledge,
 
 ## When Security Problems Increase Suspicion
 
-Another factor is that Los Alamos has experienced genuine security controversies over the years. Government audits, congressional reviews, and public reporting have documented episodes involving security lapses, classified-information handling concerns, and management failures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[Committee Documents+3GovInfo+3GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 08 173R</span><span class="citation-popover-snippet">Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</span></span></span>
+Another factor is that Los Alamos has experienced genuine security controversies over the years. Government audits, congressional reviews, and public reporting have documented episodes involving security lapses, classified-information handling concerns, and management failures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[govinfo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 08 173R</span><span class="citation-popover-snippet">Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</span></span></span>
 
 Importantly, these incidents show that secrecy systems are not perfect.
 
@@ -415,11 +415,11 @@ Los Alamos unquestionably possesses characteristics that fuel speculation:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A secret wartime origin.
-* Ongoing classified research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">take an unclassified peek at the labs classified collections in the vault an ann</span><span class="citation-popover-snippet">Los Alamos National LaboratoryDec 4, 2024 — Take an unclassified peek at the Lab&#x27;s classified collections in The Vault, an annual publica...</span></span></span>
+* Ongoing classified research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">take an unclassified peek at the labs classified collections in the vault an ann</span><span class="citation-popover-snippet">Los Alamos National LaboratoryDec 4, 2024 — Take an unclassified peek at the Lab&#x27;s classified collections in The Vault, an annual publica...</span></span></span>
 * Extensive restricted archives.
-* National-security responsibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[govinfo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 08 173R</span><span class="citation-popover-snippet">Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</span></span></span>
+* National-security responsibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[govinfo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 08 173R</span><span class="citation-popover-snippet">Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</span></span></span>
 * Historical security controversies.
-* Public fascination with advanced science and defence technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[GovInfo+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
+* Public fascination with advanced science and defence technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Los Alamos National Laboratory</span><span class="citation-popover-snippet">February 12, 2002 — Los Alamos was established in 1943 as Project Y, a top-secret site for designing and assembling nuclear weapons under...</span><span class="citation-popover-meta">Published: February 12, 2002</span></span></span>
 
 </div>
 
@@ -434,194 +434,194 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Real Secrecy Fuels Bigger Suspicions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Real Secrecy Fuels Bigger Suspicions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Prometheus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXSPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Prometheus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Prometheus">American Prometheus</a>
-        </h4>
-        <p class="fr-book-author">By Kai Bird, Martin J. Sherwin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Prometheus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXSPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Prometheus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Prometheus">American Prometheus</a>
+</h4>
+<p class="fr-book-author">By Kai Bird, Martin J. Sherwin</p>
         
-        <p class="fr-book-desc">Provides rich context on Los Alamos, wartime secrecy, and the culture of classified scientific work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides rich context on Los Alamos, wartime secrecy, and the culture of classified scientific work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Prometheus+by+Kai+Bird&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses how people interpret incomplete evidence and why suspicion can outrun available facts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Addresses how people interpret incomplete evidence and why suspicion can outrun available facts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0ZhpwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly explores how genuine government secrecy can generate enduring myths and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how genuine government secrecy can generate enduring myths and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how real classified research programs can foster rumors and speculation from outsiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real classified research programs can foster rumors and speculation from outsiders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Prometheus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Prometheus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Prometheus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="secrecy-effect-how-real-secrecy-fuels-bigger-suspicions-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-real-secrecy-fuels-bigger-suspicions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-real-secrecy-fuels-bigger-suspicions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,136 +827,136 @@ In narratives about UFOs, exotic propulsion, and allegedly suspicious deaths of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Los Alamos National Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2002 — Los Alamos was established in 1943 as [Project Y](&amp;#123;&amp;#123; &#x27;project-y/&#x27; | relative_url &amp;#125;&amp;#125;), a top-secret site for designing and assembling nuclear weapons under...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2002 — Los Alamos was established in 1943 as [Project Y](&amp;#123;&amp;#123; &#x27;project-y/&#x27; | relative_url &amp;#125;&amp;#125;), a top-secret site for designing and assembling nuclear weapons under...</p></details>
    Published: February 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Y  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Y" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Y</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Y" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Y</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: certifiedarchivists.org  
-   Link: <a href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow">https://www.certifiedarchivists.org/node/583</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</p></details>
+   Link:<a href="https://www.certifiedarchivists.org/node/583" target="_blank" rel="noopener noreferrer nofollow">https://www.certifiedarchivists.org/node/583</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryThe NSRC is LANL&#x27;s classified library, containing tens of millions of documents, films, books, and other ar...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS GAO 08 173R  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-08-173R/html/GAOREPORTS-GAO-08-173R.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National Laboratory: Information on Security of...Los Alamos National Laboratory: Information on Security of Classifie...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-08-1180t" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-08-1180t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sed in Los Alamos National Laboratory: Long-Term Strategies Needed to Improve...Read more...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-08-1180t" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-08-1180t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sed in Los Alamos National Laboratory: Long-Term Strategies Needed to Improve...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: LANL Research Library  
-   Link: <a href="https://en.wikipedia.org/wiki/LANL_Research_Library" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/LANL_Research_Library</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Research LibraryThe LANL Research Library is a research library at Los Alamos National Laboratory. It contains a substantial coll...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/LANL_Research_Library" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/LANL_Research_Library</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Research LibraryThe LANL Research Library is a research library at Los Alamos National Laboratory. It contains a substantial coll...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryNational Security ScienceNational Security Science magazine is the award-winning, authoritative resource on...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryNational Security ScienceNational Security Science magazine is the award-winning, authoritative resource on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: saadescription.wordpress.com  
-   Link: <a href="https://saadescription.wordpress.com/2024/06/03/standardizing-scientific-metadata-at-los-alamos-national-laboratory/" target="_blank" rel="noopener noreferrer nofollow">https://saadescription.wordpress.com/2024/06/03/standardizing-scientific-metadata-at-los-alamos-national-laboratory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptive NotesStandardizing Scientific Metadata at Los Alamos National...Jun 3, 2024 — The National Security Research Center (NSRC) i...</p></details>
+   Link:<a href="https://saadescription.wordpress.com/2024/06/03/standardizing-scientific-metadata-at-los-alamos-national-laboratory/" target="_blank" rel="noopener noreferrer nofollow">https://saadescription.wordpress.com/2024/06/03/standardizing-scientific-metadata-at-los-alamos-national-laboratory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptive NotesStandardizing Scientific Metadata at Los Alamos National...Jun 3, 2024 — The National Security Research Center (NSRC) i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lanl.gov  
    Title: archives for the future  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/archives-for-the-future" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/archives-for-the-future</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryArchives for the future | Los Alamos National LaboratoryJan 26, 2026 — The National Security Research Cente...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/archives-for-the-future" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/archives-for-the-future</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryArchives for the future | Los Alamos National LaboratoryJan 26, 2026 — The National Security Research Cente...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>national security and scientific research deepened after the body of Melissa Casias, a 54-year-old administrative assistant at Los Alamos...</p></details>
+   Link:<a href="https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/01/us-news/body-of-missing-los-alamos-nuclear-lab-worker-found-alongside-gun-in-remote-national-forest-a-year-after-she-vanished/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>national security and scientific research deepened after the body of Melissa Casias, a 54-year-old administrative assistant at Los Alamos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lanl.gov  
    Title: 0721 archives  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/0721-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/0721-archives</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryThe archives of the futureJul 26, 2021 — The collections have reports and analyses that save the Lab tens o...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/0721-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/0721-archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryThe archives of the futureJul 26, 2021 — The collections have reports and analyses that save the Lab tens o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commdocs.house.gov  
-   Link: <a href="https://commdocs.house.gov/committees/security/has166000.000/has166000_0f.htm" target="_blank" rel="noopener noreferrer nofollow">https://commdocs.house.gov/committees/security/has166000.000/has166000_0f.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAILURES AT LOS ALAMOS NATIONAL...[Wen Ho Lee](&amp;#123;&amp;#123; &#x27;wen-ho-lee/&#x27; | relative_url &amp;#125;&amp;#125;) was subsequently arrested and charged with mishandling classified nuclear weapons informati...</p></details>
+   Link:<a href="https://commdocs.house.gov/committees/security/has166000.000/has166000_0f.htm" target="_blank" rel="noopener noreferrer nofollow">https://commdocs.house.gov/committees/security/has166000.000/has166000_0f.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAILURES AT LOS ALAMOS NATIONAL...[Wen Ho Lee](&amp;#123;&amp;#123; &#x27;wen-ho-lee/&#x27; | relative_url &amp;#125;&amp;#125;) was subsequently arrested and charged with mishandling classified nuclear weapons informati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchlibrary.lanl.gov  
-   Link: <a href="https://researchlibrary.lanl.gov/" target="_blank" rel="noopener noreferrer nofollow">https://researchlibrary.lanl.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library - Los Alamos National LaboratoryDatabases &amp; Search Tools: View the Research Library&#x27;s catalog, databases, and subscriptions (staf...</p></details>
+   Link:<a href="https://researchlibrary.lanl.gov/" target="_blank" rel="noopener noreferrer nofollow">https://researchlibrary.lanl.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library - Los Alamos National LaboratoryDatabases &amp; Search Tools: View the Research Library&#x27;s catalog, databases, and subscriptions (staf...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: take an unclassified peek at the labs classified collections in the vault an ann  
-   Link: <a href="https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryDec 4, 2024 — Take an unclassified peek at the Lab&#x27;s classified collections in The Vault, an annual publica...</p></details>
+   Link:<a href="https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAlamosNationalLab/posts/take-an-unclassified-peek-at-the-labs-classified-collections-in-the-vault-an-ann/990617356431223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryDec 4, 2024 — Take an unclassified peek at the Lab&#x27;s classified collections in The Vault, an annual publica...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pogo.org  
    Title: from one lab to another los alamos info breach and meth trailer story develops  
-   Link: <a href="https://www.pogo.org/analyses/from-one-lab-to-another-los-alamos-info-breach-and-meth-trailer-story-develops" target="_blank" rel="noopener noreferrer nofollow">https://www.pogo.org/analyses/from-one-lab-to-another-los-alamos-info-breach-and-meth-trailer-story-develops</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From One Lab to Another: Los Alamos Info Breach and...3 Nov 2006 — New information received by POGO suggests that the classified informa...</p></details>
+   Link:<a href="https://www.pogo.org/analyses/from-one-lab-to-another-los-alamos-info-breach-and-meth-trailer-story-develops" target="_blank" rel="noopener noreferrer nofollow">https://www.pogo.org/analyses/from-one-lab-to-another-los-alamos-info-breach-and-meth-trailer-story-develops</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From One Lab to Another: Los Alamos Info Breach and...3 Nov 2006 — New information received by POGO suggests that the classified informa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/safety-problems-los-alamos-laboratory-delay-us-nuclear-warhead-testing-and-production" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/safety-problems-los-alamos-laboratory-delay-us-nuclear-warhead-testing-and-production</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ince 2013 over its inability to control worker safety risks.Read more...</p></details>
+   Link:<a href="https://www.science.org/content/article/safety-problems-los-alamos-laboratory-delay-us-nuclear-warhead-testing-and-production" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/safety-problems-los-alamos-laboratory-delay-us-nuclear-warhead-testing-and-production</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ince 2013 over its inability to control worker safety risks.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lQGegk8IYD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQGegk8IYD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: No projectiles found in Melissa Casias&#x27; skull: police | Elizabeth Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lQGegk8IYD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQGegk8IYD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: No projectiles found in Melissa Casias&#x27; skull: police | Elizabeth Vargas Reports...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVgjk3ZlBey/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVgjk3ZlBey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TEN NUCLEAR AND SPACE EXPERTS VANISHED NATIONAL SECURITY...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVgjk3ZlBey/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVgjk3ZlBey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TEN NUCLEAR AND SPACE EXPERTS VANISHED NATIONAL SECURITY...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KBJQcvRiC1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KBJQcvRiC1c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing U.S. Scientist Found Dead: Mystery Around UFO-Linked Researchers Deepens | GRAVITAS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KBJQcvRiC1c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KBJQcvRiC1c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing U.S. Scientist Found Dead: Mystery Around UFO-Linked Researchers Deepens | GRAVITAS...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nsarchive.gwu.edu  
    Title: Doc 26 LAHDRA rpt cdc 131522 DS1  
-   Link: <a href="https://nsarchive.gwu.edu/sites/default/files/documents/Doc-26-LAHDRA-rpt-cdc_131522_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/sites/default/files/documents/Doc-26-LAHDRA-rpt-cdc_131522_DS1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the Los Alamos Historical Document...This report is published in special memory of Thomas Widner, Project. Director and Princi...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/sites/default/files/documents/Doc-26-LAHDRA-rpt-cdc_131522_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/sites/default/files/documents/Doc-26-LAHDRA-rpt-cdc_131522_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the Los Alamos Historical Document...This report is published in special memory of Thomas Widner, Project. Director and Princi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VaqR1oPydME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VaqR1oPydME</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>giant supercomputers to solve some of the biggest, thorniest...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VaqR1oPydME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VaqR1oPydME</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>giant supercomputers to solve some of the biggest, thorniest...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Missing Scientist Found Dead in Chilling Forest Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing US Scientist&#x27;s Body Found with Gunshot Wound by Hiker as Investigator Suspects Foul Play...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing US Scientist&#x27;s Body Found with Gunshot Wound by Hiker as Investigator Suspects Foul Play...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ladailypost.com  
    Title: los alamos laboratory ensures national security  
-   Link: <a href="https://ladailypost.com/los-alamos-laboratory-ensures-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://ladailypost.com/los-alamos-laboratory-ensures-national-security/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving that mission starts with the National Security Research...Read more...</p></details>
+   Link:<a href="https://ladailypost.com/los-alamos-laboratory-ensures-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://ladailypost.com/los-alamos-laboratory-ensures-national-security/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving that mission starts with the National Security Research...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Major Gen. William Mc Casland ran the Air Force's secret lab — then DISAPPEARED  
-   Link: <a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>

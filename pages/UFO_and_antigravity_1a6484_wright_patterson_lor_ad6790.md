@@ -441,19 +441,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_wright_patterson_lor_ad6790-ove
 
 ## Introduction
 
-Wright-Patterson Air Force Base keeps appearing in UFO lore because it sits at the intersection of three things that easily feed secrecy claims: a real [aerospace]({{ 'aerospace/' | relative_url }})-intelligence history, a real role in official U.S. Air Force UFO investigations, and a much weaker body of rumours about hidden alien debris, “[Hangar 18]({{ 'hangar-18/' | relative_url }})” and people who supposedly knew too much. The documented part is clear: Project Blue Book, the Air Force’s longest-running UFO investigation, was headquartered at Wright-Patterson, and the base has long housed major research, intelligence, logistics and museum functions tied to U.S. air and space power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Wright-Patterson Air Force Base keeps appearing in UFO lore because it sits at the intersection of three things that easily feed secrecy claims: a real [aerospace]({{ 'aerospace/' | relative_url }})-intelligence history, a real role in official U.S. Air Force UFO investigations, and a much weaker body of rumours about hidden alien debris, “[Hangar 18]({{ 'hangar-18/' | relative_url }})” and people who supposedly knew too much. The documented part is clear: Project Blue Book, the Air Force’s longest-running UFO investigation, was headquartered at Wright-Patterson, and the base has long housed major research, intelligence, logistics and museum functions tied to U.S. air and space power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_wright_patterson_lor_ad6790-overview.webp" | relative_url }}" alt="Overview image for Wright Patt" loading="eager" decoding="sync" fetchpriority="high">
-The more dramatic part is not established. The Air Force has denied the existence of a “Hangar 18” containing alien bodies or crashed saucers, official Roswell inquiries did not find records of extraterrestrial material, and recent cases such as retired Major General William “Neil” McCasland’s disappearance have revived the mythology without proving that Wright-Patterson conceals UFO secrets or that related deaths and disappearances form a connected pattern. Wright-Patterson Air Force Base+2National Security Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[wpafb.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span>
+The more dramatic part is not established. The Air Force has denied the existence of a “Hangar 18” containing alien bodies or crashed saucers, official Roswell inquiries did not find records of extraterrestrial material, and recent cases such as retired Major General William “Neil” McCasland’s disappearance have revived the mythology without proving that Wright-Patterson conceals UFO secrets or that related deaths and disappearances form a connected pattern. Wright-Patterson Air Force Base+2National Security Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[wpafb.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span>
 
 ## Why Wright-Patterson became the obvious place to put the rumour
 
-The base’s real history makes it unusually easy to imagine as a storage site for extraordinary secrets. Wright-Patterson is not just an ordinary airfield near Dayton, Ohio. Official base history ties the area to the Wright brothers’ 1904–1905 flying experiments at Huffman Prairie, where they “really learned to fly”, and to later military aviation development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/Newcomers/WPAFB-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">Wright-Patterson Air Force Base WPAFB History</span><span class="citation-popover-snippet">Wright-Patterson Air Force Base WPAFB History</span></span></span>
+The base’s real history makes it unusually easy to imagine as a storage site for extraordinary secrets. Wright-Patterson is not just an ordinary airfield near Dayton, Ohio. Official base history ties the area to the Wright brothers’ 1904–1905 flying experiments at Huffman Prairie, where they “really learned to fly”, and to later military aviation development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/Newcomers/WPAFB-History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">Wright-Patterson Air Force Base WPAFB History</span><span class="citation-popover-snippet">Wright-Patterson Air Force Base WPAFB History</span></span></span>
 
-By the Cold War, Wright-Patterson had also become a major centre of Air Force research, logistics, intelligence and technical management. The base fact sheet describes the Air Force Research Laboratory as a global technical enterprise with more than 10,000 personnel across technical directorates and operations, working on science and technology for air, space and cyberspace forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> That matters for UFO lore because rumours thrive when a place already does things the public knows are advanced, classified or difficult to explain.
+By the Cold War, Wright-Patterson had also become a major centre of Air Force research, logistics, intelligence and technical management. The base fact sheet describes the Air Force Research Laboratory as a global technical enterprise with more than 10,000 personnel across technical directorates and operations, working on science and technology for air, space and cyberspace forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> That matters for UFO lore because rumours thrive when a place already does things the public knows are advanced, classified or difficult to explain.
 
-The National Museum of the U.S. Air Force, located at Wright-Patterson, adds another layer. It is officially described as the world’s largest military aviation museum, with more than 350 aerospace vehicles and missiles and thousands of artefacts across more than 19 acres of indoor exhibit space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> To a visitor, the base is visibly connected to experimental aircraft, missiles, intelligence history and the long arc of aerospace technology. To a conspiracy storyteller, those same facts become stage scenery: if there were a recovered craft, this is the kind of place where it would be imagined to go.
+The National Museum of the U.S. Air Force, located at Wright-Patterson, adds another layer. It is officially described as the world’s largest military aviation museum, with more than 350 aerospace vehicles and missiles and thousands of artefacts across more than 19 acres of indoor exhibit space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> To a visitor, the base is visibly connected to experimental aircraft, missiles, intelligence history and the long arc of aerospace technology. To a conspiracy storyteller, those same facts become stage scenery: if there were a recovered craft, this is the kind of place where it would be imagined to go.
 
 That is the key distinction. Wright-Patterson’s aerospace reputation is real. The inference that it therefore houses alien wreckage is not supported by the public record.
 
@@ -461,13 +461,13 @@ That is the key distinction. Wright-Patterson’s aerospace reputation is real. 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_wright_patterson_lor_ad6790-Illustration-1-dark.svg" | relative_url }}" alt="Wright Patt illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_wright_patterson_lor_ad6790-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_wright_patterson_lor_ad6790-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The documented UFO connection: Project Blue Book
 
-Wright-Patterson’s strongest connection to UFO history is not “Hangar 18”, but Project Blue Book. The Air Force says it investigated UFO reports from 1947 to 1969, with Project Blue Book headquartered at Wright-Patterson until it was terminated on 17 December 1969. The programme collected 12,618 reported sightings, of which 701 remained unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
+Wright-Patterson’s strongest connection to UFO history is not “Hangar 18”, but Project Blue Book. The Air Force says it investigated UFO reports from 1947 to 1969, with Project Blue Book headquartered at Wright-Patterson until it was terminated on 17 December 1969. The programme collected 12,618 reported sightings, of which 701 remained unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
 
-The official framing was national security and analysis, not alien recovery. The Air Force fact sheet says Project Blue Book had two main aims: to determine whether UFOs were a threat to national security and to scientifically analyse UFO-related data. It also states that the decision to close the programme followed the University of Colorado’s UFO study, a National Academy of Sciences review, earlier UFO studies and Air Force experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
+The official framing was national security and analysis, not alien recovery. The Air Force fact sheet says Project Blue Book had two main aims: to determine whether UFOs were a threat to national security and to scientifically analyse UFO-related data. It also states that the decision to close the programme followed the University of Colorado’s UFO study, a National Academy of Sciences review, earlier UFO studies and Air Force experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
 
-The National Archives reinforces this more prosaic picture. It hosts Project Blue Book material and reproduces a 1985 Air Force fact sheet distributed by Wright-Patterson. It also notes that the former Blue Book documentation was transferred for public review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For lore, that archive status cuts both ways. It proves that Wright-Patterson really was central to the government’s official UFO bureaucracy. It also means many of the programme’s records are not hidden in a sealed alien vault; they are part of the historical record.
+The National Archives reinforces this more prosaic picture. It hosts Project Blue Book material and reproduces a 1985 Air Force fact sheet distributed by Wright-Patterson. It also notes that the former Blue Book documentation was transferred for public review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For lore, that archive status cuts both ways. It proves that Wright-Patterson really was central to the government’s official UFO bureaucracy. It also means many of the programme’s records are not hidden in a sealed alien vault; they are part of the historical record.
 
-AARO, the Pentagon’s All-domain Anomaly Resolution Office, gives a modern official summary of this lineage. Its 2024 historical report says Project Blue Book was based at Wright-Patterson and was the longest-running U.S. UFO/UAP investigation, led by officers including Edward J. Ruppelt and Hector Quintanilla. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> AARO’s broader conclusion is also important for this topic: it reported no verifiable evidence that any U.S. government investigation, academic-sponsored research or official review confirmed a UAP sighting as extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+AARO, the Pentagon’s All-domain Anomaly Resolution Office, gives a modern official summary of this lineage. Its 2024 historical report says Project Blue Book was based at Wright-Patterson and was the longest-running U.S. UFO/UAP investigation, led by officers including Edward J. Ruppelt and Hector Quintanilla.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> AARO’s broader conclusion is also important for this topic: it reported no verifiable evidence that any U.S. government investigation, academic-sponsored research or official review confirmed a UAP sighting as extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
@@ -476,9 +476,9 @@ AARO, the Pentagon’s All-domain Anomaly Resolution Office, gives a modern offi
 
 “Hangar 18” is the symbol that turned Wright-Patterson from a real UFO-records location into a pop-cultural alien warehouse. The recurring claim is that debris or bodies from a crashed UFO were stored in a secret hangar at the base, often linked to Roswell, Aztec or other crash-retrieval stories.
 
-The public version of the Hangar 18 story took shape in the 1970s. Robert Spencer Carr, a science-fiction writer and UFO lecturer, publicly claimed in 1974 that flying saucers and alien bodies were being held at Wright-Patterson. Later summaries of the episode describe Carr as claiming that alien bodies from a 1948 Aztec, New Mexico crash were kept in “Hangar 18” at the base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hangar 18 (conspiracy theory</span><span class="citation-popover-snippet">Hangar 18 (conspiracy theory</span></span></span>
+The public version of the Hangar 18 story took shape in the 1970s. Robert Spencer Carr, a science-fiction writer and UFO lecturer, publicly claimed in 1974 that flying saucers and alien bodies were being held at Wright-Patterson. Later summaries of the episode describe Carr as claiming that alien bodies from a 1948 Aztec, New Mexico crash were kept in “Hangar 18” at the base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hangar 18 (conspiracy theory</span><span class="citation-popover-snippet">Hangar 18 (conspiracy theory</span></span></span>
 
-The Air Force response was direct: there was no Hangar 18 at Wright-Patterson. A base article published in 2018 states that the supposed hangar “never existed” and that there has never actually been a “Hangar 18” anywhere on Wright-Patterson Air Force Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span> Air & Space Forces Magazine similarly notes that after the 1974 allegation, reporters were invited to tour Building 18, which housed the Aero Propulsion Laboratory, but there were “no UFOs or aliens”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine USAF and the UFOs</span><span class="citation-popover-snippet">Air &amp; Space Forces Magazine USAF and the UFOs</span></span></span>
+The Air Force response was direct: there was no Hangar 18 at Wright-Patterson. A base article published in 2018 states that the supposed hangar “never existed” and that there has never actually been a “Hangar 18” anywhere on Wright-Patterson Air Force Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[Wright-Patterson Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span> Air & Space Forces Magazine similarly notes that after the 1974 allegation, reporters were invited to tour Building 18, which housed the Aero Propulsion Laboratory, but there were “no UFOs or aliens”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine USAF and the UFOs</span><span class="citation-popover-snippet">Air &amp; Space Forces Magazine USAF and the UFOs</span></span></span>
 
 The myth survived partly because denial itself became part of the story. In UFO lore, a denial from a secretive military institution is often treated not as contrary evidence but as confirmation that the secret is especially sensitive. Wright-Patterson’s real technical function made that move feel plausible to believers: if the base already dealt with propulsion laboratories, foreign technology, aerospace research and classified work, a rumoured alien-storage site sounded narratively convenient.
 
@@ -488,9 +488,9 @@ The myth survived partly because denial itself became part of the story. In UFO 
 
 Wright-Patterson’s UFO mythology is rarely isolated. It usually functions as the alleged destination point in a larger chain: something crashes elsewhere, military personnel recover it, and the material is sent to Ohio for analysis or storage. Roswell is the most famous version of that chain.
 
-The National Archives notes that pro-UFO researchers have long claimed an extraterrestrial craft and occupants were recovered near Roswell in July 1947 and that the matter was kept from the public. It also records that, at Congressman Steven Schiff’s request, the General Accounting Office began a 1994 audit to locate records relating to the alleged Roswell incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The National Archives notes that pro-UFO researchers have long claimed an extraterrestrial craft and occupants were recovered near Roswell in July 1947 and that the matter was kept from the public. It also records that, at Congressman Steven Schiff’s request, the General Accounting Office began a 1994 audit to locate records relating to the alleged Roswell incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-Official Roswell inquiries did not support the alien-transfer story. The Air Force’s Roswell research concluded that the recovered material was consistent with a balloon device, most likely from Project Mogul, a classified high-altitude balloon programme. It also stated that Air Force research did not disclose records of recovered “alien” bodies or extraterrestrial material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span> A later Air Force Roswell page says the report addressed the likely sources of “alien bodies” claims and found that many descriptions appeared to reflect unclassified Air Force scientific achievements or real incidents in which Air Force personnel were killed or injured in the line of duty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+Official Roswell inquiries did not support the alien-transfer story. The Air Force’s Roswell research concluded that the recovered material was consistent with a balloon device, most likely from Project Mogul, a classified high-altitude balloon programme. It also stated that Air Force research did not disclose records of recovered “alien” bodies or extraterrestrial material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[National Security Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span> A later Air Force Roswell page says the report addressed the likely sources of “alien bodies” claims and found that many descriptions appeared to reflect unclassified Air Force scientific achievements or real incidents in which Air Force personnel were killed or injured in the line of duty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 That does not end the legend, because Roswell lore depends heavily on witness stories, second-hand recollections and distrust of official explanations. But it does change the evidential balance. The Wright-Patterson claim is strongest as folklore: a durable story about where the U.S. military would have taken anomalous material. It is weakest as a documented historical claim: public official investigations have not produced proof of alien bodies, alien wreckage or a secret Hangar 18 repository.
 
@@ -501,9 +501,9 @@ That does not end the legend, because Roswell lore depends heavily on witness st
 
 The modern branch of this lore connects Wright-Patterson to the wider narrative about suspicious deaths and disappearances among scientists, aerospace figures and researchers. The most direct recent example is retired Major General William N. “Neil” McCasland, a former commander of the Air Force Research Laboratory who disappeared from his Albuquerque home in February 2026.
 
-ABC News reported that McCasland, aged 68, was last seen at his home on 27 February 2026, that his wife left for a medical appointment at 11:10 a.m., returned at 12:04 p.m. and found him gone, and that he was reported missing at 3:07 p.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span> The same reporting said he had once led Wright-Patterson, a base “steeped” in UFO theories, but also noted that authorities said there was no evidence linking his disappearance to UFO research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Retired Air Force major general once led Wright-Patterson</span><span class="citation-popover-snippet">ABC7 San Francisco Retired Air Force major general once led Wright-Patterson</span></span></span>
+ABC News reported that McCasland, aged 68, was last seen at his home on 27 February 2026, that his wife left for a medical appointment at 11:10 a.m., returned at 12:04 p.m. and found him gone, and that he was reported missing at 3:07 p.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span> The same reporting said he had once led Wright-Patterson, a base “steeped” in UFO theories, but also noted that authorities said there was no evidence linking his disappearance to UFO research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco Retired Air Force major general once led Wright-Patterson</span><span class="citation-popover-snippet">ABC7 San Francisco Retired Air Force major general once led Wright-Patterson</span></span></span>
 
-That combination was enough to reignite old claims. McCasland had led AFRL, had a serious aerospace and military background, and had reportedly had a brief unpaid association after retirement with Tom DeLonge’s UFO-related organisation. His wife, Susan McCasland Wilkerson, publicly pushed back against speculation, saying he did not have special knowledge about “ET bodies and debris from the Roswell crash stored at Wright-Patt”, a line that was itself dissected online because of its [wording]({{ 'wording/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Wife of Missing UFO Expert Addresses &#x27;Misinformation</span><span class="citation-popover-snippet">Wife of Missing UFO Expert Addresses &#x27;Misinformation</span></span></span>
+That combination was enough to reignite old claims. McCasland had led AFRL, had a serious aerospace and military background, and had reportedly had a brief unpaid association after retirement with Tom DeLonge’s UFO-related organisation. His wife, Susan McCasland Wilkerson, publicly pushed back against speculation, saying he did not have special knowledge about “ET bodies and debris from the Roswell crash stored at Wright-Patt”, a line that was itself dissected online because of its [wording]({{ 'wording/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Wife of Missing UFO Expert Addresses &#x27;Misinformation</span><span class="citation-popover-snippet">Wife of Missing UFO Expert Addresses &#x27;Misinformation</span></span></span>
 
 For the suspicious-deaths-and-disappearances topic, the McCasland case shows how place-based lore works. The base connection did not prove a UFO motive. Instead, it supplied a ready-made interpretive frame. A missing retired general became, in online discussion, not only a missing person with an aerospace résumé but a possible keeper of Wright-Patterson secrets. The leap is emotionally powerful but evidentially fragile.
 
@@ -516,10 +516,10 @@ Wright-Patterson remains useful to UFO lore because it gives abstract secrecy a 
 Several forces keep the association alive:
 
 * **Real secrecy makes fictional secrecy feel plausible.** Wright-Patterson has hosted classified and advanced defence work. That does not prove alien storage, but it makes the idea easier to imagine.
-* **Project Blue Book gives the base a documented UFO role.** Unlike many rumoured sites, Wright-Patterson really did house the Air Force’s formal UFO investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
-* **Official explanations leave a residue of distrust.** Blue Book closed with 701 cases still classified as unidentified, even while the Air Force said there was no evidence that the unidentified sightings were extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
-* **Pop culture keeps the label alive.** The 1980 film *Hangar 18* and later references in television, music and UFO programming helped detach the phrase from the details of Carr’s original claim and turn it into a reusable symbol of hidden alien evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/hangar_18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">hangar 18</span><span class="citation-popover-snippet">hangar 18</span></span></span>
-* **Modern disappearances re-activate old narratives.** McCasland’s disappearance did not create Wright-Patterson UFO lore, but it gave old claims a current human anchor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
+* **Project Blue Book gives the base a documented UFO role.** Unlike many rumoured sites, Wright-Patterson really did house the Air Force’s formal UFO investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
+* **Official explanations leave a residue of distrust.** Blue Book closed with 701 cases still classified as unidentified, even while the Air Force said there was no evidence that the unidentified sightings were extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</span></span></span>
+* **Pop culture keeps the label alive.** The 1980 film *Hangar 18* and later references in television, music and UFO programming helped detach the phrase from the details of Carr’s original claim and turn it into a reusable symbol of hidden alien evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/hangar_18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">hangar 18</span><span class="citation-popover-snippet">hangar 18</span></span></span>
+* **Modern disappearances re-activate old narratives.** McCasland’s disappearance did not create Wright-Patterson UFO lore, but it gave old claims a current human anchor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
 
 The result is a feedback loop. The base’s documented role in aerospace and UFO-records history makes it attractive to rumour. The rumour then increases public curiosity about the base. Each new story involving a Wright-Patterson-linked figure, even without evidence of UFO relevance, can be absorbed into the existing mythology.
 
@@ -530,201 +530,201 @@ The result is a feedback loop. The base’s documented role in aerospace and UFO
 
 The strongest evidence supports a modest but important claim: Wright-Patterson is central to U.S. UFO history because Project Blue Book was based there and because the base has been a major aerospace research and intelligence institution. That alone makes it a legitimate subject in any account of UFO lore, government secrecy and the public imagination around advanced aerospace research.
 
-The evidence does not support the stronger claim that Wright-Patterson has been publicly shown to hold alien bodies, Roswell debris or recovered extraterrestrial craft. The Air Force denies the existence of Hangar 18 as described in the conspiracy claim, official Roswell research did not find records of alien bodies or extraterrestrial material, and AARO’s modern [historical review]({{ 'historical-review/' | relative_url }}) found no verifiable evidence that official U.S. investigations confirmed extraterrestrial technology. Wright-Patterson Air Force Base+2National Security Agency <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[wpafb.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span>
+The evidence does not support the stronger claim that Wright-Patterson has been publicly shown to hold alien bodies, Roswell debris or recovered extraterrestrial craft. The Air Force denies the existence of Hangar 18 as described in the conspiracy claim, official Roswell research did not find records of alien bodies or extraterrestrial material, and AARO’s modern [historical review]({{ 'historical-review/' | relative_url }}) found no verifiable evidence that official U.S. investigations confirmed extraterrestrial technology. Wright-Patterson Air Force Base+2National Security Agency<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpafb.af.mil">[wpafb.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpafb.af.mil</span><span class="citation-popover-title">5 little known facts about wright patt</span><span class="citation-popover-snippet">5 little known facts about wright patt</span></span></span>
 
-Within the broader subject of suspicious deaths and disappearances, Wright-Patterson functions less as proof than as a narrative amplifier. It supplies the geography of secrecy. When a scientist, engineer, military official or aerospace figure has any connection to the base, that connection can be used to fold an individual tragedy or disappearance into a much larger story about hidden UFO or antigravity research. The McCasland case illustrates the pattern: a real disappearance, a real Wright-Patterson career link, a real UFO-community association after retirement, but no public evidence that the disappearance was caused by UFO secrets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
+Within the broader subject of suspicious deaths and disappearances, Wright-Patterson functions less as proof than as a narrative amplifier. It supplies the geography of secrecy. When a scientist, engineer, military official or aerospace figure has any connection to the base, that connection can be used to fold an individual tragedy or disappearance into a much larger story about hidden UFO or antigravity research. The McCasland case illustrates the pattern: a real disappearance, a real Wright-Patterson career link, a real UFO-community association after retirement, but no public evidence that the disappearance was caused by UFO secrets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[abcnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Open source on abcnews.com.</span></span></span>
 
 That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare places where the official and the mythical overlap closely enough to be confused: real UFO files, real aerospace power, real secrecy, and a persistent but unproven legend that the most extraordinary evidence is still hidden somewhere on the base.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wright Patterson Keeps Appearing in UFO Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wright Patterson Keeps Appearing in UFO Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly connects to the Air Force UFO investigation era associated with Wright-Patterson and Project Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to the Air Force UFO investigation era associated with Wright-Patterson and Project Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores military and government UFO claims, providing context for why bases such as Wright-Patterson feature prominently in UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military and government UFO claims, providing context for why bases such as Wright-Patterson feature prominently in UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers firsthand insight into the Air Force investigation process that helped create later Wright-Patterson lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers firsthand insight into the Air Force investigation process that helped create later Wright-Patterson lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="wright-patt-why-wright-patterson-keeps-appearing-in-ufo-claims-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,294 +930,294 @@ That is why Wright-Patterson keeps returning in UFO lore. It is one of the rare 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/185 May 2024 — Based at Wright-Patterson Air Force Base near Dayton, Ohio...</p></details>
    Published: May 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Hangar 18 (conspiracy theory)  
-   Link: <a href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: hangar 18 ufos aliens wright patterson  
-   Link: <a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
+   Link:<a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsweek.com  
    Title: Wife of Missing UFO Expert Addresses 'Misinformation'  
-   Link: <a href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216</a>  
+   Link:<a href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sf-encyclopedia.com  
    Title: hangar 18  
-   Link: <a href="https://sf-encyclopedia.com/entry/hangar_18" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/hangar_18</a>  
+   Link:<a href="https://sf-encyclopedia.com/entry/hangar_18" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/hangar_18</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ian Wright  
-   Link: <a href="https://en.wikipedia.org/wiki/Ian_Wright" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ian_Wright</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ian_Wright" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ian_Wright</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Neil Mc Casland  
-   Link: <a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Robert Spencer Carr  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Spencer_Carr" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Spencer_Carr</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Spencer_Carr" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Spencer_Carr</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
+   Link:<a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wpafb.af.mil  
-   Link: <a href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/</a>  
+   Link:<a href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/1146061/wright-patterson-air-force-base/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wpafb.af.mil  
    Title: 5 little known facts about wright patt  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054</a>  
+   Link:<a href="https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/retired-air-force-major-general-missing-weeks-mysterious/story?id=131126054</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wpafb.af.mil  
    Title: Wright-Patterson Air Force Base WPAFB History  
-   Link: <a href="https://www.wpafb.af.mil/Newcomers/WPAFB-History/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Newcomers/WPAFB-History/</a>  
+   Link:<a href="https://www.wpafb.af.mil/Newcomers/WPAFB-History/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Newcomers/WPAFB-History/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wpafb.af.mil  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3445726/national-museum-of-the-usaf-hosts-air-power-history-tour/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: airandspaceforces.com  
    Title: Air & Space Forces Magazine USAF and the UFOs  
-   Link: <a href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf</a>  
+   Link:<a href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2011/June%202011/0611UFO.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abc7news.com  
    Title: ABC7 San Francisco Retired Air Force major general once led Wright-Patterson  
-   Link: <a href="https://abc7news.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-[mccasland-missing</a>  
+   Link:<a href="https://abc7news.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-[mccasland-missing</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: wpafb.af.mil  
    Title: mil Tag Aerospace Systems Directorate  
-   Link: <a href="https://www.wpafb.af.mil/News/Tag/81981/aerospace-systems-directorate/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Tag/81981/aerospace-systems-directorate/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Tag/81981/aerospace-systems-directorate/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Tag/81981/aerospace-systems-directorate/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wpafb.af.mil  
    Title: rl redesigns for strategic advantage positions research enterprise to acceler  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/4471092/afrl-redesigns-for-strategic-advantage-positions-research-enterprise-to-acceler/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/4471092/afrl-redesigns-for-strategic-advantage-positions-research-enterprise-to-acceler/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/4471092/afrl-redesigns-for-strategic-advantage-positions-research-enterprise-to-acceler/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/4471092/afrl-redesigns-for-strategic-advantage-positions-research-enterprise-to-acceler/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wpafb.af.mil  
-   Link: <a href="https://www.wpafb.af.mil/Portals/60/documents/Index/History-of-WPAFB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Portals/60/documents/Index/History-of-WPAFB.pdf</a>  
+   Link:<a href="https://www.wpafb.af.mil/Portals/60/documents/Index/History-of-WPAFB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Portals/60/documents/Index/History-of-WPAFB.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: wpafb.af.mil  
    Title: new afrl aerospace systems directorate takes shape  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/399389/new-afrl-aerospace-systems-directorate-takes-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/399389/new-afrl-aerospace-systems-directorate-takes-shape/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/399389/new-afrl-aerospace-systems-directorate-takes-shape/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/399389/new-afrl-aerospace-systems-directorate-takes-shape/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: wpafb.af.mil  
-   Link: <a href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/2453666/air-force-materiel-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/2453666/air-force-materiel-command/</a>  
+   Link:<a href="https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/2453666/air-force-materiel-command/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Welcome/Fact-Sheets/Display/Article/2453666/air-force-materiel-command/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wpafb.af.mil  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/3629227/national-museum-of-the-us-air-force-opens-new-exhibit-honoring-the-enlisted-for/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3629227/national-museum-of-the-us-air-force-opens-new-exhibit-honoring-the-enlisted-for/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/3629227/national-museum-of-the-us-air-force-opens-new-exhibit-honoring-the-enlisted-for/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3629227/national-museum-of-the-us-air-force-opens-new-exhibit-honoring-the-enlisted-for/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: wpafb.af.mil  
    Title: national museum usaf continuing open late on first thursday of each month  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/2459309/national-museum-usaf-continuing-open-late-on-first-thursday-of-each-month/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2459309/national-museum-usaf-continuing-open-late-on-first-thursday-of-each-month/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/2459309/national-museum-usaf-continuing-open-late-on-first-thursday-of-each-month/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2459309/national-museum-usaf-continuing-open-late-on-first-thursday-of-each-month/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: wpafb.af.mil  
    Title: rls aerospace systems directorate granted patent for innovative control surfa  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/2765879/afrls-aerospace-systems-directorate-granted-patent-for-innovative-control-surfa/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2765879/afrls-aerospace-systems-directorate-granted-patent-for-innovative-control-surfa/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/2765879/afrls-aerospace-systems-directorate-granted-patent-for-innovative-control-surfa/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2765879/afrls-aerospace-systems-directorate-granted-patent-for-innovative-control-surfa/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wpafb.af.mil  
    Title: plane talks return to the national museum of the us air force in honor of veter  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/3210182/plane-talks-return-to-the-national-museum-of-the-us-air-force-in-honor-of-veter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3210182/plane-talks-return-to-the-national-museum-of-the-us-air-force-in-honor-of-veter/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/3210182/plane-talks-return-to-the-national-museum-of-the-us-air-force-in-honor-of-veter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/3210182/plane-talks-return-to-the-national-museum-of-the-us-air-force-in-honor-of-veter/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: wpafb.af.mil  
    Title: historic afrl research building receives new mission during dedication  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/1321166/historic-afrl-research-building-receives-new-mission-during-dedication/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/1321166/historic-afrl-research-building-receives-new-mission-during-dedication/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/1321166/historic-afrl-research-building-receives-new-mission-during-dedication/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/1321166/historic-afrl-research-building-receives-new-mission-during-dedication/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: wpafb.af.mil  
    Title: national museum of the us air force celebrates 75th anniversary of the us air f  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/2976931/national-museum-of-the-us-air-force-celebrates-75th-anniversary-of-the-us-air-f/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2976931/national-museum-of-the-us-air-force-celebrates-75th-anniversary-of-the-us-air-f/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/2976931/national-museum-of-the-us-air-force-celebrates-75th-anniversary-of-the-us-air-f/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2976931/national-museum-of-the-us-air-force-celebrates-75th-anniversary-of-the-us-air-f/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: wpafb.af.mil  
    Title: two afrl technologies honored with laureate award  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/2027041/two-afrl-technologies-honored-with-laureate-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2027041/two-afrl-technologies-honored-with-laureate-award/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/2027041/two-afrl-technologies-honored-with-laureate-award/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2027041/two-afrl-technologies-honored-with-laureate-award/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: wpafb.af.mil  
    Title: mil88th Air Base Wing  
-   Link: <a href="https://www.wpafb.af.mil/Units/88th-Air-Base-Wing/88th-Security-Forces-Squadron/Pass-and-Registration/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Units/88th-Air-Base-Wing/88th-Security-Forces-Squadron/Pass-and-Registration/</a>  
+   Link:<a href="https://www.wpafb.af.mil/Units/88th-Air-Base-Wing/88th-Security-Forces-Squadron/Pass-and-Registration/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Units/88th-Air-Base-Wing/88th-Security-Forces-Squadron/Pass-and-Registration/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: wpafb.af.mil  
    Title: mil88th Air Base Wing  
-   Link: <a href="https://www.wpafb.af.mil/Units/index1/audioid/68575/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Units/index1/audioid/68575/</a>  
+   Link:<a href="https://www.wpafb.af.mil/Units/index1/audioid/68575/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/Units/index1/audioid/68575/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wpafb.af.mil  
    Title: national museum of the us air force expands virtual experience  
-   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/2149988/national-museum-of-the-us-air-force-expands-virtual-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2149988/national-museum-of-the-us-air-force-expands-virtual-experience/</a>  
+   Link:<a href="https://www.wpafb.af.mil/News/Article-Display/Article/2149988/national-museum-of-the-us-air-force-expands-virtual-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/2149988/national-museum-of-the-us-air-force-expands-virtual-experience/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV_fFDSDsg1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV_fFDSDsg1/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DV_fFDSDsg1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV_fFDSDsg1/?hl=en</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TogetherWeServed/posts/military-urban-legends-wright-patterson-air-force-baselocals-around-wright-patte/1170007568565735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TogetherWeServed/posts/military-urban-legends-wright-patterson-air-force-baselocals-around-wright-patte/1170007568565735/</a>  
+   Link:<a href="https://www.facebook.com/TogetherWeServed/posts/military-urban-legends-wright-patterson-air-force-baselocals-around-wright-patte/1170007568565735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TogetherWeServed/posts/military-urban-legends-wright-patterson-air-force-baselocals-around-wright-patte/1170007568565735/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
+   Link:<a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/wright" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/wright</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/wright" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/wright</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History  
-   Link: <a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wright Patterson Hangar 18 UFO Project Blue Book WRIGHT-PATTERSON AFB · UFO FILES · HANGAR 18 · HAUNTED BASE — EP 008 Phoenix Nova...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hYYVwXCpgj4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hYYVwXCpgj4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wright Patterson Hangar 18 UFO Project Blue Book WRIGHT-PATTERSON AFB · UFO FILES · HANGAR 18 · HAUNTED BASE — EP 008 Phoenix Nova...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Inside Hangar 18: UFO Evidence at Wright-Patterson | Fall Asleep Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=2frWPkoL9jc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2frWPkoL9jc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Facility &quot;Hangar 18&quot; Crashed UFOs in Ohio&#x27;s Wright-Patterson Air Force Base - FindingUFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2frWPkoL9jc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2frWPkoL9jc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Facility &quot;Hangar 18&quot; Crashed UFOs in Ohio&#x27;s Wright-Patterson Air Force Base - FindingUFO...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g86VTiVgilA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g86VTiVgilA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g86VTiVgilA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g86VTiVgilA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Project Blue Book Proves UFO Phenomenon (Season 16) | History...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRIGHT-PATTERSON AFB · UFO FILES · HANGAR 18 · HAUNTED BASE — EP 008...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRIGHT-PATTERSON AFB · UFO FILES · HANGAR 18 · HAUNTED BASE — EP 008...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: WRIGHT-PATTERSON AFB · UFO FILES · HANGAR 18 · HAUNTED BASE — EP 008  
-   Link: <a href="https://www.youtube.com/watch?v=sG8vAkAvyxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sG8vAkAvyxU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Hangar 18: UFO Evidence at Wright-Patterson | Fall Asleep Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sG8vAkAvyxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sG8vAkAvyxU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Hangar 18: UFO Evidence at Wright-Patterson | Fall Asleep Documentary...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CherylMcHenryWHIO/posts/after-the-alien-was-shot-and-killed-at-fort-dix-nj-a-cleanup-crew-from-wright-pa/2481372018605417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CherylMcHenryWHIO/posts/after-the-alien-was-shot-and-killed-at-fort-dix-nj-a-cleanup-crew-from-wright-pa/2481372018605417/</a>  
+   Link:<a href="https://www.facebook.com/CherylMcHenryWHIO/posts/after-the-alien-was-shot-and-killed-at-fort-dix-nj-a-cleanup-crew-from-wright-pa/2481372018605417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CherylMcHenryWHIO/posts/after-the-alien-was-shot-and-killed-at-fort-dix-nj-a-cleanup-crew-from-wright-pa/2481372018605417/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/crashes.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/crashes.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/crashes.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/crashes.htm</a>  

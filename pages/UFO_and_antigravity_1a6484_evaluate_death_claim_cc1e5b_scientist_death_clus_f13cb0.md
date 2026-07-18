@@ -284,13 +284,13 @@ One reason suspicious-scientist narratives can appear compelling is that they ar
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-1-dark.svg" | relative_url }}" alt="Cluster Claims illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A cluster can be created in ways that make unrelated events appear connected. Researchers in statistics and psychology have long noted that people naturally detect patterns in sparse or random data, especially when events are emotionally charged. The challenge for evaluating a scientist-death claim is therefore to examine the selection process behind [the list]({{ 'the-list/' | relative_url }}) before treating the list as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
+A cluster can be created in ways that make unrelated events appear connected. Researchers in statistics and psychology have long noted that people naturally detect patterns in sparse or random data, especially when events are emotionally charged. The challenge for evaluating a scientist-death claim is therefore to examine the selection process behind [the list]({{ 'the-list/' | relative_url }}) before treating the list as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
 
 ## How Lists Choose Their Boundaries
 
 The most important feature of a death cluster is often invisible: the rules used to decide who belongs on the list.
 
-In many UFO- and advanced-propulsion narratives, the category expands gradually. A list may begin with a researcher who publicly discussed antigravity concepts. It then adds a physicist who worked at a defence laboratory, an [aerospace]({{ 'aerospace/' | relative_url }}) engineer who worked near a classified programme, a retired military official associated with UFO discussions, and eventually people whose connection is only indirect. The resulting group appears specialised even though the members may come from very different fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+In many UFO- and advanced-propulsion narratives, the category expands gradually. A list may begin with a researcher who publicly discussed antigravity concepts. It then adds a physicist who worked at a defence laboratory, an [aerospace]({{ 'aerospace/' | relative_url }}) engineer who worked near a classified programme, a retired military official associated with UFO discussions, and eventually people whose connection is only indirect. The resulting group appears specialised even though the members may come from very different fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 Several boundary choices can dramatically change the appearance of a pattern:
 
@@ -299,7 +299,7 @@ Several boundary choices can dramatically change the appearance of a pattern:
 * **Institution expansion:** Anyone associated with NASA, [Los Alamos]({{ 'los-alamos/' | relative_url }}), the Air Force Research Laboratory, MIT, Caltech or similar [institutions]({{ 'institutions/' | relative_url }}) may be treated as part of the same story despite unrelated work.
 * **Outcome expansion:** Deaths, disappearances, accidents, illnesses, homicides and suicides may all be grouped together despite very different circumstances.
 
-Each expansion increases the pool of eligible cases. The larger the pool becomes, the easier it is to find apparently striking examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+Each expansion increases the pool of eligible cases. The larger the pool becomes, the easier it is to find apparently striking examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 This does not prove that a cluster is false. It means the reader should ask a basic methodological question: would the same list exist if strict inclusion rules had been defined before any names were collected?
 
@@ -310,11 +310,11 @@ This does not prove that a cluster is false. It means the reader should ask a ba
 
 Timing is often the strongest emotional element in a cluster claim.
 
-A common presentation method places multiple events into a short narrative sequence. Cases that occurred years apart can be arranged into a single timeline, making them appear part of a concentrated wave. In discussions surrounding alleged UFO- and antigravity-related deaths, some lists have combined events spanning several years while presenting them as a single emerging pattern. Journalistic reviews of these claims noted that cases cited by proponents involved different causes of death and occurred across a broad time period rather than within one tightly defined episode. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+A common presentation method places multiple events into a short narrative sequence. Cases that occurred years apart can be arranged into a single timeline, making them appear part of a concentrated wave. In discussions surrounding alleged UFO- and antigravity-related deaths, some lists have combined events spanning several years while presenting them as a single emerging pattern. Journalistic reviews of these claims noted that cases cited by proponents involved different causes of death and occurred across a broad time period rather than within one tightly defined episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-This effect is related to what statisticians and sceptical analysts describe as the **clustering illusion** or **[Texas sharpshooter]({{ 'sharpshooter/' | relative_url }}) fallacy**. The underlying mistake is to identify a pattern after seeing the data rather than defining the pattern beforehand. A cluster is treated as meaningful because attention is focused on similarities while differences are ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
+This effect is related to what statisticians and sceptical analysts describe as the **clustering illusion** or **[Texas sharpshooter]({{ 'sharpshooter/' | relative_url }}) fallacy**. The underlying mistake is to identify a pattern after seeing the data rather than defining the pattern beforehand. A cluster is treated as meaningful because attention is focused on similarities while differences are ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
 
-The metaphor is simple: a shooter fires randomly at a barn and then paints a target around the densest concentration of bullet holes. The cluster looks impressive because the boundaries were drawn after the fact. The same logic can apply to scientist-death lists when names are selected first and a unifying explanation is proposed afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
+The metaphor is simple: a shooter fires randomly at a barn and then paints a target around the densest concentration of bullet holes. The cluster looks impressive because the boundaries were drawn after the fact. The same logic can apply to scientist-death lists when names are selected first and a unifying explanation is proposed afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-2-dark.svg" | relative_url }}" alt="Cluster Claims illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ The metaphor is simple: a shooter fires randomly at a barn and then paints a tar
 
 One of the strongest tests of a cluster is to examine what was excluded.
 
-If a list highlights eleven deaths or disappearances linked to aerospace or advanced research, a critical question is how many comparable researchers experienced no unusual outcome during the same period. Without that denominator, it is impossible to know whether the highlighted cases are statistically remarkable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</span></span></span>
+If a list highlights eleven deaths or disappearances linked to aerospace or advanced research, a critical question is how many comparable researchers experienced no unusual outcome during the same period. Without that denominator, it is impossible to know whether the highlighted cases are statistically remarkable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</span></span></span>
 
-Large scientific and defence communities contain thousands of people. Over several years, some members will die from illness, accidents, homicide, suicide or natural causes simply because such events occur in any large population. A cluster can seem extraordinary when only the selected cases are visible and the much larger background population disappears from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</span></span></span>
+Large scientific and defence communities contain thousands of people. Over several years, some members will die from illness, accidents, homicide, suicide or natural causes simply because such events occur in any large population. A cluster can seem extraordinary when only the selected cases are visible and the much larger background population disappears from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</span></span></span>
 
-This is why epidemiologists and statisticians are cautious about claims based solely on apparent concentrations of events. A visible cluster is not automatically evidence of a common cause. The question is whether the observed number exceeds what would reasonably be expected once the size of the underlying population is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fallacyfiles.org/texsharp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe Texas Sharpshooter FallacyThis fallacy occurs when someone jumps to the conclusion that a cluster in data must be the re...</span></span></span>
+This is why epidemiologists and statisticians are cautious about claims based solely on apparent concentrations of events. A visible cluster is not automatically evidence of a common cause. The question is whether the observed number exceeds what would reasonably be expected once the size of the underlying population is considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fallacyfiles.org/texsharp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Fallacy FilesThe Texas Sharpshooter FallacyThis fallacy occurs when someone jumps to the conclusion that a cluster in data must be the re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YcHt-OBkabU" title="UFO insider reveals pattern behind missing scientists | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer">UFO insider reveals pattern behind missing scientists | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 509.8K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YcHt-OBkabU">Open on YouTube</a></p></div></div></div>
@@ -362,7 +362,7 @@ By contrast, weaker indicators include:
 
 </div>
 
-Those similarities can be useful starting points for investigation, but they do not by themselves establish a coordinated campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
+Those similarities can be useful starting points for investigation, but they do not by themselves establish a coordinated campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-3-dark.svg" | relative_url }}" alt="Cluster Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_scientist_death_clus_f13cb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -370,203 +370,203 @@ Those similarities can be useful starting points for investigation, but they do 
 
 Scientist-[death clusters]({{ 'death-clusters/' | relative_url }}) feel convincing because they combine several powerful psychological effects at once.
 
-The cases involve real people, often connected to advanced technology, classified work or subjects already associated with secrecy. The events are emotionally charged. The names are collected into a single narrative. Similarities are emphasised, differences are compressed, and the resulting list appears more coherent than the underlying evidence may justify. Analysts of recent "missing scientists" claims have argued that this process can transform a collection of unrelated incidents into what looks like a single mystery, even when public evidence for a common cause remains absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+The cases involve real people, often connected to advanced technology, classified work or subjects already associated with secrecy. The events are emotionally charged. The names are collected into a single narrative. Similarities are emphasised, differences are compressed, and the resulting list appears more coherent than the underlying evidence may justify. Analysts of recent "missing scientists" claims have argued that this process can transform a collection of unrelated incidents into what looks like a single mystery, even when public evidence for a common cause remains absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-For readers evaluating suspicious death claims connected to UFO or antigravity research, the key lesson is that a cluster is not evidence by itself. The cluster is the starting point. The real question is whether the connections existed before the list was assembled, or whether the list itself created the appearance of a connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
+For readers evaluating suspicious death claims connected to UFO or antigravity research, the key lesson is that a cluster is not evidence by itself. The cluster is the starting point. The real question is whether the connections existed before the list was assembled, or whether the list itself created the appearance of a connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Texas sharpshooter fallacy</span><span class="citation-popover-snippet">Texas sharpshooter fallacy</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tkKTDnPVitQ" title="The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer">The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????</a></p><p class="youtube-embed-meta">Channel: Stephanie Harlowe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tkKTDnPVitQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Scientist Death Lists Feel Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Scientist Death Lists Feel Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how people can be persuaded by weak evidence, apparent patterns, and conspiracy-style narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how people can be persuaded by weak evidence, apparent patterns, and conspiracy-style narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that make clusters, coincidences, and selective evidence appear meaningful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that make clusters, coincidences, and selective evidence appear meaningful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers understand how random events can be misinterpreted as deliberate or connected.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers understand how random events can be misinterpreted as deliberate or connected.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Focuses on why people form beliefs, detect patterns, and maintain conspiracy-style explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on why people form beliefs, detect patterns, and maintain conspiracy-style explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="cluster-claims-why-scientist-death-lists-feel-convincing-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,81 +772,81 @@ For readers evaluating suspicious death claims connected to UFO or antigravity r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Texas sharpshooter fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/math-and-statistics-help-explain-the-fbis-missing-scientists-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanMath and statistics help explain the FBI&#x27;s &#x27;missing scientists&#x27;...Statistical principles show you don&#x27;t need a nefari...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fallacyfiles.org  
-   Link: <a href="https://www.fallacyfiles.org/texsharp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/texsharp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe Texas Sharpshooter FallacyThis fallacy occurs when someone jumps to the conclusion that a cluster in data must be the re...</p></details>
+   Link:<a href="https://www.fallacyfiles.org/texsharp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/texsharp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe Texas Sharpshooter FallacyThis fallacy occurs when someone jumps to the conclusion that a cluster in data must be the re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gui.do  
    Title: do Jansen Texas sharpshooter fallacy  
-   Link: <a href="https://gui.do/post/texas-sharpshooter-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://gui.do/post/texas-sharpshooter-fallacy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas sharpshooter fallacy - Guido Jansen11 Dec 2017 — The clustering of houses for sale could also just be a coincidence without a cause...</p></details>
+   Link:<a href="https://gui.do/post/texas-sharpshooter-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://gui.do/post/texas-sharpshooter-fallacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas sharpshooter fallacy - Guido Jansen11 Dec 2017 — The clustering of houses for sale could also just be a coincidence without a cause...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXP-XYZgUAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXP-XYZgUAH/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Amy Eskridge](&amp;#123;&amp;#123; &#x27;amy-eskridge/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s death is the latest to be grouped in...SCIENTIST #1 Amy Eskridge Independent researcher... UFO / extraterrestrial resear...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXP-XYZgUAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXP-XYZgUAH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Amy Eskridge](&amp;#123;&amp;#123; &#x27;amy-eskridge/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s death is the latest to be grouped in...SCIENTIST #1 Amy Eskridge Independent researcher... UFO / extraterrestrial resear...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/16236206/scientist-dead-after-danger-warning-trump-vows-answers/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16236206/scientist-dead-after-danger-warning-trump-vows-answers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space scientist found dead after warning &#x27;my life is in danger&#x27; becomes ELEVENTH mysterious case as Trump vows answers. Georgie...Read more...</p></details>
+   Link:<a href="https://www.the-sun.com/news/16236206/scientist-dead-after-danger-warning-trump-vows-answers/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16236206/scientist-dead-after-danger-warning-trump-vows-answers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space scientist found dead after warning &#x27;my life is in danger&#x27; becomes ELEVENTH mysterious case as Trump vows answers. Georgie...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arynewsasia/posts/amy-eskridges-mysterious-death-ufo-researchers-final-texts-spark-conspiracy-theo/1460897642728357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arynewsasia/posts/amy-eskridges-mysterious-death-ufo-researchers-final-texts-spark-conspiracy-theo/1460897642728357/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Researcher&#x27;s Final Texts Spark Conspiracy Theories#UFO #Mystery #Aliens #Discovery #MysteriousHistory #StrangeObjects #Alien · May be...</p></details>
+   Link:<a href="https://www.facebook.com/arynewsasia/posts/amy-eskridges-mysterious-death-ufo-researchers-final-texts-spark-conspiracy-theo/1460897642728357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arynewsasia/posts/amy-eskridges-mysterious-death-ufo-researchers-final-texts-spark-conspiracy-theo/1460897642728357/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Researcher&#x27;s Final Texts Spark Conspiracy Theories#UFO #Mystery #Aliens #Discovery #MysteriousHistory #StrangeObjects #Alien · May be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/the-texas-sharpshooter" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/the-texas-sharpshooter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is the texas sharpshooterThis &#x27;false cause&#x27; fallacy is coined after a marksman shooting randomly at barns and then p...</p></details>
+   Link:<a href="https://yourlogicalfallacyis.com/the-texas-sharpshooter" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/the-texas-sharpshooter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is the texas sharpshooterThis &#x27;false cause&#x27; fallacy is coined after a marksman shooting randomly at barns and then p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Texas-Sharpshooter-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Texas-Sharpshooter-Fallacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Sharpshooter Fallacy(also known as: clustering illusion). Description: Ignoring the difference while focusing on the similarities...</p></details>
+   Link:<a href="https://www.logicallyfallacious.com/logicalfallacies/Texas-Sharpshooter-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Texas-Sharpshooter-Fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Sharpshooter Fallacy(also known as: clustering illusion). Description: Ignoring the difference while focusing on the similarities...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>String of missing or dead scientists &#x27;too coincidental&#x27; not...17 Apr 2026 — Eskridge revealed in a 2020 interview that she had plans to...</p></details>
+   Link:<a href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>String of missing or dead scientists &#x27;too coincidental&#x27; not...17 Apr 2026 — Eskridge revealed in a 2020 interview that she had plans to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mycharisma.com  
-   Link: <a href="https://mycharisma.com/culture/mystery-deepens-after-11th-scientist-death-linked-to-ufo-and-anti-gravity-research/" target="_blank" rel="noopener noreferrer nofollow">https://mycharisma.com/culture/mystery-deepens-after-11th-scientist-death-linked-to-ufo-and-anti-gravity-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Deepens After 11th Scientist Death Linked to UFO...17 Apr 2026 — Mysterious death of anti-gravity scientist adds to 11 cases inv...</p></details>
+   Link:<a href="https://mycharisma.com/culture/mystery-deepens-after-11th-scientist-death-linked-to-ufo-and-anti-gravity-research/" target="_blank" rel="noopener noreferrer nofollow">https://mycharisma.com/culture/mystery-deepens-after-11th-scientist-death-linked-to-ufo-and-anti-gravity-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Deepens After 11th Scientist Death Linked to UFO...17 Apr 2026 — Mysterious death of anti-gravity scientist adds to 11 cases inv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Amy Eskridge, who died at the age of 34, is now the eleventh person with connections to...Read more...</p></details>
+   Link:<a href="https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/scientist-11th-person-secret-research-missing-die/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Amy Eskridge, who died at the age of 34, is now the eleventh person with connections to...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: radaronline.com  
-   Link: <a href="https://radaronline.com/p/top-scientists-dead-or-missing-conspiracy-amy-eskridge-jason-thomas-trump/" target="_blank" rel="noopener noreferrer nofollow">https://radaronline.com/p/top-scientists-dead-or-missing-conspiracy-amy-eskridge-jason-thomas-trump/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial life. Then, in May 2025, 79-year-old Anthony... UFO researcher, David Wilcock had also called the situation &#x27;scary...R...</p></details>
+   Link:<a href="https://radaronline.com/p/top-scientists-dead-or-missing-conspiracy-amy-eskridge-jason-thomas-trump/" target="_blank" rel="noopener noreferrer nofollow">https://radaronline.com/p/top-scientists-dead-or-missing-conspiracy-amy-eskridge-jason-thomas-trump/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial life. Then, in May 2025, 79-year-old Anthony... UFO researcher, David Wilcock had also called the situation &#x27;scary...R...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: statology.org  
-   Link: <a href="https://www.statology.org/the-texas-sharpshooter-fallacy-drawing-bullseyes-after-the-data-is-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.statology.org/the-texas-sharpshooter-fallacy-drawing-bullseyes-after-the-data-is-in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Texas Sharpshooter Fallacy: Drawing Bullseyes After...26 Mar 2026 — Learn how the Texas Sharpshooter Fallacy causes misleading patte...</p></details>
+   Link:<a href="https://www.statology.org/the-texas-sharpshooter-fallacy-drawing-bullseyes-after-the-data-is-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.statology.org/the-texas-sharpshooter-fallacy-drawing-bullseyes-after-the-data-is-in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Texas Sharpshooter Fallacy: Drawing Bullseyes After...26 Mar 2026 — Learn how the Texas Sharpshooter Fallacy causes misleading patte...</p></details>

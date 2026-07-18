@@ -280,15 +280,15 @@ image: /assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc
 
 ## Introduction
 
-The short answer is no: the public NASA-linked record does not show that [Ning Li]({{ 'ning-li/' | relative_url }}) built a working antigravity machine. What it does show is a technically ambitious research programme centred on large high-temperature superconducting discs, undertaken through a cooperative agreement between the University of Alabama in Huntsville (UAH) and NASA’s Marshall Space Flight Center. The project produced notable materials-engineering results, including unusually large superconducting discs, but it did not complete the decisive experiments that would have been needed to demonstrate [gravity modification]({{ 'gravity-leap/' | relative_url }}) or “antigravity”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The short answer is no: the public NASA-linked record does not show that [Ning Li]({{ 'ning-li/' | relative_url }}) built a working antigravity machine. What it does show is a technically ambitious research programme centred on large high-temperature superconducting discs, undertaken through a cooperative agreement between the University of Alabama in Huntsville (UAH) and NASA’s Marshall Space Flight Center. The project produced notable materials-engineering results, including unusually large superconducting discs, but it did not complete the decisive experiments that would have been needed to demonstrate [gravity modification]({{ 'gravity-leap/' | relative_url }}) or “antigravity”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-1-dark.svg" | relative_url }}" alt="NASA Discs illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to the wider debate around Ning Li. In [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) discussions, the existence of NASA involvement is often treated as proof that extraordinary results were achieved. The actual documentation points to something more limited and more interesting: a case where promising theoretical ideas led to difficult experiments, yet the crucial measurements remained unfinished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+This distinction is central to the wider debate around Ning Li. In [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) discussions, the existence of NASA involvement is often treated as proof that extraordinary results were achieved. The actual documentation points to something more limited and more interesting: a case where promising theoretical ideas led to difficult experiments, yet the crucial measurements remained unfinished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 ## What the Cooperative Agreement Actually Covered
 
-The most important public document is the final report for Cooperative Agreement NCC8-124 between NASA Marshall Space Flight Center and UAH, covering December 1996 through December 2000. The project was connected to research into possible gravitational effects associated with high-temperature [superconductors]({{ 'superconductors/' | relative_url }}) and was intended to combine materials development, experimental hardware and precision measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The most important public document is the final report for Cooperative Agreement NCC8-124 between NASA Marshall Space Flight Center and UAH, covering December 1996 through December 2000. The project was connected to research into possible gravitational effects associated with high-temperature [superconductors]({{ 'superconductors/' | relative_url }}) and was intended to combine materials development, experimental hardware and precision measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 The report makes clear that the programme was not presented as a completed antigravity demonstration. Instead, it describes a staged effort:
 
@@ -298,11 +298,11 @@ The report makes clear that the programme was not presented as a completed antig
 * Manufacture large, high-quality superconducting discs.
 * Develop equipment capable of levitating and rotating those discs.
 * Build instrumentation sensitive enough to detect extremely small gravitational anomalies.
-* Conduct final experiments to determine whether any measurable effect existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+* Conduct final experiments to determine whether any measurable effect existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 </div>
 
-The document repeatedly emphasises the technical difficulty of reaching the final experimental stage. According to the report, technological challenges prevented completion of the intended measurements during the agreement period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The document repeatedly emphasises the technical difficulty of reaching the final experimental stage. According to the report, technological challenges prevented completion of the intended measurements during the agreement period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 That point is often lost in later retellings. NASA participation demonstrates institutional interest in testing an unconventional hypothesis, not confirmation that the hypothesis succeeded.
 
@@ -311,17 +311,17 @@ That point is often lost in later retellings. NASA participation demonstrates in
 
 ## What the 12-Inch Superconducting Discs Did and Did Not Prove
 
-One genuine accomplishment documented in the report was the fabrication of two 12-inch YBCO (yttrium barium copper oxide) superconducting discs. The report describes them as the first discs of that size and quality produced in the United States. This was a significant materials-engineering achievement because large, mechanically stable high-temperature superconductors were difficult to manufacture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+One genuine accomplishment documented in the report was the fabrication of two 12-inch YBCO (yttrium barium copper oxide) superconducting discs. The report describes them as the first discs of that size and quality produced in the United States. This was a significant materials-engineering achievement because large, mechanically stable high-temperature superconductors were difficult to manufacture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 The discs are important because they became a recurring feature of later antigravity stories. However, the leap from “large superconducting discs were built” to “antigravity was demonstrated” is not supported by the available evidence.
 
-The report treats the discs as experimental components rather than proof of a physical effect. Their purpose was to enable future testing of theories that Li and collaborators had explored in earlier papers concerning gravitomagnetic interactions and superconducting matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The report treats the discs as experimental components rather than proof of a physical effect. Their purpose was to enable future testing of theories that Li and collaborators had explored in earlier papers concerning gravitomagnetic interactions and superconducting matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 In practical terms:
 
 What the record showsWhat the record does not showLarge superconducting discs were successfully fabricated.Verified gravity shielding.NASA and UAH invested effort in testing unconventional gravity-related ideas.A reproducible antigravity device.Researchers planned experiments involving levitated and rotating superconductors.Independent confirmation of weight reduction or propulsion effects.The project faced instrumentation and technical obstacles.Completion of the key experiments.
 
-The distinction matters because many later claims rely on the existence of the discs themselves as evidence that the underlying theory had already been validated. The public documentation does not support that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The distinction matters because many later claims rely on the existence of the discs themselves as evidence that the underlying theory had already been validated. The public documentation does not support that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-2-dark.svg" | relative_url }}" alt="NASA Discs illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,9 +329,9 @@ The distinction matters because many later claims rely on the existence of the d
 
 The strongest evidence gap in the Ning Li story is not the disappearance of data but the absence of completed measurements.
 
-The final report states that the desired experiments using the superconducting specimens were not carried out as planned and that the specimens were never used in the intended final tests. The major remaining challenge was developing instrumentation capable of detecting tiny changes in a gravitational field with sufficient confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The final report states that the desired experiments using the superconducting specimens were not carried out as planned and that the specimens were never used in the intended final tests. The major remaining challenge was developing instrumentation capable of detecting tiny changes in a gravitational field with sufficient confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
-That limitation is crucial because extraordinary claims in physics require extraordinarily robust measurement. Detecting a genuine gravitational anomaly is difficult. Small environmental effects, vibration, magnetic interference, thermal changes and instrument drift can all create false signals. The project therefore depended not only on producing superconductors but also on proving that any observed effect was real and repeatable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+That limitation is crucial because extraordinary claims in physics require extraordinarily robust measurement. Detecting a genuine gravitational anomaly is difficult. Small environmental effects, vibration, magnetic interference, thermal changes and instrument drift can all create false signals. The project therefore depended not only on producing superconductors but also on proving that any observed effect was real and repeatable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 Without those completed measurements, neither success nor failure could be firmly established from the public record. The result is a vacuum that later speculation readily filled.
 
@@ -340,11 +340,11 @@ Without those completed measurements, neither success nor failure could be firml
 
 ## The Link to Earlier Antigravity Claims
 
-Public interest in Li's work did not emerge from the NASA agreement alone. Earlier theoretical papers by Li and Douglas Torr proposed that aligned superconducting ions might generate unusually strong gravitomagnetic effects under specific conditions. Those ideas attracted attention because they suggested a possible route to manipulating gravity-like fields in the laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyRole of Superconductors in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the e...</span></span></span>
+Public interest in Li's work did not emerge from the NASA agreement alone. Earlier theoretical papers by Li and Douglas Torr proposed that aligned superconducting ions might generate unusually strong gravitomagnetic effects under specific conditions. Those ideas attracted attention because they suggested a possible route to manipulating gravity-like fields in the laboratory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyRole of Superconductors in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the e...</span></span></span>
 
-At roughly the same time, claims by Finnish researcher Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }}) regarding anomalous weight reductions above superconductors were generating debate. Li and colleagues published work discussing such reports and conducted experiments of their own. Importantly, a 1997 paper associated with Li's group described tests that did not reproduce dramatic gravitational effects from stationary superconductors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</span></span></span>
+At roughly the same time, claims by Finnish researcher Eugene [Podkletnov]({{ 'podkletnov/' | relative_url }}) regarding anomalous weight reductions above superconductors were generating debate. Li and colleagues published work discussing such reports and conducted experiments of their own. Importantly, a 1997 paper associated with Li's group described tests that did not reproduce dramatic gravitational effects from stationary superconductors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</span></span></span>
 
-This is one reason the NASA disc project should not be viewed as a straightforward continuation of a proven discovery. The broader scientific picture was already uncertain, with theory, reported anomalies and experimental [verification]({{ 'verification/' | relative_url }}) pulling in different directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</span></span></span>
+This is one reason the NASA disc project should not be viewed as a straightforward continuation of a proven discovery. The broader scientific picture was already uncertain, with theory, reported anomalies and experimental [verification]({{ 'verification/' | relative_url }}) pulling in different directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zdewIFNQGaQ" title="Ning Li, Podkletnov, Superconductors &amp; Antigravity | Glen &quot;Tony&quot; Robertson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zdewIFNQGaQ" target="_blank" rel="noopener noreferrer">Ning Li, Podkletnov, Superconductors &amp; Antigravity | Glen &quot;Tony&quot; Robertson</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zdewIFNQGaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zdewIFNQGaQ">Open on YouTube</a></p></div></div></div>
@@ -353,9 +353,9 @@ This is one reason the NASA disc project should not be viewed as a straightforwa
 
 A recurring misconception is that NASA's involvement implies that antigravity was validated behind closed doors. The documentary record supports a more cautious interpretation.
 
-NASA has a history of funding exploratory propulsion and physics concepts that are considered high risk and potentially high reward. Funding or cooperation indicates that an idea was considered worthy of investigation, not that it worked. The NCC8-124 report reads like a development programme attempting to reach a decisive test, not a report announcing a breakthrough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+NASA has a history of funding exploratory propulsion and physics concepts that are considered high risk and potentially high reward. Funding or cooperation indicates that an idea was considered worthy of investigation, not that it worked. The NCC8-124 report reads like a development programme attempting to reach a decisive test, not a report announcing a breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
-The fact that the project encountered technical obstacles is also consistent with many experimental research efforts. In this case, the public record preserves evidence of the engineering progress but not evidence of a confirmed gravity-control effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The fact that the project encountered technical obstacles is also consistent with many experimental research efforts. In this case, the public record preserves evidence of the engineering progress but not evidence of a confirmed gravity-control effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-3-dark.svg" | relative_url }}" alt="NASA Discs illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_nasa_disc_claims_5516e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,199 +363,199 @@ The fact that the project encountered technical obstacles is also consistent wit
 
 For readers trying to separate documented facts from later mythology, the NASA-linked evidence leads to a fairly specific conclusion.
 
-The record demonstrates that Ning Li was involved in a serious research effort examining whether high-temperature superconductors could produce measurable gravitational effects. It demonstrates that substantial work went into manufacturing large superconducting discs and preparing for sophisticated experiments. It also demonstrates that the key experiments were not completed within the documented programme and that no public NASA record shows a verified antigravity result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+The record demonstrates that Ning Li was involved in a serious research effort examining whether high-temperature superconductors could produce measurable gravitational effects. It demonstrates that substantial work went into manufacturing large superconducting discs and preparing for sophisticated experiments. It also demonstrates that the key experiments were not completed within the documented programme and that no public NASA record shows a verified antigravity result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
-That is why the superconducting-disc project remains important in discussions of Ning Li. It is not evidence that antigravity was achieved. Rather, it is evidence of a research path that advanced far enough to attract attention, produce unusual hardware and leave behind an unresolved question: what, if anything, would the unfinished measurements have shown? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
+That is why the superconducting-disc project remains important in discussions of Ning Li. It is not evidence that antigravity was achieved. Rather, it is evidence of a research path that advanced far enough to attract attention, produce unusual hardware and leave behind an unresolved question: what, if anything, would the unfinished measurements have shown?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did NASA Records Prove Ning Li Built Antigravity?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did NASA Records Prove Ning Li Built Antigravity?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly examines antigravity research claims, government projects, and figures often discussed alongside Ning Li.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines antigravity research claims, government projects, and figures often discussed alongside Ning Li.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how government-linked evidence and extraordinary aerospace claims are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how government-linked evidence and extraordinary aerospace claims are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Explores speculative technologies and assesses whether ideas such as gravity manipulation fit within known physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores speculative technologies and assesses whether ideas such as gravity manipulation fit within known physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”"><img src="{{ '/assets/images/marketplace-covers/ec45b4187f5d87d82e85.jpg' | relative_url }}" alt="Listing image for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”"><img src="{{ '/assets/images/marketplace-covers/ec45b4187f5d87d82e85.jpg' | relative_url }}" alt="Listing image for NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL “GALACTIC GRAVEYARD” EXOPLANET EXPLORATION SPACE PATCH- 3.5”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH"><img src="{{ '/assets/images/marketplace-covers/9aa9bba78264485b0479.jpg' | relative_url }}" alt="Listing image for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH"><img src="{{ '/assets/images/marketplace-covers/9aa9bba78264485b0479.jpg' | relative_url }}" alt="Listing image for NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - MARS 2020 PERSEVERANCE ROVER - Exploration Program Mission PATCH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/065fe9235652b590b504.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/065fe9235652b590b504.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 The Perseverance Rover Exploration Program Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/334ac7456e7118f2e4c7.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch"><img src="{{ '/assets/images/marketplace-covers/334ac7456e7118f2e4c7.jpg' | relative_url }}" alt="Listing image for NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">NASA JPL - Mars 2020 Perseverance Rover Exploration Program Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA JPL patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA JPL patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+JPL+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA JPL patch" data-ebay-reference="nasa-discs-did-nasa-records-prove-ning-li-built-antigravity-ufo-and-antigravity-nasa-jpl-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That is why the superconducting-disc project remains important in discussions of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That is why the superconducting-disc project remains important in discussions of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That is why the superconducting-disc project remains important in discussions of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That is why the superconducting-disc project remains important in discussions of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That is why the superconducting-disc project remains important in discussions of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,92 +761,92 @@ That is why the superconducting-disc project remains important in discussions of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20000038203/downloads/20000038203.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agreement. NCC8-124. Between NASA/MSFC and UAH. Final Report. Dr. Ning Li. 12/4/96. - 12/03/2000. Consortium for Materials.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19990039542" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19990039542</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerStatic Test for a Gravitational Force Coupled to Type 2...by N Li · 1997 · Cited by 67 — Recent experiments...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19940032478/downloads/19940032478.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19940032478/downloads/19940032478.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DC Holley · 1994 — Throughout the experiment, all animals were protected from exposure to any stray light. Routine maintenance was perfor...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19940032478/downloads/19940032478.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19940032478/downloads/19940032478.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DC Holley · 1994 — Throughout the experiment, all animals were protected from exposure to any stray light. Routine maintenance was perfor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19980236656/downloads/19980236656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19980236656/downloads/19980236656.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH cooperation, NASA has funded 28 research proposals and has also supported NIH-approved researchers to test tissue samples in NAS...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19980236656/downloads/19980236656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19980236656/downloads/19980236656.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIH cooperation, NASA has funded 28 research proposals and has also supported NIH-approved researchers to test tissue samples in NAS...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyRole of Superconductors in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the e...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyRole of Superconductors in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the e...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/physics/0108005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/physics/0108005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse Gravity Generator Based on Charged Y...by E Podkletnov · 2001 · Cited by 45 — An apparatus has been constructed and tested in wh...</p></details>
+   Link:<a href="https://arxiv.org/pdf/physics/0108005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/physics/0108005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse Gravity Generator Based on Charged Y...by E Podkletnov · 2001 · Cited by 45 — An apparatus has been constructed and tested in wh...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2047949272445706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2047949272445706/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vortex-1 craft uses gravity-nullification fieldThis field would allegedly allow the craft to perform high-speed maneuvers, like 90-degree...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1572893699951268/posts/2047949272445706/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2047949272445706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vortex-1 craft uses gravity-nullification fieldThis field would allegedly allow the craft to perform high-speed maneuvers, like 90-degree...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-idea-of-reality/vanishing-minds-why-are-scientists-in-energy-uap-and-advanced-physics-dying-or-disappearing-42aae895e4b4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/vanishing-minds-why-are-scientists-in-energy-uap-and-advanced-physics-dying-or-disappearing-42aae895e4b4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing Minds: Why Are Scientists in Energy, UAP and...Ning Li. Physicist Known for Gravity Research and Later Classified Work (1943–2...</p></details>
+   Link:<a href="https://medium.com/the-idea-of-reality/vanishing-minds-why-are-scientists-in-energy-uap-and-advanced-physics-dying-or-disappearing-42aae895e4b4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-idea-of-reality/vanishing-minds-why-are-scientists-in-energy-uap-and-advanced-physics-dying-or-disappearing-42aae895e4b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanishing Minds: Why Are Scientists in Energy, UAP and...Ning Li. Physicist Known for Gravity Research and Later Classified Work (1943–2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: Anti-Gravity Researcher Speaks on Scientist Death Case Dr  
-   Link: <a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li developed anti-gravity technology at the University of Alabama on a grant from the US government. She then went on to start her o...</p></details>
+   Link:<a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li developed anti-gravity technology at the University of Alabama on a grant from the US government. She then went on to start her o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: zenodo.org  
    Title: Unified Classical Resonance Model (UCRM)[36] Li, N.,  
-   Link: <a href="https://zenodo.org/records/19144052/files/Unified%20Classical%20Resonance%20Model%20%28UCRM%29%203.21.2026%20%20V1.2.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/19144052/files/Unified%20Classical%20Resonance%20Model%20%28UCRM%29%203.21.2026%20%20V1.2.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Cooperative Agreement NCC8-124. December 4, 1996 – December 3, 2000. Consortium for Materials Development in Space (Phase II continu...</p></details>
+   Link:<a href="https://zenodo.org/records/19144052/files/Unified%20Classical%20Resonance%20Model%20%28UCRM%29%203.21.2026%20%20V1.2.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/19144052/files/Unified%20Classical%20Resonance%20Model%20%28UCRM%29%203.21.2026%20%20V1.2.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Cooperative Agreement NCC8-124. December 4, 1996 – December 3, 2000. Consortium for Materials Development in Space (Phase II continu...</p></details>
    Published: December 4, 1996  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: Solving the Mystery Behind the Disappearance of Dr  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning LiIn the late 90s, she claimed to have created anti-gravity devices that were fully functional, and this was big news in both scient...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning LiIn the late 90s, she claimed to have created anti-gravity devices that were fully functional, and this was big news in both scient...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: altpropulsion.com  
    Title: ning li podkletnov superconductors gravity control  
-   Link: <a href="https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li, Podkletnov, Superconductors &amp; Gravity Control22 Jun 2025 — In this interview, we explore the decades-long, multi-national effort...</p></details>
+   Link:<a href="https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/ning-li-podkletnov-superconductors-gravity-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li, Podkletnov, Superconductors &amp; Gravity Control22 Jun 2025 — In this interview, we explore the decades-long, multi-national effort...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Full text of "NASA Technical Reports Server (NTRS  
-   Link: <a href="https://archive.org/stream/NASA_NTRS_Archive_20030019758/NASA_NTRS_Archive_20030019758_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NASA_NTRS_Archive_20030019758/NASA_NTRS_Archive_20030019758_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report provides current information and related statistics for each grant/contract/ cooperative agreement active during the report period...</p></details>
+   Link:<a href="https://archive.org/stream/NASA_NTRS_Archive_20030019758/NASA_NTRS_Archive_20030019758_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NASA_NTRS_Archive_20030019758/NASA_NTRS_Archive_20030019758_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report provides current information and related statistics for each grant/contract/ cooperative agreement active during the report period...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovermagazine.com  
    Title: whatever happened to antigravity research 15567  
-   Link: <a href="https://www.discovermagazine.com/whatever-happened-to-antigravity-research-15567" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/whatever-happened-to-antigravity-research-15567</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever Happened to Antigravity Research?26 Apr 2006 — Explore the latest in antigravity research, from patents for crafts to hyperdrive...</p></details>
+   Link:<a href="https://www.discovermagazine.com/whatever-happened-to-antigravity-research-15567" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/whatever-happened-to-antigravity-research-15567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever Happened to Antigravity Research?26 Apr 2006 — Explore the latest in antigravity research, from patents for crafts to hyperdrive...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/superconductors-gravity-control-research-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/superconductors-gravity-control-research-[timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the history of superconductors &amp; gravity control.Read more...</p></details>
+   Link:<a href="https://medium.com/%40timventura/superconductors-gravity-control-research-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/superconductors-gravity-control-research-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the history of superconductors &amp; gravity control.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: altpropulsion.com  
    Title: the nasa superconductor gravity team  
-   Link: <a href="https://www.altpropulsion.com/the-nasa-superconductor-gravity-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-nasa-superconductor-gravity-team/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 28, 2021 —... NASA experiment, initially proposed by Dr. Ning Li, that aimed to harness the power of superconductivity to achieve, p...</p></details>
+   Link:<a href="https://www.altpropulsion.com/the-nasa-superconductor-gravity-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/the-nasa-superconductor-gravity-team/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 28, 2021 —... NASA experiment, initially proposed by Dr. Ning Li, that aimed to harness the power of superconductivity to achieve, p...</p></details>

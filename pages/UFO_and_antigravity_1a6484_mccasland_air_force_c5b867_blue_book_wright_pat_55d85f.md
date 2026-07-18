@@ -280,21 +280,21 @@ image: /assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue
 
 ## Introduction
 
-Wright-Patterson Air Force Base occupies a unique place in UFO culture because it was not merely associated with rumours; it was the actual headquarters of the U.S. Air Force’s longest-running official UFO investigation. From the early Cold War through 1969, Project Blue Book collected, analysed and archived thousands of reports of unidentified flying objects. That documented history gave Wright-Patterson a lasting reputation as the place where the Air Force confronted the UFO question directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+Wright-Patterson Air Force Base occupies a unique place in UFO culture because it was not merely associated with rumours; it was the actual headquarters of the U.S. Air Force’s longest-running official UFO investigation. From the early Cold War through 1969, Project Blue Book collected, analysed and archived thousands of reports of unidentified flying objects. That documented history gave Wright-Patterson a lasting reputation as the place where the Air Force confronted the UFO question directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That legacy matters when evaluating later claims involving retired Major General William McCasland, who commanded the Air Force Research Laboratory (AFRL) at Wright-Patterson decades after Blue Book ended. The base’s historical association with UFO investigations helps explain why some observers connect modern [aerospace]({{ 'aerospace/' | relative_url }}) officials to alleged hidden programmes. However, the existence of Project Blue Book at Wright-Patterson does not itself demonstrate that later AFRL commanders possessed knowledge of Roswell debris, extraterrestrial technology, or secret reverse-engineering efforts. The power of the association lies largely in history, symbolism and public memory rather than documented continuity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+That legacy matters when evaluating later claims involving retired Major General William McCasland, who commanded the Air Force Research Laboratory (AFRL) at Wright-Patterson decades after Blue Book ended. The base’s historical association with UFO investigations helps explain why some observers connect modern [aerospace]({{ 'aerospace/' | relative_url }}) officials to alleged hidden programmes. However, the existence of Project Blue Book at Wright-Patterson does not itself demonstrate that later AFRL commanders possessed knowledge of Roswell debris, extraterrestrial technology, or secret reverse-engineering efforts. The power of the association lies largely in history, symbolism and public memory rather than documented continuity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
 ## Why Wright-Patterson Still Haunts UFO Stories
 
 ### Project Blue Book at Wright-Patterson
 
-Project Blue Book was the Air Force's official UFO investigation programme from 1952 until its closure in 1969, though the broader military effort to examine unusual aerial reports began earlier. Wright-Patterson served as the programme's headquarters and became the central repository for reports, analyses and correspondence relating to UFO sightings. Naval History and Heritage Command+3af.mil+3National Archives <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+Project Blue Book was the Air Force's official UFO investigation programme from 1952 until its closure in 1969, though the broader military effort to examine unusual aerial reports began earlier. Wright-Patterson served as the programme's headquarters and became the central repository for reports, analyses and correspondence relating to UFO sightings. Naval History and Heritage Command+3af.mil+3National Archives<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-According to Air Force and National Archives records, Blue Book examined 12,618 reported sightings. Most were ultimately attributed to ordinary explanations such as aircraft, balloons, astronomical objects, weather phenomena or reporting errors. Yet 701 cases remained officially classified as unidentified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+According to Air Force and National Archives records, Blue Book examined 12,618 reported sightings. Most were ultimately attributed to ordinary explanations such as aircraft, balloons, astronomical objects, weather phenomena or reporting errors. Yet 701 cases remained officially classified as unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-The significance of those 701 cases is often misunderstood. The Air Force's position was not that these reports represented alien spacecraft; rather, investigators concluded that available information was insufficient to determine a definitive explanation. At the same time, the Air Force stated that Blue Book found no evidence that UFOs represented advanced extraterrestrial vehicles or a threat to national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+The significance of those 701 cases is often misunderstood. The Air Force's position was not that these reports represented alien spacecraft; rather, investigators concluded that available information was insufficient to determine a definitive explanation. At the same time, the Air Force stated that Blue Book found no evidence that UFOs represented advanced extraterrestrial vehicles or a threat to national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
 Nevertheless, the combination of official investigation, classified Cold War programmes and hundreds of unresolved reports created a powerful narrative foundation. Unlike many UFO legends, Blue Book was real, government-funded and headquartered at a real military installation. That fact gave later speculation a durable anchor.
 
@@ -305,21 +305,21 @@ Nevertheless, the combination of official investigation, classified Cold War pro
 
 Wright-Patterson's reputation expanded beyond Blue Book itself because UFO researchers increasingly linked the base to stories about recovered materials and alleged crash retrievals. Over time, claims emerged that debris from the 1947 Roswell incident or other purported UFO recoveries had been transported to Wright-Patterson for analysis.
 
-What is notable is that these claims developed largely outside the official Blue Book record. Blue Book was an investigative programme focused on reports and sightings; it was not publicly described as a repository for alien craft. Yet because the programme was headquartered at Wright-Patterson, many later narratives merged the base's documented role in UFO investigations with separate and often unverified allegations about recovered technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+What is notable is that these claims developed largely outside the official Blue Book record. Blue Book was an investigative programme focused on reports and sightings; it was not publicly described as a repository for alien craft. Yet because the programme was headquartered at Wright-Patterson, many later narratives merged the base's documented role in UFO investigations with separate and often unverified allegations about recovered technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-This fusion of distinct stories helped transform Wright-Patterson from a location associated with UFO reporting into a symbol of alleged government secrecy. As the Roswell mythos expanded in the 1970s and 1980s, the base became a recurring destination in conspiracy literature even when supporting documentation remained limited or absent. Historical examinations of Roswell have generally pointed toward Cold War military projects rather than confirmed extraterrestrial recoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
+This fusion of distinct stories helped transform Wright-Patterson from a location associated with UFO reporting into a symbol of alleged government secrecy. As the Roswell mythos expanded in the 1970s and 1980s, the base became a recurring destination in conspiracy literature even when supporting documentation remained limited or absent. Historical examinations of Roswell have generally pointed toward Cold War military projects rather than confirmed extraterrestrial recoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Here&#x27;s the Proof There&#x27;s No Government Alien Conspiracy Around Roswell</span><span class="citation-popover-snippet">However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</span></span></span>
 
 ## The Unresolved-Sighting Legacy
 
 The most enduring aspect of Blue Book is not what it proved but what it failed to resolve. The figure of 701 unidentified cases remains one of the most frequently cited statistics in UFO discussions because it allows competing interpretations.
 
-For sceptics, the number reflects the inevitable reality that some reports lack sufficient information for definitive conclusions. In a database of more than twelve thousand cases, a residual category of unexplained incidents is not surprising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+For sceptics, the number reflects the inevitable reality that some reports lack sufficient information for definitive conclusions. In a database of more than twelve thousand cases, a residual category of unexplained incidents is not surprising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-For UFO proponents, the same number suggests that the Air Force never fully solved the mystery. The existence of officially unresolved cases is often presented as evidence that something extraordinary remained hidden within the files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+For UFO proponents, the same number suggests that the Air Force never fully solved the mystery. The existence of officially unresolved cases is often presented as evidence that something extraordinary remained hidden within the files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-The tension between those interpretations helped preserve Wright-Patterson's aura long after Blue Book closed. The National Archives still maintains extensive Blue Book records, and the files have been publicly available for decades. Yet public fascination persists because the archive contains ambiguity rather than a universally accepted answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
+The tension between those interpretations helped preserve Wright-Patterson's aura long after Blue Book closed. The National Archives still maintains extensive Blue Book records, and the files have been publicly available for decades. Yet public fascination persists because the archive contains ambiguity rather than a universally accepted answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
 
-Another factor is the programme's complicated historical reputation. Critics argued that some periods of Blue Book were overly focused on reducing unexplained cases rather than aggressively investigating them, while others believed the programme was unfairly accused of concealment. Debates surrounding scientists such as J. Allen Hynek further reinforced the perception that official investigations left important questions unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
+Another factor is the programme's complicated historical reputation. Critics argued that some periods of Blue Book were overly focused on reducing unexplained cases rather than aggressively investigating them, while others believed the programme was unfairly accused of concealment. Debates surrounding scientists such as J. Allen Hynek further reinforced the perception that official investigations left important questions unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
 The result is a legacy in which Wright-Patterson remains associated not with a proven secret, but with an unresolved question.
 
@@ -329,227 +329,227 @@ The result is a legacy in which Wright-Patterson remains associated not with a p
 
 When William McCasland later became commander of AFRL at Wright-Patterson, he inherited a base with decades of UFO symbolism already attached to it. That symbolism is crucial for understanding why his name became linked to disclosure narratives and classified-secrets speculation.
 
-AFRL is a modern scientific research organisation responsible for advanced aerospace, materials, propulsion, space and defence technologies. It is institutionally distinct from Project Blue Book, which ended more than forty years before McCasland assumed command. The historical gap alone is significant. Blue Book was terminated in 1969; McCasland commanded AFRL from 2011 to 2013. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+AFRL is a modern scientific research organisation responsible for advanced aerospace, materials, propulsion, space and defence technologies. It is institutionally distinct from Project Blue Book, which ended more than forty years before McCasland assumed command. The historical gap alone is significant. Blue Book was terminated in 1969; McCasland commanded AFRL from 2011 to 2013.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
 Yet many discussions blur that distinction. The logic often follows a simple chain:
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_blue_book_wright_pat_55d85f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Wright-Patterson hosted Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
+1. Wright-Patterson hosted Project Blue Book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
 2. Wright-Patterson became associated with Roswell rumours.
 3. McCasland later commanded a major organisation at Wright-Patterson.
 4. Therefore, he may have known hidden UFO secrets.
 
 The first three statements are factual. The fourth is an inference rather than documented evidence.
 
-This pattern illustrates how institutional memory operates within UFO culture. Once a location becomes symbolically linked to secrecy, later officials connected to that location can acquire an aura of presumed knowledge regardless of whether evidence supports the assumption. Wright-Patterson's historical role effectively acts as a lens through which later events are interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+This pattern illustrates how institutional memory operates within UFO culture. Once a location becomes symbolically linked to secrecy, later officials connected to that location can acquire an aura of presumed knowledge regardless of whether evidence supports the assumption. Wright-Patterson's historical role effectively acts as a lens through which later events are interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-That dynamic became particularly visible after McCasland's name surfaced in UFO-related discussions and again following his disappearance in 2026. For some commentators, his AFRL leadership at Wright-Patterson appeared inherently suspicious because of the base's past. Yet the documented record connecting him to UFO secrets remains far thinner than the historical record connecting Wright-Patterson to Blue Book itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">retired air force general linked to ufo research goes missing 11918672</span><span class="citation-popover-snippet">Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</span></span></span>
+That dynamic became particularly visible after McCasland's name surfaced in UFO-related discussions and again following his disappearance in 2026. For some commentators, his AFRL leadership at Wright-Patterson appeared inherently suspicious because of the base's past. Yet the documented record connecting him to UFO secrets remains far thinner than the historical record connecting Wright-Patterson to Blue Book itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">retired air force general linked to ufo research goes missing 11918672</span><span class="citation-popover-snippet">Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
 ## The Real Legacy of Blue Book's Presence
 
-Project Blue Book left Wright-Patterson with something more durable than a government programme: it left a narrative framework. The base became one of the few places where official military investigation, Cold War secrecy, public fascination and unresolved reports genuinely intersected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+Project Blue Book left Wright-Patterson with something more durable than a government programme: it left a narrative framework. The base became one of the few places where official military investigation, Cold War secrecy, public fascination and unresolved reports genuinely intersected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-That history explains why Wright-Patterson continues to appear in stories about UFO disclosure, recovered technology and alleged hidden programmes. It also explains why figures such as William McCasland attract attention when their careers intersect with the base. But historical association should not be confused with evidentiary continuity. Blue Book's documented presence at Wright-Patterson is real; the claim that later AFRL leaders therefore possessed Roswell secrets remains unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+That history explains why Wright-Patterson continues to appear in stories about UFO disclosure, recovered technology and alleged hidden programmes. It also explains why figures such as William McCasland attract attention when their careers intersect with the base. But historical association should not be confused with evidentiary continuity. Blue Book's documented presence at Wright-Patterson is real; the claim that later AFRL leaders therefore possessed Roswell secrets remains unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
-In that sense, the true shadow cast by Project Blue Book is not a confirmed secret. It is the enduring tendency to interpret new events through the lens of one of the most famous UFO investigations in American history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
+In that sense, the true shadow cast by Project Blue Book is not a confirmed secret. It is the enduring tendency to interpret new events through the lens of one of the most famous UFO investigations in American history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uLXeJc3a-mE" title="Missing William Neil McCasland once led Wright-Patterson, a base steeped in UFO theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uLXeJc3a-mE" target="_blank" rel="noopener noreferrer">Missing William Neil McCasland once led Wright-Patterson, a base steeped in UFO theories</a></p><p class="youtube-embed-meta">Channel: ABC 7 Chicago</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uLXeJc3a-mE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uLXeJc3a-mE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wright Patterson Still Haunts UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wright Patterson Still Haunts UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical and analytical context for the Air Force&#x27;s UFO investigations and legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical and analytical context for the Air Force&#x27;s UFO investigations and legacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official investigations, military involvement, and government handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations, military involvement, and government handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly covers Project Blue Book, the programme headquartered at Wright-Patterson Air Force Base.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Project Blue Book, the programme headquartered at Wright-Patterson Air Force Base.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Helped cement public beliefs about recovered debris and alleged military secrecy connected to Air Force facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped cement public beliefs about recovered debris and alleged military secrecy connected to Air Force facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!"><img src="{{ '/assets/images/marketplace-covers/295f7e440ac06e4137a1.jpg' | relative_url }}" alt="Listing image for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!"><img src="{{ '/assets/images/marketplace-covers/295f7e440ac06e4137a1.jpg' | relative_url }}" alt="Listing image for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="blue-book-08b270-why-wright-patterson-still-haunts-ufo-stories-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,137 +755,137 @@ In that sense, the true shadow cast by Project Blue Book is not a confirmed secr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: Of these 701 remain "Unidentified." The project was headquartered at Wright  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
    Title: retired air force general linked to ufo research goes missing 11918672  
-   Link: <a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</p></details>
+   Link:<a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Though his involvement remains unverified, he commanded facilities historically linked to UFO investigations, such as Wright-Patterson’s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; there was no evidence submitted to or discovered...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; there was no evidence submitted to or discovered...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Here's the Proof There's No Government Alien Conspiracy Around Roswell  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue...</p></details>
    Published: January 9, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The Air Force&#x27;s follow-on project, Grudge, evaluated 244 rep...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The Air Force&#x27;s follow-on project, Grudge, evaluated 244 rep...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; FilesFeb 22, 2010 — Project Blue Book · When a U.S. Fighter Pilot Got into a Dogfight with a UFO · When UFOs Buzzed t...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; FilesFeb 22, 2010 — Project Blue Book · When a U.S. Fighter Pilot Got into a Dogfight with a UFO · When UFOs Buzzed t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBased at Wright-Patterson, the operation collected all reports of UFO sightings. Air Force inv...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBased at Wright-Patterson, the operation collected all reports of UFO sightings. Air Force inv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Reports 1-12 were monthly classified status reports of the Air Force&#x27;s investigations and find...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Reports 1-12 were monthly classified status reports of the Air Force&#x27;s investigations and find...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmi.org  
-   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
+   Link:<a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookIn the course of accomplishing these objectives, Project Blue Book strives to identify and explain all UFO sightings reported to...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookIn the course of accomplishing these objectives, Project Blue Book strives to identify and explain all UFO sightings reported to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: recently the pentagon released more files on ufos it seems like every few months  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsFrom 1947 to 1969, the U.S. Air Force recorded 12,618 UFO sightings. Of these, 701 were still unexpl...</p></details>
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsFrom 1947 to 1969, the U.S. Air Force recorded 12,618 UFO sightings. Of these, 701 were still unexpl...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: during the cold war as project blue book investigated potential ufo threats a sh  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold War, as Project Blue Book investigated...From 1947 to 1969, the U.S. Air Force recorded 12,618 UFO sightings. Of these...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold War, as Project Blue Book investigated...From 1947 to 1969, the U.S. Air Force recorded 12,618 UFO sightings. Of these...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc7.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — 12,618 UFO sightings were reported to Project Blue Book. Of these s...</p></details>
+   Link:<a href="https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — 12,618 UFO sightings were reported to Project Blue Book. Of these s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — 12,618 UFO sightings were reported to Project Blue Book. Of these s...</p></details>
+   Link:<a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — 12,618 UFO sightings were reported to Project Blue Book. Of these s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: docsteach.org  
    Title: UF O Sighting Questionnaire from Project Blue Book Status  
-   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book personnel claiming to have seen a UFO. When civilians reported UFO sightings to the Air Force, they were given this pac...</p></details>
+   Link:<a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book personnel claiming to have seen a UFO. When civilians reported UFO sightings to the Air Force, they were given this pac...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>

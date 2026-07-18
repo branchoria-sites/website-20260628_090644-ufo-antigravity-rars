@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_space_science_mislin_b80835-ove
 
 ## Introduction
 
-Some names in “dead or missing UFO scientists” lists look persuasive only because the word “space” is doing too much work. A planetary scientist, asteroid survey engineer, infrared astronomer or comet specialist may work with NASA, defence-adjacent data, hazard modelling or the search for life elsewhere, but that is not the same as working on UFO retrievals, antigravity propulsion or hidden alien technology. This distinction matters because recent viral lists have blended real tragedies with loose biographical hooks, stretching ordinary space-science affiliations into UFO relevance without showing that the people involved held UAP secrets or were targeted because of them. Associated Press reported in April 2026 that speculation about dead or missing scientists had reached federal and political attention, while also noting that no definitive evidence had linked the cases into a coordinated plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
+Some names in “dead or missing UFO scientists” lists look persuasive only because the word “space” is doing too much work. A planetary scientist, asteroid survey engineer, infrared astronomer or comet specialist may work with NASA, defence-adjacent data, hazard modelling or the search for life elsewhere, but that is not the same as working on UFO retrievals, antigravity propulsion or hidden alien technology. This distinction matters because recent viral lists have blended real tragedies with loose biographical hooks, stretching ordinary space-science affiliations into UFO relevance without showing that the people involved held UAP secrets or were targeted because of them. Associated Press reported in April 2026 that speculation about dead or missing scientists had reached federal and political attention, while also noting that no definitive evidence had linked the cases into a coordinated plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_space_science_mislin_b80835-overview.webp" | relative_url }}" alt="Overview image for Space Science" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ The comet-and-asteroid branch of the story is therefore best understood as a mis
 
 ## Comets and asteroids are “space threat” science, not UFO retrieval science
 
-Asteroid and comet work can sound dramatic because the stakes are real. NASA’s [NEOWISE]({{ 'neowise/' | relative_url }}) mission was repurposed in 2013 to help find near-Earth asteroids and comets, and NASA describes NEO Surveyor as the first space telescope specifically designed to detect asteroids and comets that may be potential hazards to Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> That is a genuine planetary-defence mission: identify bodies that cross or approach Earth’s orbit, estimate their size and reflectivity, refine their paths, and improve warning time if any object ever becomes dangerous.
+Asteroid and comet work can sound dramatic because the stakes are real. NASA’s [NEOWISE]({{ 'neowise/' | relative_url }}) mission was repurposed in 2013 to help find near-Earth asteroids and comets, and NASA describes NEO Surveyor as the first space telescope specifically designed to detect asteroids and comets that may be potential hazards to Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> That is a genuine planetary-defence mission: identify bodies that cross or approach Earth’s orbit, estimate their size and reflectivity, refine their paths, and improve warning time if any object ever becomes dangerous.
 
-That work is not equivalent to UFO research. A comet or asteroid has an orbit that can be modelled, observations that can be checked by multiple telescopes, and physical properties that can be estimated from light, heat and motion. NEOWISE papers, for example, report asteroid diameters and albedos from thermal infrared measurements, comparing results with independent techniques such as radar or occultations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1708.09504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv NEOWISE Reactivation Mission Year Three: Asteroid Diameters and Albedos</span><span class="citation-popover-snippet">arXiv NEOWISE Reactivation Mission Year Three: Asteroid Diameters and Albedos</span></span></span> This is painstaking census work, not evidence of recovered craft or hidden propulsion systems.
+That work is not equivalent to UFO research. A comet or asteroid has an orbit that can be modelled, observations that can be checked by multiple telescopes, and physical properties that can be estimated from light, heat and motion. NEOWISE papers, for example, report asteroid diameters and albedos from thermal infrared measurements, comparing results with independent techniques such as radar or occultations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1708.09504" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv NEOWISE Reactivation Mission Year Three: Asteroid Diameters and Albedos</span><span class="citation-popover-snippet">arXiv NEOWISE Reactivation Mission Year Three: Asteroid Diameters and Albedos</span></span></span> This is painstaking census work, not evidence of recovered craft or hidden propulsion systems.
 
-Planetary defence also attracts public suspicion because it overlaps with national preparedness. NASA’s [DART]({{ 'dart/' | relative_url }}) mission deliberately struck the asteroid moonlet Dimorphos in September 2022 to test whether a kinetic impactor could alter an asteroid’s orbit; NASA later described it as the first planetary-defence technology demonstration to validate that technique. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/planetary-defense-dart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Planetary Defense</span><span class="citation-popover-snippet">Science Planetary Defense</span></span></span> A programme that studies impacts, trajectories and potential hazards may naturally involve government planning, but the public record points to asteroid-warning and deflection capabilities, not UFO reverse engineering.
+Planetary defence also attracts public suspicion because it overlaps with national preparedness. NASA’s [DART]({{ 'dart/' | relative_url }}) mission deliberately struck the asteroid moonlet Dimorphos in September 2022 to test whether a kinetic impactor could alter an asteroid’s orbit; NASA later described it as the first planetary-defence technology demonstration to validate that technique.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/planetary-defense-dart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Planetary Defense</span><span class="citation-popover-snippet">Science Planetary Defense</span></span></span> A programme that studies impacts, trajectories and potential hazards may naturally involve government planning, but the public record points to asteroid-warning and deflection capabilities, not UFO reverse engineering.
 
 That distinction is important when viral lists name people associated with Caltech, NASA, NEOWISE, NEO Surveyor, the Jet Propulsion Laboratory or asteroid studies. Those affiliations can be impressive and sensitive-sounding without implying antigravity knowledge. In this subtopic, the relevant question is not “Did this person work in space science?” but “Is there evidence that their work was UAP or antigravity work, or that their death or disappearance was connected to such work?” In the cases most often stretched into this category, the answer has not been publicly shown.
 
@@ -469,50 +469,50 @@ That distinction is important when viral lists name people associated with Calte
 
 The misclassification usually happens through a chain of small exaggerations rather than one obvious falsehood. A researcher works on asteroids, exoplanets, interstellar objects or infrared survey data. That becomes “space scientist”. If the institution has NASA or defence ties, it becomes “sensitive space programme”. If the work touches impact risk, alien worlds or interstellar material, it becomes “knowledge about alien threats”. By the time the claim circulates on social media, the person may be described as UFO-linked even when their actual publication record is about ordinary astrophysics or planetary science.
 
-The 2026 missing-scientists narrative shows this pattern clearly. Fact-checking coverage noted that viral posts linked deaths and disappearances to UFO programmes and nuclear secrets, but the evidence for those links was often vague, indirect or absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">missing dead scientists ufo nuclear conspiracy fact check</span></span></span> AP likewise described how online forums and political commentary bundled cases involving space, defence, nuclear or scientific [institutions]({{ 'institutions/' | relative_url }}), while families and experts pushed back against unsupported claims of a coordinated pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
+The 2026 missing-scientists narrative shows this pattern clearly. Fact-checking coverage noted that viral posts linked deaths and disappearances to UFO programmes and nuclear secrets, but the evidence for those links was often vague, indirect or absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">missing dead scientists ufo nuclear conspiracy fact check</span><span class="citation-popover-snippet">missing dead scientists ufo nuclear conspiracy fact check</span></span></span> AP likewise described how online forums and political commentary bundled cases involving space, defence, nuclear or scientific [institutions]({{ 'institutions/' | relative_url }}), while families and experts pushed back against unsupported claims of a coordinated pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
 
-A useful example is the way Caltech and NASA-associated astronomy can be reframed. Carl Grillmair, a Caltech astronomer and astrophysicist, was fatally shot in February 2026. The Los Angeles County District Attorney’s office later stated that a suspect had been charged with murder, carjacking and burglary-related offences; its account described Grillmair as an astronomer at Caltech’s IPAC science and data centre, not as a UFO or antigravity researcher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: da.lacounty.gov">[LA County DA&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">da.lacounty.gov</span><span class="citation-popover-title">charged murderer pleads not guilty shooting death caltech scientist</span><span class="citation-popover-snippet">charged murderer pleads not guilty shooting death caltech scientist</span></span></span> Journalism about his life emphasised work on astronomy, distant planets and galactic structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span> Yet because Caltech IPAC collaborates with NASA and because astronomy touches “life beyond Earth” themes, his death became easy to fold into a UFO-adjacent list.
+A useful example is the way Caltech and NASA-associated astronomy can be reframed. Carl Grillmair, a Caltech astronomer and astrophysicist, was fatally shot in February 2026. The Los Angeles County District Attorney’s office later stated that a suspect had been charged with murder, carjacking and burglary-related offences; its account described Grillmair as an astronomer at Caltech’s IPAC science and data centre, not as a UFO or antigravity researcher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: da.lacounty.gov">[LA County DA&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">da.lacounty.gov</span><span class="citation-popover-title">charged murderer pleads not guilty shooting death caltech scientist</span><span class="citation-popover-snippet">charged murderer pleads not guilty shooting death caltech scientist</span></span></span> Journalism about his life emphasised work on astronomy, distant planets and galactic structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span> Yet because Caltech IPAC collaborates with NASA and because astronomy touches “life beyond Earth” themes, his death became easy to fold into a UFO-adjacent list.
 
 That does not make the death less serious. It makes the evidential category different. A homicide with a charged suspect is not automatically a targeted killing of a UFO scientist. A planetary scientist’s grief-stricken colleagues, institutional affiliations and research record should not be treated as puzzle pieces unless there is concrete evidence tying the event to UAP, classified propulsion or antigravity work.
 
 ## Comets, meteors and bright objects are often mistaken for UFOs
 
-Another reason this subtopic matters is that space science does not merely get mislabelled at the biography level; sky events themselves are often misread. [Fireballs]({{ 'fireballs/' | relative_url }}), meteors, re-entering debris, satellite trains and unusual reflections can all produce reports that sound extraordinary in witness language. The International Meteor Organisation describes fireballs as meteors brighter than normal and invites reports from people who saw something “bright and fast”, like a huge shooting star. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
+Another reason this subtopic matters is that space science does not merely get mislabelled at the biography level; sky events themselves are often misread. [Fireballs]({{ 'fireballs/' | relative_url }}), meteors, re-entering debris, satellite trains and unusual reflections can all produce reports that sound extraordinary in witness language. The International Meteor Organisation describes fireballs as meteors brighter than normal and invites reports from people who saw something “bright and fast”, like a huge shooting star.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Open source on imo.net.</span></span></span>
 
 This matters for UFO-death narratives because public familiarity with “mysterious lights” can make any astronomer seem relevant to UAP. But the expertise needed to identify a meteor, model an asteroid orbit or characterise a comet is not the same as possessing secret information about alien craft. A person who studies natural objects that enter or cross the sky may be exactly the person who can explain a UFO report away.
 
-The confusion is not rare. A 2026 BBC Sky at Night guide listed meteor fireballs among things commonly mistaken for UFOs, describing the familiar pattern: a yellowish object appears suddenly, moves fast and silently, leaves a glowing trail, breaks into pieces and vanishes within a minute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span> AP has also reported that fireballs are surprisingly common, with many entering the atmosphere daily but most going unnoticed over oceans, unpopulated regions or in daylight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How common are fireballs streaking across the sky?</span><span class="citation-popover-snippet">Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</span></span></span>
+The confusion is not rare. A 2026 BBC Sky at Night guide listed meteor fireballs among things commonly mistaken for UFOs, describing the familiar pattern: a yellowish object appears suddenly, moves fast and silently, leaves a glowing trail, breaks into pieces and vanishes within a minute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs</span></span></span> AP has also reported that fireballs are surprisingly common, with many entering the atmosphere daily but most going unnoticed over oceans, unpopulated regions or in daylight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How common are fireballs streaking across the sky?</span><span class="citation-popover-snippet">Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</span></span></span>
 
-Modern satellites add another misidentification route. A 2024 paper on commercial aviation reports argued that recently launched Starlink satellite trains have been misidentified as UAP by pilots and the public, and reconstructed one 10 August 2022 incident involving multiple pilots over the Pacific using satellite orbital data and flight information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> This is directly relevant to the “misclassified UFO links” problem: an aerospace or astronomy explanation can be evidence against exotic claims, not evidence that the scientist belongs inside a UFO conspiracy.
+Modern satellites add another misidentification route. A 2024 paper on commercial aviation reports argued that recently launched Starlink satellite trains have been misidentified as UAP by pilots and the public, and reconstructed one 10 August 2022 incident involving multiple pilots over the Pacific using satellite orbital data and flight information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> This is directly relevant to the “misclassified UFO links” problem: an aerospace or astronomy explanation can be evidence against exotic claims, not evidence that the scientist belongs inside a UFO conspiracy.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKnXUlwdG6w" title="UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer">UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 400.9K &middot; Uploaded: September 2023 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKnXUlwdG6w">Open on YouTube</a></p></div></div></div>
 
 ## Interstellar visitors create headlines, but not proof of alien technology
 
-The strongest bridge between comet science and UFO speculation is the interstellar-object debate. When 1I/ʻOumuamua passed through the Solar System in 2017, it was genuinely unusual: NASA describes it as the first confirmed object from another star to visit our Solar System, discovered on 19 October 2017 and appearing rocky, elongated and reddish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/comets/oumuamua/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> Because it was faint and observed only briefly, scientists debated its shape, acceleration and lack of obvious comet-like activity.
+The strongest bridge between comet science and UFO speculation is the interstellar-object debate. When 1I/ʻOumuamua passed through the Solar System in 2017, it was genuinely unusual: NASA describes it as the first confirmed object from another star to visit our Solar System, discovered on 19 October 2017 and appearing rocky, elongated and reddish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/comets/oumuamua/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> Because it was faint and observed only briefly, scientists debated its shape, acceleration and lack of obvious comet-like activity.
 
-That uncertainty created room for a minority artificial-origin hypothesis. Avi Loeb argued that ʻOumuamua’s anomalies might indicate a thin craft pushed by sunlight, while other scientists treated the object as a difficult but natural minor body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lweb.cfa.harvard.edu">[Center for Astrophysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lweb.cfa.harvard.edu</span><span class="citation-popover-title">Center for Astrophysics On the Possibility of an Artificial Origin for `Oumuamua</span><span class="citation-popover-snippet">Center for Astrophysics On the Possibility of an Artificial Origin for `Oumuamua</span></span></span> The important point is not that the artificial hypothesis never existed; it did. The point is that the broader technical literature has not established it as the best explanation. A 2019 review by an international team concluded that the observations were consistent with a purely natural origin and could be discussed using knowledge of minor bodies and planetary-system evolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.01910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Natural History of &#x27;Oumuamua</span><span class="citation-popover-snippet">arXiv The Natural History of &#x27;Oumuamua</span></span></span> A later PubMed-indexed paper likewise addressed the probe claim directly and argued that ʻOumuamua was not an alien probe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/36475959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+That uncertainty created room for a minority artificial-origin hypothesis. Avi Loeb argued that ʻOumuamua’s anomalies might indicate a thin craft pushed by sunlight, while other scientists treated the object as a difficult but natural minor body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lweb.cfa.harvard.edu">[Center for Astrophysics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lweb.cfa.harvard.edu</span><span class="citation-popover-title">Center for Astrophysics On the Possibility of an Artificial Origin for `Oumuamua</span><span class="citation-popover-snippet">Center for Astrophysics On the Possibility of an Artificial Origin for `Oumuamua</span></span></span> The important point is not that the artificial hypothesis never existed; it did. The point is that the broader technical literature has not established it as the best explanation. A 2019 review by an international team concluded that the observations were consistent with a purely natural origin and could be discussed using knowledge of minor bodies and planetary-system evolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.01910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Natural History of &#x27;Oumuamua</span><span class="citation-popover-snippet">arXiv The Natural History of &#x27;Oumuamua</span></span></span> A later PubMed-indexed paper likewise addressed the probe claim directly and argued that ʻOumuamua was not an alien probe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/36475959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-The same pattern reappeared with later interstellar objects. Claims about 3I/ATLAS as possible alien technology drew attention in 2025, but NASA scientists publicly rejected the alien-made interpretation and described the object as behaving like a natural comet, according to Guardian coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Interstellar overhype: Nasa debunks claim about alien-made comet</span><span class="citation-popover-snippet">The Guardian Interstellar overhype: Nasa debunks claim about alien-made comet</span></span></span> These debates are scientifically interesting, but they do not turn comet researchers into UFO insiders. They show how ambiguous astronomy can become culturally entangled with alien-technology narratives long before the evidence justifies that leap.
+The same pattern reappeared with later interstellar objects. Claims about 3I/ATLAS as possible alien technology drew attention in 2025, but NASA scientists publicly rejected the alien-made interpretation and described the object as behaving like a natural comet, according to Guardian coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Interstellar overhype: Nasa debunks claim about alien-made comet</span><span class="citation-popover-snippet">The Guardian Interstellar overhype: Nasa debunks claim about alien-made comet</span></span></span> These debates are scientifically interesting, but they do not turn comet researchers into UFO insiders. They show how ambiguous astronomy can become culturally entangled with alien-technology narratives long before the evidence justifies that leap.
 
 For a reader assessing suspicious-death claims, this is a key filter. “Worked on an interstellar object” or “studied near-Earth objects” is not a synonym for “worked on UFOs”. It means the researcher dealt with natural bodies whose origin, orbit or composition may be unusual. The scientific dispute is about classification, modelling and evidence, not a demonstrated clandestine programme.
 
 ## The Caltech and asteroid-survey examples show the stretch
 
-The most useful way to test the viral framing is to compare the claims with the work itself. Joseph Masiero, for example, is a Caltech/IPAC planetary scientist associated with asteroid research and NEOWISE publications. His institutional profile discusses asteroid remnants and public questions about aliens, but in the ordinary astrobiological sense of whether life may exist elsewhere, not as a confession of UFO programme involvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ipac.caltech.edu/meet-the-staff/joe-masiero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipac.caltech.edu">[IPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipac.caltech.edu</span><span class="citation-popover-snippet">Open source on caltech.edu.</span></span></span> His publication record includes asteroid-family physical properties and NEOWISE asteroid diameter work, the kind of research used to understand small-body populations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1502.00961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Asteroid Family Physical Properties</span><span class="citation-popover-snippet">arXiv Asteroid Family Physical Properties</span></span></span>
+The most useful way to test the viral framing is to compare the claims with the work itself. Joseph Masiero, for example, is a Caltech/IPAC planetary scientist associated with asteroid research and NEOWISE publications. His institutional profile discusses asteroid remnants and public questions about aliens, but in the ordinary astrobiological sense of whether life may exist elsewhere, not as a confession of UFO programme involvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ipac.caltech.edu/meet-the-staff/joe-masiero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipac.caltech.edu">[IPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipac.caltech.edu</span><span class="citation-popover-snippet">Open source on caltech.edu.</span></span></span> His publication record includes asteroid-family physical properties and NEOWISE asteroid diameter work, the kind of research used to understand small-body populations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1502.00961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Asteroid Family Physical Properties</span><span class="citation-popover-snippet">arXiv Asteroid Family Physical Properties</span></span></span>
 
-That distinction became relevant when he was quoted in coverage of the 2026 missing-scientists story. Newsweek reported that Masiero, a colleague of two deceased researchers mentioned in conspiracy discussions, said there was no evidence publicly presented showing that the cases were linked; the article also noted his caution that he was not speaking officially for Caltech, NASA or NEO Surveyor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Colleague of Dead Scientists Speaks Out as Trump Admin</span><span class="citation-popover-snippet">Colleague of Dead Scientists Speaks Out as Trump Admin</span></span></span> The point is not that every concern is automatically absurd. It is that people closest to the relevant planetary-science context have pushed back against converting unrelated tragedies into a UFO plot.
+That distinction became relevant when he was quoted in coverage of the 2026 missing-scientists story. Newsweek reported that Masiero, a colleague of two deceased researchers mentioned in conspiracy discussions, said there was no evidence publicly presented showing that the cases were linked; the article also noted his caution that he was not speaking officially for Caltech, NASA or NEO Surveyor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Colleague of Dead Scientists Speaks Out as Trump Admin</span><span class="citation-popover-snippet">Colleague of Dead Scientists Speaks Out as Trump Admin</span></span></span> The point is not that every concern is automatically absurd. It is that people closest to the relevant planetary-science context have pushed back against converting unrelated tragedies into a UFO plot.
 
-NEO Surveyor itself is also easy to misread. NASA’s mission page says it is designed to detect asteroids and comets that may be potential hazards to Earth, with launch no earlier than September 2027. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neo-surveyor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> A 2023 Planetary Science Journal mission paper describes its purpose in terms of finding, tracking and characterising near-Earth objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.boulder.swri.edu">[SwRI Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.boulder.swri.edu</span><span class="citation-popover-title">Sw RI Boulder The Near-Earth Object Surveyor Mission</span><span class="citation-popover-snippet">Sw RI Boulder The Near-Earth Object Surveyor Mission</span></span></span> Those are high-value public-safety goals, but they are not evidence of secret antigravity research.
+NEO Surveyor itself is also easy to misread. NASA’s mission page says it is designed to detect asteroids and comets that may be potential hazards to Earth, with launch no earlier than September 2027.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neo-surveyor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> A 2023 Planetary Science Journal mission paper describes its purpose in terms of finding, tracking and characterising near-Earth objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.boulder.swri.edu">[SwRI Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.boulder.swri.edu</span><span class="citation-popover-title">Sw RI Boulder The Near-Earth Object Surveyor Mission</span><span class="citation-popover-snippet">Sw RI Boulder The Near-Earth Object Surveyor Mission</span></span></span> Those are high-value public-safety goals, but they are not evidence of secret antigravity research.
 
-The same holds for NEOWISE. NASA says the spacecraft hunted near-Earth objects from low-Earth orbit, while the NEOWISE project explains that it measured diameters and albedos to characterise objects that could pose an impact hazard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> In an online conspiracy environment, “asteroid hunter” can become “space-threat insider”. In the scientific record, it means someone helped build a better catalogue of natural objects.
+The same holds for NEOWISE. NASA says the spacecraft hunted near-Earth objects from low-Earth orbit, while the NEOWISE project explains that it measured diameters and albedos to characterise objects that could pose an impact hazard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> In an online conspiracy environment, “asteroid hunter” can become “space-threat insider”. In the scientific record, it means someone helped build a better catalogue of natural objects.
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_space_science_mislin_b80835-Illustration-2-dark.svg" | relative_url }}" alt="Space Science illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_space_science_mislin_b80835-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_space_science_mislin_b80835-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What separates a real UFO link from a stretched space affiliation
 
-A fair assessment should not dismiss every UAP-related question simply because some claims are exaggerated. NASA’s 2023 UAP independent study did not say the topic is unworthy of study; it said the central problem is poor data, lack of reproducible observations and the absence of conclusive peer-reviewed evidence for an extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> AARO’s public framing likewise stresses rigorous, data-driven investigation, and Reuters reported that AARO’s 2024 [historical review]({{ 'historical-review/' | relative_url }}) found no empirical evidence for alien technology while identifying many sightings as ordinary objects or phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+A fair assessment should not dismiss every UAP-related question simply because some claims are exaggerated. NASA’s 2023 UAP independent study did not say the topic is unworthy of study; it said the central problem is poor data, lack of reproducible observations and the absence of conclusive peer-reviewed evidence for an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> AARO’s public framing likewise stresses rigorous, data-driven investigation, and Reuters reported that AARO’s 2024 [historical review]({{ 'historical-review/' | relative_url }}) found no empirical evidence for alien technology while identifying many sightings as ordinary objects or phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That means the right standard is not mockery; it is classification discipline. A genuine UFO or antigravity link would need evidence such as:
 
@@ -541,7 +541,7 @@ First, **category inflation** turns a broad institution into a specific programm
 
 Second, **topic proximity** treats ordinary alien-life science as UFO evidence. Exoplanets, water on distant worlds and interstellar objects are relevant to astrobiology, but astrobiology asks whether life might exist elsewhere; it does not imply that a researcher had knowledge of visiting craft.
 
-Third, **retrospective patterning** starts with a list of tragedies and searches backwards for shared labels: space, defence, nuclear, classified, advanced, propulsion, alien, asteroid. AP’s reporting on the 2026 narrative captured this dynamic: speculation spread by bundling cases across sensitive-sounding fields while no definitive evidence established a coordinated plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
+Third, **retrospective patterning** starts with a list of tragedies and searches backwards for shared labels: space, defence, nuclear, classified, advanced, propulsion, alien, asteroid. AP’s reporting on the 2026 narrative captured this dynamic: speculation spread by bundling cases across sensitive-sounding fields while no definitive evidence established a coordinated plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP News How conspiracy theories about missing or dead scientists</span></span></span>
 
 For this branch of the wider suspicious-deaths topic, the practical takeaway is simple: “space science” is too broad to be probative. A comet scientist, asteroid modeller or infrared survey researcher belongs in a UFO-death claim only if the evidence shows a specific UFO or antigravity connection. Otherwise, including them mainly inflates the list.
 
@@ -558,194 +558,194 @@ That does not make every death or disappearance ordinary, solved or emotionally 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Space Science Gets Mistaken for UFO Work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Space Science Gets Mistaken for UFO Work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFO reports through a scientific lens rather than assuming hidden technology explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports through a scientific lens rather than assuming hidden technology explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a mainstream UFO reference point against which claims about scientists and secret programs are often compared.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a mainstream UFO reference point against which claims about scientists and secret programs are often compared.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gJfuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gJfuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Places space exploration, planetary science and extraterrestrial questions in a rigorous scientific context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places space exploration, planetary science and extraterrestrial questions in a rigorous scientific context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how extraordinary claims can arise from misinterpretation and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary claims can arise from misinterpretation and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor"><img src="{{ '/assets/images/marketplace-covers/9a0c3ca6d872e4664d7c.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor"><img src="{{ '/assets/images/marketplace-covers/9a0c3ca6d872e4664d7c.jpg' | relative_url }}" alt="Listing image for Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space Exploration Poster Wall Art - Modern Cosmic Design Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63a1e1b56bdd814d1fef.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/63a1e1b56bdd814d1fef.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️"><img src="{{ '/assets/images/marketplace-covers/d8ac6108b42d97dfa964.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️"><img src="{{ '/assets/images/marketplace-covers/d8ac6108b42d97dfa964.jpg' | relative_url }}" alt="Listing image for Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Space Exploration Poster 🌌 - General Dynamics - 24x36” - 200gsm Paper🗞️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space exploration Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6cf057c61cd8e4785ac6.jpg' | relative_url }}" alt="Listing image for Space exploration Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">Space exploration Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration poster" data-ebay-reference="space-science-when-space-science-gets-mistaken-for-ufo-work-ufo-and-antigravity-space-exploration-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -761,7 +761,7 @@ That does not make every death or disappearance ordinary, solved or emotionally 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -781,7 +781,7 @@ That does not make every death or disappearance ordinary, solved or emotionally 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -813,7 +813,7 @@ That does not make every death or disappearance ordinary, solved or emotionally 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -865,7 +865,7 @@ That does not make every death or disappearance ordinary, solved or emotionally 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -910,7 +910,7 @@ That does not make every death or disappearance ordinary, solved or emotionally 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -951,312 +951,312 @@ That does not make every death or disappearance ordinary, solved or emotionally 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/neowise/</a>  
+   Link:<a href="https://science.nasa.gov/mission/neowise/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/neowise/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/mission/neo-surveyor/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/neo-surveyor/</a>  
+   Link:<a href="https://science.nasa.gov/mission/neo-surveyor/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/neo-surveyor/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv NEOWISE Reactivation Mission Year Three: Asteroid Diameters and Albedos  
-   Link: <a href="https://arxiv.org/abs/1708.09504" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.09504</a>  
+   Link:<a href="https://arxiv.org/abs/1708.09504" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.09504</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2107.07481" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.07481</a>  
+   Link:<a href="https://arxiv.org/abs/2107.07481" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.07481</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Planetary Defense  
-   Link: <a href="https://science.nasa.gov/planetary-defense-dart/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/planetary-defense-dart/</a>  
+   Link:<a href="https://science.nasa.gov/planetary-defense-dart/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/planetary-defense-dart/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: poynter.org  
    Title: missing dead scientists ufo nuclear conspiracy fact check  
-   Link: <a href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/</a>  
+   Link:<a href="https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2026/missing-dead-scientists-ufo-nuclear-conspiracy-fact-check/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/solar-system/comets/oumuamua/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/comets/oumuamua/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/comets/oumuamua/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/comets/oumuamua/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv The Natural History of 'Oumuamua  
-   Link: <a href="https://arxiv.org/abs/1907.01910" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.01910</a>  
+   Link:<a href="https://arxiv.org/abs/1907.01910" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.01910</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ipac.caltech.edu  
-   Link: <a href="https://www.ipac.caltech.edu/meet-the-staff/joe-masiero" target="_blank" rel="noopener noreferrer nofollow">https://www.ipac.caltech.edu/meet-the-staff/joe-masiero</a>  
+   Link:<a href="https://www.ipac.caltech.edu/meet-the-staff/joe-masiero" target="_blank" rel="noopener noreferrer nofollow">https://www.ipac.caltech.edu/meet-the-staff/joe-masiero</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Asteroid Family Physical Properties  
-   Link: <a href="https://arxiv.org/abs/1502.00961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1502.00961</a>  
+   Link:<a href="https://arxiv.org/abs/1502.00961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1502.00961</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newsweek.com  
    Title: Colleague of Dead Scientists Speaks Out as Trump Admin  
-   Link: <a href="https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526</a>  
+   Link:<a href="https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: www2.boulder.swri.edu  
    Title: Sw RI Boulder The Near-Earth Object Surveyor Mission  
-   Link: <a href="https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf</a>  
+   Link:<a href="https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.boulder.swri.edu/~bottke/Reprints/Mainzer_2023_Planet._Sci._J._4_224_NEO_Surveyor.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: neowise.ipac.caltech.edu  
-   Link: <a href="https://neowise.ipac.caltech.edu/" target="_blank" rel="noopener noreferrer nofollow">https://neowise.ipac.caltech.edu/</a>  
+   Link:<a href="https://neowise.ipac.caltech.edu/" target="_blank" rel="noopener noreferrer nofollow">https://neowise.ipac.caltech.edu/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: announces unidentified aerial phenomena study team members  
-   Link: <a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
+   Link:<a href="https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mls.jpl.nasa.gov  
-   Link: <a href="https://mls.jpl.nasa.gov/publications/" target="_blank" rel="noopener noreferrer nofollow">https://mls.jpl.nasa.gov/publications/</a>  
+   Link:<a href="https://mls.jpl.nasa.gov/publications/" target="_blank" rel="noopener noreferrer nofollow">https://mls.jpl.nasa.gov/publications/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
    Title: science committee july 2022 meeting minutes final signed  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2024/04/science-committee-july-2022-meeting-minutes-final-signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2024/04/science-committee-july-2022-meeting-minutes-final-signed.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2024/04/science-committee-july-2022-meeting-minutes-final-signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2024/04/science-committee-july-2022-meeting-minutes-final-signed.pdf</a>  
    Published: july 2022  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jpl.nasa.gov  
    Title: neowise legacy of nasas asteroid hunting telescope  
-   Link: <a href="https://www.jpl.nasa.gov/videos/neowise-legacy-of-nasas-asteroid-hunting-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/neowise-legacy-of-nasas-asteroid-hunting-telescope/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/videos/neowise-legacy-of-nasas-asteroid-hunting-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/neowise-legacy-of-nasas-asteroid-hunting-telescope/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jpl.nasa.gov  
    Title: space rock census  
-   Link: <a href="https://www.jpl.nasa.gov/videos/space-rock-census/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/space-rock-census/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/videos/space-rock-census/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/space-rock-census/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jpl.nasa.gov  
    Title: mission concludes after years of successful asteroid detections  
-   Link: <a href="https://www.jpl.nasa.gov/news/nasa-mission-concludes-after-years-of-successful-asteroid-detections/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasa-mission-concludes-after-years-of-successful-asteroid-detections/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/news/nasa-mission-concludes-after-years-of-successful-asteroid-detections/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasa-mission-concludes-after-years-of-successful-asteroid-detections/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/mission/dart/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/dart/</a>  
+   Link:<a href="https://science.nasa.gov/mission/dart/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/dart/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: newsweek.com  
    Title: list dead or missing scientists suspicious michael david hicks 11805585  
-   Link: <a href="https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585</a>  
+   Link:<a href="https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: newsweek.com  
    Title: wave of missing or dead us scientists everything we know 11867967  
-   Link: <a href="https://www.newsweek.com/wave-of-missing-or-dead-us-scientists-everything-we-know-11867967" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wave-of-missing-or-dead-us-scientists-everything-we-know-11867967</a>  
+   Link:<a href="https://www.newsweek.com/wave-of-missing-or-dead-us-scientists-everything-we-know-11867967" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wave-of-missing-or-dead-us-scientists-everything-we-know-11867967</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: planetary.org  
-   Link: <a href="https://www.planetary.org/space-missions/neowise" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/neowise</a>  
+   Link:<a href="https://www.planetary.org/space-missions/neowise" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/neowise</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: planetary.org  
-   Link: <a href="https://www.planetary.org/space-missions/neosm" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/neosm</a>  
+   Link:<a href="https://www.planetary.org/space-missions/neosm" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/neosm</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: planetary.org  
-   Link: <a href="https://www.planetary.org/space-missions/dart" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/dart</a>  
+   Link:<a href="https://www.planetary.org/space-missions/dart" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/space-missions/dart</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: apnews.com  
    Title: AP News How conspiracy theories about missing or dead scientists  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: da.lacounty.gov  
    Title: charged murderer pleads not guilty shooting death caltech scientist  
-   Link: <a href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow">https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist</a>  
+   Link:<a href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow">https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: caltech scientist carl [grillmair shooting](&#123;&#123; 'grillmair/' | relative_url &#125;&#125;) death  
-   Link: <a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
+   Link:<a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: apnews.com  
    Title: AP News How common are fireballs streaking across the sky?  
-   Link: <a href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/42f53f511af6b9e9deafc34633adac99</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</p></details>
+   Link:<a href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/42f53f511af6b9e9deafc34633adac99</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: lweb.cfa.harvard.edu  
    Title: Center for Astrophysics On the Possibility of an Artificial Origin for `Oumuamua  
-   Link: <a href="https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf</a>  
+   Link:<a href="https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/Loeb_Astrobiology.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36475959/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36475959/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36475959/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36475959/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
    Title: The Guardian Interstellar overhype: Nasa debunks claim about alien-made comet  
-   Link: <a href="https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made</a>  
+   Link:<a href="https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2025/sep/11/interstellar-comet-nasa-alien-made</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: Wikipedia  
    Title: Carl Grillmair  
-   Link: <a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: NEO Surveyor  
-   Link: <a href="https://en.wikipedia.org/wiki/NEO_Surveyor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NEO_Surveyor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NEO_Surveyor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NEO_Surveyor</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2022DPS....5440902M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2022DPS....5440902M/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2022DPS....5440902M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2022DPS....5440902M/abstract</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2011ApJ...743..156M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2011ApJ...743..156M/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2011ApJ...743..156M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2011ApJ...743..156M/abstract</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: lweb.cfa.harvard.edu  
-   Link: <a href="https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf</a>  
+   Link:<a href="https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/HCL25.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/oumuamua</a>  
+   Link:<a href="https://www.eoportal.org/other-space-activities/oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/oumuamua</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9978022/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9978022/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9978022/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9978022/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/oumuamua</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/oumuamua</a>  
 
 ### Additional References
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: UFOs and missing scientists: Are conspiracy theories mainstream?  
-   Link: <a href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dDQ-IqnT0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dDQ-IqnT0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: A New Interstellar Object, Alien Technology, and the Scientific Debate  
-   Link: <a href="https://www.youtube.com/watch?v=zHn69IQSIcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHn69IQSIcg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planetary Defenders (NASA+ Original Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zHn69IQSIcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHn69IQSIcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planetary Defenders (NASA+ Original Documentary)...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: Missing scientists: Body found, new timelines & more updates  
-   Link: <a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y6qt_Us8x0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oumuamua: Visitor from Interstellar Space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y6qt_Us8x0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oumuamua: Visitor from Interstellar Space...</p></details>
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: youtube.com  
    Title: Oumuamua: Visitor from Interstellar Space  
-   Link: <a href="https://www.youtube.com/watch?v=va6eXDSbzys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=va6eXDSbzys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=va6eXDSbzys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=va6eXDSbzys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate...</p></details>
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ktla5/posts/breaking-a-caltech-research-scientist-known-for-groundbreaking-discoveries-in-as/1514332860282659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ktla5/posts/breaking-a-caltech-research-scientist-known-for-groundbreaking-discoveries-in-as/1514332860282659/</a>  
+   Link:<a href="https://www.facebook.com/ktla5/posts/breaking-a-caltech-research-scientist-known-for-groundbreaking-discoveries-in-as/1514332860282659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ktla5/posts/breaking-a-caltech-research-scientist-known-for-groundbreaking-discoveries-in-as/1514332860282659/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTxnoDeCbs1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTxnoDeCbs1/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTxnoDeCbs1/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTxnoDeCbs1/?hl=en</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UtterlyInterestin/posts/11-scientists-who-mysteriously-died-or-disappeared-and-their-fields-of-research/1437283285082730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UtterlyInterestin/posts/11-scientists-who-mysteriously-died-or-disappeared-and-their-fields-of-research/1437283285082730/</a>  
+   Link:<a href="https://www.facebook.com/UtterlyInterestin/posts/11-scientists-who-mysteriously-died-or-disappeared-and-their-fields-of-research/1437283285082730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UtterlyInterestin/posts/11-scientists-who-mysteriously-died-or-disappeared-and-their-fields-of-research/1437283285082730/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSLA/posts/a-29-year-old-man-was-charged-with-murder-after-he-allegedly-shot-and-killed-a-c/1339559234871342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSLA/posts/a-29-year-old-man-was-charged-with-murder-after-he-allegedly-shot-and-killed-a-c/1339559234871342/</a>  
+   Link:<a href="https://www.facebook.com/CBSLA/posts/a-29-year-old-man-was-charged-with-murder-after-he-allegedly-shot-and-killed-a-c/1339559234871342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSLA/posts/a-29-year-old-man-was-charged-with-murder-after-he-allegedly-shot-and-killed-a-c/1339559234871342/</a>  

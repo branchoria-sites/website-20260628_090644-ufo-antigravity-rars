@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-index/
 description: Focused pages that expand on UFO and antigravity.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484
 parent_title: UFO and antigravity
@@ -16,7 +16,7 @@ parent_permalink: /ufo-and-antigravity/
 
 # Explore Topics in UFO and antigravity
 
-The following pages expand on the main **[UFO and antigravity]({{ '/ufo-and-antigravity/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO and antigravity]({{ '/ufo-and-antigravity/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Records]({{ '/aaro-records/' | relative_url }})
 - [Aerospace]({{ '/aerospace/' | relative_url }})

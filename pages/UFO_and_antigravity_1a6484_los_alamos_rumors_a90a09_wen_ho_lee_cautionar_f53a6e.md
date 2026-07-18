@@ -278,13 +278,13 @@ The Wen Ho Lee case is one of the clearest examples of why secrecy, suspicion an
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-1-dark.svg" | relative_url }}" alt="Wen Ho Lee illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the late 1990s, Los Alamos scientist Wen Ho Lee became the focus of a major [espionage]({{ 'espionage/' | relative_url }}) investigation linked to fears that China had obtained sensitive information about US nuclear weapons. The investigation uncovered real security violations involving the handling of nuclear-weapons data. Yet the much more dramatic allegation—that Lee had acted as a spy who passed nuclear secrets to a foreign power—was never proven. The gap between legitimate concern and demonstrated fact is the key lesson that makes the case relevant when assessing broader claims about hidden programmes and alleged efforts to silence researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+In the late 1990s, Los Alamos scientist Wen Ho Lee became the focus of a major [espionage]({{ 'espionage/' | relative_url }}) investigation linked to fears that China had obtained sensitive information about US nuclear weapons. The investigation uncovered real security violations involving the handling of nuclear-weapons data. Yet the much more dramatic allegation—that Lee had acted as a spy who passed nuclear secrets to a foreign power—was never proven. The gap between legitimate concern and demonstrated fact is the key lesson that makes the case relevant when assessing broader claims about hidden programmes and alleged efforts to silence researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
 ## A Real Security Scare With a Cautionary Lesson
 
-Los Alamos was not investigating an imaginary threat. During the 1990s, US intelligence agencies became increasingly concerned that the People's Republic of China had obtained information related to advanced American nuclear warhead designs. The resulting investigations occurred in a climate of intense political and security anxiety, reinforced by public debate surrounding the congressional Cox Report and broader concerns about Chinese espionage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cox_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cox Report</span><span class="citation-popover-snippet">Cox Report</span></span></span>
+Los Alamos was not investigating an imaginary threat. During the 1990s, US intelligence agencies became increasingly concerned that the People's Republic of China had obtained information related to advanced American nuclear warhead designs. The resulting investigations occurred in a climate of intense political and security anxiety, reinforced by public debate surrounding the congressional Cox Report and broader concerns about Chinese espionage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cox_Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cox Report</span><span class="citation-popover-snippet">Cox Report</span></span></span>
 
-Against that backdrop, Wen Ho Lee, a Taiwanese-born scientist working at Los Alamos National Laboratory, became a central suspect. His access to sensitive weapons-related information and his handling of computer files placed him under scrutiny. The case quickly became one of the most prominent national-security investigations in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</span></span></span>
+Against that backdrop, Wen Ho Lee, a Taiwanese-born scientist working at Los Alamos National Laboratory, became a central suspect. His access to sensitive weapons-related information and his handling of computer files placed him under scrutiny. The case quickly became one of the most prominent national-security investigations in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</span></span></span>
 
 What makes the episode important historically is that it contained two separate questions:
 
@@ -294,30 +294,30 @@ What makes the episode important historically is that it contained two separate 
 1. Were there serious security problems at Los Alamos?
 2. Was Wen Ho Lee actually a spy who transferred nuclear secrets to China?
 
-The first question produced substantial evidence of security failures. The second never produced convincing proof. The distinction is crucial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+The first question produced substantial evidence of security failures. The second never produced convincing proof. The distinction is crucial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qwZjEpymFmU" title="Alberta Lee: The Wen Ho Lee Story: What Happened?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qwZjEpymFmU" target="_blank" rel="noopener noreferrer">Alberta Lee: The Wen Ho Lee Story: What Happened?</a></p><p class="youtube-embed-meta">Channel: Institute of Politics Harvard Kennedy School</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qwZjEpymFmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qwZjEpymFmU">Open on YouTube</a></p></div></div></div>
 
 ## What the Los Alamos Investigation Alleged
 
-The investigation grew from concerns that Chinese nuclear programmes appeared to possess knowledge similar to certain advanced US warhead designs. Federal investigators examined possible sources of the leak and eventually focused heavily on Lee. Public discussion increasingly framed the case as a major espionage scandal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</span></span></span>
+The investigation grew from concerns that Chinese nuclear programmes appeared to possess knowledge similar to certain advanced US warhead designs. Federal investigators examined possible sources of the leak and eventually focused heavily on Lee. Public discussion increasingly framed the case as a major espionage scandal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</span></span></span>
 
-Investigators discovered that Lee had copied large quantities of weapons-related computer data and moved information between computer systems in ways that violated security rules. These actions were serious and became the foundation of the government's criminal case. Congressional reviews later concluded that the Department of Energy, the FBI and Los Alamos itself had all made significant mistakes in detecting and responding to these activities. Some sensitive tapes containing data were never recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+Investigators discovered that Lee had copied large quantities of weapons-related computer data and moved information between computer systems in ways that violated security rules. These actions were serious and became the foundation of the government's criminal case. Congressional reviews later concluded that the Department of Energy, the FBI and Los Alamos itself had all made significant mistakes in detecting and responding to these activities. Some sensitive tapes containing data were never recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
-At the time, however, public discussion often moved beyond what had actually been demonstrated. Media reports and political rhetoric frequently linked the computer transfers directly to allegations that China had obtained nuclear secrets. The atmosphere surrounding the case encouraged many observers to assume that espionage had effectively been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aps.org/publications/apsnews/200608/viewpoint.cfm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aps.org">[American Physical Society+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aps.org</span><span class="citation-popover-snippet">American Physical SocietyViewpoint: Wen Ho Lee&#x27;s SettlementA March 10, 1999 Albuquerque Journal story said the reason for firing Lee was...</span><span class="citation-popover-meta">Published: March 10, 1999</span></span></span>
+At the time, however, public discussion often moved beyond what had actually been demonstrated. Media reports and political rhetoric frequently linked the computer transfers directly to allegations that China had obtained nuclear secrets. The atmosphere surrounding the case encouraged many observers to assume that espionage had effectively been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aps.org/publications/apsnews/200608/viewpoint.cfm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aps.org">[aps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aps.org</span><span class="citation-popover-snippet">American Physical SocietyViewpoint: Wen Ho Lee&#x27;s SettlementA March 10, 1999 Albuquerque Journal story said the reason for firing Lee was...</span><span class="citation-popover-meta">Published: March 10, 1999</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-2-dark.svg" | relative_url }}" alt="Wen Ho Lee illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Espionage Case Narrowed
 
-As the case progressed, prosecutors encountered major difficulties. Evidence supporting claims that Lee had transferred information to a foreign government proved far weaker than the public narrative had suggested. The government ultimately indicted him on dozens of counts, but the prosecution's broader espionage theory became increasingly difficult to sustain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wen Ho Lee</span><span class="citation-popover-snippet">Wen Ho Lee</span></span></span>
+As the case progressed, prosecutors encountered major difficulties. Evidence supporting claims that Lee had transferred information to a foreign government proved far weaker than the public narrative had suggested. The government ultimately indicted him on dozens of counts, but the prosecution's broader espionage theory became increasingly difficult to sustain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wen Ho Lee</span><span class="citation-popover-snippet">Wen Ho Lee</span></span></span>
 
-In September 2000, Lee accepted a plea agreement. He pleaded guilty to a single count involving improper retention of national-defence information. The remaining 58 charges were dropped. He was released after spending 278 days in jail, much of it under unusually restrictive conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wen Ho Lee</span><span class="citation-popover-snippet">Wen Ho Lee</span></span></span>
+In September 2000, Lee accepted a plea agreement. He pleaded guilty to a single count involving improper retention of national-defence information. The remaining 58 charges were dropped. He was released after spending 278 days in jail, much of it under unusually restrictive conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wen Ho Lee</span><span class="citation-popover-snippet">Wen Ho Lee</span></span></span>
 
-The most memorable moment came when federal judge James Parker openly criticised the government's handling of the case and apologised to Lee in court. Parker stated that he had been misled by executive-branch representations that had influenced earlier decisions regarding Lee's detention. The apology became a lasting symbol of concerns about investigative overreach and prosecutorial conduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanscientist.org">[American Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanscientist.org</span><span class="citation-popover-snippet">American ScientistA Spy or Not a Spy, That Was the QuestionAt the end of the case, Judge James A. Parker, who presided over the final tri...</span></span></span>
+The most memorable moment came when federal judge James Parker openly criticised the government's handling of the case and apologised to Lee in court. Parker stated that he had been misled by executive-branch representations that had influenced earlier decisions regarding Lee's detention. The apology became a lasting symbol of concerns about investigative overreach and prosecutorial conduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanscientist.org">[American Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanscientist.org</span><span class="citation-popover-snippet">American ScientistA Spy or Not a Spy, That Was the QuestionAt the end of the case, Judge James A. Parker, who presided over the final tri...</span></span></span>
 
-Importantly, later reviews did not conclude that all concerns had been imaginary. Congressional and government examinations continued to identify genuine security lapses, poor investigative practices and unresolved questions. What collapsed was not every concern about security at Los Alamos, but the confidence that the most dramatic espionage allegations had been proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+Importantly, later reviews did not conclude that all concerns had been imaginary. Congressional and government examinations continued to identify genuine security lapses, poor investigative practices and unresolved questions. What collapsed was not every concern about security at Los Alamos, but the confidence that the most dramatic espionage allegations had been proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TMajlalg4Fo" title="AlbertaLee&quot;FatherBehindBars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TMajlalg4Fo" target="_blank" rel="noopener noreferrer">AlbertaLee&quot;FatherBehindBars&quot;</a></p><p class="youtube-embed-meta">Channel: Gary Mar</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TMajlalg4Fo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TMajlalg4Fo">Open on YouTube</a></p></div></div></div>
@@ -339,204 +339,204 @@ The case demonstrates how a sequence of apparently reasonable observations can g
 
 </div>
 
-That pattern does not prove that UFO-related allegations are wrong. It does show why secrecy alone is an unreliable guide to truth. Los Alamos genuinely possesses classified information. National-security agencies genuinely investigate leaks. Scientists genuinely can become subjects of counterintelligence inquiries. Yet those facts do not automatically validate the most dramatic interpretation of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+That pattern does not prove that UFO-related allegations are wrong. It does show why secrecy alone is an unreliable guide to truth. Los Alamos genuinely possesses classified information. National-security agencies genuinely investigate leaks. Scientists genuinely can become subjects of counterintelligence inquiries. Yet those facts do not automatically validate the most dramatic interpretation of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
 For claims involving suspicious deaths, disappearances or alleged suppression of antigravity research, the lesson is methodological. Evidence should be evaluated separately for each link in the chain. A scientist's connection to a defence laboratory may be real. A laboratory's involvement in classified work may be real. A death or disappearance may be unexplained. None of those facts, by themselves, establish a covert programme or a targeted silencing operation.
 
-The Wen Ho Lee episode remains one of the strongest historical reminders that national-security fears can be both legitimate and misleading at the same time. Real secrecy existed. Real security violations occurred. Yet some of the most serious public conclusions drawn from those facts were never substantiated. That combination makes the case a valuable cautionary parallel whenever Los Alamos, classified research and extraordinary claims become intertwined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Intelligence Resource Program+2American Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
+The Wen Ho Lee episode remains one of the strongest historical reminders that national-security fears can be both legitimate and misleading at the same time. Real secrecy existed. Real security violations occurred. Yet some of the most serious public conclusions drawn from those facts were never substantiated. That combination makes the case a valuable cautionary parallel whenever Los Alamos, classified research and extraordinary claims become intertwined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://irp.fas.org/congress/2001_rpt/whl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Intelligence Resource Program Report On Oversight of the Wen Ho Lee Case This report, consisting of an executive</span><span class="citation-popover-snippet">Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-3-dark.svg" | relative_url }}" alt="Wen Ho Lee illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_los_alamos_rumors_a90a09_wen_ho_lee_cautionar_f53a6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A Real Security Scare With a Cautionary Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A Real Security Scare With a Cautionary Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how classified military activity, rumors and speculation become intertwined, echoing the page&#x27;s cautionary lesson about evidence...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how classified military activity, rumors and speculation become intertwined, echoing the page&#x27;s cautionary lesson about evidence...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context on classified research programs and how secrecy can generate extraordinary claims without proving them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on classified research programs and how secrecy can generate extraordinary claims without proving them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly addresses claims of hidden breakthrough technologies, making it relevant to evaluating extraordinary allegations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses claims of hidden breakthrough technologies, making it relevant to evaluating extraordinary allegations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented evidence and credible sourcing, aligning with the page&#x27;s emphasis on separating proof from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented evidence and credible sourcing, aligning with the page&#x27;s emphasis on separating proof from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wen-ho-lee-a-real-security-scare-with-a-cautionary-lesson-ufo-and-antigravity-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,107 +742,107 @@ The Wen Ho Lee episode remains one of the strongest historical reminders that na
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cox Report  
-   Link: <a href="https://en.wikipedia.org/wiki/Cox_Report" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cox_Report</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cox_Report" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cox_Report</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Wen Ho Lee  
-   Link: <a href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wen_Ho_Lee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wen_Ho_Lee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wen_Ho_Lee</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: wen ho lees long way home  
-   Link: <a href="https://time.com/archive/6927532/wen-ho-lees-long-way-home/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6927532/wen-ho-lees-long-way-home/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wen Ho Lee&#x27;s Long Way HomeSep 16, 2000 — Before Christmas, prosecutors asked Federal Judge James Parker to deny Lee bail and hold him...</p></details>
+   Link:<a href="https://time.com/archive/6927532/wen-ho-lees-long-way-home/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6927532/wen-ho-lees-long-way-home/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wen Ho Lee&#x27;s Long Way HomeSep 16, 2000 — Before Christmas, prosecutors asked Federal Judge James Parker to deny Lee bail and hold him...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: irp.fas.org  
-   Link: <a href="https://irp.fas.org/[congress" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/[congress</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</p></details>
+   Link:<a href="https://irp.fas.org/[congress" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/[congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Resource ProgramReport On Oversight of the Wen Ho Lee CaseThis report, consisting of an executive summary accompanied by a d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: irp.fas.org  
-   Link: <a href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/congress/2000_rpt/specter.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</p></details>
+   Link:<a href="https://irp.fas.org/congress/2000_rpt/specter.html" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/congress/2000_rpt/specter.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lee failed in his obligation to report a meeting with a high ranking PRC nuclear scientist who...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aps.org  
-   Link: <a href="https://www.aps.org/publications/apsnews/200608/viewpoint.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/publications/apsnews/200608/viewpoint.cfm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Physical SocietyViewpoint: Wen Ho Lee&#x27;s SettlementA March 10, 1999 Albuquerque Journal story said the reason for firing Lee was...</p></details>
+   Link:<a href="https://www.aps.org/publications/apsnews/200608/viewpoint.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/publications/apsnews/200608/viewpoint.cfm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Physical SocietyViewpoint: Wen Ho Lee&#x27;s SettlementA March 10, 1999 Albuquerque Journal story said the reason for firing Lee was...</p></details>
    Published: March 10, 1999  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2000/sep/12/martinkettle" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2000/sep/12/martinkettle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Asians celebrate collapse of Los Alamos spy case11 Sept 2000 —... collapse yesterday when the suspect, Wen Ho Lee, was freed by...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2000/sep/12/martinkettle" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2000/sep/12/martinkettle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Asians celebrate collapse of Los Alamos spy case11 Sept 2000 —... collapse yesterday when the suspect, Wen Ho Lee, was freed by...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sgp.fas.org  
    Title: Project on Government Secrecy Investigation and Treatment of Wen Ho Lee  
-   Link: <a href="https://sgp.fas.org/congress/2000/h101200.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/congress/2000/h101200.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Treatment of Wen Ho Lee... Los Alamos laboratory until he was finally charged on December 10, 1999. Now suddenly we read in the newsp...</p></details>
+   Link:<a href="https://sgp.fas.org/congress/2000/h101200.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/congress/2000/h101200.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Treatment of Wen Ho Lee... Los Alamos laboratory until he was finally charged on December 10, 1999. Now suddenly we read in the newsp...</p></details>
    Published: December 10, 1999  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: americanscientist.org  
-   Link: <a href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American ScientistA Spy or Not a Spy, That Was the QuestionAt the end of the case, Judge James A. Parker, who presided over the final tri...</p></details>
+   Link:<a href="https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question" target="_blank" rel="noopener noreferrer nofollow">https://www.americanscientist.org/article/a-spy-or-not-a-spy-that-was-the-question</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American ScientistA Spy or Not a Spy, That Was the QuestionAt the end of the case, Judge James A. Parker, who presided over the final tri...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-01-869r" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-01-869r</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Official&#x27;s Congressional Testimony Was Inaccurate...FBI Official&#x27;s Congressional Testimony Was Inaccurate Because He Failed to Prese...</p></details>
+   Link:<a href="https://www.gao.gov/products/gao-01-869r" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-01-869r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Official&#x27;s Congressional Testimony Was Inaccurate...FBI Official&#x27;s Congressional Testimony Was Inaccurate Because He Failed to Prese...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: acronym.org.uk  
-   Link: <a href="https://acronym.org.uk/old/archive/dd/dd51/51wenho.htm" target="_blank" rel="noopener noreferrer nofollow">https://acronym.org.uk/old/archive/dd/dd51/51wenho.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bitter Aftermath of Wen Ho Lee Plea BargainThe Taiwanese-born US nuclear physicist, dismissed from Los Alamos National Laboratory in Marc...</p></details>
+   Link:<a href="https://acronym.org.uk/old/archive/dd/dd51/51wenho.htm" target="_blank" rel="noopener noreferrer nofollow">https://acronym.org.uk/old/archive/dd/dd51/51wenho.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bitter Aftermath of Wen Ho Lee Plea BargainThe Taiwanese-born US nuclear physicist, dismissed from Los Alamos National Laboratory in Marc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stanfordmag.org  
-   Link: <a href="https://stanfordmag.org/contents/on-chinese-spying-they-beg-to-differ" target="_blank" rel="noopener noreferrer nofollow">https://stanfordmag.org/contents/on-chinese-spying-they-beg-to-differ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Chinese Spying, They Beg to DifferThen, investigators charged Los Alamos scientist Wen Ho Lee with improperly handling classified mate...</p></details>
+   Link:<a href="https://stanfordmag.org/contents/on-chinese-spying-they-beg-to-differ" target="_blank" rel="noopener noreferrer nofollow">https://stanfordmag.org/contents/on-chinese-spying-they-beg-to-differ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Chinese Spying, They Beg to DifferThen, investigators charged Los Alamos scientist Wen Ho Lee with improperly handling classified mate...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: e-ir.info  
-   Link: <a href="https://www.e-ir.info/2013/08/17/the-united-states-vs-wen-ho-lee-an-error-of-cooperation-prioritization-and-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-ir.info/2013/08/17/the-united-states-vs-wen-ho-lee-an-error-of-cooperation-prioritization-and-imagination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States vs Wen Ho Lee: An Error of Cooperation...17 Aug 2013 — The case of Wen Ho Lee supports Frederick L. Wettering&#x27;s claim...</p></details>
+   Link:<a href="https://www.e-ir.info/2013/08/17/the-united-states-vs-wen-ho-lee-an-error-of-cooperation-prioritization-and-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-ir.info/2013/08/17/the-united-states-vs-wen-ho-lee-an-error-of-cooperation-prioritization-and-imagination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The United States vs Wen Ho Lee: An Error of Cooperation...17 Aug 2013 — The case of Wen Ho Lee supports Frederick L. Wettering&#x27;s claim...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: intelligence.senate.gov  
    Title: sites default files hearings 106wenholee  
-   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-106wenholee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-106wenholee.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WEN HO LEE MATTER JOINT HEARINGI have said on several occasions that I believe that our govern- ment&#x27;s response to Chinese espionage agai...</p></details>
+   Link:<a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-106wenholee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-106wenholee.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WEN HO LEE MATTER JOINT HEARINGI have said on several occasions that I believe that our govern- ment&#x27;s response to Chinese espionage agai...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fedbarchicago.org  
    Title: wen ho lee case revisited 25th anniversary legal program  
-   Link: <a href="https://www.fedbarchicago.org/blog/wen-ho-lee-case-revisited-25th-anniversary-legal-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fedbarchicago.org/blog/wen-ho-lee-case-revisited-25th-anniversary-legal-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bar Association Chicago ChapterWen Ho Lee Case Revisited at 25th Anniversary Legal...29 May 2025 — The program revisited the pro...</p></details>
+   Link:<a href="https://www.fedbarchicago.org/blog/wen-ho-lee-case-revisited-25th-anniversary-legal-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fedbarchicago.org/blog/wen-ho-lee-case-revisited-25th-anniversary-legal-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Bar Association Chicago ChapterWen Ho Lee Case Revisited at 25th Anniversary Legal...29 May 2025 — The program revisited the pro...</p></details>
    Published: May 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/advancing-justice-aajc/21-years-after-the-arrest-of-dr-6098b921589a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/advancing-justice-aajc/21-years-after-the-arrest-of-dr-6098b921589a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r the government&#x27;s case crumbled, lacking any merit and...Read more...</p></details>
+   Link:<a href="https://medium.com/advancing-justice-aajc/21-years-after-the-arrest-of-dr-6098b921589a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/advancing-justice-aajc/21-years-after-the-arrest-of-dr-6098b921589a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r the government&#x27;s case crumbled, lacking any merit and...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/jasonchumusic/videos/held-for-278-days-without-bail-dr-wen-ho-lee-received-an-apology-from-the-judge-/1449798432863187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jasonchumusic/videos/held-for-278-days-without-bail-dr-wen-ho-lee-received-an-apology-from-the-judge-/1449798432863187/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While wrongfully imprisoned, he was subjected to methods of torture...</p></details>
+   Link:<a href="https://www.facebook.com/jasonchumusic/videos/held-for-278-days-without-bail-dr-wen-ho-lee-received-an-apology-from-the-judge-/1449798432863187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jasonchumusic/videos/held-for-278-days-without-bail-dr-wen-ho-lee-received-an-apology-from-the-judge-/1449798432863187/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While wrongfully imprisoned, he was subjected to methods of torture...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17839923/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17839923/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRelief, Rebukes Follow Agreement on Leeby A Lawler · 2000 — What began as an explosive case of alleged nuclear espionage is expect...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17839923/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17839923/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govRelief, Rebukes Follow Agreement on Leeby A Lawler · 2000 — What began as an explosive case of alleged nuclear espionage is expect...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: USA: ALLEGED NUCLEAR SECRETS THEFT INVESTIGATION LATEST  
-   Link: <a href="https://www.youtube.com/watch?v=KuzEiB5BKCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KuzEiB5BKCE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Labyrinth of Suspicions: Wen Ho Lee&#x27;s Espionage Saga...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KuzEiB5BKCE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KuzEiB5BKCE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Labyrinth of Suspicions: Wen Ho Lee&#x27;s Espionage Saga...</p></details>

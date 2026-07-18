@@ -274,19 +274,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_whi
 
 ## Introduction
 
-A brief exchange at the White House on 16 April 2026 transformed an online conspiracy theory about allegedly "missing scientists" into a national political story. Until then, claims that researchers connected with sensitive government work were being systematically targeted had circulated mainly in online communities interested in UFOs, classified technology and national-security speculation. The question posed to President Donald Trump did not provide evidence that the cases were linked, but it brought the claim into a high-profile setting where it was treated as a matter worthy of official attention. That shift in visibility became one of the defining moments examined by later reporting, including the Associated Press, because it illustrated how an unverified narrative can rapidly enter mainstream political discussion before investigators establish whether a common cause exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+A brief exchange at the White House on 16 April 2026 transformed an online conspiracy theory about allegedly "missing scientists" into a national political story. Until then, claims that researchers connected with sensitive government work were being systematically targeted had circulated mainly in online communities interested in UFOs, classified technology and national-security speculation. The question posed to President Donald Trump did not provide evidence that the cases were linked, but it brought the claim into a high-profile setting where it was treated as a matter worthy of official attention. That shift in visibility became one of the defining moments examined by later reporting, including the Associated Press, because it illustrated how an unverified narrative can rapidly enter mainstream political discussion before investigators establish whether a common cause exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-1-dark.svg" | relative_url }}" alt="White House illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What was asked on 16 April?
 
-During a press gathering outside the White House, President Trump was asked whether there were connections between "10 missing scientists" who allegedly had access to classified information, nuclear material and [aerospace]({{ 'aerospace/' | relative_url }}) programmes and who had "gone missing or turned up dead". The [wording]({{ 'wording/' | relative_url }}) of the question presented the existence of a coherent group as an apparent premise rather than something still requiring proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+During a press gathering outside the White House, President Trump was asked whether there were connections between "10 missing scientists" who allegedly had access to classified information, nuclear material and [aerospace]({{ 'aerospace/' | relative_url }}) programmes and who had "gone missing or turned up dead". The [wording]({{ 'wording/' | relative_url }}) of the question presented the existence of a coherent group as an apparent premise rather than something still requiring proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Trump replied:
 
 > "Well, I hope it's random, but we're going to know in the next week and a half."
 
-In subsequent remarks reported the following day, he also said he had just come from a meeting on the subject and suggested officials were looking into it. Importantly, these comments did not endorse a conspiracy theory outright, but neither did they challenge the underlying assumption that the reported cases might represent a connected phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumlocalnews.com">[Spectrum Local News+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumlocalnews.com</span><span class="citation-popover-snippet">Spectrum Local NewsTrump says he had meeting on reports of missing scientists17 Apr 2026 — WASHINGTON — President Donald Trump told repor...</span></span></span>
+In subsequent remarks reported the following day, he also said he had just come from a meeting on the subject and suggested officials were looking into it. Importantly, these comments did not endorse a conspiracy theory outright, but neither did they challenge the underlying assumption that the reported cases might represent a connected phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrumlocalnews.com">[spectrumlocalnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrumlocalnews.com</span><span class="citation-popover-snippet">Spectrum Local NewsTrump says he had meeting on reports of missing scientists17 Apr 2026 — WASHINGTON — President Donald Trump told repor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pr24hXA6zHE" title="White House Responds to Reports of Missing Scientists, Leavitt Says “We’ll Look Into It” | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pr24hXA6zHE" target="_blank" rel="noopener noreferrer">White House Responds to Reports of Missing Scientists, Leavitt Says “We’ll Look Into It” | APT</a></p><p class="youtube-embed-meta">Channel: APT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pr24hXA6zHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pr24hXA6zHE">Open on YouTube</a></p></div></div></div>
@@ -295,15 +295,15 @@ In subsequent remarks reported the following day, he also said he had just come 
 
 The significance of the exchange lay less in what the President said than in where and how the discussion occurred.
 
-Before the White House question, online discussions typically linked together unrelated deaths and disappearances involving people with varying levels of connection to scientific or government work. These discussions circulated largely within UFO, conspiracy and national-security communities. Once the issue reached a presidential press exchange, major news organisations, political reporters and broadcasters began covering the subject as a developing national story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+Before the White House question, online discussions typically linked together unrelated deaths and disappearances involving people with varying levels of connection to scientific or government work. These discussions circulated largely within UFO, conspiracy and national-security communities. Once the issue reached a presidential press exchange, major news organisations, political reporters and broadcasters began covering the subject as a developing national story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Several factors contributed to the amplification:
 
 * **Institutional legitimacy.** A question asked directly to the President signalled that the issue had become politically noteworthy, regardless of whether the underlying claims had been verified.
 * **Media multiplication.** Television clips and news reports repeated both the question and the President's answer, introducing the narrative to audiences far beyond the online communities where it originated.
-* **Government follow-up.** The exchange was soon followed by congressional inquiries and later FBI involvement in reviewing possible connections, developments that further increased public attention even though officials had not established that the cases formed a coordinated pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+* **Government follow-up.** The exchange was soon followed by congressional inquiries and later FBI involvement in reviewing possible connections, developments that further increased public attention even though officials had not established that the cases formed a coordinated pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-The Associated Press later identified this sequence as a clear example of an internet narrative moving rapidly from fringe discussion into mainstream politics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The Associated Press later identified this sequence as a clear example of an internet narrative moving rapidly from fringe discussion into mainstream politics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-2-dark.svg" | relative_url }}" alt="White House illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,9 +316,9 @@ Subsequent reporting consistently distinguished between two separate questions:
 * whether the individual cases were genuine and deserving of investigation; and
 * whether they were connected by an organised campaign against scientists.
 
-At the time of the April 16 exchange, no public evidence had shown that the individuals formed a single targeted group or that a common perpetrator linked the incidents. The people cited came from different organisations, different scientific disciplines and different time periods, with causes ranging from homicide investigations to disappearances and natural deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+At the time of the April 16 exchange, no public evidence had shown that the individuals formed a single targeted group or that a common perpetrator linked the incidents. The people cited came from different organisations, different scientific disciplines and different time periods, with causes ranging from homicide investigations to disappearances and natural deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-CBS News later reported that while the FBI was examining possible connections, people familiar with the individual investigations had not identified evidence tying the cases together. Its own review likewise found no demonstrable common link among the deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
+CBS News later reported that while the FBI was examining possible connections, people familiar with the individual investigations had not identified evidence tying the cases together. Its own review likewise found no demonstrable common link among the deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VZH2AtqEQTc" title="FBI investigation deaths and disappearances of notable scientists working at government laboratories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VZH2AtqEQTc" target="_blank" rel="noopener noreferrer">FBI investigation deaths and disappearances of notable scientists working at government laboratories</a></p><p class="youtube-embed-meta">Channel: CBS LA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VZH2AtqEQTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VZH2AtqEQTc">Open on YouTube</a></p></div></div></div>
@@ -332,200 +332,200 @@ Within the broader history of the "missing scientists" narrative, the April 16 W
 
 That transition mattered because public attention shifted before the evidentiary picture had changed. The presidential exchange did not uncover new forensic findings or intelligence. Instead, it elevated an existing online narrative into a subject of national news coverage and political inquiry.
 
-The Associated Press used this episode to illustrate a broader phenomenon in modern information ecosystems: once an unverified claim receives attention from senior political figures, public debate can begin treating the existence of official interest as indirect support for the claim itself, even when investigators continue to emphasise that evidence of a coordinated conspiracy has not been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2NBC4 Washington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The Associated Press used this episode to illustrate a broader phenomenon in modern information ecosystems: once an unverified claim receives attention from senior political figures, public debate can begin treating the existence of official interest as indirect support for the claim itself, even when investigators continue to emphasise that evidence of a coordinated conspiracy has not been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-3-dark.svg" | relative_url }}" alt="White House illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a_white_house_scientis_123cfc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Question Took the Rumor National. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Question Took the Rumor National. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for assessing evidence when high-profile claims reach public debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for assessing evidence when high-profile claims reach public debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO stories move between fringe communities and mainstream institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO stories move between fringe communities and mainstream institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives context for official statements and government-related UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives context for official statements and government-related UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Explains how political attention can amplify unverified narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how political attention can amplify unverified narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="white-house-how-one-question-took-the-rumor-national-ufo-and-antigravity-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-one-question-took-the-rumor-national-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-one-question-took-the-rumor-national-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,98 +731,98 @@ The Associated Press used this episode to illustrate a broader phenomenon in mod
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). Theories propose...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). Theories propose...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nbcwashington.com  
    Title: conspiracy theories missing dead scientists white house  
-   Link: <a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC4 WashingtonHow conspiracy theories about missing or dead scientists...26 Apr 2026 — At a press gathering April 16, President Donald...</p></details>
+   Link:<a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC4 WashingtonHow conspiracy theories about missing or dead scientists...26 Apr 2026 — At a press gathering April 16, President Donald...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spectrumlocalnews.com  
-   Link: <a href="https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectrum Local NewsTrump says he had meeting on reports of missing scientists17 Apr 2026 — WASHINGTON — President Donald Trump told repor...</p></details>
+   Link:<a href="https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half" target="_blank" rel="noopener noreferrer nofollow">https://spectrumlocalnews.com/us/snplus/news/2026/04/17/trump-says-he-had-a-meeting-on-reports-of-missing-scientists--will-know-more-in-a-week-and-a-half</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spectrum Local NewsTrump says he had meeting on reports of missing scientists17 Apr 2026 — WASHINGTON — President Donald Trump told repor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thetimes.com  
    Title: white house growing list missing scientists ptww5n99c  
-   Link: <a href="https://www.thetimes.com/us/news-today/article/white-house-growing-list-missing-scientists-ptww5n99c" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/us/news-today/article/white-house-growing-list-missing-scientists-ptww5n99c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Hope it&#x27;s random&#x27;: Trump reacts to &#x27;missing scientist&#x27;...16 Apr 2026 — Theories have circulated online after about ten scientists disap...</p></details>
+   Link:<a href="https://www.thetimes.com/us/news-today/article/white-house-growing-list-missing-scientists-ptww5n99c" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/us/news-today/article/white-house-growing-list-missing-scientists-ptww5n99c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Hope it&#x27;s random&#x27;: Trump reacts to &#x27;missing scientist&#x27;...16 Apr 2026 — Theories have circulated online after about ten scientists disap...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — The disappearances and deaths of 10 government workers ti...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — The disappearances and deaths of 10 government workers ti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/amp/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/amp/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ear or space technology have sparked speculation online...</p></details>
+   Link:<a href="https://www.cbsnews.com/amp/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/amp/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ear or space technology have sparked speculation online...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: northeastlivetv.com  
-   Link: <a href="https://northeastlivetv.com/international/the-real-story-behind-the-mysterious-death-or-disappearance-of-american-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://northeastlivetv.com/international/the-real-story-behind-the-mysterious-death-or-disappearance-of-american-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story Behind the Mysterious Death or...Jason Thomas, a Novartis researcher, went missing in late 2025 and was later found decea...</p></details>
+   Link:<a href="https://northeastlivetv.com/international/the-real-story-behind-the-mysterious-death-or-disappearance-of-american-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://northeastlivetv.com/international/the-real-story-behind-the-mysterious-death-or-disappearance-of-american-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Story Behind the Mysterious Death or...Jason Thomas, a Novartis researcher, went missing in late 2025 and was later found decea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VZH2AtqEQTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZH2AtqEQTc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VZH2AtqEQTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZH2AtqEQTc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: washingtontimes.com  
    Title: conspiracy theories missing dead scientists went online forums white  
-   Link: <a href="https://www.washingtontimes.com/news/2026/apr/24/conspiracy-theories-missing-dead-scientists-went-online-forums-white/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtontimes.com/news/2026/apr/24/conspiracy-theories-missing-dead-scientists-went-online-forums-white/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump was asked...</p></details>
+   Link:<a href="https://www.washingtontimes.com/news/2026/apr/24/conspiracy-theories-missing-dead-scientists-went-online-forums-white/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtontimes.com/news/2026/apr/24/conspiracy-theories-missing-dead-scientists-went-online-forums-white/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump was asked...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/deaths-disappearances-of-scientists-seen-as-ufo-related-trump-orders-fbi-probe-says-hopefully-coincidence-101776594558147.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/deaths-disappearances-of-scientists-seen-as-ufo-related-trump-orders-fbi-probe-says-hopefully-coincidence-101776594558147.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to NASA&#x27;s Jet Propulsion Laboratory, [Los Alamos](&amp;#123;&amp;#123; &#x27;los-alamos/&#x27; | relative_url &amp;#125;&amp;#125;) National Laboratory, and...Read more...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/deaths-disappearances-of-scientists-seen-as-ufo-related-trump-orders-fbi-probe-says-hopefully-coincidence-101776594558147.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/deaths-disappearances-of-scientists-seen-as-ufo-related-trump-orders-fbi-probe-says-hopefully-coincidence-101776594558147.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to NASA&#x27;s Jet Propulsion Laboratory, [Los Alamos](&amp;#123;&amp;#123; &#x27;los-alamos/&#x27; | relative_url &amp;#125;&amp;#125;) National Laboratory, and...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/missing-dead-scientists-connections-government-185431588.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/missing-dead-scientists-connections-government-185431588.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t least 10 cases of disappearances or deaths that may be relevant to the...Read more...</p></details>
+   Link:<a href="https://www.aol.com/news/missing-dead-scientists-connections-government-185431588.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/missing-dead-scientists-connections-government-185431588.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t least 10 cases of disappearances or deaths that may be relevant to the...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aol.com  
    Title: string scientist deaths vanishings fuels 120027799  
-   Link: <a href="https://www.aol.com/articles/string-scientist-deaths-vanishings-fuels-120027799.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/string-scientist-deaths-vanishings-fuels-120027799.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>String of scientist deaths, vanishings fuels expert talks...1 day ago — Nearly a dozen scientists have died or disappeared since 2023 un...</p></details>
+   Link:<a href="https://www.aol.com/articles/string-scientist-deaths-vanishings-fuels-120027799.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/string-scientist-deaths-vanishings-fuels-120027799.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>String of scientist deaths, vanishings fuels expert talks...1 day ago — Nearly a dozen scientists have died or disappeared since 2023 un...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: washingtonexaminer.com  
-   Link: <a href="https://www.washingtonexaminer.com/news/white-house/4529694/white-house-american-scientists-dissappeared-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonexaminer.com/news/white-house/4529694/white-house-american-scientists-dissappeared-died/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2025, is among the 10 scientists whose fates have sparked concern...</p></details>
+   Link:<a href="https://www.washingtonexaminer.com/news/white-house/4529694/white-house-american-scientists-dissappeared-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonexaminer.com/news/white-house/4529694/white-house-american-scientists-dissappeared-died/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2025, is among the 10 scientists whose fates have sparked concern...</p></details>
    Published: August 28, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: globaltimes.cn  
-   Link: <a href="https://www.globaltimes.cn/page/202604/1359252.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.globaltimes.cn/page/202604/1359252.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s and Los Alamos National Laboratory employees Melissa Caslas and Anthony...</p></details>
+   Link:<a href="https://www.globaltimes.cn/page/202604/1359252.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.globaltimes.cn/page/202604/1359252.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s and Los Alamos National Laboratory employees Melissa Caslas and Anthony...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXNio7Uk_R2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNio7Uk_R2/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>have died or disappeared in recent months, raising questions...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXNio7Uk_R2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXNio7Uk_R2/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>have died or disappeared in recent months, raising questions...Read more...</p></details>

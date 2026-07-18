@@ -280,7 +280,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_dia_
 
 ## Introduction
 
-The existence of a Defence Intelligence Agency (DIA) paper about antigravity is often presented in UFO discussions as if it were proof that gravity-control technology had already been discovered behind closed doors. That conclusion does not follow from the evidence. The document shows that a US defence-funded programme was interested in surveying unconventional [aerospace]({{ 'aerospace/' | relative_url }}) concepts, not that those concepts had been demonstrated in the laboratory or deployed in aircraft. In fact, the paper itself repeatedly treats antigravity as a speculative objective and acknowledges the absence of any known technology capable of actively controlling gravity. The gap between “government interest” and “scientific validation” is the key reason the document became a source of folklore rather than proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The existence of a Defence Intelligence Agency (DIA) paper about antigravity is often presented in UFO discussions as if it were proof that gravity-control technology had already been discovered behind closed doors. That conclusion does not follow from the evidence. The document shows that a US defence-funded programme was interested in surveying unconventional [aerospace]({{ 'aerospace/' | relative_url }}) concepts, not that those concepts had been demonstrated in the laboratory or deployed in aircraft. In fact, the paper itself repeatedly treats antigravity as a speculative objective and acknowledges the absence of any known technology capable of actively controlling gravity. The gap between “government interest” and “scientific validation” is the key reason the document became a source of folklore rather than proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_dia_interest_not_pro_7974a6-Illustration-1-dark.svg" | relative_url }}" alt="DIA Interest illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_dia_interest_not_pro_7974a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_dia_interest_not_pro_7974a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ Within debates about UFOs, secret propulsion systems and alleged suppression of 
 
 ## What the DIA Paper Was Commissioned to Do
 
-The antigravity document was one of a series of Defence Intelligence Reference Documents (DIRDs) produced under the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})). Contemporary Department of Defense memoranda describe the programme's purpose as identifying technologies and physics concepts that might support revolutionary future aerospace capabilities. The goal was to explore possibilities, prioritise areas for further study and provide technology assessments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
+The antigravity document was one of a series of Defence Intelligence Reference Documents (DIRDs) produced under the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})). Contemporary Department of Defense memoranda describe the programme's purpose as identifying technologies and physics concepts that might support revolutionary future aerospace capabilities. The goal was to explore possibilities, prioritise areas for further study and provide technology assessments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
 
-The wider collection of AAWSAP studies helps clarify the context. Antigravity appeared alongside reports examining topics such as warp drives, wormholes, gravity-wave communications, vacuum-energy concepts and other highly speculative aerospace ideas. The inclusion of antigravity in that list indicates that analysts wanted awareness of potentially disruptive future technologies; it does not indicate that any of those technologies had been proven. U.S. Department of War+2theoriesofanything.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+The wider collection of AAWSAP studies helps clarify the context. Antigravity appeared alongside reports examining topics such as warp drives, wormholes, gravity-wave communications, vacuum-energy concepts and other highly speculative aerospace ideas. The inclusion of antigravity in that list indicates that analysts wanted awareness of potentially disruptive future technologies; it does not indicate that any of those technologies had been proven. U.S. Department of War+2theoriesofanything.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 A useful comparison is military interest in emerging technologies generally. Defence organisations routinely commission studies of concepts that may never become practical. Strategic forecasting is partly about understanding what could transform future competition, even when the underlying science remains uncertain.
 
@@ -299,7 +299,7 @@ A useful comparison is military interest in emerging technologies generally. Def
 
 ## Why Speculative Review Is Not Scientific Validation
 
-The strongest evidence against the claim that the DIA paper proves antigravity works comes from the document itself. Rather than announcing a breakthrough, the report evaluates theoretical possibilities and engineering obstacles. It explicitly states that no technology then existed that could achieve active control of gravity. The discussion focuses on what might be required for such control, not on demonstrating that it had been achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The strongest evidence against the claim that the DIA paper proves antigravity works comes from the document itself. Rather than announcing a breakthrough, the report evaluates theoretical possibilities and engineering obstacles. It explicitly states that no technology then existed that could achieve active control of gravity. The discussion focuses on what might be required for such control, not on demonstrating that it had been achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 This distinction mirrors a basic difference in scientific practice:
 
@@ -312,9 +312,9 @@ This distinction mirrors a basic difference in scientific practice:
 
 </div>
 
-The [DIA document]({{ 'dia-document/' | relative_url }}) falls into the first category. It reviews concepts from general relativity, quantum physics and speculative propulsion research. It does not present a successful experiment showing controllable antigravity forces, nor does it provide evidence of a working vehicle based on gravity manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The [DIA document]({{ 'dia-document/' | relative_url }}) falls into the first category. It reviews concepts from general relativity, quantum physics and speculative propulsion research. It does not present a successful experiment showing controllable antigravity forces, nor does it provide evidence of a working vehicle based on gravity manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
-Many of the examples discussed in the report are exploratory thought exercises rather than practical engineering proposals. Some sections examine conditions involving extreme masses, exotic matter or spacetime effects that are far beyond current technological capabilities. Their inclusion demonstrates intellectual exploration, not technological success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+Many of the examples discussed in the report are exploratory thought exercises rather than practical engineering proposals. Some sections examine conditions involving extreme masses, exotic matter or spacetime effects that are far beyond current technological capabilities. Their inclusion demonstrates intellectual exploration, not technological success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 A common misunderstanding arises because government reports often discuss possibilities in technical language. Readers unfamiliar with research culture may interpret discussion of a concept as confirmation that the concept has already been realised. In reality, research programmes frequently analyse ideas that are decades away from practical testing—or that may ultimately prove impossible.
 
@@ -337,7 +337,7 @@ Scientific validation would normally involve:
 
 </div>
 
-None of those elements appear in the antigravity DIRD. Instead, the document discusses candidate theories, possible physical mechanisms and future research directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+None of those elements appear in the antigravity DIRD. Instead, the document discusses candidate theories, possible physical mechanisms and future research directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 This absence is especially important because extraordinary propulsion claims require extraordinary evidence. A technology capable of reducing or cancelling gravitational effects would represent one of the most significant breakthroughs in the history of physics and aerospace engineering. The burden of proof would therefore be exceptionally high.
 
@@ -350,11 +350,11 @@ The paper's existence satisfies none of the usual criteria for demonstrating suc
 
 The antigravity report occupies a unique position in UFO culture because it combines several ingredients that encourage myth-making.
 
-First, it carries official government branding. Many readers assume that if an intelligence agency funded a study, the agency must already know the subject is real. In practice, intelligence organisations often investigate uncertain possibilities precisely because they do not know whether those possibilities are real or achievable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
+First, it carries official government branding. Many readers assume that if an intelligence agency funded a study, the agency must already know the subject is real. In practice, intelligence organisations often investigate uncertain possibilities precisely because they do not know whether those possibilities are real or achievable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
 
-Second, the report emerged from the same broader AAWSAP/AATIP environment that later became associated with public debates about unidentified aerial phenomena. That connection encourages some readers to view every document from the programme as hidden confirmation of advanced UFO propulsion. Yet the programme's documented purpose was broader: assessing unconventional aerospace technologies and future threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Second, the report emerged from the same broader AAWSAP/AATIP environment that later became associated with public debates about unidentified aerial phenomena. That connection encourages some readers to view every document from the programme as hidden confirmation of advanced UFO propulsion. Yet the programme's documented purpose was broader: assessing unconventional aerospace technologies and future threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-Third, the word “antigravity” itself has powerful cultural associations. Since the mid-twentieth century, antigravity has appeared in science fiction, UFO narratives and claims of suppressed technology. When an official document uses the term, many people naturally interpret it through that existing mythology rather than through the more mundane lens of a technical survey. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[s3images.coroflot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">The Hunt for Zero PointJanuary 22, 2008 — The hunt for zero point: inside the classified world of antigravity technology /...</span><span class="citation-popover-meta">Published: January 22, 2008</span></span></span>
+Third, the word “antigravity” itself has powerful cultural associations. Since the mid-twentieth century, antigravity has appeared in science fiction, UFO narratives and claims of suppressed technology. When an official document uses the term, many people naturally interpret it through that existing mythology rather than through the more mundane lens of a technical survey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3images.coroflot.com">[s3images.coroflot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3images.coroflot.com</span><span class="citation-popover-snippet">The Hunt for Zero PointJanuary 22, 2008 — The hunt for zero point: inside the classified world of antigravity technology /...</span><span class="citation-popover-meta">Published: January 22, 2008</span></span></span>
 
 The result is a chain of reasoning that sounds persuasive but is logically weak:
 
@@ -374,205 +374,205 @@ Only the first statement is firmly supported by documentary evidence. Each subse
 
 ## What the DIA Interest Actually Demonstrates
 
-The most defensible conclusion is narrower but still significant. The DIA's interest demonstrates that defence planners considered gravity-control concepts potentially important enough to monitor. If such technologies ever became feasible, their military implications would be enormous. Aircraft could potentially reduce dependence on conventional lift and propulsion systems, radically changing aerospace operations. That possibility alone justifies analytical attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The most defensible conclusion is narrower but still significant. The DIA's interest demonstrates that defence planners considered gravity-control concepts potentially important enough to monitor. If such technologies ever became feasible, their military implications would be enormous. Aircraft could potentially reduce dependence on conventional lift and propulsion systems, radically changing aerospace operations. That possibility alone justifies analytical attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
-Seen in this light, the report functions more as a technology-warning exercise than as evidence of a hidden capability. Intelligence and defence organisations routinely study disruptive possibilities long before those possibilities become practical realities. Antigravity was treated as one candidate future breakthrough among many other speculative concepts under review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
+Seen in this light, the report functions more as a technology-warning exercise than as evidence of a hidden capability. Intelligence and defence organisations routinely study disruptive possibilities long before those possibilities become practical realities. Antigravity was treated as one candidate future breakthrough among many other speculative concepts under review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</span></span></span>
 
-For readers exploring claims about UFO-related research, alleged secret technologies or stories connecting advanced physics to mysterious deaths and disappearances, the key lesson is straightforward: official interest is evidence that a subject attracted attention. It is not evidence that the underlying technology had been solved. The DIA antigravity paper documents curiosity, assessment and strategic foresight; it does not document a working antigravity system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+For readers exploring claims about UFO-related research, alleged secret technologies or stories connecting advanced physics to mysterious deaths and disappearances, the key lesson is straightforward: official interest is evidence that a subject attracted attention. It is not evidence that the underlying technology had been solved. The DIA antigravity paper documents curiosity, assessment and strategic foresight; it does not document a working antigravity system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QHehvoYrM_o" title="Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer">Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1</a></p><p class="youtube-embed-meta">Channel: Mystic Lounge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QHehvoYrM_o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did DIA Interest Mean Antigravity Was Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did DIA Interest Mean Antigravity Was Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explains how official attention and cultural narratives can amplify speculative claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official attention and cultural narratives can amplify speculative claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Provides perspective on speculative technologies that attract government and public interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on speculative technologies that attract government and public interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how investigation and categorization differ from proof of extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigation and categorization differ from proof of extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the distinction between institutional interest and demonstrated scientific proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the distinction between institutional interest and demonstrated scientific proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="https://i.ebayimg.com/images/g/ghYAAOSwbPlnMjJ1/s-l225.jpg" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WATCH VIDEO! Anti Gravity Display Toy / Desk Display / Conversation Art Piece"><img src="https://i.ebayimg.com/images/g/UpQAAeSwE8Zp7mgR/s-l225.jpg" alt="Listing image for WATCH VIDEO! Anti Gravity Display Toy / Desk Display / Conversation Art Piece" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">WATCH VIDEO! Anti Gravity Display Toy / Desk Display / Conversation Art Piece</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1993 - Anti-Gravity Illusion - Patent Art Poster"><img src="https://i.ebayimg.com/images/g/NqAAAOSwJxlZkdV-/s-l225.jpg" alt="Listing image for 1993 - Anti-Gravity Illusion - Patent Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">1993 - Anti-Gravity Illusion - Patent Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="dia-interest-did-dia-interest-mean-antigravity-was-real-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="https://i.ebayimg.com/images/g/zaYAAOSwp2NkqSHC/s-l225.jpg" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dia-interest-mean-antigravity-was-real-antigravity-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity art print" data-ebay-reference="did-dia-interest-mean-antigravity-was-real-antigravity-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ For readers exploring claims about UFO-related research, alleged secret technolo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ For readers exploring claims about UFO-related research, alleged secret technolo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ For readers exploring claims about UFO-related research, alleged secret technolo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ For readers exploring claims about UFO-related research, alleged secret technolo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ For readers exploring claims about UFO-related research, alleged secret technolo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,101 +778,101 @@ For readers exploring claims about UFO-related research, alleged secret technolo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency Antigravity for Aerospace Applications  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — This product is one in a series of advance...</p></details>
    Published: March 4, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyUNCLASSIFIED INFO MEMO U-429-091(b)(3):10 USC 424...30 Oct 2009 — The goal of the contract is to identify key...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: 09117 Final Packet Presented to DepSecDef  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNDER SECRETARY OF DEFENSE17 Nov 2009 — Its primary purpose is to investigate revolutionary advances in future aerospace technologies wit...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNDER SECRETARY OF DEFENSE17 Nov 2009 — Its primary purpose is to investigate revolutionary advances in future aerospace technologies wit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — Advanced Aerospace Weapons System Application Program...</p></details>
    Published: March 9, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theoriesofanything.com  
-   Link: <a href="https://theoriesofanything.com/research/uap-technology-the-five-observables" target="_blank" rel="noopener noreferrer nofollow">https://theoriesofanything.com/research/uap-technology-the-five-observables</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I_1_02 — UAP Technology &amp; the Five Observables | Theories of...The Advanced Aerospace Weapon System Applications Program (AAWSAP), manag...</p></details>
+   Link:<a href="https://theoriesofanything.com/research/uap-technology-the-five-observables" target="_blank" rel="noopener noreferrer nofollow">https://theoriesofanything.com/research/uap-technology-the-five-observables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I_1_02 — UAP Technology &amp; the Five Observables | Theories of...The Advanced Aerospace Weapon System Applications Program (AAWSAP), manag...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: s3images.coroflot.com  
-   Link: <a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hunt for Zero PointJanuary 22, 2008 — The hunt for zero point: inside the classified world of antigravity technology /...</p></details>
+   Link:<a href="https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3images.coroflot.com/user_files/individual_files/original_pdf_221275_vyxcyxw55dqdanjxjsrg8iqen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hunt for Zero PointJanuary 22, 2008 — The hunt for zero point: inside the classified world of antigravity technology /...</p></details>
    Published: January 22, 2008  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: diabrowser.com  
-   Link: <a href="https://www.diabrowser.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.diabrowser.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dia | The browser for your best workDia follows along as you work, surfacing Proactive Suggestions for what&#x27;s next. You spend less time f...</p></details>
+   Link:<a href="https://www.diabrowser.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.diabrowser.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dia | The browser for your best workDia follows along as you work, surfacing Proactive Suggestions for what&#x27;s next. You spend less time f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Defense Intelligence Agency  
-   Link: <a href="https://en.wikipedia.org/wiki/Defense_Intelligence_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defense_Intelligence_Agency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyThe Defense Intelligence Agency (DIA) is an intelligence agency and combat support agency of the United Sta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Defense_Intelligence_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defense_Intelligence_Agency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyThe Defense Intelligence Agency (DIA) is an intelligence agency and combat support agency of the United Sta...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2024/01/aerocommissionfinalreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2024/01/aerocommissionfinalreport.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Science Board (DSB). – Defense Technology Security Agency (DTSA). – Director, Defense Research and Engineering (...Read more...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2024/01/aerocommissionfinalreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2024/01/aerocommissionfinalreport.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Science Board (DSB). – Defense Technology Security Agency (DTSA). – Director, Defense Research and Engineering (...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A former DoD black project engineer has leaked internal...A former DoD black project engineer has leaked internal BAASS documents claimi...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-breaking-a-former-dod-black-project-engineer-has-leaked-internal-baass-document/667946629372334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A former DoD black project engineer has leaked internal...A former DoD black project engineer has leaked internal BAASS documents claimi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/dia" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/dia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIADIA is the leading global life science membership association driving collaboration in drug, device, and diagnostics development in pu...</p></details>
+   Link:<a href="https://www.linkedin.com/company/dia" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/dia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIADIA is the leading global life science membership association driving collaboration in drug, device, and diagnostics development in pu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: diaglobal.org  
-   Link: <a href="https://www.diaglobal.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.diaglobal.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drug Information Association: The Global Network for Health...DIA is a global association that mobilizes life science professionals from...</p></details>
+   Link:<a href="https://www.diaglobal.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.diaglobal.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drug Information Association: The Global Network for Health...DIA is a global association that mobilizes life science professionals from...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: driving.org  
-   Link: <a href="https://www.driving.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.driving.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Instructors Association: Membership and professional...The DIA is the UK&#x27;s leading professional body for driver and rider traine...</p></details>
+   Link:<a href="https://www.driving.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.driving.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Instructors Association: Membership and professional...The DIA is the UK&#x27;s leading professional body for driver and rider traine...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/239374133_Quest_for_a_novel_force_A_possible_revolution_in_aerospace" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239374133_Quest_for_a_novel_force_A_possible_revolution_in_aerospace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quest for a novel force: A possible revolution in aerospaceConventional understanding of flight in aerospace depends primarily on the app...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/239374133_Quest_for_a_novel_force_A_possible_revolution_in_aerospace" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239374133_Quest_for_a_novel_force_A_possible_revolution_in_aerospace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quest for a novel force: A possible revolution in aerospaceConventional understanding of flight in aerospace depends primarily on the app...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: diaacademy.co.uk  
-   Link: <a href="https://diaacademy.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://diaacademy.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIA Academy: HomeDIA Academy is your online centre for learning in driver and rider education. Learn more about the DIA &gt;. Driving Instru...</p></details>
+   Link:<a href="https://diaacademy.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://diaacademy.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIA Academy: HomeDIA Academy is your online centre for learning in driver and rider education. Learn more about the DIA &gt;. Driving Instru...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tem applications with future technology projections over the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tem applications with future technology projections over the...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24721572397450722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24721572397450722/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ational fields on a microscopic scale to produce thrust...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24721572397450722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ojlkixcwdwdowdocscso/posts/24721572397450722/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ational fields on a microscopic scale to produce thrust...Read more...</p></details>

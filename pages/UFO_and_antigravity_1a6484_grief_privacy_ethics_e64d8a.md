@@ -451,17 +451,17 @@ Claims about suspicious deaths and disappearances in UFO, UAP, [aerospace]({{ 'a
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-overview.webp" | relative_url }}" alt="Overview image for Ethics" loading="eager" decoding="sync" fetchpriority="high">
-In the current “missing scientists” narrative, news organisations have reported that the FBI and other agencies are looking for possible connections among a group of missing or deceased people tied in various ways to sensitive laboratories, space technology or defence work. But reporting has also stressed that people close to the cases often see personal and tragic circumstances rather than a single spy-thriller plot, and that no public evidence has definitively linked the cases or established coordinated foul play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+In the current “missing scientists” narrative, news organisations have reported that the FBI and other agencies are looking for possible connections among a group of missing or deceased people tied in various ways to sensitive laboratories, space technology or defence work. But reporting has also stressed that people close to the cases often see personal and tragic circumstances rather than a single spy-thriller plot, and that no public evidence has definitively linked the cases or established coordinated foul play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
 ## Private Grief Versus Public Speculation
 
 The [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) death narrative is especially potent because it sits at the intersection of secrecy, national security, fringe technology claims and genuine public distrust. A retired aerospace figure, a laboratory worker, a physicist or a NASA employee can quickly become a symbol rather than a person: “the one who knew too much”, “the antigravity researcher”, “the classified scientist”, “the missing insider”. That framing may feel analytical to online audiences, but to a family it can mean losing control of the most painful facts of their life.
 
-The disappearance of retired Air Force Major General William Neil McCasland shows the tension clearly. CBS reported that his wife, Susan McCasland Wilkerson, publicly pushed back against speculation that he had been taken for old secrets, saying it seemed unlikely that anyone would abduct him to extract “very dated secrets” after more than 12 years of retirement. The same [CBS report]({{ 'cbs-report/' | relative_url }}) noted that social media theories had linked him to classified military programmes and UFOs because of his past role at the Air Force Research Laboratory, while those involved in the cases described the underlying circumstances as more personal and tragic than conspiratorial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+The disappearance of retired Air Force Major General William Neil McCasland shows the tension clearly. CBS reported that his wife, Susan McCasland Wilkerson, publicly pushed back against speculation that he had been taken for old secrets, saying it seemed unlikely that anyone would abduct him to extract “very dated secrets” after more than 12 years of retirement. The same [CBS report]({{ 'cbs-report/' | relative_url }}) noted that social media theories had linked him to classified military programmes and UFOs because of his past role at the Air Force Research Laboratory, while those involved in the cases described the underlying circumstances as more personal and tragic than conspiratorial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
 This does not mean the public must accept every official statement uncritically. In missing-person and death investigations, families may themselves disagree, challenge police work, hire private investigators or seek wider attention. The ethical boundary is crossed when outsiders treat family distress, uncertainty or inconsistent early information as raw material for a pre-existing plot. A person’s job title or old security clearance becomes a shortcut around the harder work of checking timelines, [medical findings]({{ 'medical-finding/' | relative_url }}), police statements, family wishes and the ordinary risks that surround hiking, mental health crises, accidents, violent crime and ageing.
 
-The same pattern can be seen when institutional [memorials]({{ 'memorials/' | relative_url }}) are pulled into conspiracy lists. MIT’s public message after the death of Professor Nuno Loureiro, director of the Plasma Science and Fusion Center, was a message of grief to his wife, family, students, friends and colleagues. It identified him as a beloved academic leader and member of a community in mourning, not as a clue in a UFO or antigravity suppression story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orgchart.mit.edu/letters/professor-nuno-loureiro-1977-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orgchart.mit.edu">[MIT Organization Chart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orgchart.mit.edu</span><span class="citation-popover-title">professor nuno loureiro 1977 2025</span><span class="citation-popover-snippet">professor nuno loureiro 1977 2025</span></span></span>
+The same pattern can be seen when institutional [memorials]({{ 'memorials/' | relative_url }}) are pulled into conspiracy lists. MIT’s public message after the death of Professor Nuno Loureiro, director of the Plasma Science and Fusion Center, was a message of grief to his wife, family, students, friends and colleagues. It identified him as a beloved academic leader and member of a community in mourning, not as a clue in a UFO or antigravity suppression story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orgchart.mit.edu/letters/professor-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orgchart.mit.edu">[MIT Organization Chart]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orgchart.mit.edu</span><span class="citation-popover-title">professor nuno loureiro</span><span class="citation-popover-snippet">professor nuno loureiro</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-1-dark.svg" | relative_url }}" alt="Ethics illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,24 +469,24 @@ The same pattern can be seen when institutional [memorials]({{ 'memorials/' | re
 
 Speculative claims can harm families in several distinct ways. First, they can drown out practical information. In a live missing-person case, useful public attention should help locate the person, preserve evidence and encourage witnesses to contact investigators. When discussion shifts into secret assassins, alien disclosure, foreign sabotage or “death lists”, it can bury the mundane details that actually matter: last confirmed sighting, route, vehicle status, medical vulnerability, weather, search area, phone activity and verified law-enforcement updates.
 
-Second, speculation can expose private information. Missing People’s 2024 media guidance tells reporters and content creators to base coverage on official sources such as the immediate family, police and the charity itself; to avoid sharing private, distressing or potentially embarrassing information; and to seek consent when approaching loved ones. Those principles are highly relevant to UFO-linked death narratives, where online audiences often circulate mental health rumours, financial details, family conflict, home addresses, security footage claims and alleged personal messages without asking whether the information helps the search or merely feeds curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-snippet">Open source on missingpeople.org.uk.</span></span></span>
+Second, speculation can expose private information. Missing People’s 2024 media guidance tells reporters and content creators to base coverage on official sources such as the immediate family, police and the charity itself; to avoid sharing private, distressing or potentially embarrassing information; and to seek consent when approaching loved ones. Those principles are highly relevant to UFO-linked death narratives, where online audiences often circulate mental health rumours, financial details, family conflict, home addresses, security footage claims and alleged personal messages without asking whether the information helps the search or merely feeds curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missingpeople.org.uk">[Missing People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missingpeople.org.uk</span><span class="citation-popover-snippet">Open source on missingpeople.org.uk.</span></span></span>
 
 Third, conspiracy framing can turn relatives into unwilling characters. A spouse who asks for privacy may be accused of hiding something. A parent who questions an investigation may be promoted as proof of a cover-up. A colleague who says the deceased was not working on anything exotic may be dismissed as naive or compromised. The family’s right to seek answers becomes distorted into a demand that they endorse the public’s preferred theory.
 
-Fourth, families may be retraumatised by repetition. In high-attention cases, every anniversary, newly released document, podcast episode or political mention can revive allegations that the death was staged, silenced or misreported. Mindframe’s guidance on communicating about suicide warns that reports can resurface around anniversaries or related events and that care is needed each time a death is referred to; that caution applies more broadly to unresolved or contested deaths repeatedly recycled as conspiracy evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindframe.org.au">[Mindframe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindframe.org.au</span><span class="citation-popover-title">Mindframe Communicating about a suicide</span><span class="citation-popover-snippet">Mindframe Communicating about a suicide</span></span></span>
+Fourth, families may be retraumatised by repetition. In high-attention cases, every anniversary, newly released document, podcast episode or political mention can revive allegations that the death was staged, silenced or misreported. Mindframe’s guidance on communicating about suicide warns that reports can resurface around anniversaries or related events and that care is needed each time a death is referred to; that caution applies more broadly to unresolved or contested deaths repeatedly recycled as conspiracy evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindframe.org.au">[Mindframe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindframe.org.au</span><span class="citation-popover-title">Mindframe Communicating about a suicide</span><span class="citation-popover-snippet">Mindframe Communicating about a suicide</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.6K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Responsible Reporting Boundaries
 
-Responsible coverage does not require silence. It requires separating what is known, what is alleged, what is under investigation and what is merely being inferred. That distinction is especially important in the current “scientists” narrative because the list itself is unstable: reports have variously referred to 10, 11 or 12 people; some were senior scientists, others were staff or former employees; and the cases span different years, places, [institutions]({{ 'institutions/' | relative_url }}) and apparent circumstances. CBS reported that the FBI was leading an effort to look for possible connections, while also reporting that people close to the disparate investigations said they saw no links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
+Responsible coverage does not require silence. It requires separating what is known, what is alleged, what is under investigation and what is merely being inferred. That distinction is especially important in the current “scientists” narrative because the list itself is unstable: reports have variously referred to 10, 11 or 12 people; some were senior scientists, others were staff or former employees; and the cases span different years, places, [institutions]({{ 'institutions/' | relative_url }}) and apparent circumstances. CBS reported that the FBI was leading an effort to look for possible connections, while also reporting that people close to the disparate investigations said they saw no links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</span></span></span>
 
-A careful article, podcast or discussion should therefore avoid presenting an investigation into possible links as evidence that links already exist. Public agencies sometimes review a group of cases because political pressure, media attention or national-security concern demands due diligence. That is not the same as confirming a coordinated campaign. AP’s April 2026 reporting made this point directly: speculation suggested the individuals were targeted because of sensitive work in areas such as astrophysics, nuclear weapons and pharmaceuticals, but no evidence had been found that definitively linked them or established coordinated foul play. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
+A careful article, podcast or discussion should therefore avoid presenting an investigation into possible links as evidence that links already exist. Public agencies sometimes review a group of cases because political pressure, media attention or national-security concern demands due diligence. That is not the same as confirming a coordinated campaign. AP’s April 2026 reporting made this point directly: speculation suggested the individuals were targeted because of sensitive work in areas such as astrophysics, nuclear weapons and pharmaceuticals, but no evidence had been found that definitively linked them or established coordinated foul play.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span><span class="citation-popover-snippet">AP News Conspiracy theories about missing or dead scientists boil over &#124; AP News</span></span></span>
 
 Responsible boundaries also mean avoiding “mystery inflation”. A phrase such as “UFO-linked scientist found dead” can be technically defensible if the person once worked near a programme, base, contractor or public figure associated with UAP discussion. But it may still be misleading if the link is remote, historical, unpaid, speculative or irrelevant to the death. A more accurate frame is often longer but fairer: “a retired aerospace official whose past work has attracted UFO speculation is missing; authorities have not reported evidence of foul play.” The extra words protect the reader from a false implication and protect the family from being dragged into a myth.
 
-The same principle applies to suicide, suspected suicide and deaths where the manner has not been determined. The American Foundation for Suicide Prevention advises journalists not to sensationalise suicide, not to reduce suicide to a single cause and to avoid speculation when the cause of death is unknown. These standards matter in the UFO and antigravity context because a death by suicide can be reframed online as “too convenient”, while a death still under medical examination can be prematurely classified as murder, suppression or staged disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storytelling.afsp.org">[AFSP Storytelling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storytelling.afsp.org</span><span class="citation-popover-title">Storytelling Ethical Reporting Guidelines for Media &#124; AFSP</span><span class="citation-popover-snippet">Storytelling Ethical Reporting Guidelines for Media &#124; AFSP</span></span></span>
+The same principle applies to suicide, suspected suicide and deaths where the manner has not been determined. The American Foundation for Suicide Prevention advises journalists not to sensationalise suicide, not to reduce suicide to a single cause and to avoid speculation when the cause of death is unknown. These standards matter in the UFO and antigravity context because a death by suicide can be reframed online as “too convenient”, while a death still under medical examination can be prematurely classified as murder, suppression or staged disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storytelling.afsp.org">[AFSP Storytelling]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storytelling.afsp.org</span><span class="citation-popover-title">Storytelling Ethical Reporting Guidelines for Media &#124; AFSP</span><span class="citation-popover-snippet">Storytelling Ethical Reporting Guidelines for Media &#124; AFSP</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-2-dark.svg" | relative_url }}" alt="Ethics illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -494,11 +494,11 @@ The same principle applies to suicide, suspected suicide and deaths where the ma
 
 There is a legitimate public interest in the deaths or disappearances of people connected to sensitive laboratories, classified programmes, nuclear facilities, aerospace research or government UAP work. Some held public positions. Some worked at institutions funded by taxpayers. Some cases may involve security questions, workplace safety, law-enforcement performance or gaps in search-and-rescue response. A blanket demand for privacy can therefore be used improperly to shield institutions from scrutiny.
 
-But public interest is not the same as public entitlement. The International Commission on Missing Persons describes families’ rights to truth, effective investigations, information, family life and remedy. It also notes that the right to seek and share information carries responsibilities, especially around privacy rights. That balance is a useful standard for this topic: families should not be denied information by authorities, but strangers should not treat every private detail as fair game simply because a missing person once worked near classified science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icmp.int/the-missing/rights-of-families-of-the-missing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmp.int">[ICMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmp.int</span><span class="citation-popover-title">Rights of Families of the Missing</span><span class="citation-popover-snippet">Rights of Families of the Missing</span></span></span>
+But public interest is not the same as public entitlement. The International Commission on Missing Persons describes families’ rights to truth, effective investigations, information, family life and remedy. It also notes that the right to seek and share information carries responsibilities, especially around privacy rights. That balance is a useful standard for this topic: families should not be denied information by authorities, but strangers should not treat every private detail as fair game simply because a missing person once worked near classified science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icmp.int/the-missing/rights-of-families-of-the-missing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icmp.int">[ICMP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icmp.int</span><span class="citation-popover-title">Rights of Families of the Missing</span><span class="citation-popover-snippet">Rights of Families of the Missing</span></span></span>
 
 The ethical test is whether a claim helps establish the fate, circumstances or accountability in a specific case. A police timeline, verified last sighting, autopsy finding, court filing, family-approved appeal, institutional statement or named investigator’s comment can help. A red-string collage of job titles, old security clearances, speculative UAP associations and emotionally charged language usually does not. It may create the feeling of investigation while making the actual investigation harder to understand.
 
-This distinction is not anti-UFO, anti-disclosure or anti-sceptical. It is a safeguard for accuracy. NASA’s UAP work has emphasised better data, reduced stigma and scientific standards; those same values argue against turning weak data about deaths into confident claims about murder or cover-up. A culture that wants UAP claims taken seriously cannot also ask for a lower evidential standard when real bereaved families are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This distinction is not anti-UFO, anti-disclosure or anti-sceptical. It is a safeguard for accuracy. NASA’s UAP work has emphasised better data, reduced stigma and scientific standards; those same values argue against turning weak data about deaths into confident claims about murder or cover-up. A culture that wants UAP claims taken seriously cannot also ask for a lower evidential standard when real bereaved families are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W4j-A_WMiDg" title="MISSING AIR FORCE GENERAL: UFO connections, missing former colleague, FBI involved in the search" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W4j-A_WMiDg" target="_blank" rel="noopener noreferrer">MISSING AIR FORCE GENERAL: UFO connections, missing former colleague, FBI involved in the search</a></p><p class="youtube-embed-meta">Channel: Briana Whitney</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W4j-A_WMiDg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W4j-A_WMiDg">Open on YouTube</a></p></div></div></div>
@@ -515,7 +515,7 @@ A practical standard is to ask five questions before sharing or publishing a cla
 4. **Could the detail cause avoidable harm?** Medical vulnerabilities, mental health history, financial stress, domestic conflict and precise locations may be relevant in some investigations. They should not be repeated casually, especially when they do not change the evidential assessment.
 5. **What would disprove the theory?** If no official finding, arrest, autopsy, recovery, court record or family statement could ever weaken the claim, the discussion has moved from inquiry into belief.
 
-The British debate around missing-person reporting after the Nicola Bulley case is a useful parallel. Commentary on Missing People’s media guidelines stressed that reporting can help families and investigations, but lurid headlines, doorstep approaches and speculation can deepen trauma. The lesson for UFO-linked cases is clear: attention is not automatically support. Sometimes it is another burden placed on people already living through the worst period of their lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The British debate around missing-person reporting after the Nicola Bulley case is a useful parallel. Commentary on Missing People’s media guidelines stressed that reporting can help families and investigations, but lurid headlines, doorstep approaches and speculation can deepen trauma. The lesson for UFO-linked cases is clear: attention is not automatically support. Sometimes it is another burden placed on people already living through the worst period of their lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-3-dark.svg" | relative_url }}" alt="Ethics illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_grief_privacy_ethics_e64d8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -530,194 +530,194 @@ In the UFO and antigravity death narrative, the most ethical position is neither
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Conspiracy Claims Cost Families?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Conspiracy Claims Cost Families?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
-        </h4>
-        <p class="fr-book-author">By Tom Nichols</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-KP_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Death of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Expertise">The Death of Expertise</a>
+</h4>
+<p class="fr-book-author">By Tom Nichols</p>
         
-        <p class="fr-book-desc">Explains how unsupported claims and distrust of evidence can distort public understanding of complex events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unsupported claims and distrust of evidence can distort public understanding of complex events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Expertise+by+Tom+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Examines the human consequences when private lives become public spectacles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the human consequences when private lives become public spectacles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers critical thinking tools for evaluating extraordinary claims such as alleged campaigns against researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based reasoning and caution against dramatic but unsupported narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based reasoning and caution against dramatic but unsupported narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Death+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Death of Expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ethics-what-do-conspiracy-claims-cost-families-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ In the UFO and antigravity death narrative, the most ethical position is neither
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ In the UFO and antigravity death narrative, the most ethical position is neither
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ In the UFO and antigravity death narrative, the most ethical position is neither
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ In the UFO and antigravity death narrative, the most ethical position is neither
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ In the UFO and antigravity death narrative, the most ethical position is neither
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,165 +923,165 @@ In the UFO and antigravity death narrative, the most ethical position is neither
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at secretive government laboratories. Here&#x27;s what we know. - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: orgchart.mit.edu  
    Title: professor nuno loureiro 1977 2025  
-   Link: <a href="https://orgchart.mit.edu/letters/professor-nuno-loureiro-1977-2025" target="_blank" rel="noopener noreferrer nofollow">https://orgchart.mit.edu/letters/professor-nuno-loureiro-1977-2025</a>  
+   Link:<a href="https://orgchart.mit.edu/letters/professor-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow">https://orgchart.mit.edu/letters/professor-nuno-loureiro</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: storytelling.afsp.org  
    Title: Storytelling Ethical Reporting Guidelines for Media | AFSP  
-   Link: <a href="https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media" target="_blank" rel="noopener noreferrer nofollow">https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media</a>  
+   Link:<a href="https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media" target="_blank" rel="noopener noreferrer nofollow">https://storytelling.afsp.org/media-resources/ethical-reporting-guidelines-for-media</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: icmp.int  
    Title: Rights of Families of the Missing  
-   Link: <a href="https://icmp.int/the-missing/rights-of-families-of-the-missing/" target="_blank" rel="noopener noreferrer nofollow">https://icmp.int/the-missing/rights-of-families-of-the-missing/</a>  
+   Link:<a href="https://icmp.int/the-missing/rights-of-families-of-the-missing/" target="_blank" rel="noopener noreferrer nofollow">https://icmp.int/the-missing/rights-of-families-of-the-missing/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
-   Link: <a href="https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314" target="_blank" rel="noopener noreferrer nofollow">https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314</a>  
+   Link:<a href="https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314" target="_blank" rel="noopener noreferrer nofollow">https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/mental-health/suicide/responsible-reporting-on-suicide.pdf?sfvrsn=d92532d4_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/mental-health/suicide/responsible-reporting-on-suicide.pdf?sfvrsn=d92532d4_1</a>  
+   Link:<a href="https://cdn.who.int/media/docs/default-source/mental-health/suicide/responsible-reporting-on-suicide.pdf?sfvrsn=d92532d4_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/mental-health/suicide/responsible-reporting-on-suicide.pdf?sfvrsn=d92532d4_1</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
    Title: AP News Conspiracy theories about missing or dead scientists boil over | AP News  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: missingpeople.org.uk  
-   Link: <a href="https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity</a>  
+   Link:<a href="https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/new-guidelines-for-reporting-on-missing-people-enhancing-media-response-and-sensitivity</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mindframe.org.au  
    Title: Mindframe Communicating about a suicide  
-   Link: <a href="https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide" target="_blank" rel="noopener noreferrer nofollow">https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide</a>  
+   Link:<a href="https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide" target="_blank" rel="noopener noreferrer nofollow">https://mindframe.org.au/suicide/communicating-about-suicide/mindframe-guidelines/communicating-about-a-suicide</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley</a>  
+   Link:<a href="https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2024/oct/09/families-missing-person-press-media-nicola-bulley</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: missingpeople.org.uk  
-   Link: <a href="https://www.missingpeople.org.uk/wp-content/uploads/2024/10/Missing-People_Media-Guidance_2024_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/wp-content/uploads/2024/10/Missing-People_Media-Guidance_2024_AW.pdf</a>  
+   Link:<a href="https://www.missingpeople.org.uk/wp-content/uploads/2024/10/Missing-People_Media-Guidance_2024_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.missingpeople.org.uk/wp-content/uploads/2024/10/Missing-People_Media-Guidance_2024_AW.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/harvard-scientists-say-[oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/harvard-scientists-say-[oumuamua</a>  
+   Link:<a href="https://www.cbsnews.com/video/harvard-scientists-say-[oumuamua" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/harvard-scientists-say-[oumuamua</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: lab worker melissa casias dead new mexico national forest  
-   Link: <a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
+   Link:<a href="https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/lab-worker-melissa-casias-dead-new-mexico-national-forest/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: fbi investigating deaths disappearances staff secretive government laboratories  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: investigation deaths disappearances staff secretive government labs  
-   Link: <a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
+   Link:<a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/fbi-assisting-search-retired-air-force-major-general/story?id=130995432" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/fbi-assisting-search-retired-air-force-major-general/story?id=130995432</a>  
+   Link:<a href="https://abcnews.com/US/fbi-assisting-search-retired-air-force-major-general/story?id=130995432" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/fbi-assisting-search-retired-air-force-major-general/story?id=130995432</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: police.qld.gov.au  
-   Link: <a href="https://www.police.qld.gov.au/sites/default/files/2025-01/QPS%20Media%20Guide%20for%20Families.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.police.qld.gov.au/sites/default/files/2025-01/QPS%20Media%20Guide%20for%20Families.pdf</a>  
+   Link:<a href="https://www.police.qld.gov.au/sites/default/files/2025-01/QPS%20Media%20Guide%20for%20Families.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.police.qld.gov.au/sites/default/files/2025-01/QPS%20Media%20Guide%20for%20Families.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.gov.ie  
-   Link: <a href="https://assets.gov.ie/static/documents/information-guide-for-families-and-friends-of-missing-persons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.gov.ie/static/documents/information-guide-for-families-and-friends-of-missing-persons.pdf</a>  
+   Link:<a href="https://assets.gov.ie/static/documents/information-guide-for-families-and-friends-of-missing-persons.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.gov.ie/static/documents/information-guide-for-families-and-friends-of-missing-persons.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theatlantic.com  
    Title: missing scientists  
-   Link: <a href="https://www.theatlantic.com/science/2026/04/missing-scientists/686885/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/2026/04/missing-scientists/686885/</a>  
+   Link:<a href="https://www.theatlantic.com/science/2026/04/missing-scientists/686885/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/2026/04/missing-scientists/686885/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zNZ_b2lPZxQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zNZ_b2lPZxQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland disappearance missing BOMBSHELL: FBI Investigates Disappearance of Pentagon Insider William Neil McCasland The Las...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zNZ_b2lPZxQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zNZ_b2lPZxQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland disappearance missing BOMBSHELL: FBI Investigates Disappearance of Pentagon Insider William Neil McCasland The Las...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W4j-A_WMiDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W4j-A_WMiDg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspicious Disappearance: Air Force General Tied to UFO Secrets Vanishes | William Neil McCasland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W4j-A_WMiDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W4j-A_WMiDg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suspicious Disappearance: Air Force General Tied to UFO Secrets Vanishes | William Neil McCasland...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Missing Air Force General: Who Took Neal Mc Casland?  
-   Link: <a href="https://www.youtube.com/watch?v=UH246U1_CGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UH246U1_CGY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOMBSHELL: FBI Investigates Disappearance of Pentagon Insider William Neil McCasland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UH246U1_CGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UH246U1_CGY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOMBSHELL: FBI Investigates Disappearance of Pentagon Insider William Neil McCasland...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rmpi7k/new_update_on_neil_mccaslands_disappearance/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: samaritans.org  
-   Link: <a href="https://www.samaritans.org/about-samaritans/media-guidelines/10-top-tips-reporting-suicide/" target="_blank" rel="noopener noreferrer nofollow">https://www.samaritans.org/about-samaritans/media-guidelines/10-top-tips-reporting-suicide/</a>  
+   Link:<a href="https://www.samaritans.org/about-samaritans/media-guidelines/10-top-tips-reporting-suicide/" target="_blank" rel="noopener noreferrer nofollow">https://www.samaritans.org/about-samaritans/media-guidelines/10-top-tips-reporting-suicide/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thenews.com.pk  
-   Link: <a href="https://www.thenews.com.pk/latest/1399891-fbi-probes-scientist-deaths-and-disappearances-at-us-labs-as-officials-dismiss-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1399891-fbi-probes-scientist-deaths-and-disappearances-at-us-labs-as-officials-dismiss-conspiracy-theories</a>  
+   Link:<a href="https://www.thenews.com.pk/latest/1399891-fbi-probes-scientist-deaths-and-disappearances-at-us-labs-as-officials-dismiss-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1399891-fbi-probes-scientist-deaths-and-disappearances-at-us-labs-as-officials-dismiss-conspiracy-theories</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
+   Link:<a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BCSONM/posts/updated-timeline-and-description-in-search-for-william-neil-mccaslandthe-bernali/1364131542420742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCSONM/posts/updated-timeline-and-description-in-search-for-william-neil-mccaslandthe-bernali/1364131542420742/</a>  
+   Link:<a href="https://www.facebook.com/BCSONM/posts/updated-timeline-and-description-in-search-for-william-neil-mccaslandthe-bernali/1364131542420742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCSONM/posts/updated-timeline-and-description-in-search-for-william-neil-mccaslandthe-bernali/1364131542420742/</a>  

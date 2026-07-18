@@ -280,37 +280,37 @@ image: /assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_
 
 ## Introduction
 
-Within stories about allegedly suppressed antigravity research, [Ning Li]({{ 'ning-li/' | relative_url }})’s later years are often described as a mysterious disappearance. The strongest publicly documented account points to a much more ordinary, though deeply tragic, sequence of events. Available reporting indicates that Li suffered a serious vehicle accident on the University of Alabama in Huntsville (UAH) campus in 2014, sustained permanent brain damage, developed severe cognitive decline, withdrew completely from professional work, and spent the remainder of her life under family care until her death in 2021. Rather than supporting claims of a verified disappearance, murder, or covert removal, the available evidence suggests that a catastrophic injury largely explains her absence from public scientific life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+Within stories about allegedly suppressed antigravity research, [Ning Li]({{ 'ning-li/' | relative_url }})’s later years are often described as a mysterious disappearance. The strongest publicly documented account points to a much more ordinary, though deeply tragic, sequence of events. Available reporting indicates that Li suffered a serious vehicle accident on the University of Alabama in Huntsville (UAH) campus in 2014, sustained permanent brain damage, developed severe cognitive decline, withdrew completely from professional work, and spent the remainder of her life under family care until her death in 2021. Rather than supporting claims of a verified disappearance, murder, or covert removal, the available evidence suggests that a catastrophic injury largely explains her absence from public scientific life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-1-dark.svg" | relative_url }}" alt="Accident Account illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters within the broader discussion of [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) research because Li’s case is frequently cited as evidence of a scientist who vanished after making important discoveries. The public record surrounding her final years instead points to a documented medical and family tragedy that became increasingly distorted as information gaps were filled with speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+This distinction matters within the broader discussion of [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) research because Li’s case is frequently cited as evidence of a scientist who vanished after making important discoveries. The public record surrounding her final years instead points to a documented medical and family tragedy that became increasingly distorted as information gaps were filled with speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qsbz8_G9WcU" title="The disappearance of America&#x27;s leading anti-gravity researcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer">The disappearance of America&#x27;s leading anti-gravity researcher</a></p><p class="youtube-embed-meta">Channel: Sandboxx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qsbz8_G9WcU">Open on YouTube</a></p></div></div></div>
 
 ## The Reported Campus Vehicle Accident
 
-The most detailed public account comes from a 2023 investigation published by the Huntsville Business Journal, based on interviews with Li’s son, George Men. According to that reporting, Li was struck by a vehicle while crossing a street on the UAH campus in 2014. The collision reportedly caused permanent brain damage and ended her ability to continue working. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+The most detailed public account comes from a 2023 investigation published by the Huntsville Business Journal, based on interviews with Li’s son, George Men. According to that reporting, Li was struck by a vehicle while crossing a street on the UAH campus in 2014. The collision reportedly caused permanent brain damage and ended her ability to continue working.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-The same account describes an additional family tragedy. Li’s husband of 46 years reportedly witnessed the accident and suffered a heart attack at the scene. He died the following year, in 2015. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+The same account describes an additional family tragedy. Li’s husband of 46 years reportedly witnessed the accident and suffered a heart attack at the scene. He died the following year, in 2015.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-What makes this accident especially important in evaluating later claims is chronology. Many online discussions treat Li’s withdrawal from public view as evidence that she had been hidden away because of sensitive research. Yet the documented accident provides a concrete event that occurred after years of limited public visibility and offers a direct explanation for why she never resumed professional activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+What makes this accident especially important in evaluating later claims is chronology. Many online discussions treat Li’s withdrawal from public view as evidence that she had been hidden away because of sensitive research. Yet the documented accident provides a concrete event that occurred after years of limited public visibility and offers a direct explanation for why she never resumed professional activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-No publicly available evidence has emerged showing that the accident was criminal, politically motivated, or connected to her research. Public reporting consistently describes it as a traffic accident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+No publicly available evidence has emerged showing that the accident was criminal, politically motivated, or connected to her research. Public reporting consistently describes it as a traffic accident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HzYns1zmYe4" title="11 UFO Scientists are Missing... and More are Coming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer">11 UFO Scientists are Missing... and More are Coming</a></p><p class="youtube-embed-meta">Channel: Camp Gagnon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HzYns1zmYe4">Open on YouTube</a></p></div></div></div>
 
 ## Brain Injury, Dementia and Withdrawal From Work
 
-According to interviews with her son, the accident left Li with permanent neurological damage. Reporting states that she was subsequently diagnosed with Alzheimer's disease and never returned to work. Her son brought her home and became her primary caregiver for the final six years of her life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+According to interviews with her son, the accident left Li with permanent neurological damage. Reporting states that she was subsequently diagnosed with Alzheimer's disease and never returned to work. Her son brought her home and became her primary caregiver for the final six years of her life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-Medical literature shows that traumatic brain injury can produce long-term cognitive impairment and neurological decline, particularly in older adults, although the precise relationship between brain injury and later dementia can vary by patient and diagnosis. The key point for Li’s story is that public accounts consistently describe a severe injury followed by profound cognitive deterioration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTraumatic Brain Injury: Current Treatment Strategies</span><span class="citation-popover-snippet">by M Galgano · 2017 · Cited by 899 — Abstract. Traumatic brain injury (TBI) presents in various forms ranging from mild alterations of...</span></span></span>
+Medical literature shows that traumatic brain injury can produce long-term cognitive impairment and neurological decline, particularly in older adults, although the precise relationship between brain injury and later dementia can vary by patient and diagnosis. The key point for Li’s story is that public accounts consistently describe a severe injury followed by profound cognitive deterioration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTraumatic Brain Injury: Current Treatment Strategies</span><span class="citation-popover-snippet">by M Galgano · 2017 · Cited by 899 — Abstract. Traumatic brain injury (TBI) presents in various forms ranging from mild alterations of...</span></span></span>
 
-This period helps explain one of the major puzzles in the Ning Li narrative. Researchers, journalists and enthusiasts who attempted to locate her in later years often found no public appearances, no new papers, and no interviews. The absence was real. What the later reporting adds is an explanation: she was no longer an active scientist living a private life; she was reportedly living with significant neurological impairment and requiring full-time care. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+This period helps explain one of the major puzzles in the Ning Li narrative. Researchers, journalists and enthusiasts who attempted to locate her in later years often found no public appearances, no new papers, and no interviews. The absence was real. What the later reporting adds is an explanation: she was no longer an active scientist living a private life; she was reportedly living with significant neurological impairment and requiring full-time care.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-Li died on 27 July 2021 in Huntsville, Alabama. Her obituary confirmed her death and identified surviving family members, ending years of speculation about whether she was still alive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[berryhillfh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</span><span class="citation-popover-meta">Published: July 27, 2021</span></span></span>
+Li died on 27 July 2021 in Huntsville, Alabama. Her obituary confirmed her death and identified surviving family members, ending years of speculation about whether she was still alive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[berryhillfh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</span><span class="citation-popover-meta">Published: July 27, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-2-dark.svg" | relative_url }}" alt="Accident Account illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,11 +318,11 @@ Li died on 27 July 2021 in Huntsville, Alabama. Her obituary confirmed her death
 
 The divergence between documented events and online mythology developed because several separate facts became blended together.
 
-First, Li was associated with unconventional gravity-related research that attracted attention from NASA-linked programmes and later defence-funded work. Second, much of her later professional activity was not publicly documented. Third, Freedom of Information Act requests seeking details about some aspects of her defence-related work reportedly produced little additional information. These gaps encouraged speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+First, Li was associated with unconventional gravity-related research that attracted attention from NASA-linked programmes and later defence-funded work. Second, much of her later professional activity was not publicly documented. Third, Freedom of Information Act requests seeking details about some aspects of her defence-related work reportedly produced little additional information. These gaps encouraged speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-Once rumours of a disappearance became established, the absence of current photographs, interviews or publications was often interpreted as supporting evidence. Yet the later reporting from family members suggested a far simpler explanation: after the 2014 accident, Li was living with severe cognitive impairment and was no longer participating in public scientific life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+Once rumours of a disappearance became established, the absence of current photographs, interviews or publications was often interpreted as supporting evidence. Yet the later reporting from family members suggested a far simpler explanation: after the 2014 accident, Li was living with severe cognitive impairment and was no longer participating in public scientific life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
-The result was a feedback loop common in scientific mystery narratives. Genuine unknowns about classified research programmes became intertwined with unrelated assumptions about a scientist's personal fate. By the time Li’s death became widely known, some versions of the story had evolved into claims that she had been secretly detained, murdered, or permanently hidden because of antigravity breakthroughs. Publicly available evidence has not substantiated those claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+The result was a feedback loop common in scientific mystery narratives. Genuine unknowns about classified research programmes became intertwined with unrelated assumptions about a scientist's personal fate. By the time Li’s death became widely known, some versions of the story had evolved into claims that she had been secretly detained, murdered, or permanently hidden because of antigravity breakthroughs. Publicly available evidence has not substantiated those claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tqs6Z3OQSk" title="Mysterious case of missing and dead scientists tied to UFO programs sounds alarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer">Mysterious case of missing and dead scientists tied to UFO programs sounds alarms</a></p><p class="youtube-embed-meta">Channel: The Hill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tqs6Z3OQSk">Open on YouTube</a></p></div></div></div>
@@ -331,206 +331,206 @@ The result was a feedback loop common in scientific mystery narratives. Genuine 
 
 For the specific question of Ning Li’s final years, the strongest publicly documented narrative is relatively clear:
 
-* Li suffered a vehicle accident on the UAH campus in 2014. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
-* The accident reportedly caused permanent brain damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
-* She experienced severe cognitive decline and was diagnosed with Alzheimer's disease according to family accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
-* She never returned to professional work and was cared for by her son for several years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
-* She died in July 2021 in Huntsville, Alabama. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[berryhillfh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</span><span class="citation-popover-meta">Published: July 27, 2021</span></span></span>
+* Li suffered a vehicle accident on the UAH campus in 2014.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+* The accident reportedly caused permanent brain damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+* She experienced severe cognitive decline and was diagnosed with Alzheimer's disease according to family accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+* She never returned to professional work and was cared for by her son for several years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+* She died in July 2021 in Huntsville, Alabama.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berryhillfh.com">[berryhillfh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berryhillfh.com</span><span class="citation-popover-title">ning li</span><span class="citation-popover-snippet">Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</span><span class="citation-popover-meta">Published: July 27, 2021</span></span></span>
 
-What remains uncertain are details of some of her classified or defence-related research activities before the accident. However, uncertainty about research records is separate from the question of her disappearance. On that narrower issue, the available evidence points far more strongly toward a documented accident, long-term injury and family care than toward a verified conspiracy, murder, or unexplained vanishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
+What remains uncertain are details of some of her classified or defence-related research activities before the accident. However, uncertainty about research records is separate from the question of her disappearance. On that narrower issue, the available evidence points far more strongly toward a documented accident, long-term injury and family care than toward a verified conspiracy, murder, or unexplained vanishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huntsvillebusinessjournal.com">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huntsvillebusinessjournal.com</span><span class="citation-popover-snippet">Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-3-dark.svg" | relative_url }}" alt="Accident Account illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_li_accident_death_na_a6f6ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Accident Behind the Disappearance Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Accident Behind the Disappearance Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly overlaps with the antigravity-research narratives in which Ning Li is frequently discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly overlaps with the antigravity-research narratives in which Ning Li is frequently discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO-related stories are investigated and documented rather than merely repeated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO-related stories are investigated and documented rather than merely repeated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how scientific, cultural, and mythic narratives form around UFO-related subjects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how scientific, cultural, and mythic narratives form around UFO-related subjects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="accident-account-the-accident-behind-the-disappearance-story-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-accident-behind-the-disappearance-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-accident-behind-the-disappearance-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ What remains uncertain are details of some of her classified or defence-related 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ What remains uncertain are details of some of her classified or defence-related 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ What remains uncertain are details of some of her classified or defence-related 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ What remains uncertain are details of some of her classified or defence-related 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ What remains uncertain are details of some of her classified or defence-related 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,88 +736,88 @@ What remains uncertain are details of some of her classified or defence-related 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTraumatic Brain Injury: Current Treatment Strategies  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Galgano · 2017 · Cited by 899 — Abstract. Traumatic brain injury (TBI) presents in various forms ranging from mild alterations of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5657730/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Galgano · 2017 · Cited by 899 — Abstract. Traumatic brain injury (TBI) presents in various forms ranging from mild alterations of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: berryhillfh.com  
    Title: ning li  
-   Link: <a href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow">https://www.berryhillfh.com/obituaries/ning-li</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</p></details>
+   Link:<a href="https://www.berryhillfh.com/obituaries/ning-li" target="_blank" rel="noopener noreferrer nofollow">https://www.berryhillfh.com/obituaries/ning-li</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obituary Jul 27, 2021July 27, 2021 — 27 Jul 2021 — Dr. Ning Li of Huntsville, AL passed peacefully away on July 27, 2021. She was 79 year...</p></details>
    Published: July 27, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: huntsvillebusinessjournal.com  
-   Link: <a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</p></details>
+   Link:<a href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow">https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Li was struck by a vehicle while crossing a street on the UAH campus. The accident caused permanent brain damage and led to an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tilln.com  
    Title: ning li this scientist got 450k from the dod then she disappeared  
-   Link: <a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...14 May 2024 — Ning Li was a Chinese-American physicist who made breakthrough...</p></details>
+   Link:<a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...14 May 2024 — Ning Li was a Chinese-American physicist who made breakthrough...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653562/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8653562/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zheng · 2021 · Cited by 11 — We aimed to assess the trends of TBI and SCI mortality, and their association with sex, age, locatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8653562/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8653562/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by X Zheng · 2021 · Cited by 11 — We aimed to assess the trends of TBI and SCI mortality, and their association with sex, age, locatio...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/338389221_Primary_prevention_of_road_traffic_accident-related_traumatic_brain_injuries_in_younger_populations_a_systematic_review_of_helmet_legislation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338389221_Primary_prevention_of_road_traffic_accident-related_traumatic_brain_injuries_in_younger_populations_a_systematic_review_of_helmet_legislation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Primary prevention of road traffic accident-related traumatic...13 Jan 2020 — Objective: Road traffic accidents are the most frequent ca...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/338389221_Primary_prevention_of_road_traffic_accident-related_traumatic_brain_injuries_in_younger_populations_a_systematic_review_of_helmet_legislation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338389221_Primary_prevention_of_road_traffic_accident-related_traumatic_brain_injuries_in_younger_populations_a_systematic_review_of_helmet_legislation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Primary prevention of road traffic accident-related traumatic...13 Jan 2020 — Objective: Road traffic accidents are the most frequent ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solving the Mystery Behind the Disappearance of Dr. Ning LiFor Li, this accident caused permanent brain damage that resulted in Alzheimer...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solving the Mystery Behind the Disappearance of Dr. Ning LiFor Li, this accident caused permanent brain damage that resulted in Alzheimer...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li 2014 accident death antigravity The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives Missing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li 2014 accident death antigravity The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives Missing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eprints.whiterose.ac.uk  
    Title: TLN Commissioned Issue on TBI manuscript  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/126753/8/TLN_Commissioned_Issue_on_TBI_-_manuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/126753/8/TLN_Commissioned_Issue_on_TBI_-_manuscript.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineTraumatic brain injury: integrated approaches to improve...by AIR Maas · 2017 · Cited by 3409 — “A patient wit...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/126753/8/TLN_Commissioned_Issue_on_TBI_-_manuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/126753/8/TLN_Commissioned_Issue_on_TBI_-_manuscript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineTraumatic brain injury: integrated approaches to improve...by AIR Maas · 2017 · Cited by 3409 — “A patient wit...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: agreenfield7.substack.com  
    Title: the mystery of ning li  
-   Link: <a href="https://agreenfield7.substack.com/p/the-mystery-of-ning-li" target="_blank" rel="noopener noreferrer nofollow">https://agreenfield7.substack.com/p/the-mystery-of-ning-li</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery of Ning Li - Vulkan&#x27;s MusingsNing Li was struck by a car in 2014. Her husband, seeing the impact, suffered a heart attack that ev...</p></details>
+   Link:<a href="https://agreenfield7.substack.com/p/the-mystery-of-ning-li" target="_blank" rel="noopener noreferrer nofollow">https://agreenfield7.substack.com/p/the-mystery-of-ning-li</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery of Ning Li - Vulkan&#x27;s MusingsNing Li was struck by a car in 2014. Her husband, seeing the impact, suffered a heart attack that ev...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ning Li (physicist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Li&#x27;s husband, seeing the accident, suffered a heart attack and died a year later in 2015. For Ning Li, this accident caused permanent bra...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Li&#x27;s husband, seeing the accident, suffered a heart attack and died a year later in 2015. For Ning Li, this accident caused permanent bra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The disappearance of America's leading anti-gravity researcher  
-   Link: <a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qsbz8_G9WcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qsbz8_G9WcU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HzYns1zmYe4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HzYns1zmYe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HzYns1zmYe4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li –…–Missing Persons Archives31 Jul 2025 — -The Truth: In 2014, a tragic accident left Dr. Li with severe brain damage and early-on...</p></details>
+   Link:<a href="https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/md/podcast/the-vanishing-of-dr-ning-li-americas-anti/id1826663282?i=1000719948504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li –…–Missing Persons Archives31 Jul 2025 — -The Truth: In 2014, a tragic accident left Dr. Li with severe brain damage and early-on...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cb0UBm9V_6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ning Li Disappearance | Noah Logan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cb0UBm9V_6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ning Li Disappearance | Noah Logan...</p></details>

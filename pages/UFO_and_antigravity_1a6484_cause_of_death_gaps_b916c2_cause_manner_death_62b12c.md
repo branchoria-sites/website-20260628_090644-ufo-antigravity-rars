@@ -274,15 +274,15 @@ image: /assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_caus
 
 ## Introduction
 
-In discussions about scientists whose deaths are later linked to UFO, advanced propulsion, or alleged antigravity research, one of the most common sources of confusion is the difference between a *cause of death* and a *manner of death*. These terms answer different questions. A cause of death identifies the medical condition or injury that led to death. A manner of death classifies the circumstances under which that fatal condition occurred. Public debates often blur the distinction, creating an impression that official findings are contradictory, incomplete, or suspicious when they may not be. Understanding this distinction is essential when evaluating claims that a scientist's death was evidence of foul play, a cover-up, or a targeted operation. In many cases, uncertainty about the manner of death reflects limits of available evidence rather than evidence of a conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
+In discussions about scientists whose deaths are later linked to UFO, advanced propulsion, or alleged antigravity research, one of the most common sources of confusion is the difference between a *cause of death* and a *manner of death*. These terms answer different questions. A cause of death identifies the medical condition or injury that led to death. A manner of death classifies the circumstances under which that fatal condition occurred. Public debates often blur the distinction, creating an impression that official findings are contradictory, incomplete, or suspicious when they may not be. Understanding this distinction is essential when evaluating claims that a scientist's death was evidence of foul play, a cover-up, or a targeted operation. In many cases, uncertainty about the manner of death reflects limits of available evidence rather than evidence of a conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-1-dark.svg" | relative_url }}" alt="Cause vs Manner illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Cause of Death Is Not the Whole Story
 
-Death certificates and forensic investigations are designed to answer multiple questions, not just one. The cause of death identifies the disease, injury, poisoning, or physiological event that resulted in death. The underlying cause is the condition or event that initiated the chain of events leading to death. For example, a fall may cause a head injury, which causes brain swelling, which causes death. The cause of [death records]({{ 'death-record/' | relative_url }}) that medical sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
+Death certificates and forensic investigations are designed to answer multiple questions, not just one. The cause of death identifies the disease, injury, poisoning, or physiological event that resulted in death. The underlying cause is the condition or event that initiated the chain of events leading to death. For example, a fall may cause a head injury, which causes brain swelling, which causes death. The cause of [death records]({{ 'death-record/' | relative_url }}) that medical sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
 
-The manner of death asks something different: *how did this fatal process come about?* Medical examiner systems commonly use categories such as natural, accident, suicide, homicide, undetermined, and in some jurisdictions pending. A fatal gunshot wound, for example, may have the same medical cause regardless of whether it resulted from murder, suicide, or an accident. The cause remains similar; the manner changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://snohomishcountywa.gov/806/Cause-Manner-of-Death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snohomishcountywa.gov">[snohomishcountywa.gov+2Alberta.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snohomishcountywa.gov</span><span class="citation-popover-snippet">Cause &amp; Manner of DeathThe classifications are natural, accident, suicide, homicide, undetermined, and pending. Only medical examiner&#x27;s a...</span></span></span>
+The manner of death asks something different: *how did this fatal process come about?* Medical examiner systems commonly use categories such as natural, accident, suicide, homicide, undetermined, and in some jurisdictions pending. A fatal gunshot wound, for example, may have the same medical cause regardless of whether it resulted from murder, suicide, or an accident. The cause remains similar; the manner changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://snohomishcountywa.gov/806/Cause-Manner-of-Death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snohomishcountywa.gov">[snohomishcountywa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snohomishcountywa.gov</span><span class="citation-popover-snippet">Cause &amp; Manner of DeathThe classifications are natural, accident, suicide, homicide, undetermined, and pending. Only medical examiner&#x27;s a...</span></span></span>
 
 This distinction matters in scientist-related death controversies because many public discussions focus on the absence of a clear manner determination while presenting it as if the cause itself were unknown or disputed.
 
@@ -290,22 +290,22 @@ This distinction matters in scientist-related death controversies because many p
 
 ### Cause and manner can diverge
 
-A death investigation may establish a cause of death with considerable confidence while still leaving the manner uncertain. Toxicology may confirm a fatal poisoning, yet investigators may be unable to determine whether the poisoning was accidental, intentional, or inflicted by another person. In such situations, the cause may be known while the manner remains undetermined. Research on forensic classification shows that this scenario is neither rare nor inherently suspicious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
+A death investigation may establish a cause of death with considerable confidence while still leaving the manner uncertain. Toxicology may confirm a fatal poisoning, yet investigators may be unable to determine whether the poisoning was accidental, intentional, or inflicted by another person. In such situations, the cause may be known while the manner remains undetermined. Research on forensic classification shows that this scenario is neither rare nor inherently suspicious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
 
-For deaths that later become subjects of UFO-related speculation, this distinction is often overlooked. Online discussions may interpret an undetermined manner as evidence that authorities suspect homicide. In reality, it often means investigators lacked enough evidence to choose confidently among several competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
+For deaths that later become subjects of UFO-related speculation, this distinction is often overlooked. Online discussions may interpret an undetermined manner as evidence that authorities suspect homicide. In reality, it often means investigators lacked enough evidence to choose confidently among several competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y6qt_Us8x0o" title="Missing scientists: Body found, new timelines &amp; more updates | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer">Missing scientists: Body found, new timelines &amp; more updates | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y6qt_Us8x0o">Open on YouTube</a></p></div></div></div>
 
 ### What “pending” actually means
 
-A pending classification is frequently misunderstood. In forensic practice, pending generally means that investigators are awaiting information such as toxicology testing, autopsy findings, medical records, witness statements, or police reports before making a final determination. It is an interim status, not a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2ifs.harriscountytx.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death</span><span class="citation-popover-snippet">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</span><span class="citation-popover-meta">Published: June 3, 2003</span></span></span>
+A pending classification is frequently misunderstood. In forensic practice, pending generally means that investigators are awaiting information such as toxicology testing, autopsy findings, medical records, witness statements, or police reports before making a final determination. It is an interim status, not a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death</span><span class="citation-popover-snippet">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</span><span class="citation-popover-meta">Published: June 3, 2003</span></span></span>
 
-When a scientist dies unexpectedly and reports state that the cause or manner is pending, conspiracy narratives often emerge immediately. Yet death-investigation guidance explicitly recognises deferred or pending findings as a routine part of the investigative process when evidence is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death</span><span class="citation-popover-snippet">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</span><span class="citation-popover-meta">Published: June 3, 2003</span></span></span>
+When a scientist dies unexpectedly and reports state that the cause or manner is pending, conspiracy narratives often emerge immediately. Yet death-investigation guidance explicitly recognises deferred or pending findings as a routine part of the investigative process when evidence is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death</span><span class="citation-popover-snippet">Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</span><span class="citation-popover-meta">Published: June 3, 2003</span></span></span>
 
 ### What “undetermined” actually means
 
-Undetermined is not shorthand for homicide. It is a formal acknowledgement that available evidence does not support one explanation strongly enough to exclude others. Studies of undetermined deaths show that investigators may know many facts about a case yet still lack sufficient information to assign accident, suicide, homicide, or natural causes with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
+Undetermined is not shorthand for homicide. It is a formal acknowledgement that available evidence does not support one explanation strongly enough to exclude others. Studies of undetermined deaths show that investigators may know many facts about a case yet still lack sufficient information to assign accident, suicide, homicide, or natural causes with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</span></span></span>
 
 In other words, an undetermined ruling is often evidence of forensic caution rather than evidence of concealment.
 
@@ -315,7 +315,7 @@ In other words, an undetermined ruling is often evidence of forensic caution rat
 
 Many people assume that a death certificate provides a final answer to every question surrounding a death. In reality, death certificates have a narrower purpose.
 
-The medical portion records the conditions leading to death and, where required, the manner classification. It is not designed to provide a complete narrative reconstruction of a person's final days, professional relationships, or possible motives of other individuals. Even a carefully completed death certificate may leave unanswered questions that interest journalists, family members, researchers, or online investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC+2CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
+The medical portion records the conditions leading to death and, where required, the manner classification. It is not designed to provide a complete narrative reconstruction of a person's final days, professional relationships, or possible motives of other individuals. Even a carefully completed death certificate may leave unanswered questions that interest journalists, family members, researchers, or online investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
 
 This limitation becomes important in cases involving scientists linked—accurately or inaccurately—to advanced [aerospace]({{ 'aerospace/' | relative_url }}), defence, or unconventional research. A death certificate may confirm a heart attack, poisoning, drowning, or traumatic injury. It may not explain why the person was in a particular location, whether they were under stress, or whether unrelated rumours circulating online have any basis in fact.
 
@@ -341,9 +341,9 @@ The [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) research 
 
 This reasoning reverses the normal burden of proof. A lack of certainty becomes treated as proof of a hidden explanation rather than as evidence that investigators lacked enough information to reach a stronger conclusion.
 
-Forensic professionals have repeatedly emphasised that manner-of-death determinations should be objective and based on available evidence, not on public pressure, political concerns, media narratives, or expectations about what a case "must" mean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skagitcounty.net">[skagitcounty.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skagitcounty.net</span><span class="citation-popover-snippet">Establishing Cause and Manner of DeathAugust 8, 2024 — Per the National Association of Medical Examiners: Manner of death certifications...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
+Forensic professionals have repeatedly emphasised that manner-of-death determinations should be objective and based on available evidence, not on public pressure, political concerns, media narratives, or expectations about what a case "must" mean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skagitcounty.net">[skagitcounty.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skagitcounty.net</span><span class="citation-popover-snippet">Establishing Cause and Manner of DeathAugust 8, 2024 — Per the National Association of Medical Examiners: Manner of death certifications...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
 
-The problem is especially acute when a scientist worked in a field already associated with secrecy. Research involving defence contractors, aerospace programmes, nuclear facilities, or speculative propulsion concepts can create a background atmosphere in which ordinary investigative uncertainty appears extraordinary. Yet the same forensic standards apply regardless of the deceased person's profession. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Death Investigation in the United States: Forensic Pathologyby K Tatsumi · 2022 · Cited by 10 — In the United States, death investigat...</span></span></span>
+The problem is especially acute when a scientist worked in a field already associated with secrecy. Research involving defence contractors, aerospace programmes, nuclear facilities, or speculative propulsion concepts can create a background atmosphere in which ordinary investigative uncertainty appears extraordinary. Yet the same forensic standards apply regardless of the deceased person's profession.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Death Investigation in the United States: Forensic Pathologyby K Tatsumi · 2022 · Cited by 10 — In the United States, death investigat...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-3-dark.svg" | relative_url }}" alt="Cause vs Manner illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_cause_manner_death_62b12c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ The problem is especially acute when a scientist worked in a field already assoc
 
 When evaluating claims that a scientist's death was suspicious, several questions are more useful than simply asking whether the cause of death was known:
 
-* Was the *cause of death* identified, or was it still under investigation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Cause of death</span><span class="citation-popover-snippet">Health, United StatesJun 9, 2025 — Every death is attributed to one underlying condition, based on information reported on the death cert...</span></span></span> * Was the *manner of death* identified, or was it listed as pending or undetermined? <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Manner_of_death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manner of death</span><span class="citation-popover-snippet">Manner of deathThe manner of death can be recorded as &quot;undetermined&quot; if there is not enough evidence to reach a firm conclusion...</span></span></span>
+* Was the *cause of death* identified, or was it still under investigation?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Cause of death</span><span class="citation-popover-snippet">Health, United StatesJun 9, 2025 — Every death is attributed to one underlying condition, based on information reported on the death cert...</span></span></span> * Was the *manner of death* identified, or was it listed as pending or undetermined?<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Manner_of_death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manner of death</span><span class="citation-popover-snippet">Manner of deathThe manner of death can be recorded as &quot;undetermined&quot; if there is not enough evidence to reach a firm conclusion...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,197 +370,197 @@ These questions help separate genuine evidentiary issues from misunderstandings 
 
 Within allegations about suspicious deaths of scientists connected to UFO or antigravity topics, the most important lesson is that cause and manner of death answer different questions. A known cause does not necessarily establish a known manner. An undetermined manner does not imply murder. A pending finding does not imply suppression. And a death certificate is not a comprehensive investigative report.
 
-Many disputes in this area arise not from contradictory evidence but from misunderstandings about how death investigations work. Recognising the distinction between cause and manner of death reduces the risk of interpreting routine forensic uncertainty as proof of a hidden campaign against researchers. The distinction does not eliminate the possibility of foul play in any particular case, but it provides a more reliable framework for judging what the available evidence actually shows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[snohomishcountywa.gov+3CDC+3CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
+Many disputes in this area arise not from contradictory evidence but from misunderstandings about how death investigations work. Recognising the distinction between cause and manner of death reduces the risk of interpreting routine forensic uncertainty as proof of a hidden campaign against researchers. The distinction does not eliminate the possibility of foul play in any particular case, but it provides a more reliable framework for judging what the available evidence actually shows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Cause of Death Is Not the Whole Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Cause of Death Is Not the Whole Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DiMaio&#x27;s Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9gA9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DiMaio&#x27;s Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DiMaio&#x27;s Forensic Pathology">DiMaio&#x27;s Forensic Pathology</a>
-        </h4>
-        <p class="fr-book-author">By Vincent J.M. DiMaio, D. Kimberley Molina</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DiMaio&#x27;s Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9gA9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DiMaio&#x27;s Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DiMaio&#x27;s Forensic Pathology">DiMaio&#x27;s Forensic Pathology</a>
+</h4>
+<p class="fr-book-author">By Vincent J.M. DiMaio, D. Kimberley Molina</p>
         
-        <p class="fr-book-desc">Directly explains cause and manner of death distinctions, death investigation procedures, and evidentiary limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains cause and manner of death distinctions, death investigation procedures, and evidentiary limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how to distinguish evidence, uncertainty and speculation when information gaps exist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how to distinguish evidence, uncertainty and speculation when information gaps exist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spitz and Fisher&#x27;s Medicolegal Investigation of Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YizyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spitz and Fisher&#x27;s Medicolegal Investigation of Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spitz and Fisher&#x27;s Medicolegal Investigation of Death">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a>
-        </h4>
-        <p class="fr-book-author">By Werner U. Spitz, Francisco J. Diaz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spitz and Fisher&#x27;s Medicolegal Investigation of Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YizyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spitz and Fisher&#x27;s Medicolegal Investigation of Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spitz and Fisher&#x27;s Medicolegal Investigation of Death">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a>
+</h4>
+<p class="fr-book-author">By Werner U. Spitz, Francisco J. Diaz</p>
         
-        <p class="fr-book-desc">Covers how deaths are classified and why findings may remain disputed or undetermined.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how deaths are classified and why findings may remain disputed or undetermined.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Reckoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H1wvAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Reckoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Reckoning">Dead Reckoning</a>
-        </h4>
-        <p class="fr-book-author">By Michael M. Baden, Marion Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Reckoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H1wvAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Reckoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Reckoning">Dead Reckoning</a>
+</h4>
+<p class="fr-book-author">By Michael M. Baden, Marion Roach</p>
         
-        <p class="fr-book-desc">Helps readers understand how forensic conclusions are reached and where uncertainty can remain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how forensic conclusions are reached and where uncertainty can remain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DiMaio&#x27;s Forensic Pathology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DiMaio&#x27;s Forensic Pathology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="cause-vs-manner-cause-of-death-is-not-the-whole-story-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cause-of-death-is-not-the-whole-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="cause-of-death-is-not-the-whole-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ Many disputes in this area arise not from contradictory evidence but from misund
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ Many disputes in this area arise not from contradictory evidence but from misund
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ Many disputes in this area arise not from contradictory evidence but from misund
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ Many disputes in this area arise not from contradictory evidence but from misund
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ Many disputes in this area arise not from contradictory evidence but from misund
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,192 +766,192 @@ Many disputes in this area arise not from contradictory evidence but from misund
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/manuals/2025/2a-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2025/2a-2025.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>train of morbid events leading directly or indirectly to death or the circumstances...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/manuals/2025/2a-2025.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2025/2a-2025.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>train of morbid events leading directly or indirectly to death or the circumstances...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: alberta.ca  
-   Link: <a href="https://www.alberta.ca/death-investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.alberta.ca/death-investigation-process</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Death investigation processOverview. An OCME death investigation determines the: identity of the deceased; date and place of death; cause...</p></details>
+   Link:<a href="https://www.alberta.ca/death-investigation-process" target="_blank" rel="noopener noreferrer nofollow">https://www.alberta.ca/death-investigation-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Death investigation processOverview. An OCME death investigation determines the: identity of the deceased; date and place of death; cause...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdc.gov  
    Title: 2b sectioni 2024  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/manuals/2024/2b-sectioni-2024.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2024/2b-sectioni-2024.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classifying Multiple Causes of Death, 2024A cause of death is the morbid condition or disease process, abnormality, inju...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/manuals/2024/2b-sectioni-2024.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2024/2b-sectioni-2024.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classifying Multiple Causes of Death, 2024A cause of death is the morbid condition or disease process, abnormality, inju...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: snohomishcountywa.gov  
-   Link: <a href="https://snohomishcountywa.gov/806/Cause-Manner-of-Death" target="_blank" rel="noopener noreferrer nofollow">https://snohomishcountywa.gov/806/Cause-Manner-of-Death</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cause &amp; Manner of DeathThe classifications are natural, accident, suicide, homicide, undetermined, and pending. Only medical examiner&#x27;s a...</p></details>
+   Link:<a href="https://snohomishcountywa.gov/806/Cause-Manner-of-Death" target="_blank" rel="noopener noreferrer nofollow">https://snohomishcountywa.gov/806/Cause-Manner-of-Death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cause &amp; Manner of DeathThe classifications are natural, accident, suicide, homicide, undetermined, and pending. Only medical examiner&#x27;s a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Accurately classifying how someone died (by natural...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5508151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suicide and Other Manners of Death Associated...by DM Stone · 2017 · Cited by 122 — Accurately classifying how someone died (by natural...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3951636/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3951636/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drug-related deaths are often complex, requiring thorough investigation. This investigative information is then used in conjunction with...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3951636/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3951636/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drug-related deaths are often complex, requiring thorough investigation. This investigative information is then used in conjunction with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4411039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4411039/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Gray · 2014 · Cited by 98 — Manner of death was classified as “Undetermined” for all other types of drug-related deaths where int...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4411039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4411039/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Gray · 2014 · Cited by 98 — Manner of death was classified as “Undetermined” for all other types of drug-related deaths where int...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdc.gov  
    Title: Medical Examiners' and Coroners' Handbook on Death  
-   Link: <a href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/data/misc/hb_me.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/data/misc/hb_me.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Examiners&#x27; and Coroners&#x27; Handbook on Death...June 3, 2003 — When the cause of death cannot be determined within the statutory...</p></details>
    Published: June 3, 2003  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ifs.harriscountytx.gov  
    Title: Glossary Pending Investigation  
-   Link: <a href="https://ifs.harriscountytx.gov/Learning-Center/Glossary" target="_blank" rel="noopener noreferrer nofollow">https://ifs.harriscountytx.gov/Learning-Center/Glossary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GlossaryPending Investigation - when determination of manner of death depends on further information, usually prior to autopsy, external...</p></details>
+   Link:<a href="https://ifs.harriscountytx.gov/Learning-Center/Glossary" target="_blank" rel="noopener noreferrer nofollow">https://ifs.harriscountytx.gov/Learning-Center/Glossary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GlossaryPending Investigation - when determination of manner of death depends on further information, usually prior to autopsy, external...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/training/improving-cause-of-death-reporting/glossary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/training/improving-cause-of-death-reporting/glossary.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Cause-of-Death Reporting GlossaryAug 3, 2022 — The section of the death certificate that lists the sequence of medical conditio...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/training/improving-cause-of-death-reporting/glossary.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/training/improving-cause-of-death-reporting/glossary.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Cause-of-Death Reporting GlossaryAug 3, 2022 — The section of the death certificate that lists the sequence of medical conditio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skagitcounty.net  
-   Link: <a href="https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing Cause and Manner of DeathAugust 8, 2024 — Per the National Association of Medical Examiners: Manner of death certifications...</p></details>
+   Link:<a href="https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.skagitcounty.net/Coroner/Documents/Determination%20of%20Manner%20of%20Death.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing Cause and Manner of DeathAugust 8, 2024 — Per the National Association of Medical Examiners: Manner of death certifications...</p></details>
    Published: August 8, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Death Investigation in the United States: Forensic Pathologyby K Tatsumi · 2022 · Cited by 10 — In the United States, death investigat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9616451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Death Investigation in the United States: Forensic Pathologyby K Tatsumi · 2022 · Cited by 10 — In the United States, death investigat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link:<a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdc.gov  
    Title: Cause of death  
-   Link: <a href="https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health, United StatesJun 9, 2025 — Every death is attributed to one underlying condition, based on information reported on the death cert...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/hus/sources-definitions/cause-of-death.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health, United StatesJun 9, 2025 — Every death is attributed to one underlying condition, based on information reported on the death cert...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdc.gov  
    Title: 2b sectioni 2023  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/manuals/2023/2b-sectioni-2023.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2023/2b-sectioni-2023.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classifying Multiple Causes of Death, 2023This manual provides instructions to mortality medical coders and nosologists...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/manuals/2023/2b-sectioni-2023.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2023/2b-sectioni-2023.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classifying Multiple Causes of Death, 2023This manual provides instructions to mortality medical coders and nosologists...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/manuals/2a-sectioni-2021.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2a-sectioni-2021.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classification of Underlying and Multiple...A cause of death is the morbid condition or disease process, abnormality, i...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/manuals/2a-sectioni-2021.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/manuals/2a-sectioni-2021.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions for Classification of Underlying and Multiple...A cause of death is the morbid condition or disease process, abnormality, i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/nvss/writing-cod-statements/death_certification_problems.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/writing-cod-statements/death_certification_problems.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NVSS - Possible Solutions to Common Problems in Death...Causes of death on the death certificate should not include terms such as senesc...</p></details>
+   Link:<a href="https://www.cdc.gov/nchs/nvss/writing-cod-statements/death_certification_problems.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/nvss/writing-cod-statements/death_certification_problems.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NVSS - Possible Solutions to Common Problems in Death...Causes of death on the death certificate should not include terms such as senesc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: people.com  
-   Link: <a href="https://people.com/cdc-begins-enhanced-ebola-screening-at-atlanta-airport-11983075" target="_blank" rel="noopener noreferrer nofollow">https://people.com/cdc-begins-enhanced-ebola-screening-at-atlanta-airport-11983075</a>  
+   Link:<a href="https://people.com/cdc-begins-enhanced-ebola-screening-at-atlanta-airport-11983075" target="_blank" rel="noopener noreferrer nofollow">https://people.com/cdc-begins-enhanced-ebola-screening-at-atlanta-airport-11983075</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26234640/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26234640/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26234640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Undetermined Manner of Death: An Autopsy Seriesby AS Advenier · 2016 · Cited by 30 — A manner of death may be ruled undetermined by...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11782113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11782113/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and contributing causes of mortality from CDC...by AMK Minhas · 2025 · Cited by 19 — The top 5 underlying causes of mortality were heart...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11782113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11782113/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and contributing causes of mortality from CDC...by AMK Minhas · 2025 · Cited by 19 — The top 5 underlying causes of mortality were heart...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4504663/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4504663/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part I is used to report the causal chain of events leading to death. The most recent or “immediate”...Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4504663/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4504663/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part I is used to report the causal chain of events leading to death. The most recent or “immediate”...Read...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Death" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeathDeath is the end of life. It is the irreversible cessation of biological functions that sustain a living organism; however, the i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Death" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeathDeath is the end of life. It is the irreversible cessation of biological functions that sustain a living organism; however, the i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Manner of death  
-   Link: <a href="https://en.wikipedia.org/wiki/Manner_of_death" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manner_of_death</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manner of deathThe manner of death can be recorded as &quot;undetermined&quot; if there is not enough evidence to reach a firm conclusion...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Manner_of_death" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manner_of_death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manner of deathThe manner of death can be recorded as &quot;undetermined&quot; if there is not enough evidence to reach a firm conclusion...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: christinavandepol.com  
    Title: manner of death undetermined medicolegal limbo  
-   Link: <a href="https://christinavandepol.com/manner-of-death-undetermined-medicolegal-limbo/" target="_blank" rel="noopener noreferrer nofollow">https://christinavandepol.com/manner-of-death-undetermined-medicolegal-limbo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manner of Death Undetermined: MedicoLegal Limbo13 Mar 2023 — Undetermined means the manner of death remains a mystery until the coroner h...</p></details>
+   Link:<a href="https://christinavandepol.com/manner-of-death-undetermined-medicolegal-limbo/" target="_blank" rel="noopener noreferrer nofollow">https://christinavandepol.com/manner-of-death-undetermined-medicolegal-limbo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manner of Death Undetermined: MedicoLegal Limbo13 Mar 2023 — Undetermined means the manner of death remains a mystery until the coroner h...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdcfoundation.org  
-   Link: <a href="https://www.cdcfoundation.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdcfoundation.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC FoundationThe CDC Foundation is a global nonprofit, managing public health programs that impact chronic and infectious diseases and e...</p></details>
+   Link:<a href="https://www.cdcfoundation.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdcfoundation.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDC FoundationThe CDC Foundation is a global nonprofit, managing public health programs that impact chronic and infectious diseases and e...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thename.org  
-   Link: <a href="https://www.thename.org/death-certification" target="_blank" rel="noopener noreferrer nofollow">https://www.thename.org/death-certification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Death CertificationQuick tips on writing cause of death statements. Hanzlick 97-Cause of death statements and certification of natural an...</p></details>
+   Link:<a href="https://www.thename.org/death-certification" target="_blank" rel="noopener noreferrer nofollow">https://www.thename.org/death-certification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Death CertificationQuick tips on writing cause of death statements. Hanzlick 97-Cause of death statements and certification of natural an...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cidrap.umn.edu  
    Title: quick takes more new world screwworm cdc cease measles mumps testing hantavirus  
-   Link: <a href="https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cdc-cease-measles-mumps-testing-hantavirus" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cdc-cease-measles-mumps-testing-hantavirus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends3 days ago...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cdc-cease-measles-mumps-testing-hantavirus" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/new-world-screwworm/quick-takes-more-new-world-screwworm-cdc-cease-measles-mumps-testing-hantavirus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>takes: More New World screwworm; CDC to cease measles, mumps testing; hantavirus response ends3 days ago...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: texasautopsyservices.com  
    Title: what does deferred mean on a death certificate  
-   Link: <a href="https://www.texasautopsyservices.com/blog/what-does-deferred-mean-on-a-death-certificate/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/what-does-deferred-mean-on-a-death-certificate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 16, 2026 — It simply means the medical examiner requires more time and information before they can state the exact cause of death wit...</p></details>
+   Link:<a href="https://www.texasautopsyservices.com/blog/what-does-deferred-mean-on-a-death-certificate/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/what-does-deferred-mean-on-a-death-certificate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 16, 2026 — It simply means the medical examiner requires more time and information before they can state the exact cause of death wit...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Centers for Disease Control and Prevention  
-   Link: <a href="https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionThe agency&#x27;s main goal is the protection of public health and safety through the control and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionThe agency&#x27;s main goal is the protection of public health and safety through the control and...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: texasautopsyservices.com  
    Title: what does inconclusive mean on an autopsy  
-   Link: <a href="https://www.texasautopsyservices.com/blog/what-does-inconclusive-mean-on-an-autopsy/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/what-does-inconclusive-mean-on-an-autopsy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Inconclusive Means on an Autopsy ReportDec 14, 2025 — An inconclusive result means the evidence doesn&#x27;t meet the high standard of ce...</p></details>
+   Link:<a href="https://www.texasautopsyservices.com/blog/what-does-inconclusive-mean-on-an-autopsy/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/what-does-inconclusive-mean-on-an-autopsy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Inconclusive Means on an Autopsy ReportDec 14, 2025 — An inconclusive result means the evidence doesn&#x27;t meet the high standard of ce...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sudc.org  
    Title: understanding cause and manner of death  
-   Link: <a href="https://sudc.org/understanding-cause-and-manner-of-death/" target="_blank" rel="noopener noreferrer nofollow">https://sudc.org/understanding-cause-and-manner-of-death/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding &quot;Cause&quot; and &quot;Manner&quot; of DeathJul 23, 2025 — Most often, when a specific cause of death cannot be determined, as in cases of...</p></details>
+   Link:<a href="https://sudc.org/understanding-cause-and-manner-of-death/" target="_blank" rel="noopener noreferrer nofollow">https://sudc.org/understanding-cause-and-manner-of-death/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding &quot;Cause&quot; and &quot;Manner&quot; of DeathJul 23, 2025 — Most often, when a specific cause of death cannot be determined, as in cases of...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: clark.wa.gov  
-   Link: <a href="https://clark.wa.gov/sites/default/files/dept/files/medical-examiner/namefamilybrochure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clark.wa.gov/sites/default/files/dept/files/medical-examiner/namefamilybrochure.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wa.govMedical-Legal Death InvestigationManner of Death: The circumstance surrounding a death, such as: natural, accident, suicide, homici...</p></details>
+   Link:<a href="https://clark.wa.gov/sites/default/files/dept/files/medical-examiner/namefamilybrochure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clark.wa.gov/sites/default/files/dept/files/medical-examiner/namefamilybrochure.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wa.govMedical-Legal Death InvestigationManner of Death: The circumstance surrounding a death, such as: natural, accident, suicide, homici...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/CDCstreamingHealth" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/CDCstreamingHealth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ife through the prevention and control of disease, injury, and...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/CDCstreamingHealth" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/CDCstreamingHealth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ife through the prevention and control of disease, injury, and...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: labmedicineblog.com  
-   Link: <a href="https://labmedicineblog.com/2023/12/20/undetermined-undetermined/" target="_blank" rel="noopener noreferrer nofollow">https://labmedicineblog.com/2023/12/20/undetermined-undetermined/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Undetermined, UndeterminedDec 20, 2023 — Manner of death describes the circumstances in which the cause of death is sustained, and there...</p></details>
+   Link:<a href="https://labmedicineblog.com/2023/12/20/undetermined-undetermined/" target="_blank" rel="noopener noreferrer nofollow">https://labmedicineblog.com/2023/12/20/undetermined-undetermined/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Undetermined, UndeterminedDec 20, 2023 — Manner of death describes the circumstances in which the cause of death is sustained, and there...</p></details>

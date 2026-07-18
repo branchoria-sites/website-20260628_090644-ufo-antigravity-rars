@@ -278,7 +278,7 @@ When a scientist’s death is presented as suspicious, especially in stories lin
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_source_hierarchy_dea_a5c5d3-Illustration-1-dark.svg" | relative_url }}" alt="Source Quality illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_source_hierarchy_dea_a5c5d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b_source_hierarchy_dea_a5c5d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A reliable evaluation process starts with a source hierarchy. The closer a source is to the actual death investigation, the more weight it deserves. The farther it is from the event and the more it depends on retelling other people’s claims, the less confidence it merits. This approach does not assume that official accounts are always correct. Rather, it creates a disciplined way to assess claims before drawing conclusions about UFOs, antigravity research or alleged cover-ups. Recent reporting on lists of allegedly connected dead or missing scientists repeatedly found that many online narratives omitted crucial context already available in primary records, police investigations or family statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+A reliable evaluation process starts with a source hierarchy. The closer a source is to the actual death investigation, the more weight it deserves. The farther it is from the event and the more it depends on retelling other people’s claims, the less confidence it merits. This approach does not assume that official accounts are always correct. Rather, it creates a disciplined way to assess claims before drawing conclusions about UFOs, antigravity research or alleged cover-ups. Recent reporting on lists of allegedly connected dead or missing scientists repeatedly found that many online narratives omitted crucial context already available in primary records, police investigations or family statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 ## Which Sources Should Be Read First?
 
@@ -305,7 +305,7 @@ Examples include:
 * Death certificates
 * Coroner or medical examiner findings
 * Police reports
-* Missing-person bulletins <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">A federal investigation is underway after at least 10 people</span><span class="citation-popover-snippet">conspiracy theories linking the deaths and disappearances of 10 scientists... Some are missing person&#x27;s cases with no signs of foul play...</span></span></span>
+* Missing-person bulletins<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">A federal investigation is underway after at least 10 people</span><span class="citation-popover-snippet">conspiracy theories linking the deaths and disappearances of 10 scientists... Some are missing person&#x27;s cases with no signs of foul play...</span></span></span>
 * Court filings
 * Search warrants
 * Official press releases
@@ -315,7 +315,7 @@ Examples include:
 
 These sources establish the basic facts: whether a death occurred, where it happened, how authorities classified it and whether investigators found evidence of foul play.
 
-In the recent wave of claims linking scientists and researchers to UFO-related conspiracies, several cases cited online already had official explanations available. Some involved documented suicides, some involved natural causes, some involved known homicide suspects and others remained missing-person investigations without evidence of criminal activity. Those distinctions matter because a list of names can create the illusion of a pattern even when the underlying cases are fundamentally different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+In the recent wave of claims linking scientists and researchers to UFO-related conspiracies, several cases cited online already had official explanations available. Some involved documented suicides, some involved natural causes, some involved known homicide suspects and others remained missing-person investigations without evidence of criminal activity. Those distinctions matter because a list of names can create the illusion of a pattern even when the underlying cases are fundamentally different.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 Official sources are not infallible. Investigations can be incomplete, records can remain sealed and agencies can make mistakes. However, they remain the starting point because they provide verifiable facts rather than speculation.
 
@@ -331,7 +331,7 @@ Readers should focus on several specific questions:
 
 * Was the cause of death officially determined?
 * Was the manner of death classified as natural, accident, suicide, homicide or undetermined?
-* Did investigators publicly mention evidence of foul play? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — &quot;Investigators have so far uncovered no evidence of foul...</span></span></span>
+* Did investigators publicly mention evidence of foul play?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — &quot;Investigators have so far uncovered no evidence of foul...</span></span></span>
 * Were later corrections or amendments issued?
 * Are online claims describing the records accurately?
 
@@ -345,7 +345,7 @@ Family members are not forensic investigators, but they often possess informatio
 
 For that reason, named family statements generally deserve substantially more weight than anonymous internet interpretations.
 
-The handling of [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }})'s death illustrates the point. Eskridge became a central figure in online narratives about antigravity research and suspicious deaths. Yet public reporting has repeatedly noted that her death was officially classified as suicide, and her father has publicly rejected claims that there was anything suspicious about her death. He has urged people not to treat the tragedy as evidence of a broader conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL+2International Business Times UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">researcher texted friend she definitely 005659971</span><span class="citation-popover-snippet">Authorities have not said whether foul play is suspected, and no manner of death has been...Read more...</span></span></span>
+The handling of [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }})'s death illustrates the point. Eskridge became a central figure in online narratives about antigravity research and suspicious deaths. Yet public reporting has repeatedly noted that her death was officially classified as suicide, and her father has publicly rejected claims that there was anything suspicious about her death. He has urged people not to treat the tragedy as evidence of a broader conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[aol.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">researcher texted friend she definitely 005659971</span><span class="citation-popover-snippet">Authorities have not said whether foul play is suspected, and no manner of death has been...Read more...</span></span></span>
 
 Family testimony is not definitive proof of any explanation. Relatives can be mistaken or may not know every detail. However, a named family member speaking on the record is generally a stronger source than anonymous posts claiming hidden knowledge.
 
@@ -385,7 +385,7 @@ They can:
 
 As a result, local reporting often contains factual details that disappear when stories are repackaged for national audiences or online communities.
 
-In several cases that later became attached to the "missing scientists" narrative, local coverage documented circumstances such as identified homicide suspects, known medical conditions or ongoing missing-person investigations long before conspiracy explanations gained attention. National fact-checking and mainstream reporting later relied heavily on those original local accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+In several cases that later became attached to the "missing scientists" narrative, local coverage documented circumstances such as identified homicide suspects, known medical conditions or ongoing missing-person investigations long before conspiracy explanations gained attention. National fact-checking and mainstream reporting later relied heavily on those original local accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 A practical research habit is to locate the earliest local reports and compare them with later viral retellings. Important details often vanish during that transition.
 
@@ -403,7 +403,7 @@ Strong indicators include:
 * Direct access to documents
 * Independent [verification]({{ 'verification/' | relative_url }}) of claims
 
-Recent reporting by organisations such as the Associated Press and CBS has repeatedly highlighted an important distinction: authorities may review multiple cases simultaneously without possessing evidence that the cases are connected. Both outlets reported that investigators had not publicly established coordinated foul play linking the deaths and disappearances frequently cited online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+Recent reporting by organisations such as the Associated Press and CBS has repeatedly highlighted an important distinction: authorities may review multiple cases simultaneously without possessing evidence that the cases are connected. Both outlets reported that investigators had not publicly established coordinated foul play linking the deaths and disappearances frequently cited online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 Readers should pay attention to whether a report is presenting new evidence or merely summarising existing speculation.
 
@@ -423,7 +423,7 @@ Common examples include:
 
 These formats encourage a powerful cognitive error: they present multiple names together and imply a connection before proving one exists.
 
-A recurring feature of recent scientist-death narratives has been the creation of lists that combine very different cases. Some individuals died from natural causes, some by suicide, some were homicide victims with identified suspects and some were simply missing. Once placed in a single graphic, however, the differences become less visible and the appearance of a coordinated pattern becomes stronger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+A recurring feature of recent scientist-death narratives has been the creation of lists that combine very different cases. Some individuals died from natural causes, some by suicide, some were homicide victims with identified suspects and some were simply missing. Once placed in a single graphic, however, the differences become less visible and the appearance of a coordinated pattern becomes stronger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 Another problem is source laundering. A claim begins on social media, is copied into a blog, then quoted by another website and eventually appears to have multiple independent sources when all versions trace back to the same original assertion.
 
@@ -467,194 +467,194 @@ Following this order reduces the risk of being persuaded by narratives built on 
 In suspicious scientist death claims, source quality matters more than story quality. A dramatic theory supported only by screenshots and recycled summaries is weaker than a mundane explanation supported by records, investigators and named witnesses. The most reliable assessments begin with official documentation, move through family statements and local reporting, and only afterwards consider broader theories about UFOs, antigravity research or covert programmes. That hierarchy does not guarantee certainty, but it is the most effective protection against mistaking speculation for evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Sources Deserve Trust First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Sources Deserve Trust First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Teaches readers how to evaluate evidence quality, source credibility and misleading claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers how to evaluate evidence quality, source credibility and misleading claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Explains how to resist sensational narratives and assess information more carefully.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to resist sensational narratives and assess information more carefully.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses extraordinary claims, source evaluation and standards of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses extraordinary claims, source evaluation and standards of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Helps explain how conspiracy narratives spread when weak sources are prioritized over stronger evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how conspiracy narratives spread when weak sources are prioritized over stronger evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/868a5a9ec2e3e996860d.jpg' | relative_url }}" alt="Listing image for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/868a5a9ec2e3e996860d.jpg' | relative_url }}" alt="Listing image for Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Antigravity pen 1965 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b4435cc20a82443d9.jpg' | relative_url }}" alt="Listing image for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5b4435cc20a82443d9.jpg' | relative_url }}" alt="Listing image for Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti Gravity Machine Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="source-quality-which-sources-deserve-trust-first-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ In suspicious scientist death claims, source quality matters more than story qua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ In suspicious scientist death claims, source quality matters more than story qua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ In suspicious scientist death claims, source quality matters more than story qua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ In suspicious scientist death claims, source quality matters more than story qua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -819,7 +819,7 @@ In suspicious scientist death claims, source quality matters more than story qua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -860,101 +860,101 @@ In suspicious scientist death claims, source quality matters more than story qua
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aol.com  
    Title: researcher texted friend she definitely 005659971  
-   Link: <a href="https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities have not said whether foul play is suspected, and no manner of death has been...Read more...</p></details>
+   Link:<a href="https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/researcher-texted-friend-she-definitely-005659971.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities have not said whether foul play is suspected, and no manner of death has been...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/grieving-father-dismisses-conspiracy-theories-1792374" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/grieving-father-dismisses-conspiracy-theories-1792374</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s linking his daughter&#x27;s death to UFO secrets, urging focus on facts over speculation...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/grieving-father-dismisses-conspiracy-theories-1792374" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/grieving-father-dismisses-conspiracy-theories-1792374</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s linking his daughter&#x27;s death to UFO secrets, urging focus on facts over speculation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pod.wave.co  
-   Link: <a href="https://pod.wave.co/podcast/crime-house-true-crime-stories/the-scientist-who-predicted-her-own-death-true-crime-news" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/crime-house-true-crime-stories/the-scientist-who-predicted-her-own-death-true-crime-news</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Who Predicted Her Own Death | True Crime News30 Apr 2026 — Wilcock family public statement: &quot;We can assure you there was no fou...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/crime-house-true-crime-stories/the-scientist-who-predicted-her-own-death-true-crime-news" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/crime-house-true-crime-stories/the-scientist-who-predicted-her-own-death-true-crime-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist Who Predicted Her Own Death | True Crime News30 Apr 2026 — Wilcock family public statement: &quot;We can assure you there was no fou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psni.police.uk  
    Title: Operation Kenova Interim Report 2024  
-   Link: <a href="https://www.psni.police.uk/sites/default/files/2024-03/Operation%20Kenova%20Interim%20Report%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/sites/default/files/2024-03/Operation%20Kenova%20Interim%20Report%202024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories and misinformation about the deaths of loved ones can cause families immense distress and they should be corrected, a...</p></details>
+   Link:<a href="https://www.psni.police.uk/sites/default/files/2024-03/Operation%20Kenova%20Interim%20Report%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psni.police.uk/sites/default/files/2024-03/Operation%20Kenova%20Interim%20Report%202024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories and misinformation about the deaths of loved ones can cause families immense distress and they should be corrected, a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: threads.com  
-   Link: <a href="https://www.threads.com/%40stpete_/post/DXTCCDsmulV/" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40stpete_/post/DXTCCDsmulV/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.newsweek.com/who-is-amy-eskridge-scientist-...3](https://www.newsweek.com/who-is-amy-eskridge-scientist-...3) days ago — Amy Eskridge died in 2022, and some have connected her to a list...</p></details>
+   Link:<a href="https://www.threads.com/%40stpete_/post/DXTCCDsmulV/" target="_blank" rel="noopener noreferrer nofollow">https://www.threads.com/%40stpete_/post/DXTCCDsmulV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.newsweek.com/who-is-amy-eskridge-scientist-...3](https://www.newsweek.com/who-is-amy-eskridge-scientist-...3) days ago — Amy Eskridge died in 2022, and some have connected her to a list...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</p></details>
    Published: April 24, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) and U.S. [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). T...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the [White House](&amp;#123;&amp;#123; &#x27;white-house/&#x27; | relative_url &amp;#125;&amp;#125;) and U.S. [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). T...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — &quot;Investigators have so far uncovered no evidence of foul...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — &quot;Investigators have so far uncovered no evidence of foul...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kenova.co.uk  
-   Link: <a href="https://www.kenova.co.uk/FINAL%20Kenova%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kenova.co.uk/FINAL%20Kenova%20Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KENOVA FINAL REPORTThe offences investigated included murder, abduction, serious assaults and firearm offences, however, full investigati...</p></details>
+   Link:<a href="https://www.kenova.co.uk/FINAL%20Kenova%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kenova.co.uk/FINAL%20Kenova%20Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KENOVA FINAL REPORTThe offences investigated included murder, abduction, serious assaults and firearm offences, however, full investigati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ksat.com  
-   Link: <a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
+   Link:<a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with the opening of separate...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with the opening of separate...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and deaths grew for months onlin...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — Speculation over disappearances and deaths grew for months onlin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: father of 11th dead or missing scientist rejects suspicions about her death news  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/father-of-11th-dead-or-missing-scientist-rejects-suspicions-about-her-death-news/1191636009587223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/father-of-11th-dead-or-missing-scientist-rejects-suspicions-about-her-death-news/1191636009587223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge died by suicide in 2022. Her name is the 11th...Her father is a &quot;former NASA employee&quot;. He says that he doesn&#x27;t believe tha...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/father-of-11th-dead-or-missing-scientist-rejects-suspicions-about-her-death-news/1191636009587223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/father-of-11th-dead-or-missing-scientist-rejects-suspicions-about-her-death-news/1191636009587223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge died by suicide in 2022. Her name is the 11th...Her father is a &quot;former NASA employee&quot;. He says that he doesn&#x27;t believe tha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: the semiconductor researcher was found dead after hostile questioning by us law  
-   Link: <a href="https://www.facebook.com/bbcnews/posts/the-semiconductor-researcher-was-found-dead-after-hostile-questioning-by-us-law-/1441353414695313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/the-semiconductor-researcher-was-found-dead-after-hostile-questioning-by-us-law-/1441353414695313/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The semiconductor researcher was found dead after “...Death and Legacy Amy Eskridge died in 2022 under circumstances not officially rule...</p></details>
+   Link:<a href="https://www.facebook.com/bbcnews/posts/the-semiconductor-researcher-was-found-dead-after-hostile-questioning-by-us-law-/1441353414695313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/the-semiconductor-researcher-was-found-dead-after-hostile-questioning-by-us-law-/1441353414695313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The semiconductor researcher was found dead after “...Death and Legacy Amy Eskridge died in 2022 under circumstances not officially rule...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: A federal investigation is underway after at least 10 people  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy theories linking the deaths and disappearances of 10 scientists... Some are missing person&#x27;s cases with no signs of foul play...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy theories linking the deaths and disappearances of 10 scientists... Some are missing person&#x27;s cases with no signs of foul play...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/mystery-of-8-scientists-and-military-figures-deepens-in-the-usa-string-of-deaths/1465350985625884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/mystery-of-8-scientists-and-military-figures-deepens-in-the-usa-string-of-deaths/1465350985625884/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence indicating foul play” while the case remained active. The sharpest factual line tonight is this: federal officials are review...</p></details>
+   Link:<a href="https://www.facebook.com/firstpostin/posts/mystery-of-8-scientists-and-military-figures-deepens-in-the-usa-string-of-deaths/1465350985625884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/mystery-of-8-scientists-and-military-figures-deepens-in-the-usa-string-of-deaths/1465350985625884/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence indicating foul play” while the case remained active. The sharpest factual line tonight is this: federal officials are review...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/849994733672039/posts/1345894320748742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/849994733672039/posts/1345894320748742/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es linking the deaths and disappearances of 10 scientists to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/849994733672039/posts/1345894320748742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/849994733672039/posts/1345894320748742/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es linking the deaths and disappearances of 10 scientists to...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXP-XYZgUAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXP-XYZgUAH/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ughter&#x27;s suicide in 2022, despite reports that Eskridge had...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXP-XYZgUAH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXP-XYZgUAH/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ughter&#x27;s suicide in 2022, despite reports that Eskridge had...Read more...</p></details>

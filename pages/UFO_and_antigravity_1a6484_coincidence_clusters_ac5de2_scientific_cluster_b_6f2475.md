@@ -278,7 +278,7 @@ Claims about suspicious deaths among UFO researchers, advanced-propulsion advoca
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-1-dark.svg" | relative_url }}" alt="Base Rates illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the populations commonly cited in such narratives are extremely large. The U.S. STEM workforce alone numbers roughly 36 million people, about one quarter of the entire workforce. Major [institutions]({{ 'institutions/' | relative_url }}) that frequently appear in conspiracy discussions, including [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory (LANL) and NASA’s Jet Propulsion Laboratory (JPL), employ thousands to tens of thousands of people across scientific, engineering, administrative, security, contractor, and support roles. In populations of that size, deaths, accidents, illnesses, retirements, disappearances, and other tragedies are statistically expected every year, even when no common cause exists. ncses.nsf.gov+2NSF - U.S. National Science Foundation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">STE M Talent: Education, Training, and Workforce</span><span class="citation-popover-snippet">STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</span></span></span>
+This matters because the populations commonly cited in such narratives are extremely large. The U.S. STEM workforce alone numbers roughly 36 million people, about one quarter of the entire workforce. Major [institutions]({{ 'institutions/' | relative_url }}) that frequently appear in conspiracy discussions, including [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory (LANL) and NASA’s Jet Propulsion Laboratory (JPL), employ thousands to tens of thousands of people across scientific, engineering, administrative, security, contractor, and support roles. In populations of that size, deaths, accidents, illnesses, retirements, disappearances, and other tragedies are statistically expected every year, even when no common cause exists. ncses.nsf.gov+2NSF - U.S. National Science Foundation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">STE M Talent: Education, Training, and Workforce</span><span class="citation-popover-snippet">STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</span></span></span>
 
 Understanding these background rates is a necessary first step before deciding whether any apparent cluster deserves further investigation.
 
@@ -288,7 +288,7 @@ The human mind tends to focus on the numerator—the number of unusual events—
 
 Suppose a population contains 10,000 scientists. Even if their mortality risk is no different from that of other adults with similar ages and backgrounds, some will die each year from natural causes, accidents, disease, suicide, or homicide. When the population expands to tens of thousands or millions of people, such events cease to be surprising in statistical terms.
 
-This is particularly relevant to allegations involving secret aerospace or advanced-energy research. Lists of deceased researchers often appear alarming because the occupations seem specialised. Yet specialised occupations can still contain very large numbers of people. The National Science Foundation reports a STEM workforce of approximately 36 million workers in the United States. Even a very low annual mortality rate applied to such a population would generate large absolute numbers of deaths every year. ncses.nsf.gov+2NSF - U.S. National Science Foundation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-snippet">NSB-2024-5, The STEM Labor Force - NCSES - NSFMay 30, 2024 — The science, technology, engineering, and mathematics (STEM) workforce (36.8...</span><span class="citation-popover-meta">Published: May 30, 2024</span></span></span>
+This is particularly relevant to allegations involving secret aerospace or advanced-energy research. Lists of deceased researchers often appear alarming because the occupations seem specialised. Yet specialised occupations can still contain very large numbers of people. The National Science Foundation reports a STEM workforce of approximately 36 million workers in the United States. Even a very low annual mortality rate applied to such a population would generate large absolute numbers of deaths every year. ncses.nsf.gov+2NSF - U.S. National Science Foundation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-snippet">NSB-2024-5, The STEM Labor Force - NCSES - NSFMay 30, 2024 — The science, technology, engineering, and mathematics (STEM) workforce (36.8...</span><span class="citation-popover-meta">Published: May 30, 2024</span></span></span>
 
 A cluster claim therefore requires more than identifying several tragedies. It must show that the number observed is significantly higher than the number expected.
 
@@ -324,9 +324,9 @@ When a list is assembled after the events have occurred, there is also a risk of
 
 The scale of institutions often discussed in [UFO- and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-related narratives is larger than many readers realise.
 
-Los Alamos National Laboratory reports a workforce of roughly 18,000 people, while public statements in recent years have placed total employment in the broader Los Alamos complex at well over 17,000 individuals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...Read more...</span></span></span>
+Los Alamos National Laboratory reports a workforce of roughly 18,000 people, while public statements in recent years have placed total employment in the broader Los Alamos complex at well over 17,000 individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...Read more...</span></span></span>
 
-JPL has historically employed around 7,000 people and, following workforce reductions, still maintains a workforce of roughly 5,500 employees and on-site subcontractors. NASA Jet Propulsion Laboratory (JPL)+2NASA Jet Propulsion Laboratory (JPL) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)JPL Named Among &#x27;Best Places to Work in 2022&#x27;Jan 12, 2022 — The laboratory employs a workforce of abo...</span></span></span>
+JPL has historically employed around 7,000 people and, following workforce reductions, still maintains a workforce of roughly 5,500 employees and on-site subcontractors. NASA Jet Propulsion Laboratory (JPL)+2NASA Jet Propulsion Laboratory (JPL)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)JPL Named Among &#x27;Best Places to Work in 2022&#x27;Jan 12, 2022 — The laboratory employs a workforce of abo...</span></span></span>
 
 These numbers matter because they transform the interpretation of individual cases.
 
@@ -347,7 +347,7 @@ If a laboratory employs thousands of people over a decade, the total person-year
 
 The mere existence of such cases within a large scientific institution is not evidence of a coordinated campaign. The relevant question is whether the observed number exceeds what would normally occur among a population of that size and demographic composition.
 
-Recent media coverage of alleged [clusters]({{ 'clusters/' | relative_url }}) involving personnel linked to nuclear or space programmes illustrates this issue. Reports discussing approximately ten deaths or disappearances over several years generated widespread speculation, yet the institutions involved collectively employ many thousands of people. Without a baseline expectation, the raw count alone reveals little about whether the events are statistically unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
+Recent media coverage of alleged [clusters]({{ 'clusters/' | relative_url }}) involving personnel linked to nuclear or space programmes illustrates this issue. Reports discussing approximately ten deaths or disappearances over several years generated widespread speculation, yet the institutions involved collectively employ many thousands of people. Without a baseline expectation, the raw count alone reveals little about whether the events are statistically unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-2-dark.svg" | relative_url }}" alt="Base Rates illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_coincidence_clusters_ac5de2_scientific_cluster_b_6f2475-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ For example, some laboratories have large populations of older employees, retire
 
 Similarly, some institutions involve extensive travel, fieldwork, commuting, laboratory work, or high-security environments. Any evaluation must compare the observed cases against populations sharing similar characteristics rather than against the public at large.
 
-Studies of laboratory workforces have shown that occupational health patterns can differ from national averages, underscoring the need for carefully chosen comparison groups rather than simplistic counts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34047625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Mortality among workers at the Los Alamos National</span><span class="citation-popover-snippet">by JD Boice Jr · 2022 · Cited by 73 — SMRs for Hispanic workers were significantly high for cancers of the stomach and liver, cirrh...</span></span></span>
+Studies of laboratory workforces have shown that occupational health patterns can differ from national averages, underscoring the need for carefully chosen comparison groups rather than simplistic counts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34047625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Mortality among workers at the Los Alamos National</span><span class="citation-popover-snippet">by JD Boice Jr · 2022 · Cited by 73 — SMRs for Hispanic workers were significantly high for cancers of the stomach and liver, cirrh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F4Ruf1Lf8ns" title="Demand the Truth About the Missing and Dead Scientists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F4Ruf1Lf8ns" target="_blank" rel="noopener noreferrer">Demand the Truth About the Missing and Dead Scientists</a></p><p class="youtube-embed-meta">Channel: The Dr. Phil Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F4Ruf1Lf8ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F4Ruf1Lf8ns">Open on YouTube</a></p></div></div></div>
@@ -389,199 +389,199 @@ Without these elements, a list of names remains descriptive rather than evidenti
 
 Within discussions of alleged deaths among UFO researchers, antigravity advocates, aerospace engineers, or laboratory scientists, the most important statistical question is not “Did several people die?” but “Did more people die than should have been expected?”
 
-Large scientific communities naturally generate tragic events because they contain large numbers of human beings living ordinary lives. Tens of millions of STEM workers, thousands of employees at major laboratories, and decades of observation create countless opportunities for coincidences that can later be assembled into compelling narratives. NASA Jet Propulsion Laboratory (JPL)+3ncses.nsf.gov+3ncses.nsf.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">STE M Talent: Education, Training, and Workforce</span><span class="citation-popover-snippet">STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</span></span></span>
+Large scientific communities naturally generate tragic events because they contain large numbers of human beings living ordinary lives. Tens of millions of STEM workers, thousands of employees at major laboratories, and decades of observation create countless opportunities for coincidences that can later be assembled into compelling narratives. NASA Jet Propulsion Laboratory (JPL)+3ncses.nsf.gov+3ncses.nsf.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncses.nsf.gov">[ncses.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncses.nsf.gov</span><span class="citation-popover-title">STE M Talent: Education, Training, and Workforce</span><span class="citation-popover-snippet">STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</span></span></span>
 
 Any claim that a cluster reflects a hidden campaign must therefore clear a higher bar than the existence of multiple deaths. It must demonstrate excess risk above background expectations and provide evidence linking the cases beyond their shared association with science, aerospace, or advanced-technology research.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Many Tragedies Should We Expect?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Many Tragedies Should We Expect?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
-        </h4>
-        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on mistaken interpretations of rare events and apparent patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fooled by Randomness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4eLKm33WneEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fooled by Randomness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fooled by Randomness">Fooled by Randomness</a>
+</h4>
+<p class="fr-book-author">By Nassim Nicholas Taleb</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 15 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on mistaken interpretations of rare events and apparent patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fooled+by+Randomness+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D-zFbo5GS9IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
-        </h4>
-        <p class="fr-book-author">By Leonard Mlodinow</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drunkard&#x27;s Walk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D-zFbo5GS9IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drunkard&#x27;s Walk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drunkard&#x27;s Walk">The Drunkard&#x27;s Walk</a>
+</h4>
+<p class="fr-book-author">By Leonard Mlodinow</p>
         
-        <p class="fr-book-desc">Explains how chance events and statistical expectations can create seemingly meaningful patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how chance events and statistical expectations can create seemingly meaningful patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+by+Leonard+Mlodinow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how to evaluate unusual claims and distinguish evidence from persuasive narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how to evaluate unusual claims and distinguish evidence from persuasive narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e1iNAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
-        </h4>
-        <p class="fr-book-author">By David J. Hand</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Improbability Principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e1iNAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Improbability Principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Improbability Principle">The Improbability Principle</a>
+</h4>
+<p class="fr-book-author">By David J. Hand</p>
         
-        <p class="fr-book-desc">Directly addresses why surprising events become inevitable in large populations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses why surprising events become inevitable in large populations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Improbability+Principle+by+David+J.+Hand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fooled+by+Randomness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fooled by Randomness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drunkard&#x27;s Walk</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="base-rates-how-many-tragedies-should-we-expect-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,216 +787,216 @@ Any claim that a cluster reflects a hidden campaign must therefore clear a highe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncses.nsf.gov  
    Title: STE M Talent: Education, Training, and Workforce  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20261</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20261" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Talent: Education, Training, and Workforce - NCSESFeb 12, 2026 — In 2023, science and engineering (S&amp;E) workers (42%) and S&amp;E-relate...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsf.gov  
    Title: us science technology engineering mathematics talent  
-   Link: <a href="https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationU.S. Science, Technology, Engineering, Mathematics TalentFeb 12, 2026 — In 2023, there were 36 million STEM wo...</p></details>
+   Link:<a href="https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/us-science-technology-engineering-mathematics-talent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationU.S. Science, Technology, Engineering, Mathematics TalentFeb 12, 2026 — In 2023, there were 36 million STEM wo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...Read more...</p></details>
+   Link:<a href="https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/engage/environment/wildfire-preparedness/lab-fast-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of those: Roughly 13,000 are employees of Triad National Security LLC; 400 are guard force...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSB-2024-5, The STEM Labor Force - NCSES - NSFMay 30, 2024 — The science, technology, engineering, and mathematics (STEM) workforce (36.8...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/assets/nsb20245.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSB-2024-5, The STEM Labor Force - NCSES - NSFMay 30, 2024 — The science, technology, engineering, and mathematics (STEM) workforce (36.8...</p></details>
    Published: May 30, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsf.gov  
    Title: new report shows importance foreign born talent us stem  
-   Link: <a href="https://www.nsf.gov/nsb/updates/new-report-shows-importance-foreign-born-talent-us-stem" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/new-report-shows-importance-foreign-born-talent-us-stem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNew report shows the importance of foreign-born talent to...May 30, 2024 — The science, technology, engineeri...</p></details>
+   Link:<a href="https://www.nsf.gov/nsb/updates/new-report-shows-importance-foreign-born-talent-us-stem" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/nsb/updates/new-report-shows-importance-foreign-born-talent-us-stem</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNew report shows the importance of foreign-born talent to...May 30, 2024 — The science, technology, engineeri...</p></details>
    Published: May 30, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245/u-s-stem-workforce-size-growth-and-employment" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/u-s-stem-workforce-size-growth-and-employment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US STEM Workforce: Size, Growth, and Employment - NCSESMay 30, 2024 — Between 2011 and 2021, STEM workers increased from 22% to 24% (corr...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245/u-s-stem-workforce-size-growth-and-employment" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/u-s-stem-workforce-size-growth-and-employment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US STEM Workforce: Size, Growth, and Employment - NCSESMay 30, 2024 — Between 2011 and 2021, STEM workers increased from 22% to 24% (corr...</p></details>
    Published: May 30, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)JPL Named Among &#x27;Best Places to Work in 2022&#x27;Jan 12, 2022 — The laboratory employs a workforce of abo...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/jpl-named-among-best-places-to-work-in-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)JPL Named Among &#x27;Best Places to Work in 2022&#x27;Jan 12, 2022 — The laboratory employs a workforce of abo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jpl.nasa.gov  
-   Link: <a href="https://www.jpl.nasa.gov/who-we-are/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/who-we-are/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Who We Are | NASA Jet Propulsion Laboratory (JPL)JPL&#x27;s workforce includes a dedicated and diverse pop...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/who-we-are/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/who-we-are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Who We Are | NASA Jet Propulsion Laboratory (JPL)JPL&#x27;s workforce includes a dedicated and diverse pop...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.lanl.gov  
-   Link: <a href="https://cdn.lanl.gov/files/housing-demand-and-demographics-final_6d6ee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.lanl.gov/files/housing-demand-and-demographics-final_6d6ee.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory employee demographics and housing demandMay 1, 2023 — LANL hired 2077 new regular and term employees during the 2022 fiscal year...</p></details>
+   Link:<a href="https://cdn.lanl.gov/files/housing-demand-and-demographics-final_6d6ee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.lanl.gov/files/housing-demand-and-demographics-final_6d6ee.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory employee demographics and housing demandMay 1, 2023 — LANL hired 2077 new regular and term employees during the 2022 fiscal year...</p></details>
    Published: May 1, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Labor Force: Scientists, Engineers, and Skilled...May 30, 2024 — The science, technology, engineering, and mathematics (STEM) workf...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Labor Force: Scientists, Engineers, and Skilled...May 30, 2024 — The science, technology, engineering, and mathematics (STEM) workf...</p></details>
    Published: May 30, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncsesdata.nsf.gov  
-   Link: <a href="https://ncsesdata.nsf.gov/explorer/surveys/?superTopic=Demographics" target="_blank" rel="noopener noreferrer nofollow">https://ncsesdata.nsf.gov/explorer/surveys/?superTopic=Demographics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explorer | NCSES | NSFSurveys. Education of Scientists and Engineers. Earned Doctorates; Graduate Students &amp; Postdocs. Science and Engine...</p></details>
+   Link:<a href="https://ncsesdata.nsf.gov/explorer/surveys/?superTopic=Demographics" target="_blank" rel="noopener noreferrer nofollow">https://ncsesdata.nsf.gov/explorer/surveys/?superTopic=Demographics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explorer | NCSES | NSFSurveys. Education of Scientists and Engineers. Earned Doctorates; Graduate Students &amp; Postdocs. Science and Engine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20243" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSES13 Mar 2024 — This summary report, The State of US Science and Engineering, details key findings from...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20243" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSES13 Mar 2024 — This summary report, The State of US Science and Engineering, details key findings from...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ncses.nsf.gov  
    Title: science engineering workforce  
-   Link: <a href="https://ncses.nsf.gov/interest-areas/science-engineering-workforce" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/interest-areas/science-engineering-workforce</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>science and engineering workforce, their demographic characteristics, educational history, additional training...Read more...</p></details>
+   Link:<a href="https://ncses.nsf.gov/interest-areas/science-engineering-workforce" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/interest-areas/science-engineering-workforce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>science and engineering workforce, their demographic characteristics, educational history, additional training...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20261/introduction" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20261/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>workers and includes those who work in traditional S&amp;E occupations and those who...Read more...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20261/introduction" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20261/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>workers and includes those who work in traditional S&amp;E occupations and those who...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ncses.nsf.gov  
    Title: foreign born stem workers  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245/foreign-born-stem-workers" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/foreign-born-stem-workers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nsf.govForeign-Born STEM Workers - NCSES - NSF30 May 2024 — Over a quarter (26%) of foreign-born workers employed in the United States wo...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245/foreign-born-stem-workers" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/foreign-born-stem-workers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nsf.govForeign-Born STEM Workers - NCSES - NSF30 May 2024 — Over a quarter (26%) of foreign-born workers employed in the United States wo...</p></details>
    Published: May 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ncses.nsf.gov  
    Title: SLBR 27  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20245/data/table/SLBR-27" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/data/table/SLBR-27</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center for Science and Engineering StatisticsMay 30, 2024 — Citizenship and foreign-born status of workers with bachelor&#x27;s degre...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20245/data/table/SLBR-27" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20245/data/table/SLBR-27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Center for Science and Engineering StatisticsMay 30, 2024 — Citizenship and foreign-born status of workers with bachelor&#x27;s degre...</p></details>
    Published: May 30, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ncses.nsf.gov  
    Title: key takeaways  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20243/key-takeaways" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/key-takeaways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSESMar 13, 2024 — The U.S. science, technology, engineering, and mathematics (STEM) workforce comprised...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20243/key-takeaways" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/key-takeaways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSESMar 13, 2024 — The U.S. science, technology, engineering, and mathematics (STEM) workforce comprised...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20243/figure/9" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/figure/9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSESMar 13, 2024 — The STEM workforce encompasses all workers who use STEM skills in their jobs, regardle...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20243/figure/9" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20243/figure/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Engineering 2024 - NCSESMar 13, 2024 — The STEM workforce encompasses all workers who use STEM skills in their jobs, regardle...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ncses.nsf.gov  
-   Link: <a href="https://ncses.nsf.gov/pubs/nsb20212/notes" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20212/notes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Labor Force of Today: Scientists, Engineers, and...Aug 31, 2021 — Individuals in the STEM workforce make important contributions to...</p></details>
+   Link:<a href="https://ncses.nsf.gov/pubs/nsb20212/notes" target="_blank" rel="noopener noreferrer nofollow">https://ncses.nsf.gov/pubs/nsb20212/notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEM Labor Force of Today: Scientists, Engineers, and...Aug 31, 2021 — Individuals in the STEM workforce make important contributions to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jpl.nasa.gov  
    Title: jpl workforce update  
-   Link: <a href="https://www.jpl.nasa.gov/news/jpl-workforce--update/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/jpl-workforce--update/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce UpdateOct 13, 2025 — In order to best position JPL going forward, we are taking steps to restructure and establish an appropria...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/jpl-workforce--update/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/jpl-workforce--update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce UpdateOct 13, 2025 — In order to best position JPL going forward, we are taking steps to restructure and establish an appropria...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: jpl workforce update 2  
-   Link: <a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JPL Workforce Update12 Nov 2024 — After this action, we will be at about 5,500 JPL regular employees. I believe this is a stable, support...</p></details>
+   Link:<a href="https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JPL Workforce Update12 Nov 2024 — After this action, we will be at about 5,500 JPL regular employees. I believe this is a stable, support...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA lays off 550 employees at Jet Propulsion LaboratoryOct 14, 2025 — Approximately 550 employees of NASA&#x27;s Jet Propulsion Laboratory (J...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/nasa-lays-off-550-employees-at-jet-propulsion-laboratory-in-sweeping-realignment-of-workforce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA lays off 550 employees at Jet Propulsion LaboratoryOct 14, 2025 — Approximately 550 employees of NASA&#x27;s Jet Propulsion Laboratory (J...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</p></details>
    Published: April 17, 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Mortality among workers at the Los Alamos National  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34047625/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34047625/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Boice Jr · 2022 · Cited by 73 — SMRs for Hispanic workers were significantly high for cancers of the stomach and liver, cirrh...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34047625/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34047625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Boice Jr · 2022 · Cited by 73 — SMRs for Hispanic workers were significantly high for cancers of the stomach and liver, cirrh...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/los-alamos-national-laboratory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryCompany size: 10,001+ employees. Headquarters: Los Alamos, NM. Type... Employees at Los Alamos National La...</p></details>
+   Link:<a href="https://www.linkedin.com/company/los-alamos-national-laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/los-alamos-national-laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryCompany size: 10,001+ employees. Headquarters: Los Alamos, NM. Type... Employees at Los Alamos National La...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Jet Propulsion Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jet Propulsion LaboratoryJet Propulsion Laboratory is located in the Los Angeles metropolitan area... The laboratory&#x27;s workforce is s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jet Propulsion LaboratoryJet Propulsion Laboratory is located in the Los Angeles metropolitan area... The laboratory&#x27;s workforce is s...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Los Alamos National Laboratory  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryEstablished, 1943 (1943); Budget, $4.9 billion; Field of research. National security · Fundamental sci...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryEstablished, 1943 (1943); Budget, $4.9 billion; Field of research. National security · Fundamental sci...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: zoominfo.com  
-   Link: <a href="https://www.zoominfo.com/c/jet-propulsion-laboratory/57233923" target="_blank" rel="noopener noreferrer nofollow">https://www.zoominfo.com/c/jet-propulsion-laboratory/57233923</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JPL - Overview, News &amp; Similar companiesWith an annual revenue of $2.2B and an employee range of 5,000-10,000 individuals across its 3 lo...</p></details>
+   Link:<a href="https://www.zoominfo.com/c/jet-propulsion-laboratory/57233923" target="_blank" rel="noopener noreferrer nofollow">https://www.zoominfo.com/c/jet-propulsion-laboratory/57233923</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JPL - Overview, News &amp; Similar companiesWith an annual revenue of $2.2B and an employee range of 5,000-10,000 individuals across its 3 lo...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government shutdown. The layoffs will affect staff across JPL&#x27;s technical, business, and support departments. This move is part of a reor...</p></details>
+   Link:<a href="https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/world-at-work/nasas-jet-propulsion-unit-lay-off-about-550-workers-2025-10-13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government shutdown. The layoffs will affect staff across JPL&#x27;s technical, business, and support departments. This move is part of a reor...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ssti.org  
-   Link: <a href="https://ssti.org/blog/nsf-publishes-new-report-stem-labor-force" target="_blank" rel="noopener noreferrer nofollow">https://ssti.org/blog/nsf-publishes-new-report-stem-labor-force</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF publishes new report on the STEM labor forceThe STEM workforce now translates to 36.8 million people across the country, and the Depa...</p></details>
+   Link:<a href="https://ssti.org/blog/nsf-publishes-new-report-stem-labor-force" target="_blank" rel="noopener noreferrer nofollow">https://ssti.org/blog/nsf-publishes-new-report-stem-labor-force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NSF publishes new report on the STEM labor forceThe STEM workforce now translates to 36.8 million people across the country, and the Depa...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/national-science-foundation_executive-summary-activity-7428078010311999488-nvj7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/national-science-foundation_executive-summary-activity-7428078010311999488-nvj7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US STEM Workforce Grows, Outpaces Non-STEM Fields“The analysis finds that science, technology, engineering and mathematics workers repres...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/national-science-foundation_executive-summary-activity-7428078010311999488-nvj7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/national-science-foundation_executive-summary-activity-7428078010311999488-nvj7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US STEM Workforce Grows, Outpaces Non-STEM Fields“The analysis finds that science, technology, engineering and mathematics workers repres...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: losalamosreporter.com  
-   Link: <a href="https://losalamosreporter.com/2026/03/05/wyka-tells-county-council-lanl-expects-to-receive-5-2-billion-in-federal-appropriations-with-significant-portion-to-support-expanding-nuclear-weapons-activities/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2026/03/05/wyka-tells-county-council-lanl-expects-to-receive-5-2-billion-in-federal-appropriations-with-significant-portion-to-support-expanding-nuclear-weapons-activities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyka Tells County Council LANL Expects To Receive $5.2...5 Mar 2026 — “Let me be very deliberate in what those numbers mean; LANL typica...</p></details>
+   Link:<a href="https://losalamosreporter.com/2026/03/05/wyka-tells-county-council-lanl-expects-to-receive-5-2-billion-in-federal-appropriations-with-significant-portion-to-support-expanding-nuclear-weapons-activities/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2026/03/05/wyka-tells-county-council-lanl-expects-to-receive-5-2-billion-in-federal-appropriations-with-significant-portion-to-support-expanding-nuclear-weapons-activities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wyka Tells County Council LANL Expects To Receive $5.2...5 Mar 2026 — “Let me be very deliberate in what those numbers mean; LANL typica...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: prospeo.io  
-   Link: <a href="https://prospeo.io/c/nasa-jet-propulsion-laboratory-revenue" target="_blank" rel="noopener noreferrer nofollow">https://prospeo.io/c/nasa-jet-propulsion-laboratory-revenue</a>  
+   Link:<a href="https://prospeo.io/c/nasa-jet-propulsion-laboratory-revenue" target="_blank" rel="noopener noreferrer nofollow">https://prospeo.io/c/nasa-jet-propulsion-laboratory-revenue</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aip.org  
-   Link: <a href="https://www.aip.org/fyi/us-still-leads-world-in-r-d-spending-but-faces-crisis-in-stem-workforce-nsf-board-argues" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/us-still-leads-world-in-r-d-spending-but-faces-crisis-in-stem-workforce-nsf-board-argues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM workforce consisted of 36.8 million people in 2021... Foreign-born workers also accounted for 43% of all doctoral-level scientists...</p></details>
+   Link:<a href="https://www.aip.org/fyi/us-still-leads-world-in-r-d-spending-but-faces-crisis-in-stem-workforce-nsf-board-argues" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/us-still-leads-world-in-r-d-spending-but-faces-crisis-in-stem-workforce-nsf-board-argues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEM workforce consisted of 36.8 million people in 2021... Foreign-born workers also accounted for 43% of all doctoral-level scientists...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nbclosangeles.com  
-   Link: <a href="https://www.nbclosangeles.com/news/local/4-scientists-socal-ties/3879556/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/local/4-scientists-socal-ties/3879556/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NBC Los Angeles4 of 10 scientists with mysterious deaths, disappearances...21 Apr 2026 — At least 10 American scientists with ties to U.S...</p></details>
+   Link:<a href="https://www.nbclosangeles.com/news/local/4-scientists-socal-ties/3879556/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/local/4-scientists-socal-ties/3879556/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NBC Los Angeles4 of 10 scientists with mysterious deaths, disappearances...21 Apr 2026 — At least 10 American scientists with ties to U.S...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sabine.hossenfelder/posts/i-looked-at-the-cases-of-vanishing-scientists-in-the-us-and-have-to-admit-its-ve/10164697016934574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sabine.hossenfelder/posts/i-looked-at-the-cases-of-vanishing-scientists-in-the-us-and-have-to-admit-its-ve/10164697016934574/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expected deaths =.009xN where N is the number of whatever you want (scientists...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/sabine.hossenfelder/posts/i-looked-at-the-cases-of-vanishing-scientists-in-the-us-and-have-to-admit-its-ve/10164697016934574/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sabine.hossenfelder/posts/i-looked-at-the-cases-of-vanishing-scientists-in-the-us-and-have-to-admit-its-ve/10164697016934574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expected deaths =.009xN where N is the number of whatever you want (scientists...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: losalamosreporter.com  
-   Link: <a href="https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Report Shows 37.7 Percent Of Employees Lived in...May 5, 2023 — As of September 2022, 37 percent lived in Los Alamos County, 24.6 p...</p></details>
+   Link:<a href="https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/" target="_blank" rel="noopener noreferrer nofollow">https://losalamosreporter.com/2023/05/05/lanl-report-shows-37-7-percent-of-employees-lived-in-los-alamos-county-as-of-sept-30-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LANL Report Shows 37.7 Percent Of Employees Lived in...May 5, 2023 — As of September 2022, 37 percent lived in Los Alamos County, 24.6 p...</p></details>
    Published: May 5, 2023  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reveliolabs.com  
    Title: The Yo Y growth rate is -2.1%. Data  
    Source: Revelio  
-   Link: <a href="https://www.reveliolabs.com/companies/los-alamos-national-lab/employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.reveliolabs.com/companies/los-alamos-national-lab/employees/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many employees work at Los Alamos National Lab?Los Alamos National Laboratory has 12,063 employees, according to Revelio Labs workfor...</p></details>
+   Link:<a href="https://www.reveliolabs.com/companies/los-alamos-national-lab/employees/" target="_blank" rel="noopener noreferrer nofollow">https://www.reveliolabs.com/companies/los-alamos-national-lab/employees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many employees work at Los Alamos National Lab?Los Alamos National Laboratory has 12,063 employees, according to Revelio Labs workfor...</p></details>

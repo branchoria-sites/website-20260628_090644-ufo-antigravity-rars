@@ -274,7 +274,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_thr
 
 ## Introduction
 
-For claims that UFO or antigravity researchers were silenced through intimidation, the most persuasive evidence would not be rumours about pressure, secrecy, or hostile environments. It would be preserved, independently verifiable threat records that can be tied to identifiable people, dates, and later events. Investigators, courts, and threat-assessment professionals generally place far greater weight on contemporaneous evidence—messages, reports, witness statements, surveillance records, or official warnings created before a death or disappearance—than on retrospective accounts collected after the fact. Threat-assessment research likewise emphasises observable warning behaviours and documented communications over speculation about motive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</span></span></span>
+For claims that UFO or antigravity researchers were silenced through intimidation, the most persuasive evidence would not be rumours about pressure, secrecy, or hostile environments. It would be preserved, independently verifiable threat records that can be tied to identifiable people, dates, and later events. Investigators, courts, and threat-assessment professionals generally place far greater weight on contemporaneous evidence—messages, reports, witness statements, surveillance records, or official warnings created before a death or disappearance—than on retrospective accounts collected after the fact. Threat-assessment research likewise emphasises observable warning behaviours and documented communications over speculation about motive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_threat_records_596384-Illustration-1-dark.svg" | relative_url }}" alt="Threat Records illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_threat_records_596384-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_threat_records_596384-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,13 +293,13 @@ The strongest examples would include:
 * Threat reports made to employers, colleagues, police, lawyers, journalists, or family members before any disappearance occurred.
 * Security logs, access records, or surveillance reports documenting harassment.
 * Official threat notifications issued by authorities based on specific intelligence.
-* Multiple witnesses confirming that the same warning was received or discussed before the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcc.gov">[Federal Communications Commission+2OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcc.gov</span><span class="citation-popover-snippet">Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</span></span></span>
+* Multiple witnesses confirming that the same warning was received or discussed before the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcc.gov">[fcc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcc.gov</span><span class="citation-popover-snippet">Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</span></span></span>
 
 </div>
 
 By contrast, a statement that "the victim once said they were being watched" becomes much less persuasive if no dated record exists and no independent witness can confirm the conversation.
 
-The distinction matters because retrospective memories are vulnerable to error, reinterpretation, and contamination by later publicity. Legal systems routinely seek corroboration when assessing disputed statements, especially when they become important only after a death has occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/expert-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2NYU Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">expert evidence</span><span class="citation-popover-snippet">Crown Prosecution ServiceExpert Evidence20 Nov 2023 — It is highly desirable to look for corroboration of any evidence obtained under hyp...</span></span></span>
+The distinction matters because retrospective memories are vulnerable to error, reinterpretation, and contamination by later publicity. Legal systems routinely seek corroboration when assessing disputed statements, especially when they become important only after a death has occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/expert-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[cps.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">expert evidence</span><span class="citation-popover-snippet">Crown Prosecution ServiceExpert Evidence20 Nov 2023 — It is highly desirable to look for corroboration of any evidence obtained under hyp...</span></span></span>
 
 ## Messages and Warnings That Can Be Authenticated
 
@@ -315,7 +315,7 @@ The most compelling records would possess several characteristics simultaneously
 
 **Temporal proximity.** The threat occurs shortly before the death, disappearance, or other suspicious event.
 
-**Consistency.** The warning aligns with other documented events, such as surveillance reports, unusual contacts, or repeated harassment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcc.gov">[Federal Communications Commission+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcc.gov</span><span class="citation-popover-snippet">Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</span></span></span>
+**Consistency.** The warning aligns with other documented events, such as surveillance reports, unusual contacts, or repeated harassment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fcc.gov">[fcc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fcc.gov</span><span class="citation-popover-snippet">Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</span></span></span>
 
 A hypothetical email stating, "Stop discussing propulsion data or you will regret it," preserved on multiple systems and reported to authorities before a death, would carry far more weight than an undocumented recollection reported years later.
 
@@ -333,9 +333,9 @@ Evidence becomes stronger if:
 * Separate witnesses report hearing similar threats before learning of each other's accounts.
 * Different [institutions]({{ 'institutions/' | relative_url }}) possess matching records.
 * Journalists, employers, family members, and law-enforcement agencies received similar reports at different times.
-* Witnesses documented concerns before the death rather than after it became news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/app/investigation/working-victims-and-witnesses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">All victims are also witnesses and should be treated as such.Read more</span><span class="citation-popover-snippet">College of PolicingWorking with victims and witnesses23 Oct 2013 — A witness is a person, other than a defendant, who is likely to give e...</span></span></span>
+* Witnesses documented concerns before the death rather than after it became news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/app/investigation/working-victims-and-witnesses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">All victims are also witnesses and should be treated as such.Read more</span><span class="citation-popover-snippet">College of PolicingWorking with victims and witnesses23 Oct 2013 — A witness is a person, other than a defendant, who is likely to give e...</span></span></span>
 
-A recurring theme in witness-intimidation research is that threats often leave traces across multiple environments—homes, workplaces, communications systems, and official reporting channels. When those traces converge independently, confidence increases that a genuine intimidation campaign existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pceinc.org">[Prosecutors&#x27; Center for Excellence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pceinc.org</span><span class="citation-popover-title">Prosecutors&#x27; Center for Excellence PART I</span><span class="citation-popover-snippet">Prosecutors&#x27; Center for ExcellencePART I - Witness Intimidation in the Digital AgeApril 27, 2015 — Intimidation takes every possible form...</span><span class="citation-popover-meta">Published: April 27, 2015</span></span></span>
+A recurring theme in witness-intimidation research is that threats often leave traces across multiple environments—homes, workplaces, communications systems, and official reporting channels. When those traces converge independently, confidence increases that a genuine intimidation campaign existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pceinc.org">[Prosecutors&#x27; Center for Excellence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pceinc.org</span><span class="citation-popover-title">Prosecutors&#x27; Center for Excellence PART I</span><span class="citation-popover-snippet">Prosecutors&#x27; Center for ExcellencePART I - Witness Intimidation in the Digital AgeApril 27, 2015 — Intimidation takes every possible form...</span><span class="citation-popover-meta">Published: April 27, 2015</span></span></span>
 
 Conversely, dozens of articles repeating the same anecdote do not create dozens of independent pieces of evidence.
 
@@ -345,7 +345,7 @@ Conversely, dozens of articles repeating the same anecdote do not create dozens 
 
 Chronology is often more revealing than the content of a threat itself.
 
-Homicide and threat-assessment research frequently examines escalation patterns and temporal sequencing. The central question is whether documented warning events precede and relate logically to later harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efjca.eu">[Family Justice Centers Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efjca.eu</span><span class="citation-popover-snippet">Family Justice Centers EuropeHomicide timelineIn homicide research temporal sequencing has an established presence. • The principle is th...</span></span></span>
+Homicide and threat-assessment research frequently examines escalation patterns and temporal sequencing. The central question is whether documented warning events precede and relate logically to later harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efjca.eu">[Family Justice Centers Europe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efjca.eu</span><span class="citation-popover-snippet">Family Justice Centers EuropeHomicide timelineIn homicide research temporal sequencing has an established presence. • The principle is th...</span></span></span>
 
 For a silencing hypothesis, [stronger evidence]({{ 'proof-test/' | relative_url }}) would include:
 
@@ -361,7 +361,7 @@ For a silencing hypothesis, [stronger evidence]({{ 'proof-test/' | relative_url 
 
 This [timeline]({{ 'timeline/' | relative_url }}) would be significantly more persuasive than discovering a threat only after investigators began searching a victim's records.
 
-The closer the connection between the warning and the later event, the harder it becomes to dismiss the threat as irrelevant background noise. Threat-assessment specialists routinely evaluate behaviour in context rather than treating isolated statements as meaningful on their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</span></span></span>
+The closer the connection between the warning and the later event, the harder it becomes to dismiss the threat as irrelevant background noise. Threat-assessment specialists routinely evaluate behaviour in context rather than treating isolated statements as meaningful on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wfi_dd-DNiU" title="Another Scientist Dead? Amy Eskridge &amp; the Growing (Alleged) UAP Cover-Up Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wfi_dd-DNiU" target="_blank" rel="noopener noreferrer">Another Scientist Dead? Amy Eskridge &amp; the Growing (Alleged) UAP Cover-Up Questions</a></p><p class="youtube-embed-meta">Channel: Los Angeles Magazine Videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wfi_dd-DNiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wfi_dd-DNiU">Open on YouTube</a></p></div></div></div>
@@ -379,7 +379,7 @@ Examples would include:
 * Similar language appearing in communications to different victims.
 * Common surveillance reports involving the same individuals or vehicles.
 * Threats referencing the same project, disclosure, publication, or technical subject.
-* Evidence that several victims reported intimidation through separate channels before their deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretservice.gov/media/86/download?inline=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretservice.gov">[secretservice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretservice.gov</span><span class="citation-popover-snippet">Protective Intelligence and Threat Assessment InvestigationsAmong criminal justice functions, threat assess- ment holds great promise...</span></span></span>
+* Evidence that several victims reported intimidation through separate channels before their deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretservice.gov/media/86/download?inline=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretservice.gov">[secretservice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretservice.gov</span><span class="citation-popover-snippet">Protective Intelligence and Threat Assessment InvestigationsAmong criminal justice functions, threat assess- ment holds great promise...</span></span></span>
 
 </div>
 
@@ -406,9 +406,9 @@ Examples include:
 
 </div>
 
-These records are especially useful because they are time-stamped and created independently of later conspiracy claims. They establish that concern existed before the outcome was known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">PROTECTION OF VICTIMS, WITNESSES AND OTHER</span><span class="citation-popover-snippet">witnesses or sources (e.g., are they part of a group with special needs?), the existing threats and the history of intimidation. The leve...</span></span></span>
+These records are especially useful because they are time-stamped and created independently of later conspiracy claims. They establish that concern existed before the outcome was known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohchr.org">[OHCHR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohchr.org</span><span class="citation-popover-title">PROTECTION OF VICTIMS, WITNESSES AND OTHER</span><span class="citation-popover-snippet">witnesses or sources (e.g., are they part of a group with special needs?), the existing threats and the history of intimidation. The leve...</span></span></span>
 
-In the United Kingdom and some other jurisdictions, authorities may issue formal warnings when intelligence suggests a credible threat but insufficient evidence exists for immediate prosecution. Such records do not prove a later murder, but they demonstrate that documented concern existed before any suspicious event occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_threat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death threat</span><span class="citation-popover-snippet">Death threat</span></span></span>
+In the United Kingdom and some other jurisdictions, authorities may issue formal warnings when intelligence suggests a credible threat but insufficient evidence exists for immediate prosecution. Such records do not prove a later murder, but they demonstrate that documented concern existed before any suspicious event occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Death_threat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Death threat</span><span class="citation-popover-snippet">Death threat</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QatWn2nMQnw" title="Amy Eskridge Predicted Her Own Death – Before Becoming 1 of 11 Scientists Now Dead or Missing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer">Amy Eskridge Predicted Her Own Death – Before Becoming 1 of 11 Scientists Now Dead or Missing</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QatWn2nMQnw">Open on YouTube</a></p></div></div></div>
@@ -417,7 +417,7 @@ In the United Kingdom and some other jurisdictions, authorities may issue formal
 
 Even authentic threats do not automatically prove a killing, disappearance, or coordinated campaign.
 
-Researchers, journalists, activists, scientists, and public figures sometimes receive threats that are never acted upon. Studies of threatening behaviour show that many threats do not result in violence, which is why investigators evaluate threats alongside capability, opportunity, escalation, and other behavioural indicators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17922941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threats to kill: a follow-up studyby LJ Warren · 2008 · Cited by 91 — This data linkage study examined serious violence following m...</span></span></span>
+Researchers, journalists, activists, scientists, and public figures sometimes receive threats that are never acted upon. Studies of threatening behaviour show that many threats do not result in violence, which is why investigators evaluate threats alongside capability, opportunity, escalation, and other behavioural indicators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/17922941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threats to kill: a follow-up studyby LJ Warren · 2008 · Cited by 91 — This data linkage study examined serious violence following m...</span></span></span>
 
 For that reason, the strongest evidential scenario would combine:
 
@@ -435,194 +435,194 @@ For that reason, the strongest evidential scenario would combine:
 Within the debate over alleged silencing of UFO or antigravity researchers, preserved threat records would therefore be one of the most important categories of evidence. They would not settle the question alone, but they would provide the dated, checkable foundation that is largely absent from claims built primarily on coincidence, secrecy, or retrospective suspicion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Do Threats Become Real Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Do Threats Become Real Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
-        </h4>
-        <p class="fr-book-author">By Gavin De Becker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PAbaAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
+</h4>
+<p class="fr-book-author">By Gavin De Becker</p>
         
-        <p class="fr-book-desc">Focuses on evaluating threats, warning behaviors, and distinguishing credible danger from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating threats, warning behaviors, and distinguishing credible danger from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+by+Gavin+De+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Killing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMJnvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On Killing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Killing">On Killing</a>
-        </h4>
-        <p class="fr-book-author">By Lieutenant Colonel Dave Grossman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On Killing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMJnvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for On Killing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Killing">On Killing</a>
+</h4>
+<p class="fr-book-author">By Lieutenant Colonel Dave Grossman</p>
         
-        <p class="fr-book-desc">Discusses violent behavior, threat indicators, and evidence-based assessment of serious harm.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses violent behavior, threat indicators, and evidence-based assessment of serious harm.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=On+Killing+by+Lieutenant+Colonel+Dave+Grossman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for assessing extraordinary claims, weighing evidence, and avoiding unsupported conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for assessing extraordinary claims, weighing evidence, and avoiding unsupported conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzbJwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzbJwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores how people assess credibility, evidence, testimony, and deceptive behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people assess credibility, evidence, testimony, and deceptive behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=On+Killing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On Killing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=On+Killing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">On Killing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anderson Entertainment UFO Saucer Collectable"><img src="{{ '/assets/images/marketplace-covers/3fcedd05f4d4333b7b2b.jpg' | relative_url }}" alt="Listing image for Anderson Entertainment UFO Saucer Collectable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Anderson Entertainment UFO Saucer Collectable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible"><img src="{{ '/assets/images/marketplace-covers/311e792dddced7598d86.jpg' | relative_url }}" alt="Listing image for Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Junior Alien Bust Replica | Betty &amp; Barney Hill UFO Model, UFO/UAP Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade."><img src="{{ '/assets/images/marketplace-covers/eae7a1e8a8fad5254c8b.jpg' | relative_url }}" alt="Listing image for The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">The UFO from the classic S.H.A.D.O UFO Series - 3D Printed &amp; Handmade.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="threat-records-when-do-threats-become-real-evidence-ufo-and-antigravity-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-threats-become-real-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-do-threats-become-real-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -638,7 +638,7 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -658,7 +658,7 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -690,7 +690,7 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -742,7 +742,7 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -787,7 +787,7 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -828,140 +828,140 @@ Within the debate over alleged silencing of UFO or antigravity researchers, pres
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: secretservice.gov  
-   Link: <a href="https://www.secretservice.gov/media/86/download?inline=true" target="_blank" rel="noopener noreferrer nofollow">https://www.secretservice.gov/media/86/download?inline=true</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protective Intelligence and Threat Assessment InvestigationsAmong criminal justice functions, threat assess- ment holds great promise...</p></details>
+   Link:<a href="https://www.secretservice.gov/media/86/download?inline=true" target="_blank" rel="noopener noreferrer nofollow">https://www.secretservice.gov/media/86/download?inline=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protective Intelligence and Threat Assessment InvestigationsAmong criminal justice functions, threat assess- ment holds great promise...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ohchr.org  
    Title: PROTECTION OF VICTIMS, WITNESSES AND OTHER  
-   Link: <a href="https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>witnesses or sources (e.g., are they part of a group with special needs?), the existing threats and the history of intimidation. The leve...</p></details>
+   Link:<a href="https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/Documents/Publications/Chapter14-56pp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witnesses or sources (e.g., are they part of a group with special needs?), the existing threats and the history of intimidation. The leve...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cps.gov.uk  
    Title: expert evidence  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/expert-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/expert-evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceExpert Evidence20 Nov 2023 — It is highly desirable to look for corroboration of any evidence obtained under hyp...</p></details>
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/expert-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/expert-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceExpert Evidence20 Nov 2023 — It is highly desirable to look for corroboration of any evidence obtained under hyp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354332929_Digital_evidence_Unaddressed_threats_to_fairness_and_the_presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354332929_Digital_evidence_Unaddressed_threats_to_fairness_and_the_presumption_of_innocence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital evidence: Unaddressed threats to fairness and the...This paper identifies three categories of unaddressed threats to fairness an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354332929_Digital_evidence_Unaddressed_threats_to_fairness_and_the_presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354332929_Digital_evidence_Unaddressed_threats_to_fairness_and_the_presumption_of_innocence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital evidence: Unaddressed threats to fairness and the...This paper identifies three categories of unaddressed threats to fairness an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: college.police.uk  
    Title: All victims are also witnesses and should be treated as such.Read more  
-   Link: <a href="https://www.college.police.uk/app/investigation/working-victims-and-witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/app/investigation/working-victims-and-witnesses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingWorking with victims and witnesses23 Oct 2013 — A witness is a person, other than a defendant, who is likely to give e...</p></details>
+   Link:<a href="https://www.college.police.uk/app/investigation/working-victims-and-witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/app/investigation/working-victims-and-witnesses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingWorking with victims and witnesses23 Oct 2013 — A witness is a person, other than a defendant, who is likely to give e...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Corroboration in Scots law  
-   Link: <a href="https://en.wikipedia.org/wiki/Corroboration_in_Scots_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corroboration_in_Scots_law</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Corroboration_in_Scots_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Corroboration_in_Scots_law</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222104783_The_Role_of_Warning_Behaviors_in_Threat_Assessment_An_Exploration_and_Suggested_Typology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222104783_The_Role_of_Warning_Behaviors_in_Threat_Assessment_An_Exploration_and_Suggested_Typology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Warning Behaviors in Threat AssessmentThreat assessment, used commonly to detect and manage potential violence and threats, i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222104783_The_Role_of_Warning_Behaviors_in_Threat_Assessment_An_Exploration_and_Suggested_Typology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222104783_The_Role_of_Warning_Behaviors_in_Threat_Assessment_An_Exploration_and_Suggested_Typology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Warning Behaviors in Threat AssessmentThreat assessment, used commonly to detect and manage potential violence and threats, i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Death threat  
-   Link: <a href="https://en.wikipedia.org/wiki/Death_threat" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_threat</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Death_threat" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_threat</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: law.nyu.edu  
    Title: Ev Maguigan  
-   Link: <a href="https://www.law.nyu.edu/sites/default/files/upload_documents/Ev_Maguigan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.nyu.edu/sites/default/files/upload_documents/Ev_Maguigan.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nyu.eduEvidence, Maguigan Fall 2007, Dave FillingameMeans circumstances surrounding the making of the statement and making the declarant...</p></details>
+   Link:<a href="https://www.law.nyu.edu/sites/default/files/upload_documents/Ev_Maguigan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.nyu.edu/sites/default/files/upload_documents/Ev_Maguigan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nyu.eduEvidence, Maguigan Fall 2007, Dave FillingameMeans circumstances surrounding the making of the statement and making the declarant...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22556034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22556034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22556034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of warning behaviors in threat assessmentby JR Meloy · 2012 · Cited by 586 — A typology of eight warning behaviors for ass...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fcc.gov  
-   Link: <a href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</p></details>
+   Link:<a href="https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/sites/default/files/threat_guide_english_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Communications CommissionTHREAT and INTIMIDATION RESPONSE GUIDEAn ELECTRONIC MESSAGE THREAT is a threat received through direct m...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nyulawreview.org  
    Title: NYU Law Review WHAT'S IN A NAME?  
-   Link: <a href="https://nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-6-2336-Werner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-6-2336-Werner.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHALLENGING THE CITIZEN-...by AC WERNER · Cited by 11 — When police receive an anonymous tip from a nameless 911 caller, they must find...</p></details>
+   Link:<a href="https://nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-6-2336-Werner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nyulawreview.org/wp-content/uploads/2018/08/NYULawReview-89-6-2336-Werner.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHALLENGING THE CITIZEN-...by AC WERNER · Cited by 11 — When police receive an anonymous tip from a nameless 911 caller, they must find...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pceinc.org  
    Title: Prosecutors' Center for Excellence PART I  
-   Link: <a href="https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosecutors&#x27; Center for ExcellencePART I - Witness Intimidation in the Digital AgeApril 27, 2015 — Intimidation takes every possible form...</p></details>
+   Link:<a href="https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pceinc.org/wp-content/uploads/2015/06/Witness-Cooperation-and-Intimidation-Witness-Intimidation-In-the-Digital-Age.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosecutors&#x27; Center for ExcellencePART I - Witness Intimidation in the Digital AgeApril 27, 2015 — Intimidation takes every possible form...</p></details>
    Published: April 27, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: efjca.eu  
-   Link: <a href="https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Family Justice Centers EuropeHomicide timelineIn homicide research temporal sequencing has an established presence. • The principle is th...</p></details>
+   Link:<a href="https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efjca.eu/doc/congres-2022/Presentation-Jane-Monckton-Smithe-Homicide-Timeline.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Family Justice Centers EuropeHomicide timelineIn homicide research temporal sequencing has an established presence. • The principle is th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17922941/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17922941/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Threats to kill: a follow-up studyby LJ Warren · 2008 · Cited by 91 — This data linkage study examined serious violence following m...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17922941/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17922941/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Threats to kill: a follow-up studyby LJ Warren · 2008 · Cited by 91 — This data linkage study examined serious violence following m...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/pdffiles/167568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles/167568.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsDeath Investigation: A Guide for the Scene...Death Investigation: A Guide for the Scene Investi gator provides...</p></details>
+   Link:<a href="https://www.ojp.gov/pdffiles/167568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles/167568.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsDeath Investigation: A Guide for the Scene...Death Investigation: A Guide for the Scene Investi gator provides...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: icc-cpi.int  
-   Link: <a href="https://www.icc-cpi.int/sites/default/files/2022-09/2_Eurojust_ICC_CSOs_Guidelines_2-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icc-cpi.int/sites/default/files/2022-09/2_Eurojust_ICC_CSOs_Guidelines_2-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for civil society organisationsSome activities conducted on the ground also have the potential to be harmful or prejudicial to...</p></details>
+   Link:<a href="https://www.icc-cpi.int/sites/default/files/2022-09/2_Eurojust_ICC_CSOs_Guidelines_2-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icc-cpi.int/sites/default/files/2022-09/2_Eurojust_ICC_CSOs_Guidelines_2-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for civil society organisationsSome activities conducted on the ground also have the potential to be harmful or prejudicial to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalgangcenter.ojp.gov  
-   Link: <a href="https://nationalgangcenter.ojp.gov/sites/g/files/xyckuh331/files/media/document/gang-related-witness-intimidation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalgangcenter.ojp.gov/sites/g/files/xyckuh331/files/media/document/gang-related-witness-intimidation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Gang CenterGang-Related Witness Intimidationby J Anderson · Cited by 15 — threat of future harm is taken by victims of violent c...</p></details>
+   Link:<a href="https://nationalgangcenter.ojp.gov/sites/g/files/xyckuh331/files/media/document/gang-related-witness-intimidation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalgangcenter.ojp.gov/sites/g/files/xyckuh331/files/media/document/gang-related-witness-intimidation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Gang CenterGang-Related Witness Intimidationby J Anderson · Cited by 15 — threat of future harm is taken by victims of violent c...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Wfi_dd-DNiU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wfi_dd-DNiU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Amy eskridge](&amp;#123;&amp;#123; &#x27;amy-eskridge/&#x27; | relative_url &amp;#125;&amp;#125;) threat ufo antigravity dead scientist Amy Eskridge Predicted Her Own Death – Before Becoming 1 of 11 Scientists Now Dead or...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Wfi_dd-DNiU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wfi_dd-DNiU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Amy eskridge](&amp;#123;&amp;#123; &#x27;amy-eskridge/&#x27; | relative_url &amp;#125;&amp;#125;) threat ufo antigravity dead scientist Amy Eskridge Predicted Her Own Death – Before Becoming 1 of 11 Scientists Now Dead or...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fbi.gov  
    Title: making prevention a reality  
-   Link: <a href="https://www.fbi.gov/file-repository/making-prevention-a-reality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/making-prevention-a-reality.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2015 — Violence risk and threat assessment: A practical guide for mental health and criminal justice professionals. San Diego, CA...</p></details>
+   Link:<a href="https://www.fbi.gov/file-repository/making-prevention-a-reality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/file-repository/making-prevention-a-reality.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2015 — Violence risk and threat assessment: A practical guide for mental health and criminal justice professionals. San Diego, CA...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: brennancenter.org  
    Title: Social Media Surveillance by the U.S  
-   Link: <a href="https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government7 Jan 2022 —... evidence of criminal or threatening behavior. This kind of... threat warnings, investigative leads, and refer...</p></details>
+   Link:<a href="https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government" target="_blank" rel="noopener noreferrer nofollow">https://www.brennancenter.org/our-work/research-reports/social-media-surveillance-us-government</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government7 Jan 2022 —... evidence of criminal or threatening behavior. This kind of... threat warnings, investigative leads, and refer...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: icct.nl  
    Title: Who's Protecting the Researchers?  
-   Link: <a href="https://icct.nl/publication/whos-protecting-researchers-reassure-report-findings-identity-and-harms-online" target="_blank" rel="noopener noreferrer nofollow">https://icct.nl/publication/whos-protecting-researchers-reassure-report-findings-identity-and-harms-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REASSURE report...6 Apr 2023 — Criminal Justice &amp; Administrative Measures... It should be noted that nine of the respondents had receiv...</p></details>
+   Link:<a href="https://icct.nl/publication/whos-protecting-researchers-reassure-report-findings-identity-and-harms-online" target="_blank" rel="noopener noreferrer nofollow">https://icct.nl/publication/whos-protecting-researchers-reassure-report-findings-identity-and-harms-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REASSURE report...6 Apr 2023 — Criminal Justice &amp; Administrative Measures... It should be noted that nine of the respondents had receiv...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=D7hNQgu1b24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=D7hNQgu1b24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: decisions.scc-csc.ca  
    Title: SCC Decisions R. v. B. (K.G.)  
-   Link: <a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/973/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/973/index.do</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCC DecisionsR. v. B. (K.G.) - SCC CasesThe presence of an oath, solemn affirmation or solemn declaration also increases the evidentiary...</p></details>
+   Link:<a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/973/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/973/index.do</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCC DecisionsR. v. B. (K.G.) - SCC CasesThe presence of an oath, solemn affirmation or solemn declaration also increases the evidentiary...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QatWn2nMQnw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QatWn2nMQnw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QatWn2nMQnw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO insider reveals pattern behind missing scientists | CUOMO...</p></details>

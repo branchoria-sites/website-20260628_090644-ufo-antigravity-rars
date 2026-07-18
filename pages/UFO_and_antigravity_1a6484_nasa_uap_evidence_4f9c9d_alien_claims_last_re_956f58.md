@@ -280,19 +280,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_
 
 ## Introduction
 
-NASA treats claims that unidentified anomalous phenomena (UAP) are alien spacecraft as a last resort because the agency applies a basic scientific rule: extraordinary explanations should only be considered after ordinary explanations have been thoroughly tested and ruled out. In its 2023 independent UAP study, NASA did not conclude that all sightings are explained. Instead, it concluded that there is currently no conclusive peer-reviewed evidence showing that reported UAP have an extraterrestrial origin, and that many cases suffer from inadequate data, missing context, or limitations in the available observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+NASA treats claims that unidentified anomalous phenomena (UAP) are alien spacecraft as a last resort because the agency applies a basic scientific rule: extraordinary explanations should only be considered after ordinary explanations have been thoroughly tested and ruled out. In its 2023 independent UAP study, NASA did not conclude that all sightings are explained. Instead, it concluded that there is currently no conclusive peer-reviewed evidence showing that reported UAP have an extraterrestrial origin, and that many cases suffer from inadequate data, missing context, or limitations in the available observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-1-dark.svg" | relative_url }}" alt="Last Resort illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is especially important in discussions that connect UFO reports to alleged hidden antigravity programmes, secret technologies, or claims that researchers have been silenced. NASA's position is that an unexplained observation is not itself evidence of aliens, advanced propulsion, or a cover-up. Before any such conclusion can be justified, investigators must first eliminate more conventional possibilities and demonstrate that the evidence survives rigorous scientific scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+This distinction is especially important in discussions that connect UFO reports to alleged hidden antigravity programmes, secret technologies, or claims that researchers have been silenced. NASA's position is that an unexplained observation is not itself evidence of aliens, advanced propulsion, or a cover-up. Before any such conclusion can be justified, investigators must first eliminate more conventional possibilities and demonstrate that the evidence survives rigorous scientific scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 ## What NASA Meant by “No Conclusive Peer-Reviewed Evidence”
 
-NASA's most frequently quoted finding is often misunderstood. The agency did not say extraterrestrial life is impossible, nor did it claim every UAP report has been solved. Instead, the study stated that there is no conclusive evidence in the peer-reviewed scientific literature showing that UAP are extraterrestrial in origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+NASA's most frequently quoted finding is often misunderstood. The agency did not say extraterrestrial life is impossible, nor did it claim every UAP report has been solved. Instead, the study stated that there is no conclusive evidence in the peer-reviewed scientific literature showing that UAP are extraterrestrial in origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-The key phrase is “peer-reviewed scientific literature”. Scientific claims become credible not because they are dramatic or widely discussed, but because independent researchers can examine the evidence, test alternative explanations, and reach reproducible conclusions. NASA found that the available UAP record rarely meets that standard. Many reports consist of eyewitness accounts, short videos, radar traces, or sensor readings that lack the accompanying information needed to determine distance, size, speed, environmental conditions, or instrument behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+The key phrase is “peer-reviewed scientific literature”. Scientific claims become credible not because they are dramatic or widely discussed, but because independent researchers can examine the evidence, test alternative explanations, and reach reproducible conclusions. NASA found that the available UAP record rarely meets that standard. Many reports consist of eyewitness accounts, short videos, radar traces, or sensor readings that lack the accompanying information needed to determine distance, size, speed, environmental conditions, or instrument behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-As a result, the agency's position is not that extraterrestrial explanations have been disproved. Rather, it is that the evidential threshold required to establish such a conclusion has not been reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+As a result, the agency's position is not that extraterrestrial explanations have been disproved. Rather, it is that the evidential threshold required to establish such a conclusion has not been reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -311,15 +311,15 @@ An unexplained UAP simply means investigators do not currently know what produce
 * Atmospheric effects.
 * Human misperception.
 * Lack of corroborating measurements.
-* Insufficient information to reconstruct the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+* Insufficient information to reconstruct the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 </div>
 
 None of those possibilities automatically points to extraterrestrial technology.
 
-NASA's report explicitly described an alien explanation as a possibility that should only be considered after other hypotheses have been eliminated. The study referred to extraterrestrial origin as a “hypothesis of last resort”, reflecting a long-standing scientific preference for explanations that require the fewest unsupported assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+NASA's report explicitly described an alien explanation as a possibility that should only be considered after other hypotheses have been eliminated. The study referred to extraterrestrial origin as a “hypothesis of last resort”, reflecting a long-standing scientific preference for explanations that require the fewest unsupported assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-This approach mirrors ordinary scientific practice. If a telescope records an unusual signal, astronomers first investigate equipment problems, data-processing errors, natural astrophysical sources, and known physical phenomena before proposing a fundamentally new explanation. UAP investigations follow the same logic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+This approach mirrors ordinary scientific practice. If a telescope records an unusual signal, astronomers first investigate equipment problems, data-processing errors, natural astrophysical sources, and known physical phenomena before proposing a fundamentally new explanation. UAP investigations follow the same logic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-2-dark.svg" | relative_url }}" alt="Last Resort illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,7 +327,7 @@ This approach mirrors ordinary scientific practice. If a telescope records an un
 
 NASA's methodology is designed to avoid a common reasoning error: treating the absence of an explanation as evidence for a preferred explanation.
 
-Historically, many phenomena initially considered mysterious were eventually explained through better observations. Apparent astronomical anomalies, unusual atmospheric events, radar artefacts, and optical illusions have often appeared extraordinary until additional data revealed more conventional causes. NASA's study argues that UAP research needs better measurements precisely because poor-quality data encourages premature conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+Historically, many phenomena initially considered mysterious were eventually explained through better observations. Apparent astronomical anomalies, unusual atmospheric events, radar artefacts, and optical illusions have often appeared extraordinary until additional data revealed more conventional causes. NASA's study argues that UAP research needs better measurements precisely because poor-quality data encourages premature conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 The agency therefore prioritises:
 
@@ -338,7 +338,7 @@ The agency therefore prioritises:
 * More complete metadata.
 * Multiple independent observations.
 * Open scientific analysis.
-* Reproducible investigation methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+* Reproducible investigation methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 </div>
 
@@ -366,11 +366,11 @@ Many cover-up narratives rely on a chain of reasoning that proceeds as follows:
 
 </div>
 
-NASA's evidence standard interrupts this chain at the first step. The agency argues that unresolved observations are not evidence for any particular explanation. A lack of explanation may simply reflect a lack of data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+NASA's evidence standard interrupts this chain at the first step. The agency argues that unresolved observations are not evidence for any particular explanation. A lack of explanation may simply reflect a lack of data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-This does not prove that every cover-up claim is false. Rather, it means such claims require their own evidence and cannot be established merely by pointing to unsolved sightings. From NASA's perspective, the existence of unexplained reports does not automatically validate theories involving hidden antigravity technology, extraterrestrial craft, or organised efforts to silence researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+This does not prove that every cover-up claim is false. Rather, it means such claims require their own evidence and cannot be established merely by pointing to unsolved sightings. From NASA's perspective, the existence of unexplained reports does not automatically validate theories involving hidden antigravity technology, extraterrestrial craft, or organised efforts to silence researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-The same reasoning appears in broader U.S. government reviews. Investigations conducted by the Pentagon's All-domain Anomaly Resolution Office (AARO) likewise reported finding no confirmed evidence that any officially investigated UAP case represented extraterrestrial technology, while acknowledging that some reports remain unresolved due to limited information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+The same reasoning appears in broader U.S. government reviews. Investigations conducted by the Pentagon's All-domain Anomaly Resolution Office (AARO) likewise reported finding no confirmed evidence that any officially investigated UAP case represented extraterrestrial technology, while acknowledging that some reports remain unresolved due to limited information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-3-dark.svg" | relative_url }}" alt="Last Resort illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d_alien_claims_last_re_956f58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -378,199 +378,199 @@ The same reasoning appears in broader U.S. government reviews. Investigations co
 
 NASA's position is often portrayed by critics as excessively sceptical and by believers as overly cautious. In practice, however, the “last resort” standard is intended to preserve the credibility of any future discovery.
 
-If compelling evidence for extraterrestrial technology were eventually found, NASA's framework would not prevent that conclusion. Instead, it would strengthen it. A claim that survives repeated testing, eliminates ordinary explanations, and rests on high-quality, reproducible data is far more persuasive than one inferred from mystery alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+If compelling evidence for extraterrestrial technology were eventually found, NASA's framework would not prevent that conclusion. Instead, it would strengthen it. A claim that survives repeated testing, eliminates ordinary explanations, and rests on high-quality, reproducible data is far more persuasive than one inferred from mystery alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-For that reason, NASA's treatment of alien explanations is not based on a prior belief that extraterrestrial intelligence cannot exist. The agency openly acknowledges the scientific search for life beyond Earth. Its caution arises from a narrower principle: unexplained observations are a starting point for investigation, not a destination. Until the evidence uniquely points to an extraterrestrial origin, aliens remain a hypothesis of last resort rather than the default answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</span></span></span>
+For that reason, NASA's treatment of alien explanations is not based on a prior belief that extraterrestrial intelligence cannot exist. The agency openly acknowledges the scientific search for life beyond Earth. Its caution arises from a narrower principle: unexplained observations are a starting point for investigation, not a destination. Until the evidence uniquely points to an extraterrestrial origin, aliens remain a hypothesis of last resort rather than the default answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Aliens Are the Last Resort. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Aliens Are the Last Resort. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Presents a structured approach to unexplained sightings rather than defaulting to alien hypotheses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents a structured approach to unexplained sightings rather than defaulting to alien hypotheses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines UFO claims without presuming alien origins and discusses investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO claims without presuming alien origins and discusses investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Perfectly matches the page&#x27;s argument that alien explanations should be a last resort after rigorous testing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Perfectly matches the page&#x27;s argument that alien explanations should be a last resort after rigorous testing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Illustrates how scientists debate extraordinary possibilities while relying on evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how scientists debate extraordinary possibilities while relying on evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D"><img src="{{ '/assets/images/marketplace-covers/266f325774b7b1d67ff4.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D"><img src="{{ '/assets/images/marketplace-covers/266f325774b7b1d67ff4.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Spacecraft Moon Mission Patch Logo Full Colour 3D</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch"><img src="{{ '/assets/images/marketplace-covers/8aad33795e9731901fb8.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch"><img src="{{ '/assets/images/marketplace-covers/8aad33795e9731901fb8.jpg' | relative_url }}" alt="Listing image for NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Artemis II Return to the Moon 4&quot; Embroidered Mission Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Apollo Mission Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/1bfb880a03a3332bd02c.jpg' | relative_url }}" alt="Listing image for NASA Apollo Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Apollo Mission Patch Badge Patches Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Apollo Mission Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/1bfb880a03a3332bd02c.jpg' | relative_url }}" alt="Listing image for NASA Apollo Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Apollo Mission Patch Badge Patches Badges</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA mission patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA mission patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA mission patch" data-ebay-reference="last-resort-why-aliens-are-the-last-resort-ufo-and-antigravity-nasa-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,99 +776,99 @@ For that reason, NASA's treatment of alien explanations is not based on a prior 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aip.org  
    Title: nasa panel seeks rigor and respect for anomalous phenomena studies  
-   Link: <a href="https://www.aip.org/fyi/nasa-panel-seeks-rigor-and-respect-for-anomalous-phenomena-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/nasa-panel-seeks-rigor-and-respect-for-anomalous-phenomena-studies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP could be of extraterrestrial origin but labels such explanations a “hypothesis of last resort.” The panel emphasizes that UAP studies...</p></details>
+   Link:<a href="https://www.aip.org/fyi/nasa-panel-seeks-rigor-and-respect-for-anomalous-phenomena-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/nasa-panel-seeks-rigor-and-respect-for-anomalous-phenomena-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP could be of extraterrestrial origin but labels such explanations a “hypothesis of last resort.” The panel emphasizes that UAP studies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
    Published: March 8, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA - WikipediaThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA - WikipediaThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+   Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Set Up Independent Study on Unidentified Aerial...If they publish anything other than &quot;aliens have been visiting Earth&quot; they won...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/v8idfz/nasa_to_set_up_independent_study_on_unidentified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Set Up Independent Study on Unidentified Aerial...If they publish anything other than &quot;aliens have been visiting Earth&quot; they won...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thenationaldesk.com  
-   Link: <a href="https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...29 May 2026 — A new batch of declassified Pentagon UFO materials is fueling fres...</p></details>
+   Link:<a href="https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...29 May 2026 — A new batch of declassified Pentagon UFO materials is fueling fres...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. As of now, however, scientists have found “no conclusive evidence” suggesting UAP have extraterrestrial origins, per the report.R...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. As of now, however, scientists have found “no conclusive evidence” suggesting UAP have extraterrestrial origins, per the report.R...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — “To date, in the peer-reviewed scientific litera...</p></details>
+   Link:<a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — “To date, in the peer-reviewed scientific litera...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPSWhistleblower reveals UAP retrieval program; object caught on... UFO FILES: Scientist believes F...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA releases independent report on UAPSWhistleblower reveals UAP retrieval program; object caught on... UFO FILES: Scientist believes F...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKnXUlwdG6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: What Mysteries Could NASA&#x27;s New UAP Report Help...An independent study team appointed by NASA say that they haven&#x27;t found evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKnXUlwdG6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: What Mysteries Could NASA&#x27;s New UAP Report Help...An independent study team appointed by NASA say that they haven&#x27;t found evidence...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-secrecy/
 description: Focused pages that expand on Secrecy.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_secrecy_pattern_engi_156717
 parent_title: Secrecy
@@ -16,7 +16,7 @@ parent_permalink: /secrecy/
 
 # Explore Topics in Secrecy
 
-The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secrecy]({{ '/secrecy/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Report]({{ '/aaro-report/' | relative_url }})
 - [Missing Claims]({{ '/missing-claims/' | relative_url }})

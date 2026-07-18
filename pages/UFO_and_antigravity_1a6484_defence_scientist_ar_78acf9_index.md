@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-defence/
 description: Focused pages that expand on Archetype.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_defence_scientist_ar_78acf9
 parent_title: Archetype
@@ -16,7 +16,7 @@ parent_permalink: /archetype/
 
 # Explore Topics in Archetype
 
-The following pages expand on the main **[Archetype]({{ '/archetype/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Archetype]({{ '/archetype/' | relative_url }})** page and cover its key branches in.
 
 - [Suppression Leap]({{ '/suppression-leap/' | relative_url }})
 - [Clearances]({{ '/clearances/' | relative_url }})

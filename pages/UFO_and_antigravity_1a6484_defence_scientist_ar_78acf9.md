@@ -451,13 +451,13 @@ Defence scientists become recurring conspiracy figures because they sit at the m
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_defence_scientist_ar_78acf9-overview.webp" | relative_url }}" alt="Overview image for Archetype" loading="eager" decoding="sync" fetchpriority="high">
-The evidence for a recurring archetype is much stronger than the evidence for a recurring plot. The British “[Marconi scientists]({{ 'marconi-6a88ac/' | relative_url }})” story of the 1980s supplied a durable template: a list of engineers connected, sometimes loosely, to defence electronics and the Strategic Defense Initiative; a run of shocking deaths; official findings of accident or suicide; and a public suspicion that technical experts had been silenced. The modern U.S. “missing scientists” narrative uses a similar structure, now amplified by social media, UAP politics and anxiety about nuclear, [aerospace]({{ 'aerospace/' | relative_url }}) and advanced-energy research. Investigations and reporting have found real cases and real official interest, but no public proof that these cases form a coordinated UFO or antigravity-related campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AP News+3Wikipedia+3Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+The evidence for a recurring archetype is much stronger than the evidence for a recurring plot. The British “[Marconi scientists]({{ 'marconi-6a88ac/' | relative_url }})” story of the 1980s supplied a durable template: a list of engineers connected, sometimes loosely, to defence electronics and the Strategic Defense Initiative; a run of shocking deaths; official findings of accident or suicide; and a public suspicion that technical experts had been silenced. The modern U.S. “missing scientists” narrative uses a similar structure, now amplified by social media, UAP politics and anxiety about nuclear, [aerospace]({{ 'aerospace/' | relative_url }}) and advanced-energy research. Investigations and reporting have found real cases and real official interest, but no public proof that these cases form a coordinated UFO or antigravity-related campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
 ## The Marconi template
 
-The Marconi story matters because it gave later “dead scientist” lists a recognisable shape. Between the early 1980s and around 1990, a number of British scientists, engineers and technical workers were linked in press and conspiracy accounts to GEC-Marconi, defence electronics, the Sting Ray torpedo, radar, satellite work or the U.S. Strategic Defense Initiative, better known as “Star Wars”. The commonly repeated version claims that about 25 British-based GEC-Marconi scientists and engineers died in strange circumstances, although the exact list varies and many of the links are looser than the headline implies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+The Marconi story matters because it gave later “dead scientist” lists a recognisable shape. Between the early 1980s and around 1990, a number of British scientists, engineers and technical workers were linked in press and conspiracy accounts to GEC-Marconi, defence electronics, the Sting Ray torpedo, radar, satellite work or the U.S. Strategic Defense Initiative, better known as “Star Wars”. The commonly repeated version claims that about 25 British-based GEC-Marconi scientists and engineers died in strange circumstances, although the exact list varies and many of the links are looser than the headline implies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
-What made the story so compelling was not one single death but the cumulative feel of [the list]({{ 'the-list/' | relative_url }}). Keith Bowden, a computer scientist and Marconi employee, died in 1982 after his car left the A12 and plunged down an embankment. David Sands, a computer scientist, died in 1987 when his car crashed into a derelict restaurant; press coverage at the time noted that police first treated the event as a routine road fatality, while public suspicion grew because Sands had worked in a defence-linked environment. Other cases cited in later lists involved falls, carbon monoxide poisoning, drowning, gunshot wounds and disappearances, with many official findings recorded as accidents or suicides rather than homicide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
+What made the story so compelling was not one single death but the cumulative feel of [the list]({{ 'the-list/' | relative_url }}). Keith Bowden, a computer scientist and Marconi employee, died in 1982 after his car left the A12 and plunged down an embankment. David Sands, a computer scientist, died in 1987 when his car crashed into a derelict restaurant; press coverage at the time noted that police first treated the event as a routine road fatality, while public suspicion grew because Sands had worked in a defence-linked environment. Other cases cited in later lists involved falls, carbon monoxide poisoning, drowning, gunshot wounds and disappearances, with many official findings recorded as accidents or suicides rather than homicide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">GEC-Marconi scientist deaths conspiracy theory</span><span class="citation-popover-snippet">GEC-Marconi scientist deaths conspiracy theory</span></span></span>
 
 The “template” has three parts. First, the person is placed near a sensitive technical system: radar, torpedoes, satellites, missile defence, nuclear work or advanced propulsion. Second, the death is described in a way that stresses oddity: a car crash, a fall, a body found in water, an open verdict, a missing person. Third, the cluster is treated as more important than the details of each case. Once the list exists, each new entry inherits the suspicion generated by all previous entries.
 
@@ -469,9 +469,9 @@ That is why the Marconi narrative remains influential even though it has never b
 
 A death involving a defence scientist is not automatically more suspicious than any other death, but it is easier to narrate as suspicious. Defence research is usually compartmentalised: colleagues may not know the full scope of a project, families may know only broad job descriptions, and officials may be unable or unwilling to discuss classified details. That normal secrecy leaves empty spaces. Conspiracy narratives fill those spaces with motive.
 
-UFO and antigravity narratives add a further layer because both subjects already involve disputed boundaries between public science, classified aerospace work and fringe claims. The U.S. All-domain Anomaly Resolution Office has acknowledged that U.S. government bodies have studied unidentified anomalous phenomena for decades, while its 2024 historical review said it found no evidence that U.S. companies had possessed or reverse-engineered off-world technology. NASA’s UAP study similarly treated UAP as a data problem rather than proof of extraterrestrial craft, stressing that better observations and transparent methods are needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+UFO and antigravity narratives add a further layer because both subjects already involve disputed boundaries between public science, classified aerospace work and fringe claims. The U.S. All-domain Anomaly Resolution Office has acknowledged that U.S. government bodies have studied unidentified anomalous phenomena for decades, while its 2024 historical review said it found no evidence that U.S. companies had possessed or reverse-engineered off-world technology. NASA’s UAP study similarly treated UAP as a data problem rather than proof of extraterrestrial craft, stressing that better observations and transparent methods are needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
-Antigravity has the same double quality. It is a real topic in theoretical and speculative aerospace discussions, and it has appeared in official advanced-technology paperwork. A declassified Defense Intelligence Agency reference document, “Antigravity for Aerospace Applications”, was produced under the Advanced Aerospace Weapon System Applications programme and examined gravity-related concepts for possible aerospace relevance. That confirms institutional curiosity about exotic concepts; it does not establish operational antigravity craft, hidden alien technology or a reason to kill researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence Agency Antigravity for Aerospace Applications</span></span></span>
+Antigravity has the same double quality. It is a real topic in theoretical and speculative aerospace discussions, and it has appeared in official advanced-technology paperwork. A declassified Defense Intelligence Agency reference document, “Antigravity for Aerospace Applications”, was produced under the Advanced Aerospace Weapon System Applications programme and examined gravity-related concepts for possible aerospace relevance. That confirms institutional curiosity about exotic concepts; it does not establish operational antigravity craft, hidden alien technology or a reason to kill researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence Agency Antigravity for Aerospace Applications</span></span></span>
 
 This gap is where the archetype thrives. A cautious reading says: governments study unusual aerospace problems, some of that work is secret, and some scientists in or near those systems die in tragic or unresolved ways. The conspiracy reading says: secrecy plus death implies suppression. The difference is evidential, not emotional. The first claim is supported by documents and reporting; the second requires proof of coordination, motive and agency that is usually missing.
 
@@ -480,13 +480,13 @@ This gap is where the archetype thrives. A cautious reading says: governments st
 
 ## Modern lab lists
 
-The modern U.S. version of the archetype surged in 2026 around claims that scientists, researchers or staff connected to space, nuclear and defence-related [institutions]({{ 'institutions/' | relative_url }}) had died or disappeared in suspicious circumstances. CBS News reported that the FBI was leading an effort to look for possible connections among 10 missing or deceased scientists and staff who had worked at sensitive nuclear or space-technology laboratories. Associated Press reported that the story had moved from niche online communities into national politics, while also noting that no definitive evidence had established a coordinated plot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">deaths disappearances scientists staff government labs</span></span></span>
+The modern U.S. version of the archetype surged in 2026 around claims that scientists, researchers or staff connected to space, nuclear and defence-related [institutions]({{ 'institutions/' | relative_url }}) had died or disappeared in suspicious circumstances. CBS News reported that the FBI was leading an effort to look for possible connections among 10 missing or deceased scientists and staff who had worked at sensitive nuclear or space-technology laboratories. Associated Press reported that the story had moved from niche online communities into national politics, while also noting that no definitive evidence had established a coordinated plot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">deaths disappearances scientists staff government labs</span></span></span>
 
-The case that gave the story its strongest UFO charge was the disappearance of retired U.S. Air Force Major General William “Neil” McCasland in February 2026. McCasland had commanded the Air Force Research Laboratory and had a brief post-retirement association with To The Stars, the media and UFO-oriented organisation linked to Tom DeLonge. Those facts made him an ideal figure for online speculation: senior military rank, advanced aerospace background, Wright-Patterson associations, and a link, however limited, to the UFO disclosure world. Reporting also noted that his wife pushed back against misinformation, saying his sensitive clearances were dated and that his UFO-world connection did not make abduction for secret knowledge plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+The case that gave the story its strongest UFO charge was the disappearance of retired U.S. Air Force Major General William “Neil” McCasland in February 2026. McCasland had commanded the Air Force Research Laboratory and had a brief post-retirement association with To The Stars, the media and UFO-oriented organisation linked to Tom DeLonge. Those facts made him an ideal figure for online speculation: senior military rank, advanced aerospace background, Wright-Patterson associations, and a link, however limited, to the UFO disclosure world. Reporting also noted that his wife pushed back against misinformation, saying his sensitive clearances were dated and that his UFO-world connection did not make abduction for secret knowledge plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-Other names in the 2026 lists were tied to institutions such as NASA’s Jet Propulsion Laboratory, Los Alamos National Laboratory, MIT, Caltech and nuclear-security contractors. Some cases were unresolved disappearances. Others involved known deaths, alleged homicides, suicides or medical circumstances. That mixture is central to the modern mechanism: very different events are placed under one headline because the institutions sound related and the words “nuclear”, “space”, “rocket”, “classified” or “UFO” create a shared atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-title">EL PAÍS English Missing and dead scientists: The conspiracy theory being</span><span class="citation-popover-snippet">EL PAÍS English Missing and dead scientists: The conspiracy theory being</span></span></span>
+Other names in the 2026 lists were tied to institutions such as NASA’s Jet Propulsion Laboratory, Los Alamos National Laboratory, MIT, Caltech and nuclear-security contractors. Some cases were unresolved disappearances. Others involved known deaths, alleged homicides, suicides or medical circumstances. That mixture is central to the modern mechanism: very different events are placed under one headline because the institutions sound related and the words “nuclear”, “space”, “rocket”, “classified” or “UFO” create a shared atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-title">EL PAÍS English Missing and dead scientists: The conspiracy theory being</span><span class="citation-popover-snippet">EL PAÍS English Missing and dead scientists: The conspiracy theory being</span></span></span>
 
-This does not mean every official inquiry is meaningless. If people with access to sensitive facilities vanish or die in unusual circumstances, law-enforcement and security agencies have reasons to check for connections. But checking for connections is not the same as confirming a conspiracy. Several reports emphasised that officials and experts had not found obvious public links among the cases, and that some alleged connections relied on exaggerating roles, treating administrative or support positions as secret scientific work, or collapsing events from several years into the impression of a sudden wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">deaths disappearances scientists staff government labs</span></span></span>
+This does not mean every official inquiry is meaningless. If people with access to sensitive facilities vanish or die in unusual circumstances, law-enforcement and security agencies have reasons to check for connections. But checking for connections is not the same as confirming a conspiracy. Several reports emphasised that officials and experts had not found obvious public links among the cases, and that some alleged connections relied on exaggerating roles, treating administrative or support positions as secret scientific work, or collapsing events from several years into the impression of a sudden wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">deaths disappearances scientists staff government labs</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_defence_scientist_ar_78acf9-Illustration-2-dark.svg" | relative_url }}" alt="Archetype illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_defence_scientist_ar_78acf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_defence_scientist_ar_78acf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -507,7 +507,7 @@ This archetype depends on a few repeated moves:
 
 </div>
 
-Medical sociologist Robert Bartholomew described the 2026 missing-scientists belief as an example of apophenia: the tendency to see meaningful links in unrelated events. His point is not that every unexplained death is ordinary or that governments never conceal information. It is that human beings are very good at finding patterns, especially when authority figures, viral posts and emotionally charged examples suggest that a pattern should be there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the mystery of the dead and missing research scientists</span><span class="citation-popover-snippet">the mystery of the dead and missing research scientists</span></span></span>
+Medical sociologist Robert Bartholomew described the 2026 missing-scientists belief as an example of apophenia: the tendency to see meaningful links in unrelated events. His point is not that every unexplained death is ordinary or that governments never conceal information. It is that human beings are very good at finding patterns, especially when authority figures, viral posts and emotionally charged examples suggest that a pattern should be there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the mystery of the dead and missing research scientists</span><span class="citation-popover-snippet">the mystery of the dead and missing research scientists</span></span></span>
 
 The internet intensifies that process. A list can be revised in real time, with weak entries removed, new ones added, and ambiguous biographies reframed. A physicist, a lab employee, a retired officer, a contractor and an engineer can become “scientists connected to secret programmes”. The category is elastic enough to grow, but specific enough to feel alarming.
 
@@ -539,194 +539,194 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Defence Scientists Become Conspiracy Figures. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Defence Scientists Become Conspiracy Figures. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why stories about hidden knowledge, experts and conspiracies gain traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains why stories about hidden knowledge, experts and conspiracies gain traction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Truthers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oppqM78kEw8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Among the Truthers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Truthers">Among the Truthers</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Kay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Truthers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oppqM78kEw8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Among the Truthers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Truthers">Among the Truthers</a>
+</h4>
+<p class="fr-book-author">By Jonathan Kay</p>
         
-        <p class="fr-book-desc">Examines recurring patterns behind conspiracy movements and expert-centered claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring patterns behind conspiracy movements and expert-centered claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Among+the+Truthers+by+Jonathan+Kay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how technology, secrecy and authority figures shape UFO belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technology, secrecy and authority figures shape UFO belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Provides historical context for narratives involving hidden plots and silenced insiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for narratives involving hidden plots and silenced insiders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Among+the+Truthers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Among the Truthers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Among+the+Truthers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Among the Truthers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="archetype-why-defence-scientists-become-conspiracy-figures-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,162 +932,162 @@ The [Marconi template]({{ 'marconi-list/' | relative_url }}) warns against letti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: GEC-Marconi scientist deaths conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEC-Marconi_scientist_deaths_conspiracy_theory</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Marconi Electronic Systems  
-   Link: <a href="https://en.wikipedia.org/wiki/Marconi_Electronic_Systems" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marconi_Electronic_Systems</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Marconi_Electronic_Systems" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marconi_Electronic_Systems</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: General Electric Company  
-   Link: <a href="https://en.wikipedia.org/wiki/General_Electric_Company" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/General_Electric_Company</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/General_Electric_Company" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/General_Electric_Company</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latimes.com  
    Title: la xpm 1987 04 08 mn 185 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-04-08-mn-185-story.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: projectcamelot.org  
-   Link: <a href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/marconi.html</a>  
+   Link:<a href="https://projectcamelot.org/marconi.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/marconi.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency Antigravity for Aerospace Applications  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: english.elpais.com  
    Title: EL PAÍS English Missing and dead scientists: The conspiracy theory being  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories escalated after the disappearance of William McCasland, a retired general with a history in classified programs. As the narrativ...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theories escalated after the disappearance of William McCasland, a retired general with a history in classified programs. As the narrativ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychologytoday.com  
    Title: the mystery of the dead and missing research scientists  
-   Link: <a href="https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists</a>  
+   Link:<a href="https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
    Title: the mystery of the dead and missing research scientists  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists</a>  
+   Link:<a href="https://www.psychologytoday.com/gb/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/its-catching/202604/the-mystery-of-the-dead-and-missing-research-scientists</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Other scientists named in the theory include Monica Reza, who vanished during a hike; Michael Hicks, who died unexpectedly; and Amy Eskri...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other scientists named in the theory include Monica Reza, who vanished during a hike; Michael Hicks, who died unexpectedly; and Amy Eskri...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: axios.com  
    Title: missing scientists space nuclear congress investigating  
-   Link: <a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The affected individuals include NASA Jet Propulsion Laboratory scientists Michael Hicks, Frank Maiwald, and Monica Reza, as well as thre...</p></details>
+   Link:<a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The affected individuals include NASA Jet Propulsion Laboratory scientists Michael Hicks, Frank Maiwald, and Monica Reza, as well as thre...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_Gq37QqnPlM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gq37QqnPlM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: MISSING SCIENTISTS: NUCLEAR WORKER SKELETON: MISSING BULLET BOMBSHELL  
-   Link: <a href="https://www.youtube.com/watch?v=uieW485BXOI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uieW485BXOI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uieW485BXOI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uieW485BXOI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Scientist Found Dead in Chilling Forest Discovery...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Missing Scientist Found Dead in Chilling Forest Discovery  
-   Link: <a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZi1oRg2Bk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZi1oRg2Bk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Plot To Eliminate Cold War Scientists...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174</a>  
+   Link:<a href="https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Reiki32/11-researchers-connected-to-ufos-and-nuclear-secrets-are-gone-37932a721174</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  

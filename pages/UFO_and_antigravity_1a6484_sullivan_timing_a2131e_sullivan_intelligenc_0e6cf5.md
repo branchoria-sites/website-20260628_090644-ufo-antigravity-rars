@@ -278,7 +278,7 @@ Matthew James [Sullivan]({{ 'sullivan/' | relative_url }})’s intelligence care
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-1-dark.svg" | relative_url }}" alt="Career Context illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, an important distinction exists between possessing high-level security credentials and possessing verified knowledge of secret UFO programmes. Sullivan’s career strengthened the plausibility that he could have encountered classified information, but public evidence does not establish that his intelligence assignments gave him direct access to alleged crash-retrieval programmes or non-human technology. Understanding that gap is essential when assessing claims that his death was connected to UFO secrecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+However, an important distinction exists between possessing high-level security credentials and possessing verified knowledge of secret UFO programmes. Sullivan’s career strengthened the plausibility that he could have encountered classified information, but public evidence does not establish that his intelligence assignments gave him direct access to alleged crash-retrieval programmes or non-human technology. Understanding that gap is essential when assessing claims that his death was connected to UFO secrecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
 ## Did Sullivan's Career Prove UFO Access?
 
@@ -289,17 +289,17 @@ This distinction matters because many online discussions blur two separate quest
 1. Was Sullivan a genuine intelligence professional with a serious national-security background?
 2. Did he possess verified firsthand knowledge of secret UFO technology?
 
-Available evidence supports the first proposition far more strongly than the second. Public records and obituary information document his intelligence career. Claims regarding direct UFO programme involvement come primarily from later statements by politicians, media reports and unnamed sources rather than publicly released documentation. Dignity Memorial+2Liberation Times | Reimagining Old News <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[dignitymemorial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+Available evidence supports the first proposition far more strongly than the second. Public records and obituary information document his intelligence career. Claims regarding direct UFO programme involvement come primarily from later statements by politicians, media reports and unnamed sources rather than publicly released documentation. Dignity Memorial+2Liberation Times | Reimagining Old News<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[dignitymemorial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
 ## Air Force Intelligence and National-Security Roles
 
 Sullivan's documented military career helps explain why his name carried weight in UAP discussions.
 
-According to his obituary, he served as a U.S. Air Force intelligence officer and worked at several prominent intelligence and defence organisations, including the National Air and Space Intelligence Center (NASIC), the National Security Agency (NSA), and the Air Force Intelligence Agency. He also deployed in support of U.S. Central Command and U.S. Indo-Pacific Command operations. The obituary further states that he received a Bronze Star for actions during Operation Enduring Freedom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+According to his obituary, he served as a U.S. Air Force intelligence officer and worked at several prominent intelligence and defence organisations, including the National Air and Space Intelligence Center (NASIC), the National Security Agency (NSA), and the Air Force Intelligence Agency. He also deployed in support of U.S. Central Command and U.S. Indo-Pacific Command operations. The obituary further states that he received a Bronze Star for actions during Operation Enduring Freedom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
-These assignments are significant because organisations such as NASIC analyse foreign [aerospace]({{ 'aerospace/' | relative_url }}) capabilities, advanced military systems and technical intelligence. Individuals serving in such environments routinely handle classified information and interact with compartmented programmes. That reality makes it understandable why some observers viewed Sullivan as a potentially valuable witness in congressional UAP inquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+These assignments are significant because organisations such as NASIC analyse foreign [aerospace]({{ 'aerospace/' | relative_url }}) capabilities, advanced military systems and technical intelligence. Individuals serving in such environments routinely handle classified information and interact with compartmented programmes. That reality makes it understandable why some observers viewed Sullivan as a potentially valuable witness in congressional UAP inquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
-Some later reporting also described Sullivan as having served in senior intelligence positions associated with Wright-Patterson Air Force Base, a location that has long featured in UFO folklore because of historical rumours surrounding recovered aerospace materials. However, public reporting has not produced documentary evidence showing that Sullivan worked on any officially acknowledged UFO recovery effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing, dead scientists: Congressman raises concerns...3 days ago — Two more deaths have resurfaced as the FBI announced it wil...</span></span></span>
+Some later reporting also described Sullivan as having served in senior intelligence positions associated with Wright-Patterson Air Force Base, a location that has long featured in UFO folklore because of historical rumours surrounding recovered aerospace materials. However, public reporting has not produced documentary evidence showing that Sullivan worked on any officially acknowledged UFO recovery effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing, dead scientists: Congressman raises concerns...3 days ago — Two more deaths have resurfaced as the FBI announced it wil...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4couUZtAkew" title="🔴LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer">🔴LIVE: Military whistleblower exposes &quot;non-human intelligence&quot; evidence to congress | FOX 10 Phoenix</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 280.5K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4couUZtAkew">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ Some later reporting also described Sullivan as having served in senior intellig
 
 In the broader narrative about allegedly suspicious deaths connected to UFO research, Sullivan stood out because he was not portrayed as an enthusiast or commentator. He was presented as a former intelligence officer with security [clearances]({{ 'clearances/' | relative_url }}) and experience inside classified defence structures.
 
-That background gave additional force to statements from Representative Eric Burlison, who said Sullivan had been expected to speak with congressional investigators examining UAP-related claims. Burlison publicly emphasised Sullivan's access to highly classified information and argued that his credentials warranted attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible+2Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</span></span></span>
+That background gave additional force to statements from Representative Eric Burlison, who said Sullivan had been expected to speak with congressional investigators examining UAP-related claims. Burlison publicly emphasised Sullivan's access to highly classified information and argued that his credentials warranted attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</span></span></span>
 
 For supporters of UFO whistleblower claims, Sullivan fit a familiar pattern:
 
@@ -318,11 +318,11 @@ For supporters of UFO whistleblower claims, Sullivan fit a familiar pattern:
 * Intelligence background.
 * Experience in classified environments.
 * Reported contact with congressional investigators.
-* Death before any public testimony occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</span></span></span>
+* Death before any public testimony occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.co.uk">[ibtimes.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.co.uk</span><span class="citation-popover-snippet">UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</span></span></span>
 
 </div>
 
-Because of those elements, Sullivan's case became intertwined with wider discussions surrounding other UAP [whistleblowers]({{ 'whistleblowers/' | relative_url }}), including individuals connected to congressional investigations and the claims advanced by former intelligence officer David Grusch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News+2AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
+Because of those elements, Sullivan's case became intertwined with wider discussions surrounding other UAP [whistleblowers]({{ 'whistleblowers/' | relative_url }}), including individuals connected to congressional investigations and the claims advanced by former intelligence officer David Grusch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[liberationtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
 
 Importantly, credibility in this context often operates socially rather than evidentially. A witness with a respected military résumé may appear more trustworthy to audiences, even when the underlying factual claims remain unverified.
 
@@ -336,7 +336,7 @@ Modern U.S. national-security systems are highly compartmentalised. Personnel ma
 
 This distinction has been repeatedly emphasised by intelligence and security experts when evaluating extraordinary claims. Clearance level, position and reputation can increase the likelihood that a person encountered sensitive information, but they do not independently verify the content of any particular claim.
 
-Applied to Sullivan, the public evidence supports the conclusion that he worked in sensitive intelligence environments. It does not independently confirm that he possessed direct knowledge of hidden UFO programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial+2New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+Applied to Sullivan, the public evidence supports the conclusion that he worked in sensitive intelligence environments. It does not independently confirm that he possessed direct knowledge of hidden UFO programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[dignitymemorial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-3-dark.svg" | relative_url }}" alt="Career Context illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_intelligenc_0e6cf5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,7 +344,7 @@ Applied to Sullivan, the public evidence supports the conclusion that he worked 
 
 The evidentiary picture becomes much thinner when moving beyond Sullivan's documented career.
 
-Several recent reports have stated that Sullivan was expected to participate in UAP-related congressional inquiries and may have been regarded as a potential witness. Some accounts have gone further, alleging that he possessed firsthand knowledge of a long-running "legacy" UFO programme. These claims largely originate from political statements, media reporting and unnamed sources rather than publicly released records, testimony transcripts or declassified documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible+2Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</span></span></span>
+Several recent reports have stated that Sullivan was expected to participate in UAP-related congressional inquiries and may have been regarded as a potential witness. Some accounts have gone further, alleging that he possessed firsthand knowledge of a long-running "legacy" UFO programme. These claims largely originate from political statements, media reporting and unnamed sources rather than publicly released records, testimony transcripts or declassified documents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</span></span></span>
 
 As a result, researchers evaluating Sullivan's credibility generally face two different standards of evidence:
 
@@ -353,10 +353,10 @@ As a result, researchers evaluating Sullivan's credibility generally face two di
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Air Force intelligence service. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[liberationtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
+* Air Force intelligence service.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[liberationtimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
 * Assignments in major intelligence organisations.
 * National-security career and military decorations.
-* Public claims that lawmakers considered him relevant to UAP inquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial+2BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+* Public claims that lawmakers considered him relevant to UAP inquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[dignitymemorial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
 </div>
 
@@ -368,7 +368,7 @@ As a result, researchers evaluating Sullivan's credibility generally face two di
 * Direct participation in a UFO crash-retrieval programme.
 * Personal involvement with recovered non-human technology.
 * Possession of corroborating evidence for extraordinary UAP claims.
-* The specific testimony he allegedly intended to provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times &#124; Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
+* The specific testimony he allegedly intended to provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liberationtimes.com">[Liberation Times | Reimagining Old News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liberationtimes.com</span><span class="citation-popover-snippet">Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</span></span></span>
 
 </div>
 
@@ -381,201 +381,201 @@ Within discussions about alleged suspicious deaths linked to UFO and advanced ae
 
 His documented intelligence background makes him a stronger candidate for serious consideration than anonymous internet sources or unsupported rumours. At the same time, his credentials do not eliminate the need for evidence. The core historical lesson from the [Sullivan case]({{ 'sullivan-case/' | relative_url }}) is that a respected intelligence résumé can increase the perceived credibility of a story without proving the story's central claims.
 
-For that reason, Sullivan occupies an unusual position in the broader UFO controversy. His career provides a concrete foundation that distinguishes him from many figures in UFO folklore, yet the public record still falls short of demonstrating that his intelligence service granted him verified access to the extraordinary programmes that later became associated with his name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[Dignity Memorial+2New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
+For that reason, Sullivan occupies an unusual position in the broader UFO controversy. His career provides a concrete foundation that distinguishes him from many figures in UFO folklore, yet the public record still falls short of demonstrating that his intelligence service granted him verified access to the extraordinary programmes that later became associated with his name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dignitymemorial.com">[dignitymemorial.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dignitymemorial.com</span><span class="citation-popover-title">Dignity Memorial Matthew Sullivan Obituary</span><span class="citation-popover-snippet">Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</span><span class="citation-popover-meta">Published: May 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iq_7GHZ7154" title="Congress Pushes For More Transparency As Eric Burlison Addresses UAP Questions | ET Now World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iq_7GHZ7154" target="_blank" rel="noopener noreferrer">Congress Pushes For More Transparency As Eric Burlison Addresses UAP Questions | ET Now World</a></p><p class="youtube-embed-meta">Channel: ET Now World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iq_7GHZ7154" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iq_7GHZ7154">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Sullivan&#x27;s Career Prove UFO Access?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Sullivan&#x27;s Career Prove UFO Access?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how secret military and intelligence environments generate speculation about hidden aerospace projects and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secret military and intelligence environments generate speculation about hidden aerospace projects and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses claims involving military, intelligence, and government witnesses while distinguishing evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses claims involving military, intelligence, and government witnesses while distinguishing evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines alleged insider testimony, classified access claims, and the limits of publicly verified evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines alleged insider testimony, classified access claims, and the limits of publicly verified evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="{{ '/assets/images/marketplace-covers/3c730e832354b31bceeb.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="career-context-did-sullivan-s-career-prove-ufo-access-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-sullivan-s-career-prove-ufo-access-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,113 +781,113 @@ For that reason, Sullivan occupies an unusual position in the broader UFO contro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: liberationtimes.com  
-   Link: <a href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</p></details>
+   Link:<a href="https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/late-air-force-officer-linked-to-alleged-legacy-ufo-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force intelligence officer Matthew Sullivan, who died in 2024 before he could, according to Representative Eric Burlison...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing, dead scientists: Congressman raises concerns...3 days ago — Two more deaths have resurfaced as the FBI announced it wil...</p></details>
+   Link:<a href="https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-dead-scientists-congressman-raises-concerns-about-two-more-names-11854911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing, dead scientists: Congressman raises concerns...3 days ago — Two more deaths have resurfaced as the FBI announced it wil...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</p></details>
+   Link:<a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...5 days ago — Congressman says death of 39-year-old former Air Force intellige...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/skeptical-missouri-congressman-mission-crack-212313757.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/skeptical-missouri-congressman-mission-crack-212313757.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>now finds himself on a Department of War-organized tour of secret military...Read more...</p></details>
+   Link:<a href="https://www.aol.com/news/skeptical-missouri-congressman-mission-crack-212313757.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/skeptical-missouri-congressman-mission-crack-212313757.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>now finds himself on a Department of War-organized tour of secret military...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fy to [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). NY Post. Shane Galvin. Apr 25, 2026. 1...</p></details>
+   Link:<a href="https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fy to [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;). NY Post. Shane Galvin. Apr 25, 2026. 1...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Officer Matthew Sullivan in a flight suit stands in front...Read more...</p></details>
+   Link:<a href="https://www.aol.com/articles/ufo-whistleblower-died-accidental-drug-124500031.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/ufo-whistleblower-died-accidental-drug-124500031.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Officer Matthew Sullivan in a flight suit stands in front...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>urch, VA, of a deadly elixir containing alcohol, alprazolam, cyclobenzaprine...Read more...</p></details>
+   Link:<a href="https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/deadly-elixir-killed-falls-church-164900941.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urch, VA, of a deadly elixir containing alcohol, alprazolam, cyclobenzaprine...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dignitymemorial.com  
    Title: Dignity Memorial Matthew Sullivan Obituary  
-   Link: <a href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</p></details>
+   Link:<a href="https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity MemorialMatthew Sullivan Obituary - Falls Church, VAMay 12, 2024 — Matthew James Sullivan, of Falls Church, Virginia, passed away...</p></details>
    Published: May 12, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</p></details>
+   Link:<a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Northern District Office of the Chief Medical Examiner ruled Sullivan’s death was caused by a lethal combination of alcohol, alprazol...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: foxnews.com  
    Title: rep burlison demands fbi probe top us scientists vanish turn dead  
-   Link: <a href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison demands the FBI investigate after at least 10 U.S. scientists and researchers with top-level security access have gone...</p></details>
+   Link:<a href="https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison demands the FBI investigate after at least 10 U.S. scientists and researchers with top-level security access have gone...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dignitymemorial.com  
    Title: Matthew Sullivan Obituary  
-   Link: <a href="https://www.dignitymemorial.com/en-ca/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/en-ca/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls Church, VAMay 12, 2024 — Celebrate the life of Matthew Sullivan, leave a kind word or memory and get funeral service information ca...</p></details>
+   Link:<a href="https://www.dignitymemorial.com/en-ca/obituaries/falls-church-va/matthew-sullivan-11814621" target="_blank" rel="noopener noreferrer nofollow">https://www.dignitymemorial.com/en-ca/obituaries/falls-church-va/matthew-sullivan-11814621</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falls Church, VAMay 12, 2024 — Celebrate the life of Matthew Sullivan, leave a kind word or memory and get funeral service information ca...</p></details>
    Published: May 12, 2024  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ChrisUKSharp/with_replies" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ChrisUKSharp/with_replies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Sharp (@ChrisUKSharp) / Posts and Replies / XBurlison reveals the name of a UFO whistleblower colleague of David Grusch &amp; Jak...</p></details>
+   Link:<a href="https://x.com/ChrisUKSharp/with_replies" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ChrisUKSharp/with_replies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher Sharp (@ChrisUKSharp) / Posts and Replies / XBurlison reveals the name of a UFO whistleblower colleague of David Grusch &amp; Jak...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: taps.org  
-   Link: <a href="https://www.taps.org/gratefulnation" target="_blank" rel="noopener noreferrer nofollow">https://www.taps.org/gratefulnation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memorial Hero WallAt TAPS, we honor and remember our fallen heroes every day. We share our loved ones with a Grateful Nation on whose beh...</p></details>
+   Link:<a href="https://www.taps.org/gratefulnation" target="_blank" rel="noopener noreferrer nofollow">https://www.taps.org/gratefulnation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memorial Hero WallAt TAPS, we honor and remember our fallen heroes every day. We share our loved ones with a Grateful Nation on whose beh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXp4l8Tk8Rz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXp4l8Tk8Rz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEWS Matthew James Sullivan&#x27;s death fuels UFO debate#WTF #MatthewSullivan #UFOWhistleblower #fblifestyle · May 21. OCR. UFO Whistleblower...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXp4l8Tk8Rz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXp4l8Tk8Rz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEWS Matthew James Sullivan&#x27;s death fuels UFO debate#WTF #MatthewSullivan #UFOWhistleblower #fblifestyle · May 21. OCR. UFO Whistleblower...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1so82eu/new_rep_burlison_reveals_the_name_of_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1so82eu/new_rep_burlison_reveals_the_name_of_a_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Burlison reveals the name of a UFO whistleblower...NEW: Rep. Burlison reveals the name of a UFO whistleblower colleague of David Gr...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1so82eu/new_rep_burlison_reveals_the_name_of_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1so82eu/new_rep_burlison_reveals_the_name_of_a_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Burlison reveals the name of a UFO whistleblower...NEW: Rep. Burlison reveals the name of a UFO whistleblower colleague of David Gr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/list/ls521126146/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls521126146/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Directors and WritersFor his actions in the war, he was awarded a Bronze Star for Gallantry and a Purple Heart. Returning from the wa...</p></details>
+   Link:<a href="https://www.imdb.com/list/ls521126146/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls521126146/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top Directors and WritersFor his actions in the war, he was awarded a Bronze Star for Gallantry and a Purple Heart. Returning from the wa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wanttoknow.info  
-   Link: <a href="https://www.wanttoknow.info/ufosmediaarticles-0-10000" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufosmediaarticles-0-10000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Media Articles... interviewed several other whistleblowers... Key speakers included former Pentagon official turned UAP whistleblowe...</p></details>
+   Link:<a href="https://www.wanttoknow.info/ufosmediaarticles-0-10000" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufosmediaarticles-0-10000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Media Articles... interviewed several other whistleblowers... Key speakers included former Pentagon official turned UAP whistleblowe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ibtimes.co.uk  
-   Link: <a href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mysterious-death-ufo-whistleblower-secrecy-concerns-1793789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Whistleblower Dies Weeks Before Congress...4 days ago — The death of a decorated intelligence officer before his congressional testi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nbcpalmsprings.com  
-   Link: <a href="https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI and House Committee Investigate Mysterious Deaths...Apr 21, 2026 — Eric Burlison highlighted the 2024 death of Matthew James Sulliva...</p></details>
+   Link:<a href="https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI and House Committee Investigate Mysterious Deaths...Apr 21, 2026 — Eric Burlison highlighted the 2024 death of Matthew James Sulliva...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: awm.gov.au  
-   Link: <a href="https://www.awm.gov.au/collection/R2891799" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/R2891799</a>  
+   Link:<a href="https://www.awm.gov.au/collection/R2891799" target="_blank" rel="noopener noreferrer nofollow">https://www.awm.gov.au/collection/R2891799</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4couUZtAkew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison Addresses UAP Questions is highly relevant because it features Representative Eric Burlison discussing government secrecy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4couUZtAkew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4couUZtAkew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison Addresses UAP Questions is highly relevant because it features Representative Eric Burlison discussing government secrecy...</p></details>

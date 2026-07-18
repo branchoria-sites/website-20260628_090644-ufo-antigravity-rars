@@ -280,17 +280,17 @@ image: /assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan
 
 ## Introduction
 
-In discussions about Matthew James [Sullivan]({{ 'sullivan/' | relative_url }})’s death, the key question is not whether the timing appears unusual, but what evidence would be required to move the case from speculation into a credible allegation of foul play. Sullivan, a former U.S. Air Force intelligence officer who was later described by some commentators as a potential UFO or UAP whistleblower, died in May 2024 before any public congressional testimony took place. Publicly reported [medical findings]({{ 'medical-finding/' | relative_url }}) state that he died from an accidental intoxication involving alcohol and multiple medications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+In discussions about Matthew James [Sullivan]({{ 'sullivan/' | relative_url }})’s death, the key question is not whether the timing appears unusual, but what evidence would be required to move the case from speculation into a credible allegation of foul play. Sullivan, a former U.S. Air Force intelligence officer who was later described by some commentators as a potential UFO or UAP whistleblower, died in May 2024 before any public congressional testimony took place. Publicly reported [medical findings]({{ 'medical-finding/' | relative_url }}) state that he died from an accidental intoxication involving alcohol and multiple medications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-1-dark.svg" | relative_url }}" alt="Foul Play Test illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Because suspicious-death claims often emerge around politically sensitive or secretive subjects, the evidential standard matters. A death occurring before testimony may justify questions, but it does not by itself demonstrate murder, coercion, or a cover-up. To support a foul-play conclusion, investigators would need specific, testable evidence that directly challenges the accidental-death explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Newsmax]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+Because suspicious-death claims often emerge around politically sensitive or secretive subjects, the evidential standard matters. A death occurring before testimony may justify questions, but it does not by itself demonstrate murder, coercion, or a cover-up. To support a foul-play conclusion, investigators would need specific, testable evidence that directly challenges the accidental-death explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 ## Evidence Stronger Than Timing Alone
 
 The strongest evidence for foul play would be evidence that the reported overdose was not accidental.
 
-Investigators would typically look for signs that another person introduced, altered, or administered the substances involved. Public reporting has stated that the medical examiner identified a fatal combination of alcohol, alprazolam, cyclobenzaprine and imipramine and classified the death as accidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+Investigators would typically look for signs that another person introduced, altered, or administered the substances involved. Public reporting has stated that the medical examiner identified a fatal combination of alcohol, alprazolam, cyclobenzaprine and imipramine and classified the death as accidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 For a homicide theory to become persuasive, evidence would need to emerge in areas such as:
 
@@ -308,7 +308,7 @@ For a homicide theory to become persuasive, evidence would need to emerge in are
 
 Importantly, these forms of evidence would be significant regardless of whether the case involved UFO claims, defence secrets, or any other sensitive topic. The evidential threshold is the same: investigators would need facts that point toward criminal intervention rather than an accidental medical event.
 
-Another potentially important category would be evidence concerning Sullivan’s planned testimony. Public reports indicate that Representative Eric Burlison believed Sullivan was expected to speak with investigators examining UAP-related matters. However, publicly available reporting has not established exactly what testimony Sullivan would have delivered or whether it contained information that could plausibly motivate a sophisticated silencing operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</span></span></span>
+Another potentially important category would be evidence concerning Sullivan’s planned testimony. Public reports indicate that Representative Eric Burlison believed Sullivan was expected to speak with investigators examining UAP-related matters. However, publicly available reporting has not established exactly what testimony Sullivan would have delivered or whether it contained information that could plausibly motivate a sophisticated silencing operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</span></span></span>
 
 Without documentary proof of the substance, importance, and immediacy of his planned disclosures, motive remains largely speculative.
 
@@ -334,7 +334,7 @@ If someone wished to disguise a homicide as an accidental overdose, investigator
 
 </div>
 
-None of these categories has been publicly reported in Sullivan’s case. Public accounts released so far focus on the toxicology results and the accidental classification rather than on evidence of manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+None of these categories has been publicly reported in Sullivan’s case. Public accounts released so far focus on the toxicology results and the accidental classification rather than on evidence of manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-2-dark.svg" | relative_url }}" alt="Foul Play Test illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,7 +356,7 @@ Examples might include:
 
 Such evidence would not automatically prove murder, but it would materially strengthen the argument that his death should be viewed through a broader investigative lens.
 
-At present, public reporting has highlighted concerns expressed by some lawmakers and commentators, but those concerns are not the same thing as documented proof of coercion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inkl.com">[inkl+2BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inkl.com</span><span class="citation-popover-snippet">Who is Matthew James Sullivan? UFO Whistleblower&#x27;s…25 Apr 2026 — Air Force veteran Matthew James Sullivan&#x27;s death before testifying o...</span></span></span>
+At present, public reporting has highlighted concerns expressed by some lawmakers and commentators, but those concerns are not the same thing as documented proof of coercion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inkl.com">[inkl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inkl.com</span><span class="citation-popover-snippet">Who is Matthew James Sullivan? UFO Whistleblower&#x27;s…25 Apr 2026 — Air Force veteran Matthew James Sullivan&#x27;s death before testifying o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7hNQgu1b24" title="David Grusch: Missing scientist case &#x27;concerning&#x27;, producer says | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer">David Grusch: Missing scientist case &#x27;concerning&#x27;, producer says | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7hNQgu1b24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7hNQgu1b24">Open on YouTube</a></p></div></div></div>
@@ -365,7 +365,7 @@ At present, public reporting has highlighted concerns expressed by some lawmaker
 
 The principal challenge for foul-play theories is that there is already a reported explanation supported by a medical determination.
 
-According to reporting citing Virginia medical authorities, Sullivan died from a lethal combination of alcohol and prescription medications, and the death was classified as accidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+According to reporting citing Virginia medical authorities, Sullivan died from a lethal combination of alcohol and prescription medications, and the death was classified as accidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 That does not make further inquiry illegitimate. Medical findings can occasionally be revised when new evidence emerges. However, any alternative explanation must explain the same facts at least as well as the current one.
 
@@ -385,7 +385,7 @@ In practical terms, a foul-play theory would need to answer several questions:
 
 </div>
 
-Without answers supported by evidence, the accidental-intoxication finding remains the most concrete publicly reported explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+Without answers supported by evidence, the accidental-intoxication finding remains the most concrete publicly reported explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-3-dark.svg" | relative_url }}" alt="Foul Play Test illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sullivan_timing_a2131e_sullivan_foul_play_e_1e6fa8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -393,199 +393,199 @@ Without answers supported by evidence, the accidental-intoxication finding remai
 
 Within the broader discussion of alleged suspicious deaths connected to UFO disclosure, Sullivan’s case illustrates the difference between suspicion and evidence.
 
-The timing of his death before anticipated UAP-related testimony is real and understandably attracts attention. Public statements from Representative Eric Burlison and subsequent media coverage have amplified questions about whether the death deserves additional scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible+2nbcpalmsprings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</span></span></span>
+The timing of his death before anticipated UAP-related testimony is real and understandably attracts attention. Public statements from Representative Eric Burlison and subsequent media coverage have amplified questions about whether the death deserves additional scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[brobible.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-title">congressman death air force whistleblower ufo secrets suspicious</span><span class="citation-popover-snippet">Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</span></span></span>
 
-Yet timing alone is not a reliable indicator of foul play. To move beyond conjecture, investigators would need independent evidence of tampering, coercion, threats, obstruction, or other criminal activity. Until such evidence emerges publicly, the case remains one in which the strongest documented fact is the reported medical examiner conclusion of accidental intoxication, while the strongest argument for suspicion remains the coincidence between Sullivan’s death and his expected involvement in UAP-related discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+Yet timing alone is not a reliable indicator of foul play. To move beyond conjecture, investigators would need independent evidence of tampering, coercion, threats, obstruction, or other criminal activity. Until such evidence emerges publicly, the case remains one in which the strongest documented fact is the reported medical examiner conclusion of accidental intoxication, while the strongest argument for suspicion remains the coincidence between Sullivan’s death and his expected involvement in UAP-related discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post Would-be UFO whistleblower died of accidental drug</span><span class="citation-popover-snippet">New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Make This Case Suspicious?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Make This Case Suspicious?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8De0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us ab...</a>
-        </h4>
-        <p class="fr-book-author">By Val McDermid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8De0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us ab...</a>
+</h4>
+<p class="fr-book-author">By Val McDermid</p>
         
-        <p class="fr-book-desc">Explains how investigators evaluate physical evidence, toxicology, and competing explanations in suspicious-death cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how investigators evaluate physical evidence, toxicology, and competing explanations in suspicious-death cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Poisoner&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XaEsAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Poisoner&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Poisoner&#x27;s Handbook">The Poisoner&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Poisoner&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XaEsAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Poisoner&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Poisoner&#x27;s Handbook">The Poisoner&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
         
-        <p class="fr-book-desc">Provides context for toxicology evidence and how poisoning or overdose claims are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for toxicology evidence and how poisoning or overdose claims are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+by+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly relates to assessing claims based on timing, coincidence, and insufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Homicide Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vL5angEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Practical Homicide Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Homicide Investigation">Practical Homicide Investigation</a>
-        </h4>
-        <p class="fr-book-author">By Vernon J. Geberth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Homicide Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vL5angEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Practical Homicide Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Homicide Investigation">Practical Homicide Investigation</a>
+</h4>
+<p class="fr-book-author">By Vernon J. Geberth</p>
         
-        <p class="fr-book-desc">Covers evidential standards, scene analysis, and what is needed to support or refute homicide theories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidential standards, scene analysis, and what is needed to support or refute homicide theories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Homicide+Investigation+by+Vernon+J.+Geberth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Poisoner&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Poisoner&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor"><img src="{{ '/assets/images/marketplace-covers/4371adeb9fdafc481cad.jpg' | relative_url }}" alt="Listing image for UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Art Print Victorian Alien Invasion Encounter War of Worlds Style Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="foul-play-test-what-would-make-this-case-suspicious-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,96 +791,96 @@ Yet timing alone is not a reliable indicator of foul play. To move beyond conjec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsmax.com  
-   Link: <a href="https://www.newsmax.com/newsfront/ufo-programs-officer/2026/04/25/id/1254168/" target="_blank" rel="noopener noreferrer nofollow">https://www.newsmax.com/newsfront/ufo-programs-officer/2026/04/25/id/1254168/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Died of Drug Mix Before [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) Testimony25 Apr 2026 — A former Air Force intelligence officer who had agreed to testify bef...</p></details>
+   Link:<a href="https://www.newsmax.com/newsfront/ufo-programs-officer/2026/04/25/id/1254168/" target="_blank" rel="noopener noreferrer nofollow">https://www.newsmax.com/newsfront/ufo-programs-officer/2026/04/25/id/1254168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness Died of Drug Mix Before [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) Testimony25 Apr 2026 — A former Air Force intelligence officer who had agreed to testify bef...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: geo.tv  
-   Link: <a href="https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsUFO whistleblower dies under mysterious circumstances...1 day ago — According to the Northern District Office of the Chief Medic...</p></details>
+   Link:<a href="https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/661627-ufo-whistleblower-dies-under-mysterious-circumstances-after-agreeing-to-testify-to-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsUFO whistleblower dies under mysterious circumstances...1 day ago — According to the Northern District Office of the Chief Medic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brobible.com  
    Title: congressman death air force whistleblower ufo secrets suspicious  
-   Link: <a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</p></details>
+   Link:<a href="https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/congressman-death-air-force-whistleblower-ufo-secrets-suspicious/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Did Congressman Call UFO Whistleblower Death...Apr 20, 2026 — Congressman says death of 39-year-old former Air Force intelli...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: inkl.com  
-   Link: <a href="https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play" target="_blank" rel="noopener noreferrer nofollow">https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who is Matthew James Sullivan? UFO Whistleblower&#x27;s…25 Apr 2026 — Air Force veteran Matthew James Sullivan&#x27;s death before testifying o...</p></details>
+   Link:<a href="https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play" target="_blank" rel="noopener noreferrer nofollow">https://www.inkl.com/news/who-is-matthew-james-sullivan-ufo-whistleblower-s-mysterious-death-a-grave-concern-and-may-be-foul-play</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who is Matthew James Sullivan? UFO Whistleblower&#x27;s…25 Apr 2026 — Air Force veteran Matthew James Sullivan&#x27;s death before testifying o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nbcpalmsprings.com  
-   Link: <a href="https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower case before his death, which Burlison labeled &quot;suspicious.&quot; The probe also touches on the legendary Wright-Patterson Ai...</p></details>
+   Link:<a href="https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcpalmsprings.com/2026/04/21/fbi-and-house-committee-investigate-mysterious-deaths-and-disappearances-of-10-us-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower case before his death, which Burlison labeled &quot;suspicious.&quot; The probe also touches on the legendary Wright-Patterson Ai...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
    Title: New York Post Would-be UFO whistleblower died of accidental drug  
-   Link: <a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</p></details>
+   Link:<a href="https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/25/us-news/would-be-ufo-whistleblower-matthew-james-sullivan-died-of-accidental-drug-overdose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostWould-be UFO whistleblower died of accidental drug...April 25, 2026 — 25 Apr 2026 — An Air Force veteran who agreed to test...</p></details>
    Published: April 25, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew James Sullivan cause of death: &#x27;UFO...3 days ago — Authorities confirmed Matthew James Sullivan died from an accidental overdose...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/matthew-james-sullivan-cause-of-death-ufo-[whistleblowers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew James Sullivan cause of death: &#x27;UFO...3 days ago — Authorities confirmed Matthew James Sullivan died from an accidental overdose...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CRPT-116hrpt698/html/CRPT-116hrpt698.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CRPT-116hrpt698/html/CRPT-116hrpt698.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CRPT-116hrpt698/html/CRPT-116hrpt698.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CRPT-116hrpt698/html/CRPT-116hrpt698.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: x.com  
-   Link: <a href="https://x.com/RedPandaKoala/status/2045263169506230458" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RedPandaKoala/status/2045263169506230458</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is the obituary of the Air Force UFO whistleblower...Red Panda Koala (@RedPandaKoala). 186 likes 14 replies. Here is the obituary o...</p></details>
+   Link:<a href="https://x.com/RedPandaKoala/status/2045263169506230458" target="_blank" rel="noopener noreferrer nofollow">https://x.com/RedPandaKoala/status/2045263169506230458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here is the obituary of the Air Force UFO whistleblower...Red Panda Koala (@RedPandaKoala). 186 likes 14 replies. Here is the obituary o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FoxNews/posts/new-some-of-americas-top-scientists-and-military-officials-linked-to-our-nations/1364399418883250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/new-some-of-americas-top-scientists-and-military-officials-linked-to-our-nations/1364399418883250/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of America&#x27;s top scientists and military officials linked...#UFO #SecretMissions #GovernmentCoverup #NASA #SpaceExploration #MoonBa...</p></details>
+   Link:<a href="https://www.facebook.com/FoxNews/posts/new-some-of-americas-top-scientists-and-military-officials-linked-to-our-nations/1364399418883250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/new-some-of-americas-top-scientists-and-military-officials-linked-to-our-nations/1364399418883250/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of America&#x27;s top scientists and military officials linked...#UFO #SecretMissions #GovernmentCoverup #NASA #SpaceExploration #MoonBa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: latestly.com  
-   Link: <a href="https://www.latestly.com/us/matthew-james-[sullivan-case" target="_blank" rel="noopener noreferrer nofollow">https://www.latestly.com/us/matthew-james-[sullivan-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew James Sullivan Case: FBI Investigates Deaths of...26 Apr 2026 — Authorities in Virginia have confirmed that Matthew James Sulliv...</p></details>
+   Link:<a href="https://www.latestly.com/us/matthew-james-[sullivan-case" target="_blank" rel="noopener noreferrer nofollow">https://www.latestly.com/us/matthew-james-[sullivan-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matthew James Sullivan Case: FBI Investigates Deaths of...26 Apr 2026 — Authorities in Virginia have confirmed that Matthew James Sulliv...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: NEW S Matthew James Sullivan's death fuels UFO debate1 likes, 0 comments  
-   Link: <a href="https://www.instagram.com/p/DXp4l8Tk8Rz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXp4l8Tk8Rz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEWS Matthew James Sullivan&#x27;s death fuels UFO debate1 likes, 0 comments - diyatv on April 27, 2026: &quot;The death of alleged UFO whistleblow...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXp4l8Tk8Rz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXp4l8Tk8Rz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEWS Matthew James Sullivan&#x27;s death fuels UFO debate1 likes, 0 comments - diyatv on April 27, 2026: &quot;The death of alleged UFO whistleblow...</p></details>
    Published: April 27, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why Rep. Eric Burlison Believes Key UAP Evidence Remains Hidden | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=FKFJlw5h5Wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FKFJlw5h5Wg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb reacts to growing list of missing scientists evaluates how investigators analyze potential connections, evidence standards, and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FKFJlw5h5Wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FKFJlw5h5Wg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb reacts to growing list of missing scientists evaluates how investigators analyze potential connections, evidence standards, and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>home in Falls Church, Virginia, on May 12, 2024, just months before he was set to...Read more...</p></details>
+   Link:<a href="https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/16273625/ufo-whistleblower-death-experts-missing-officials-probe-nasa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>home in Falls Church, Virginia, on May 12, 2024, just months before he was set to...Read more...</p></details>
    Published: May 12, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZkMi4RqnPm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZkMi4RqnPm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>jadelanternfiles on June 14, 2026: &quot;The New York Post&#x27;s most recent report on Matthew James Sullivan was published on...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZkMi4RqnPm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZkMi4RqnPm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jadelanternfiles on June 14, 2026: &quot;The New York Post&#x27;s most recent report on Matthew James Sullivan was published on...</p></details>
    Published: June 14, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ksl.com  
-   Link: <a href="https://www.ksl.com/article/51486507/deaths-of-several-scientists-in-recent-months-sparks-federal-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/51486507/deaths-of-several-scientists-in-recent-months-sparks-federal-investigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear and [aerospace](&amp;#123;&amp;#123; &#x27;aerospace/&#x27; | relative_url &amp;#125;&amp;#125;) research who have died or disappeared in recent years...Read more...</p></details>
+   Link:<a href="https://www.ksl.com/article/51486507/deaths-of-several-scientists-in-recent-months-sparks-federal-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/51486507/deaths-of-several-scientists-in-recent-months-sparks-federal-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear and [aerospace](&amp;#123;&amp;#123; &#x27;aerospace/&#x27; | relative_url &amp;#125;&amp;#125;) research who have died or disappeared in recent years...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/research/gun-policy/key-findings/what-science-tells-us-about-the-effects-of-gun-policies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/gun-policy/key-findings/what-science-tells-us-about-the-effects-of-gun-policies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e, the gun industry, participation in hunting and sport shooting, and other...Read more...</p></details>
+   Link:<a href="https://www.rand.org/research/gun-policy/key-findings/what-science-tells-us-about-the-effects-of-gun-policies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/gun-policy/key-findings/what-science-tells-us-about-the-effects-of-gun-policies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e, the gun industry, participation in hunting and sport shooting, and other...Read more...</p></details>

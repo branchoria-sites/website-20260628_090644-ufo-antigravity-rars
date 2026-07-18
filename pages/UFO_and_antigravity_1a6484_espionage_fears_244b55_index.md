@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-espionage/
 description: Focused pages that expand on Espionage.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_espionage_fears_244b55
 parent_title: Espionage
@@ -16,7 +16,7 @@ parent_permalink: /espionage/
 
 # Explore Topics in Espionage
 
-The following pages expand on the main **[Espionage]({{ '/espionage/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Espionage]({{ '/espionage/' | relative_url }})** page and cover its key branches in.
 
 - [Chung Case]({{ '/chung-case/' | relative_url }})
 - [Proof Test]({{ '/proof-test-b5d4a1/' | relative_url }})

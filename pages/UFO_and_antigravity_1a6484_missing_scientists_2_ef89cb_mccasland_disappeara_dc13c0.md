@@ -284,27 +284,27 @@ The disappearance of retired U.S. Air Force Major General William "Neil" McCasla
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_mccasland_disappeara_dc13c0-Illustration-1-dark.svg" | relative_url }}" alt="Mc Casland illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_mccasland_disappeara_dc13c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_missing_scientists_2_ef89cb_mccasland_disappeara_dc13c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The available public evidence, however, does not demonstrate that his disappearance was connected to UFO secrets, antigravity research or an effort to silence him. While the case remains under investigation, law enforcement has repeatedly stated that it has found no evidence linking his disappearance to UFO-related work, and McCasland's family has directly rejected many of the claims circulating online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+The available public evidence, however, does not demonstrate that his disappearance was connected to UFO secrets, antigravity research or an effort to silence him. While the case remains under investigation, law enforcement has repeatedly stated that it has found no evidence linking his disappearance to UFO-related work, and McCasland's family has directly rejected many of the claims circulating online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[abc7chicago.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 
 ## Why McCasland Became the Central Case
 
 McCasland's prominence stemmed from three overlapping facts rather than from any publicly documented secret programme.
 
-First, he had a distinguished Air Force career, including serving as commander of the Air Force Research Laboratory (AFRL), where he oversaw major defence research programmes. Because AFRL conducts work across aerospace, propulsion, sensors and military technology, his background naturally attracted attention whenever speculation centred on classified science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kcra.com">[KCRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kcra.com</span><span class="citation-popover-title">retired air force major general missing ufo theories</span><span class="citation-popover-snippet">William Neil McCasland. The U.S. Air Force has repeatedly denied that any extraterrestrial technology or &quot;alien bodies&quot; were ever in its...</span></span></span>
+First, he had a distinguished Air Force career, including serving as commander of the Air Force Research Laboratory (AFRL), where he oversaw major defence research programmes. Because AFRL conducts work across aerospace, propulsion, sensors and military technology, his background naturally attracted attention whenever speculation centred on classified science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kcra.com">[KCRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kcra.com</span><span class="citation-popover-title">retired air force major general missing ufo theories</span><span class="citation-popover-snippet">William Neil McCasland. The U.S. Air Force has repeatedly denied that any extraterrestrial technology or &quot;alien bodies&quot; were ever in its...</span></span></span>
 
-Second, unlike many retired senior officers, McCasland had a publicly known connection with Tom DeLonge's organisation, To The Stars Academy, which campaigned for greater government transparency regarding unidentified anomalous phenomena (UAPs). That association allowed conspiracy narratives to connect him directly to modern UFO disclosure discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
+Second, unlike many retired senior officers, McCasland had a publicly known connection with Tom DeLonge's organisation, To The Stars Academy, which campaigned for greater government transparency regarding unidentified anomalous phenomena (UAPs). That association allowed conspiracy narratives to connect him directly to modern UFO disclosure discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
 
-Third, his disappearance occurred at the beginning of the wider "missing scientists" story. As online discussions expanded to include researchers, engineers and government employees, McCasland's case became the reference point from which broader claims were built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Mystery Over 8 Missing or Dead Scientific Experts7 Apr 2026 — McCasland&#x27;s case in particular has caused a major stir in UFO circl...</span></span></span>
+Third, his disappearance occurred at the beginning of the wider "missing scientists" story. As online discussions expanded to include researchers, engineers and government employees, McCasland's case became the reference point from which broader claims were built.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Mystery Over 8 Missing or Dead Scientific Experts7 Apr 2026 — McCasland&#x27;s case in particular has caused a major stir in UFO circl...</span></span></span>
 
 ## What Is Publicly Known About the Disappearance
 
 McCasland disappeared from his home in Albuquerque, New Mexico, on 27 February 2026.
 
-Searches by local authorities were expanded over subsequent weeks, with assistance from the FBI. During the investigation, search teams recovered a sweatshirt believed possibly to be connected with him, but authorities reported that initial testing found no blood and the discovery did not establish what had happened. Searches continued in surrounding terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</span></span></span>
+Searches by local authorities were expanded over subsequent weeks, with assistance from the FBI. During the investigation, search teams recovered a sweatshirt believed possibly to be connected with him, but authorities reported that initial testing found no blood and the discovery did not establish what had happened. Searches continued in surrounding terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</span></span></span>
 
-Investigators also disclosed that McCasland had experienced episodes of what officials described as "mental fog" before his disappearance and had reportedly begun withdrawing from several advisory positions. Authorities have treated these circumstances as part of the factual investigative record rather than evidence of any criminal conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</span></span></span>
+Investigators also disclosed that McCasland had experienced episodes of what officials described as "mental fog" before his disappearance and had reportedly begun withdrawing from several advisory positions. Authorities have treated these circumstances as part of the factual investigative record rather than evidence of any criminal conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-snippet">ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</span></span></span>
 
-As of the latest public reporting, the investigation remains open and no official finding has concluded that foul play, [espionage]({{ 'espionage/' | relative_url }}) or a UFO-related motive explains the disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times What happened to William Mc Casland?</span><span class="citation-popover-snippet">Final photo of...43 minutes ago — Authorities have not publicly confirmed any UFO-related connection to the disappearance, and the inves...</span></span></span>
+As of the latest public reporting, the investigation remains open and no official finding has concluded that foul play, [espionage]({{ 'espionage/' | relative_url }}) or a UFO-related motive explains the disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times What happened to William Mc Casland?</span><span class="citation-popover-snippet">Final photo of...43 minutes ago — Authorities have not publicly confirmed any UFO-related connection to the disappearance, and the inves...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SIf7bRLZFG0" title="New audio heard in the disappearance of a retired Air Force general" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SIf7bRLZFG0" target="_blank" rel="noopener noreferrer">New audio heard in the disappearance of a retired Air Force general</a></p><p class="youtube-embed-meta">Channel: NBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SIf7bRLZFG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SIf7bRLZFG0">Open on YouTube</a></p></div></div></div>
@@ -313,19 +313,19 @@ As of the latest public reporting, the investigation remains open and no officia
 
 The UFO connection emerged from several genuine historical associations that were then expanded well beyond what the evidence supports.
 
-McCasland previously commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base. Wright-Patterson has occupied a central place in UFO folklore for decades because of long-standing claims that extraterrestrial debris from the alleged Roswell crash was secretly stored there. Those claims have never been substantiated by official evidence, but the base remains symbolically important within UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+McCasland previously commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base. Wright-Patterson has occupied a central place in UFO folklore for decades because of long-standing claims that extraterrestrial debris from the alleged Roswell crash was secretly stored there. Those claims have never been substantiated by official evidence, but the base remains symbolically important within UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 
-His later involvement with civilian UFO disclosure advocates further reinforced the perception that he possessed unusual knowledge. Public reporting also revisited older references connecting him with discussions involving Tom DeLonge and former political adviser John Podesta, both prominent figures in recent UFO transparency campaigns. These documented associations encouraged speculation that McCasland knew classified information about recovered technology or non-human intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post New clues in New Mexico&#x27;s missing nuclear scientists cases</span><span class="citation-popover-snippet">New York PostNew clues in New Mexico&#x27;s missing nuclear scientists casesApril 21, 2026 — 6 days ago — Former Blink-182 singer Tom DeLonge...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
+His later involvement with civilian UFO disclosure advocates further reinforced the perception that he possessed unusual knowledge. Public reporting also revisited older references connecting him with discussions involving Tom DeLonge and former political adviser John Podesta, both prominent figures in recent UFO transparency campaigns. These documented associations encouraged speculation that McCasland knew classified information about recovered technology or non-human intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">New York Post New clues in New Mexico&#x27;s missing nuclear scientists cases</span><span class="citation-popover-snippet">New York PostNew clues in New Mexico&#x27;s missing nuclear scientists casesApril 21, 2026 — 6 days ago — Former Blink-182 singer Tom DeLonge...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
 
-From there, online narratives often made an additional leap: because McCasland had worked around advanced aerospace research and had interacted with UFO disclosure advocates, his disappearance was interpreted as evidence that someone wanted to silence him. Publicly available evidence has not demonstrated that causal link. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+From there, online narratives often made an additional leap: because McCasland had worked around advanced aerospace research and had interacted with UFO disclosure advocates, his disappearance was interpreted as evidence that someone wanted to silence him. Publicly available evidence has not demonstrated that causal link.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 
 ## What the Family and Investigators Said
 
 Perhaps the strongest evidence against the most common UFO claims comes from McCasland's own family.
 
-His wife publicly acknowledged that he had a brief association with members of the UFO disclosure community after retirement. However, she rejected claims that he possessed extraordinary knowledge about alleged recovered alien craft or hidden extraterrestrial technology. She stated that he did not have special knowledge about alleged Roswell debris and argued that his brief involvement with disclosure advocates should not be interpreted as a motive for abduction or disappearance. She also noted that his highest security [clearances]({{ 'clearances/' | relative_url }}) had long since lapsed following retirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[ABC7 New York+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-title">ABC7 New York William Neil Mc Casland missing: Retired US Air Force maj</span><span class="citation-popover-snippet">Mar 16, 2026 — &quot;It is true that Neil had a brief association with the UFO community,&quot; McCasland&#x27;s wife, Susan McCasland Wilkerson, said i...</span></span></span>
+His wife publicly acknowledged that he had a brief association with members of the UFO disclosure community after retirement. However, she rejected claims that he possessed extraordinary knowledge about alleged recovered alien craft or hidden extraterrestrial technology. She stated that he did not have special knowledge about alleged Roswell debris and argued that his brief involvement with disclosure advocates should not be interpreted as a motive for abduction or disappearance. She also noted that his highest security [clearances]({{ 'clearances/' | relative_url }}) had long since lapsed following retirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[abc7ny.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-title">ABC7 New York William Neil Mc Casland missing: Retired US Air Force maj</span><span class="citation-popover-snippet">Mar 16, 2026 — &quot;It is true that Neil had a brief association with the UFO community,&quot; McCasland&#x27;s wife, Susan McCasland Wilkerson, said i...</span></span></span>
 
-Law enforcement has taken a similarly cautious position. Bernalillo County Sheriff John Allen repeatedly discouraged speculation and stated that investigators had uncovered no evidence connecting the disappearance with UFO research. Authorities have instead focused on verifiable investigative leads, search operations and witness information rather than conspiracy theories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+Law enforcement has taken a similarly cautious position. Bernalillo County Sheriff John Allen repeatedly discouraged speculation and stated that investigators had uncovered no evidence connecting the disappearance with UFO research. Authorities have instead focused on verifiable investigative leads, search operations and witness information rather than conspiracy theories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OBpLJuRSvFM" title="Missing UFO General 911 Call Raises Chilling Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OBpLJuRSvFM" target="_blank" rel="noopener noreferrer">Missing UFO General 911 Call Raises Chilling Questions</a></p><p class="youtube-embed-meta">Channel: Law&amp;Crime Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OBpLJuRSvFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OBpLJuRSvFM">Open on YouTube</a></p></div></div></div>
@@ -336,11 +336,11 @@ The public evidence can be separated into two distinct categories.
 
 The documented facts include:
 
-* McCasland led major Air Force research organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[abc7chicago.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+* McCasland led major Air Force research organisations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[abc7chicago.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 * He later had limited public involvement with UFO disclosure advocates.
 * He disappeared under circumstances that remain unexplained.
 * Federal authorities became involved in the search.
-* His disappearance helped trigger wider political attention to other missing or deceased researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2Military.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
+* His disappearance helped trigger wider political attention to other missing or deceased researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
 
 The unsupported claims include:
 
@@ -354,7 +354,7 @@ The unsupported claims include:
 
 </div>
 
-No publicly released investigative findings support those assertions. Instead, they largely originate from inference, longstanding UFO folklore surrounding Wright-Patterson Air Force Base and the tendency to connect otherwise separate incidents into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
+No publicly released investigative findings support those assertions. Instead, they largely originate from inference, longstanding UFO folklore surrounding Wright-Patterson Air Force Base and the tendency to connect otherwise separate incidents into a single narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[abc7chicago.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-title">william neil mccasland missing retired air force major general led wright patterson ohio base steeped ufo theories</span><span class="citation-popover-snippet">ABC7 ChicagoRetired Air Force major general missing once led Wright ...Mar 17, 2026 — While authorities say there is no evidence linking...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m8OWQll90dg" title="New Bodycam Footage of Missing Retired Air Force General Neil McCasland | Vargas Reports Full Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer">New Bodycam Footage of Missing Retired Air Force General Neil McCasland | Vargas Reports Full Show</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m8OWQll90dg">Open on YouTube</a></p></div></div></div>
@@ -365,197 +365,197 @@ McCasland's disappearance became the turning point because it supplied the "anch
 
 Unlike some names later added to viral lists, he was both highly visible and genuinely connected to advanced defence research. His documented contact with parts of the UFO disclosure movement meant that speculation could build upon real associations rather than entirely invented ones.
 
-At the same time, the case illustrates the central evidential problem within the wider 2026 "missing scientists" narrative. Genuine facts—his distinguished military career, his disappearance and his limited involvement with UFO advocates—became combined with unsupported assumptions about secret knowledge and alleged motives. The disappearance remains an important unresolved investigation, but the publicly available evidence does not establish that it resulted from an attempt to conceal UFO-related or antigravity research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
+At the same time, the case illustrates the central evidential problem within the wider 2026 "missing scientists" narrative. Genuine facts—his distinguished military career, his disappearance and his limited involvement with UFO advocates—became combined with unsupported assumptions about secret knowledge and alleged motives. The disappearance remains an important unresolved investigation, but the publicly available evidence does not establish that it resulted from an attempt to conceal UFO-related or antigravity research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mc Casland Became the Central Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mc Casland Became the Central Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Provides cultural and historical context for modern UFO narratives and how scientific institutions become part of them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural and historical context for modern UFO narratives and how scientific institutions become part of them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why unsupported conspiracy claims can become persuasive despite weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why unsupported conspiracy claims can become persuasive despite weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers distinguish documented investigations from unsupported conspiracy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish documented investigations from unsupported conspiracy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how to evaluate extraordinary claims and ambiguous evidence such as viral scientist lists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how to evaluate extraordinary claims and ambiguous evidence such as viral scientist lists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mc-casland-d782fa-why-mc-casland-became-the-central-case-ufo-and-antigravity-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mccasland-became-the-central-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-mccasland-became-the-central-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ At the same time, the case illustrates the central evidential problem within the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ At the same time, the case illustrates the central evidential problem within the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ At the same time, the case illustrates the central evidential problem within the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ At the same time, the case illustrates the central evidential problem within the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ At the same time, the case illustrates the central evidential problem within the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,140 +761,140 @@ At the same time, the case illustrates the central evidential problem within the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-[mccasland-missing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 ChicagoRetired Air Force major general missing once led Wright...Mar 17, 2026 — While authorities say there is no evidence linking...</p></details>
+   Link:<a href="https://abc7chicago.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/william-neil-[mccasland-missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 ChicagoRetired Air Force major general missing once led Wright...Mar 17, 2026 — While authorities say there is no evidence linking...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Sheriff Addresses &#x27;Speculation&#x27; on...2 days ago — McCasland&#x27;s disappearance has drawn attention within UFO circle...</p></details>
+   Link:<a href="https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/neil-mccasland-update-sheriff-addresses-speculation-missing-general-11827036</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Sheriff Addresses &#x27;Speculation&#x27; on...2 days ago — McCasland&#x27;s disappearance has drawn attention within UFO circle...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: kcra.com  
    Title: retired air force major general missing ufo theories  
-   Link: <a href="https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895" target="_blank" rel="noopener noreferrer nofollow">https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland. The U.S. Air Force has repeatedly denied that any extraterrestrial technology or &quot;alien bodies&quot; were ever in its...</p></details>
+   Link:<a href="https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895" target="_blank" rel="noopener noreferrer nofollow">https://www.kcra.com/article/retired-air-force-major-general-missing-ufo-theories/70781895</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland. The U.S. Air Force has repeatedly denied that any extraterrestrial technology or &quot;alien bodies&quot; were ever in its...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Over 8 Missing or Dead Scientific Experts7 Apr 2026 — McCasland&#x27;s case in particular has caused a major stir in UFO circl...</p></details>
+   Link:<a href="https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mystery-over-8-missing-or-dead-experts-linked-to-ufo-research-11792852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Over 8 Missing or Dead Scientific Experts7 Apr 2026 — McCasland&#x27;s case in particular has caused a major stir in UFO circl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: military.com  
    Title: missing air force general case draws fbi and online conspiracy theories  
-   Link: <a href="https://www.military.com/daily-news/air-force/2026/03/15/missing-air-force-general-case-draws-fbi-and-online-conspiracy-theories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/air-force/2026/03/15/missing-air-force-general-case-draws-fbi-and-online-conspiracy-theories.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. William “Neil” McCasland has drawn the FBI into the search and sparked a surge of online...</p></details>
+   Link:<a href="https://www.military.com/daily-news/air-force/2026/03/15/missing-air-force-general-case-draws-fbi-and-online-conspiracy-theories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/air-force/2026/03/15/missing-air-force-general-case-draws-fbi-and-online-conspiracy-theories.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. William “Neil” McCasland has drawn the FBI into the search and sparked a surge of online...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsweek.com  
    Title: wife of missing ufo expert addresses misinformation around case 11659216  
-   Link: <a href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wife of Missing UFO Expert Addresses &#x27;Misinformation&#x27;...11 Mar 2026 — &quot;Maybe the best hypothesis is that aliens beamed him up to the mot...</p></details>
+   Link:<a href="https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/wife-of-missing-ufo-expert-addresses-misinformation-around-case-11659216</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wife of Missing UFO Expert Addresses &#x27;Misinformation&#x27;...11 Mar 2026 — &quot;Maybe the best hypothesis is that aliens beamed him up to the mot...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Ex-FBI Agent Shares Theory On...6 days ago — McCasland&#x27;s disappearance has caused a stir in UFO circles, which ha...</p></details>
+   Link:<a href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Ex-FBI Agent Shares Theory On...6 days ago — McCasland&#x27;s disappearance has caused a stir in UFO circles, which ha...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general who once commande...</p></details>
+   Link:<a href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general who once commande...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files. His wife acknowledged in the Facebook post that he had a brief association with a community of people pushing for the governme...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abc7ny.com  
    Title: ABC7 New York William Neil Mc Casland missing: Retired US Air Force maj  
-   Link: <a href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 16, 2026 — &quot;It is true that Neil had a brief association with the UFO community,&quot; McCasland&#x27;s wife, Susan McCasland Wilkerson, said i...</p></details>
+   Link:<a href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 16, 2026 — &quot;It is true that Neil had a brief association with the UFO community,&quot; McCasland&#x27;s wife, Susan McCasland Wilkerson, said i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</p></details>
+   Link:<a href="https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 San FranciscoGeneral William Neil McCasland missing: Warm spring...Mar 17, 2026 — A high-ranking retired US Air Force major general...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hindustantimes.com  
    Title: Hindustan Times What happened to William Mc Casland?  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final photo of...43 minutes ago — Authorities have not publicly confirmed any UFO-related connection to the disappearance, and the inves...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/what-happened-to-william-mccasland-final-photo-of-missing-ex-air-force-general-sparks-ufo-questions-101781359263431.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Final photo of...43 minutes ago — Authorities have not publicly confirmed any UFO-related connection to the disappearance, and the inves...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
    Title: New York Post New clues in New Mexico's missing nuclear scientists cases  
-   Link: <a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostNew clues in New Mexico&#x27;s missing nuclear scientists casesApril 21, 2026 — 6 days ago — Former Blink-182 singer Tom DeLonge...</p></details>
+   Link:<a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostNew clues in New Mexico&#x27;s missing nuclear scientists casesApril 21, 2026 — 6 days ago — Former Blink-182 singer Tom DeLonge...</p></details>
    Published: April 21, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
    Title: By. Ella Morrison.Read more  
-   Link: <a href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wife of missing Air Force general says he &#x27;planned not to...3 Apr 2026 — Missing Air Force general with ties to UFO community &#x27;planned n...</p></details>
+   Link:<a href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wife of missing Air Force general says he &#x27;planned not to...3 Apr 2026 — Missing Air Force general with ties to UFO community &#x27;planned n...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abc7news.com  
-   Link: <a href="https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general once led Wright-Patterson...17 Mar 2026 — While authorities say there is no evidence linking McCasland&#x27;s...</p></details>
+   Link:<a href="https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-mccasland-missing-retired-air-force-major-general-led-wright-patterson-ohio-base-steeped-ufo-theories/18724549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general once led Wright-Patterson...17 Mar 2026 — While authorities say there is no evidence linking McCasland&#x27;s...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxandfriends/posts/mystery-mounts-a-retired-general-with-deep-ties-to-the-ufo-community-and-classif/1318003333522330/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxandfriends/posts/mystery-mounts-a-retired-general-with-deep-ties-to-the-ufo-community-and-classif/1318003333522330/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A retired general with deep ties to the UFO community and...The disappearance of Maj Gen William McCasland has taken a strange turn afte...</p></details>
+   Link:<a href="https://www.facebook.com/foxandfriends/posts/mystery-mounts-a-retired-general-with-deep-ties-to-the-ufo-community-and-classif/1318003333522330/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxandfriends/posts/mystery-mounts-a-retired-general-with-deep-ties-to-the-ufo-community-and-classif/1318003333522330/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A retired general with deep ties to the UFO community and...The disappearance of Maj Gen William McCasland has taken a strange turn afte...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/retired-air-force-major-general-william-neil-mccasland-vanished-from-albuquerque/1515633999924591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/retired-air-force-major-general-william-neil-mccasland-vanished-from-albuquerque/1515633999924591/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force Major General William Neil McCasland...May be an image of text that says &#x27;@Aliens UFO Caught on Camera Retired. 168 re...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/retired-air-force-major-general-william-neil-mccasland-vanished-from-albuquerque/1515633999924591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/retired-air-force-major-general-william-neil-mccasland-vanished-from-albuquerque/1515633999924591/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force Major General William Neil McCasland...May be an image of text that says &#x27;@Aliens UFO Caught on Camera Retired. 168 re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lamag.com  
-   Link: <a href="https://lamag.com/news/missing-generals-vanished-scientists-and-a-dead-ufo-researcher-inside-new-mexicos-growing-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://lamag.com/news/missing-generals-vanished-scientists-and-a-dead-ufo-researcher-inside-new-mexicos-growing-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Generals and Scientists Fuel New Mexico Mystery28 May 2026 — A vanished Air Force general, missing scientists and a dead UFO rese...</p></details>
+   Link:<a href="https://lamag.com/news/missing-generals-vanished-scientists-and-a-dead-ufo-researcher-inside-new-mexicos-growing-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://lamag.com/news/missing-generals-vanished-scientists-and-a-dead-ufo-researcher-inside-new-mexicos-growing-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Generals and Scientists Fuel New Mexico Mystery28 May 2026 — A vanished Air Force general, missing scientists and a dead UFO rese...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foxnews.com  
    Title: missing general scientist deaths tied secret us work prompt [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;) probe  
-   Link: <a href="https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing general, scientist deaths tied to secret US work...16 Apr 2026 — In those messages, musician and UFO enthusiast Tom DeLonge desc...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing general, scientist deaths tied to secret US work...16 Apr 2026 — In those messages, musician and UFO enthusiast Tom DeLonge desc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/white-house-says-it-will-review-reports-of-missing-dead-us-defence-scientistswhi/1470282985132684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/white-house-says-it-will-review-reports-of-missing-dead-us-defence-scientistswhi/1470282985132684/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Neil McCasland, who vanished from his home in February, leaving his personal belongings...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/firstpostin/posts/white-house-says-it-will-review-reports-of-missing-dead-us-defence-scientistswhi/1470282985132684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/white-house-says-it-will-review-reports-of-missing-dead-us-defence-scientistswhi/1470282985132684/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. Neil McCasland, who vanished from his home in February, leaving his personal belongings...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The astronautical engineer&#x27;s hiking boots, wallet and a.38‑caliber revolver were reported...Read more...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The astronautical engineer&#x27;s hiking boots, wallet and a.38‑caliber revolver were reported...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BCSONM/posts/press-conference-update-for-william-mccasland/1367424762091420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCSONM/posts/press-conference-update-for-william-mccasland/1367424762091420/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Press conference update for William McCaslandThe FBI has joined the search for the retired Major General William Neil McCasland.... UFO...</p></details>
+   Link:<a href="https://www.facebook.com/BCSONM/posts/press-conference-update-for-william-mccasland/1367424762091420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BCSONM/posts/press-conference-update-for-william-mccasland/1367424762091420/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Press conference update for William McCaslandThe FBI has joined the search for the retired Major General William Neil McCasland.... UFO...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/missing-air-force-general-ties-170544606.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/missing-air-force-general-ties-170544606.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cture Security Agency has registered the domains aliens.gov and alien.gov...Read more...</p></details>
+   Link:<a href="https://www.aol.com/articles/missing-air-force-general-ties-170544606.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/missing-air-force-general-ties-170544606.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cture Security Agency has registered the domains aliens.gov and alien.gov...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: turkiyetoday.com  
-   Link: <a href="https://www.turkiyetoday.com/world/ufo-linked-us-general-was-stepping-back-from-secret-defense-groups-before-he-vanished-3222670" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/world/ufo-linked-us-general-was-stepping-back-from-secret-defense-groups-before-he-vanished-3222670</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. McCasland, UFO-linked officer missing since Feb. 27 had been actively seeking to...</p></details>
+   Link:<a href="https://www.turkiyetoday.com/world/ufo-linked-us-general-was-stepping-back-from-secret-defense-groups-before-he-vanished-3222670" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/world/ufo-linked-us-general-was-stepping-back-from-secret-defense-groups-before-he-vanished-3222670</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gen. McCasland, UFO-linked officer missing since Feb. 27 had been actively seeking to...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/world-news/wife-of-missing-retired-us-air-force-general-william-neil-mccasland-with-ufo-knowledge-planned-not-to-be-found-11309400" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/wife-of-missing-retired-us-air-force-general-william-neil-mccasland-with-ufo-knowledge-planned-not-to-be-found-11309400</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Planned Not To Be Found&quot;: Wife Of Missing US Official...4 Apr 2026 — &quot;Planned Not To Be Found&quot;: Wife Of Missing US Official With UFO Kn...</p></details>
+   Link:<a href="https://www.ndtv.com/world-news/wife-of-missing-retired-us-air-force-general-william-neil-mccasland-with-ufo-knowledge-planned-not-to-be-found-11309400" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/wife-of-missing-retired-us-air-force-general-william-neil-mccasland-with-ufo-knowledge-planned-not-to-be-found-11309400</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Planned Not To Be Found&quot;: Wife Of Missing US Official...4 Apr 2026 — &quot;Planned Not To Be Found&quot;: Wife Of Missing US Official With UFO Kn...</p></details>

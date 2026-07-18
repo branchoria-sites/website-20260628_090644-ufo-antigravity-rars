@@ -280,28 +280,28 @@ image: /assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mcca
 
 ## Introduction
 
-The personal items associated with William “Neil” McCasland’s disappearance quickly became a focal point for speculation. Reports stated that his phone, prescription glasses and wearable devices were left at his Albuquerque home, while a wallet, hiking boots and a.38-calibre revolver were believed to be missing. Later reporting added that investigators were also trying to determine the status of a backpack and holster associated with the revolver. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
+The personal items associated with William “Neil” McCasland’s disappearance quickly became a focal point for speculation. Reports stated that his phone, prescription glasses and wearable devices were left at his Albuquerque home, while a wallet, hiking boots and a.38-calibre revolver were believed to be missing. Later reporting added that investigators were also trying to determine the status of a backpack and holster associated with the revolver.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-1-dark.svg" | relative_url }}" alt="Belongings illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within UFO-related discussions, these details were sometimes presented as signs of a covert operation or forced disappearance. However, the belongings themselves do not point uniquely toward foul play. The same evidence can support several ordinary explanations, including a deliberate departure, a mental-health or medical crisis, an outdoor excursion that went wrong, or a planned attempt to avoid being located. The key point is that the item pattern is ambiguous: it raises questions, but it does not by itself establish a cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mccasland update ex fbi agent theory missing expert 11812428</span><span class="citation-popover-snippet">Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</span></span></span>
+Within UFO-related discussions, these details were sometimes presented as signs of a covert operation or forced disappearance. However, the belongings themselves do not point uniquely toward foul play. The same evidence can support several ordinary explanations, including a deliberate departure, a mental-health or medical crisis, an outdoor excursion that went wrong, or a planned attempt to avoid being located. The key point is that the item pattern is ambiguous: it raises questions, but it does not by itself establish a cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mccasland update ex fbi agent theory missing expert 11812428</span><span class="citation-popover-snippet">Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</span></span></span>
 
 ## Do the Missing Items Point to a Cover-Up?
 
 ### Items reportedly left behind
 
-Investigators reported finding McCasland’s phone, prescription glasses and wearable electronic devices at the residence. Multiple news accounts emphasised that these were items he normally used and that their presence in the home appeared deliberate rather than accidental. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
+Investigators reported finding McCasland’s phone, prescription glasses and wearable electronic devices at the residence. Multiple news accounts emphasised that these were items he normally used and that their presence in the home appeared deliberate rather than accidental.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
 
 For conspiracy-minded observers, abandoned electronics can suggest an attempt by someone else to stage a disappearance. Yet there is a far more routine interpretation. People who intentionally leave home without wanting to be tracked often leave behind devices that generate location data. Modern smartphones, smartwatches and similar devices can provide investigators with extensive movement records. A person wishing to travel unobserved might intentionally avoid carrying them.
 
-The glasses are more ambiguous. If McCasland relied heavily on prescription eyewear, leaving them behind could indicate confusion, impaired judgement or an unplanned departure. On the other hand, if he retained functional vision without them, their absence from his person may simply reflect a decision not to carry them. Public reporting has not established which interpretation is correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">27, fears her husband &quot;planned not to be found.</span><span class="citation-popover-snippet">New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+The glasses are more ambiguous. If McCasland relied heavily on prescription eyewear, leaving them behind could indicate confusion, impaired judgement or an unplanned departure. On the other hand, if he retained functional vision without them, their absence from his person may simply reflect a decision not to carry them. Public reporting has not established which interpretation is correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">27, fears her husband &quot;planned not to be found.</span><span class="citation-popover-snippet">New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m8OWQll90dg" title="New Bodycam Footage of Missing Retired Air Force General Neil McCasland | Vargas Reports Full Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer">New Bodycam Footage of Missing Retired Air Force General Neil McCasland | Vargas Reports Full Show</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m8OWQll90dg">Open on YouTube</a></p></div></div></div>
 
 ### Items reportedly missing
 
-The items believed to be missing have generally been described as a wallet, hiking boots and a.38-calibre revolver. Some reports later noted an associated leather holster and a red backpack that investigators had not accounted for. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News+2ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
+The items believed to be missing have generally been described as a wallet, hiking boots and a.38-calibre revolver. Some reports later noted an associated leather holster and a red backpack that investigators had not accounted for.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[foxnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
 
 Viewed together, these objects can fit a practical outdoor-travel scenario:
 
@@ -311,11 +311,11 @@ Viewed together, these objects can fit a practical outdoor-travel scenario:
 * **Wallet:** useful for identification, cash, cards and routine transactions.
 * **Hiking boots:** appropriate footwear for walking significant distances or entering rough terrain.
 * **Revolver:** a firearm that could be carried for personal protection, especially by someone accustomed to outdoor activities.
-* **Backpack (if taken):** consistent with carrying supplies during a hike or extended outing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-snippet">ABC7 ChicagoGeneral William Neil McCasland missing: Warm spring...Mar 18, 2026 — Still unaccounted for are McCasland&#x27;s wallet, a.38-cal...</span></span></span>
+* **Backpack (if taken):** consistent with carrying supplies during a hike or extended outing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7chicago.com">[ABC7 Chicago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7chicago.com</span><span class="citation-popover-snippet">ABC7 ChicagoGeneral William Neil McCasland missing: Warm spring...Mar 18, 2026 — Still unaccounted for are McCasland&#x27;s wallet, a.38-cal...</span></span></span>
 
 </div>
 
-The pattern therefore does not resemble a random collection of missing possessions. Instead, it resembles a small set of items a person might consciously choose when leaving home on foot. That interpretation is strengthened by reports describing McCasland as an experienced outdoorsman who frequently hiked, ran and cycled in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
+The pattern therefore does not resemble a random collection of missing possessions. Instead, it resembles a small set of items a person might consciously choose when leaving home on foot. That interpretation is strengthened by reports describing McCasland as an experienced outdoorsman who frequently hiked, ran and cycled in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-2-dark.svg" | relative_url }}" alt="Belongings illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,7 +325,7 @@ The belongings can be interpreted through several non-conspiratorial mechanisms,
 
 ### A deliberate decision to leave
 
-One possibility is that McCasland intentionally departed and took only what he considered necessary. Leaving electronic tracking devices behind while taking a wallet and suitable footwear is broadly consistent with a person who does not wish to be easily located. Publicly released statements from his wife and comments reported from the early investigation suggested concern that he may have planned not to be found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">27, fears her husband &quot;planned not to be found.</span><span class="citation-popover-snippet">New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
+One possibility is that McCasland intentionally departed and took only what he considered necessary. Leaving electronic tracking devices behind while taking a wallet and suitable footwear is broadly consistent with a person who does not wish to be easily located. Publicly released statements from his wife and comments reported from the early investigation suggested concern that he may have planned not to be found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">27, fears her husband &quot;planned not to be found.</span><span class="citation-popover-snippet">New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
 
 Under this explanation, the belongings are not clues to an abduction but evidence of purposeful preparation.
 
@@ -334,7 +334,7 @@ Under this explanation, the belongings are not clues to an abduction but evidenc
 
 ### A medical or cognitive crisis
 
-Authorities stated that McCasland had an unspecified medical condition, and later reporting referenced concerns about “mental fog” before his disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
+Authorities stated that McCasland had an unspecified medical condition, and later reporting referenced concerns about “mental fog” before his disappearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</span></span></span>
 
 In such situations, people sometimes make decisions that appear partly organised and partly irrational. A person experiencing cognitive impairment might remember to take boots and a wallet yet forget items that would ordinarily be essential, such as glasses or a phone. The resulting mix of missing and abandoned possessions can create the appearance of mystery even when no external actor is involved.
 
@@ -343,7 +343,7 @@ In such situations, people sometimes make decisions that appear partly organised
 
 ### An outdoor excursion that ended unexpectedly
 
-Another ordinary explanation is that McCasland set out for a walk or hike and encountered an accident, medical emergency or environmental hazard before he could return. The missing boots support the possibility that he expected to travel on foot, while the absence of electronic devices could simply reflect a preference not to carry them. Search teams explored this possibility extensively because of his known interest in outdoor activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
+Another ordinary explanation is that McCasland set out for a walk or hike and encountered an accident, medical emergency or environmental hazard before he could return. The missing boots support the possibility that he expected to travel on foot, while the absence of electronic devices could simply reflect a preference not to carry them. Search teams explored this possibility extensively because of his known interest in outdoor activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</span></span></span>
 
 Under this scenario, the belongings are not evidence of a cover-up; they are simply the equipment carried at the start of an excursion whose outcome remains unknown.
 
@@ -351,199 +351,199 @@ Under this scenario, the belongings are not evidence of a cover-up; they are sim
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-3-dark.svg" | relative_url }}" alt="Belongings illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867_mccasland_missing_be_63b5c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Item Evidence Remains Inconclusive
 
-The belongings are unusual enough to attract attention but not unusual enough to identify a single explanation. Leaving a phone behind can indicate coercion, deliberate concealment, forgetfulness or impaired judgement. Taking hiking boots can suggest a planned walk, a survival-oriented departure or countless ordinary outdoor activities. Carrying a revolver can be interpreted as routine personal security, concern about danger, or preparation for self-harm, depending on facts that remain unknown publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mccasland update ex fbi agent theory missing expert 11812428</span><span class="citation-popover-snippet">Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</span></span></span>
+The belongings are unusual enough to attract attention but not unusual enough to identify a single explanation. Leaving a phone behind can indicate coercion, deliberate concealment, forgetfulness or impaired judgement. Taking hiking boots can suggest a planned walk, a survival-oriented departure or countless ordinary outdoor activities. Carrying a revolver can be interpreted as routine personal security, concern about danger, or preparation for self-harm, depending on facts that remain unknown publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mccasland update ex fbi agent theory missing expert 11812428</span><span class="citation-popover-snippet">Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</span></span></span>
 
-As a result, the missing-item pattern has limited evidentiary value on its own. It helps investigators construct possibilities, but it does not distinguish between them. In the broader UFO and classified-secrets narrative that grew around McCasland’s disappearance, the belongings are often cited as suspicious clues. Yet the same facts fit several ordinary explanations that require no assumption of UFO-related foul play, intelligence involvement or secret-programme retaliation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">The origin of the conspiracy theory has been dated to the early 2026 disappearance of William Neil McCasland. McCasland, a 68-year-old fo...</span></span></span>
+As a result, the missing-item pattern has limited evidentiary value on its own. It helps investigators construct possibilities, but it does not distinguish between them. In the broader UFO and classified-secrets narrative that grew around McCasland’s disappearance, the belongings are often cited as suspicious clues. Yet the same facts fit several ordinary explanations that require no assumption of UFO-related foul play, intelligence involvement or secret-programme retaliation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">The origin of the conspiracy theory has been dated to the early 2026 disappearance of William Neil McCasland. McCasland, a 68-year-old fo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Missing Items Point to a Cover Up?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Missing Items Point to a Cover Up?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how to assess ambiguous evidence, cover-up claims, and extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how to assess ambiguous evidence, cover-up claims, and extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating extraordinary claims and UFO-related interpretations surrounding disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating extraordinary claims and UFO-related interpretations surrounding disappearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Helps readers understand why missing evidence and unexplained events can generate conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why missing evidence and unexplained events can generate conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing 411 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing 411">Missing 411</a>
-        </h4>
-        <p class="fr-book-author">By David Paulides</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing 411 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing 411">Missing 411</a>
+</h4>
+<p class="fr-book-author">By David Paulides</p>
         
-        <p class="fr-book-desc">Explores unexplained disappearances and competing interpretations, closely matching reader interest in missing-person speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unexplained disappearances and competing interpretations, closely matching reader interest in missing-person speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+411+by+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!"><img src="{{ '/assets/images/marketplace-covers/295f7e440ac06e4137a1.jpg' | relative_url }}" alt="Listing image for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!"><img src="{{ '/assets/images/marketplace-covers/295f7e440ac06e4137a1.jpg' | relative_url }}" alt="Listing image for US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">US Air Force Hangar 1 Challenge Coin Tail Fin MOMS 1 ERS 9 OG DET 1 Nice!!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/fd5d1f142fe063eff375.jpg' | relative_url }}" alt="Listing image for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/fd5d1f142fe063eff375.jpg' | relative_url }}" alt="Listing image for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="belongings-do-the-missing-items-point-to-a-cover-up-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,111 +749,111 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</p></details>
+   Link:<a href="https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/missing-government-security-man-compared-to-neil-mccasland-case-11828116</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing government security man compared to Neil...1 day ago — The 68-year-old&#x27;s phone, prescription glasses and wearable device...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abc7chicago.com  
-   Link: <a href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 ChicagoGeneral William Neil McCasland missing: Warm spring...Mar 18, 2026 — Still unaccounted for are McCasland&#x27;s wallet, a.38-cal...</p></details>
+   Link:<a href="https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 ChicagoGeneral William Neil McCasland missing: Warm spring...Mar 18, 2026 — Still unaccounted for are McCasland&#x27;s wallet, a.38-cal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: newsweek.com  
    Title: mccasland update ex fbi agent theory missing expert 11812428  
-   Link: <a href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</p></details>
+   Link:<a href="https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mccasland-update-ex-fbi-agent-theory-missing-expert-11812428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland Update: Ex-FBI Agent Shares Theory On...Apr 10, 2026 — His phone, prescription glasses, and wearable devices were...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The origin of the conspiracy theory has been dated to the early 2026 disappearance of William Neil McCasland. McCasland, a 68-year-old fo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The origin of the conspiracy theory has been dated to the early 2026 disappearance of William Neil McCasland. McCasland, a 68-year-old fo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Neil Mc Casland  
-   Link: <a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland... missing items included his hiking boots, wallet, and a.38 caliber revolver. Police also said he suffered from an un...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Neil_McCasland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Neil_McCasland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil McCasland... missing items included his hiking boots, wallet, and a.38 caliber revolver. Police also said he suffered from an un...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</p></details>
+   Link:<a href="https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/retired-air-force-general-vanishes-1-hour-window-from-home-gun-wallet-missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsRetired Air Force general vanishes in 1-hour window from...13 Mar 2026 — His phone, glasses and &quot;wearable devices&quot; were found in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — McCasland, the retired general, left home in February wit...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...2 days ago — McCasland, the retired general, left home in February wit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nypost.com  
    Title: 27, fears her husband "planned not to be found."  
-   Link: <a href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</p></details>
+   Link:<a href="https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/03/us-news/wife-of-missing-air-force-general-says-he-planned-not-to-be-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostWife of missing Air Force general says he &#x27;planned not to...April 3, 2026 — Apr 3, 2026 — The wife of William “Neil” McCasl...</p></details>
    Published: April 3, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General William &quot;Neil&quot; McCasland, 68, has been missing since February 27, 2026, after disappearing from his Albuquerque, New Me...</p></details>
+   Link:<a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General William &quot;Neil&quot; McCasland, 68, has been missing since February 27, 2026, after disappearing from his Albuquerque, New Me...</p></details>
    Published: February 27, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland vanished in February, carrying only a revolver. Bernalillo County Sheriff&#x27;s Office. Unfounded theories have linked...</p></details>
+   Link:<a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland vanished in February, carrying only a revolver. Bernalillo County Sheriff&#x27;s Office. Unfounded theories have linked...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXcl1KjlkoK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXcl1KjlkoK/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One morning this February, William Neil McCasland...38-caliber revolver remains unrecovered, and there is still no official account of t...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXcl1KjlkoK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXcl1KjlkoK/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One morning this February, William Neil McCasland...38-caliber revolver remains unrecovered, and there is still no official account of t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warm spring making it harder to find retired US Air Force...17 Mar 2026 — William Neil McCasland, missing general who retired from the U...</p></details>
+   Link:<a href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warm spring making it harder to find retired US Air Force...17 Mar 2026 — William Neil McCasland, missing general who retired from the U...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedailybeast.com  
-   Link: <a href="https://www.thedailybeast.com/shocking-new-details-emerge-in-search-for-missing-ufo-expert-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/shocking-new-details-emerge-in-search-for-missing-ufo-expert-william-neil-mccasland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A repairman was on-site around 10 a.m., and his wife left at 11:10 a.m. Upon returning at 12:04 p.m., McCasland was gone. His phone, glas...</p></details>
+   Link:<a href="https://www.thedailybeast.com/shocking-new-details-emerge-in-search-for-missing-ufo-expert-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/shocking-new-details-emerge-in-search-for-missing-ufo-expert-william-neil-mccasland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A repairman was on-site around 10 a.m., and his wife left at 11:10 a.m. Upon returning at 12:04 p.m., McCasland was gone. His phone, glas...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rs8nn2/updated_[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rs8nn2/updated_[timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated timeline by the Bernalillo County Sheriff&#x27;s Office...McCasland wearing a light green, long sleeve button-up outdoor shirt...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rs8nn2/updated_[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rs8nn2/updated_[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updated timeline by the Bernalillo County Sheriff&#x27;s Office...McCasland wearing a light green, long sleeve button-up outdoor shirt...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wmur9/posts/a-wallet-hiking-boots-and-a-38-revolver-are-missing-from-retired-air-force-gen-w/970248632169518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmur9/posts/a-wallet-hiking-boots-and-a-38-revolver-are-missing-from-retired-air-force-gen-w/970248632169518/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A wallet, hiking boots and a.38 revolver are missing from...A wallet, hiking boots and a.38 revolver are missing from retired Air Forc...</p></details>
+   Link:<a href="https://www.facebook.com/wmur9/posts/a-wallet-hiking-boots-and-a-38-revolver-are-missing-from-retired-air-force-gen-w/970248632169518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmur9/posts/a-wallet-hiking-boots-and-a-38-revolver-are-missing-from-retired-air-force-gen-w/970248632169518/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A wallet, hiking boots and a.38 revolver are missing from...A wallet, hiking boots and a.38 revolver are missing from retired Air Forc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1s5VmiFNYkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1s5VmiFNYkc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Something Sinister And Dangerous&quot; | Scientist And General Linked To UFOs Mysteriously Disappear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1s5VmiFNYkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1s5VmiFNYkc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Something Sinister And Dangerous&quot; | Scientist And General Linked To UFOs Mysteriously Disappear...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/general-mccasland-disappears-after-long-history-of-top-secret-work-comment-mccas/1522385469249444/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/general-mccasland-disappears-after-long-history-of-top-secret-work-comment-mccas/1522385469249444/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General McCasland disappears after long history of top...William Neil McCasland, 68, left his Albuquerque home on foot at approximately...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/general-mccasland-disappears-after-long-history-of-top-secret-work-comment-mccas/1522385469249444/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/general-mccasland-disappears-after-long-history-of-top-secret-work-comment-mccas/1522385469249444/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General McCasland disappears after long history of top...William Neil McCasland, 68, left his Albuquerque home on foot at approximately...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vanityfair.com  
    Title: 11 Scientists Are Dead or Missing  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of...2 days ago — One morning this February, William Neil McCasland walked out of his home in Albuquerque for the l...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of...2 days ago — One morning this February, William Neil McCasland walked out of his home in Albuquerque for the l...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pw_YdESRinM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pw_YdESRinM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Bodycam Footage of Missing Retired Air Force General Neil McCasland...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pw_YdESRinM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pw_YdESRinM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Bodycam Footage of Missing Retired Air Force General Neil McCasland...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abc7chicago/posts/a-retired-general-who-vanished-from-his-home-isnt-the-typical-missing-person-rea/1374954891333473/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7chicago/posts/a-retired-general-who-vanished-from-his-home-isnt-the-typical-missing-person-rea/1374954891333473/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland, who has been reported missing in Albuquerque. McCasland, 68, was last seen around 11:00 AM on February 27 in the...</p></details>
+   Link:<a href="https://www.facebook.com/abc7chicago/posts/a-retired-general-who-vanished-from-his-home-isnt-the-typical-missing-person-rea/1374954891333473/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7chicago/posts/a-retired-general-who-vanished-from-his-home-isnt-the-typical-missing-person-rea/1374954891333473/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>William Neil McCasland, who has been reported missing in Albuquerque. McCasland, 68, was last seen around 11:00 AM on February 27 in the...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-nasa-uap/
 description: Focused pages that expand on NASA Study.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_nasa_uap_evidence_4f9c9d
 parent_title: NASA Study
@@ -16,7 +16,7 @@ parent_permalink: /nasa-study/
 
 # Explore Topics in NASA Study
 
-The following pages expand on the main **[NASA Study]({{ '/nasa-study/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[NASA Study]({{ '/nasa-study/' | relative_url }})** page and cover its key branches in.
 
 - [Last Resort]({{ '/last-resort/' | relative_url }})
 - [Reporting]({{ '/reporting-c5cf6a/' | relative_url }})

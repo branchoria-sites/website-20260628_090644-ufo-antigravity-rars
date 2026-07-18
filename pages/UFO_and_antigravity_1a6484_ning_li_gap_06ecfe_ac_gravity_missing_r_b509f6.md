@@ -274,7 +274,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_ac_gravity_m
 
 ## Introduction
 
-The most important unresolved part of the [Ning Li]({{ 'ning-li/' | relative_url }}) story is not her later absence from public view but what happened to the work conducted through her private company, AC Gravity LLC. After leaving the University of Alabama in Huntsville, Li shifted from publicly visible academic research into a defence-funded environment. Public records indicate that AC Gravity received a U.S. Department of Defense award worth approximately $448,970 in 2001 to continue research related to Li’s unconventional gravity concepts. What makes the case significant is that the project appears to have generated no publicly available final report, peer-reviewed publication, patent trail, or widely documented technical outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+The most important unresolved part of the [Ning Li]({{ 'ning-li/' | relative_url }}) story is not her later absence from public view but what happened to the work conducted through her private company, AC Gravity LLC. After leaving the University of Alabama in Huntsville, Li shifted from publicly visible academic research into a defence-funded environment. Public records indicate that AC Gravity received a U.S. Department of Defense award worth approximately $448,970 in 2001 to continue research related to Li’s unconventional gravity concepts. What makes the case significant is that the project appears to have generated no publicly available final report, peer-reviewed publication, patent trail, or widely documented technical outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_ac_gravity_missing_r_b509f6-Illustration-1-dark.svg" | relative_url }}" alt="AC Gravity illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_ac_gravity_missing_r_b509f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_ning_li_gap_06ecfe_ac_gravity_missing_r_b509f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -287,18 +287,18 @@ For those examining claims about antigravity research, UFO-related propulsion th
 
 ### The reported defence grant and why it matters
 
-By the late 1990s, Ning Li had already attracted attention for theoretical work proposing that specially configured superconducting systems might generate measurable gravitomagnetic effects. Whether those ideas were correct remained highly controversial, but they were sufficiently intriguing to attract interest from government organisations and propulsion researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+By the late 1990s, Ning Li had already attracted attention for theoretical work proposing that specially configured superconducting systems might generate measurable gravitomagnetic effects. Whether those ideas were correct remained highly controversial, but they were sufficiently intriguing to attract interest from government organisations and propulsion researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
-In 1999, Li left academia and founded AC Gravity LLC in Huntsville, Alabama. According to public reporting and references to Department of Defense records, AC Gravity later received a defence-related award of roughly $448,970 in 2001 to continue work in this area. The funding is repeatedly cited in both journalistic investigations and government transaction summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+In 1999, Li left academia and founded AC Gravity LLC in Huntsville, Alabama. According to public reporting and references to Department of Defense records, AC Gravity later received a defence-related award of roughly $448,970 in 2001 to continue work in this area. The funding is repeatedly cited in both journalistic investigations and government transaction summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[huntsvillebusinessjournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
-The grant matters for a simple reason: it represents a transition from speculative academic research to government-sponsored development work. Many scientific ideas receive funding and then fail. Normally, however, those failures leave a paper trail—conference proceedings, final reports, technical assessments, negative results, or cancellation notices. In the AC Gravity case, the public record is unusually thin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+The grant matters for a simple reason: it represents a transition from speculative academic research to government-sponsored development work. Many scientific ideas receive funding and then fail. Normally, however, those failures leave a paper trail—conference proceedings, final reports, technical assessments, negative results, or cancellation notices. In the AC Gravity case, the public record is unusually thin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
 This absence has allowed two very different interpretations to emerge:
 
 * Supporters argue that the lack of public disclosure may indicate that the work entered a classified environment.
 * Critics argue that many small research programmes simply produce no meaningful results and therefore attract little attention once funding ends.
 
-The available public evidence does not decisively support either interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+The available public evidence does not decisively support either interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cb0UBm9V_6I" title="The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer">The Vanishing of Dr. Ning Li – America’s Anti-Gravity Pioneer | Missing Persons Archives</a></p><p class="youtube-embed-meta">Channel: Missing Persons Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cb0UBm9V_6I">Open on YouTube</a></p></div></div></div>
@@ -315,11 +315,11 @@ Researchers examining Li's career have noted several facts:
 * Her publicly indexed scientific publications effectively stop after the early 2000s.
 * No widely available final technical report from the AC Gravity defence-funded work has surfaced.
 * No major public patent portfolio emerged from the company.
-* Public discussion of the project becomes extremely sparse after the grant period ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+* Public discussion of the project becomes extremely sparse after the grant period ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
 </div>
 
-The contrast with Li's earlier career is striking. During her university years, her theories, experiments and criticisms appeared in journals and conference literature. After the move to AC Gravity, that public visibility largely disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+The contrast with Li's earlier career is striking. During her university years, her theories, experiments and criticisms appeared in journals and conference literature. After the move to AC Gravity, that public visibility largely disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 For observers interested in alleged suppressed technologies, this creates an evidentiary vacuum. The disappearance of documentation is often interpreted as evidence of success being hidden. Yet from a governance perspective, an equally important possibility is that the project produced inconclusive, negative or technically unconvincing results that never generated a significant publication programme.
 
@@ -329,18 +329,18 @@ For observers interested in alleged suppressed technologies, this creates an evi
 
 Although AC Gravity largely vanished from public scientific discussion, the record does not end immediately after the grant.
 
-One of the few documented post-grant appearances is a 2003 presentation reportedly delivered by Li at a MITRE conference under the title “Measurability of AC Gravity Fields”. Reporting indicates that she appeared alongside personnel connected with the U.S. Army Aviation and Missile Command. This demonstrates that work associated with the project had not completely ceased after the funding period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+One of the few documented post-grant appearances is a 2003 presentation reportedly delivered by Li at a MITRE conference under the title “Measurability of AC Gravity Fields”. Reporting indicates that she appeared alongside personnel connected with the U.S. Army Aviation and Missile Command. This demonstrates that work associated with the project had not completely ceased after the funding period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
-There are also references to a private communication from 2003 in which Li reportedly described experimental results involving an “11 kilowatts of output effect”. However, the underlying data, methodology and interpretation have not entered the public scientific record. Consequently, the claim cannot be independently evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+There are also references to a private communication from 2003 in which Li reportedly described experimental results involving an “11 kilowatts of output effect”. However, the underlying data, methodology and interpretation have not entered the public scientific record. Consequently, the claim cannot be independently evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
-These fragments are significant because they show that activity apparently continued beyond the grant award itself. They are not significant because they demonstrate a breakthrough. Publicly available evidence does not establish that any claimed effect was independently reproduced, validated, or converted into a practical technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
+These fragments are significant because they show that activity apparently continued beyond the grant award itself. They are not significant because they demonstrate a breakthrough. Publicly available evidence does not establish that any claimed effect was independently reproduced, validated, or converted into a practical technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A combination of the above">[Huntsville Business Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A combination of the above</span><span class="citation-popover-snippet">Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eS_rEzKdzBA" title="The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eS_rEzKdzBA" target="_blank" rel="noopener noreferrer">The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery</a></p><p class="youtube-embed-meta">Channel: Barely Sociable</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eS_rEzKdzBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eS_rEzKdzBA">Open on YouTube</a></p></div></div></div>
 
 ## The absent final report and publication trail
 
-A recurring feature of discussions about AC Gravity is the search for a final report. Researchers, journalists and Freedom of Information Act requesters have repeatedly attempted to locate documentation explaining what became of the defence-funded work. Publicly available records show that such requests have been made specifically because the project's outcomes remain unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Department of Defense Grant for AC Gravity LLC (2001)...Oct 12, 2022 — Ning Li in 2001 for her company AC Gravity LLC. She was a...</span></span></span>
+A recurring feature of discussions about AC Gravity is the search for a final report. Researchers, journalists and Freedom of Information Act requesters have repeatedly attempted to locate documentation explaining what became of the defence-funded work. Publicly available records show that such requests have been made specifically because the project's outcomes remain unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-snippet">Department of Defense Grant for AC Gravity LLC (2001)...Oct 12, 2022 — Ning Li in 2001 for her company AC Gravity LLC. She was a...</span></span></span>
 
 The difficulty is that absence itself is not evidence.
 
@@ -374,7 +374,7 @@ What can be stated with confidence is that:
 What cannot be demonstrated from the available record is that:
 
 [* AC Gravity proved antigravity.](#endnote-7 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r&quot;)...</p></details>
 * A revolutionary propulsion system was successfully developed.
 * The project was suppressed because it worked.
 * Li's later low public profile resulted from coercion or a conspiracy. [Huntsville Business Journal+2Wikipedia](https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/)
@@ -382,194 +382,194 @@ What cannot be demonstrated from the available record is that:
 From the perspective of the broader “Ning Li and the antigravity evidence gap” debate, AC Gravity is important precisely because it sits between documented research and undocumented outcomes. The defence grant is real. The public publication trail largely disappears. The missing link is the evidence needed to show what the funded research actually achieved. Until such documentation emerges, the silence surrounding AC Gravity remains an unresolved archival and governance question rather than proof of either a breakthrough or a cover-up. [Huntsville Business Journal+2Wikipedia](https://huntsvillebusinessjournal.com/news/2023/07/30/solving-the-mystery-of-huntsvilles-brilliant-scientist-disappearing/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened After AC Gravity Went Quiet?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened After AC Gravity Went Quiet?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly matches the page’s themes of gravity research, secrecy, defence interest, and missing public trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches the page’s themes of gravity research, secrecy, defence interest, and missing public trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unconventional Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8mxaBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unconventional Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unconventional Flying Objects">Unconventional Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Hill, Paul R.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unconventional Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8mxaBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Unconventional Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unconventional Flying Objects">Unconventional Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Hill, Paul R.</p>
         
-        <p class="fr-book-desc">Covers scientific and propulsion-oriented interpretations of UFO flight, close to antigravity speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers scientific and propulsion-oriented interpretations of UFO flight, close to antigravity speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unconventional+Flying+Objects+by+Hill%2C+Paul+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for evaluating extraordinary claims, missing evidence, and the growth of speculation around unresolved mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supports the wider UFO-government documentation lane without relying on weak exact-topic book inventory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the wider UFO-government documentation lane without relying on weak exact-topic book inventory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unconventional+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unconventional Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unconventional+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unconventional Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ac-gravity-what-happened-after-ac-gravity-went-quiet-ufo-and-antigravity-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-after-ac-gravity-went-quiet-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-happened-after-ac-gravity-went-quiet-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,84 +775,84 @@ From the perspective of the broader “Ning Li and the antigravity evidence gap�
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ning Li (physicist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: muckrock.com  
-   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Grant for AC Gravity LLC (2001)...Oct 12, 2022 — Ning Li in 2001 for her company AC Gravity LLC. She was a...</p></details>
+   Link:<a href="https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/department-of-defense-grant-for-ac-gravity-llc-2001-department-of-defense-under-secretary-of-defense-for-intelligence-and-security-135082/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Grant for AC Gravity LLC (2001)...Oct 12, 2022 — Ning Li in 2001 for her company AC Gravity LLC. She was a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of [Superconductors](&amp;#123;&amp;#123; &#x27;superconductors/&#x27; | relative_url &amp;#125;&amp;#125;) in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the effects of a gravitomagn...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of [Superconductors](&amp;#123;&amp;#123; &#x27;superconductors/&#x27; | relative_url &amp;#125;&amp;#125;) in Gravity ResearchMar 23, 2010 — In 1991, Torr and Ning Li published a paper on the effects of a gravitomagn...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tilln.com  
-   Link: <a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...May 14, 2024 — In 2001, Li&#x27;s company received a $450,000 grant from the Depa...</p></details>
+   Link:<a href="https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/" target="_blank" rel="noopener noreferrer nofollow">https://tilln.com/season-4/ning-li-this-scientist-got-450k-from-the-dod-then-she-disappeared/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li | This Scientist Got $450k From The DoD, Then She...May 14, 2024 — In 2001, Li&#x27;s company received a $450,000 grant from the Depa...</p></details>
    Published: May 14, 2024  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mccallisaiah.medium.com  
-   Link: <a href="https://mccallisaiah.medium.com/the-scientist-that-discovered-antigravity-then-disappeared-completely-a75dacacd3bc" target="_blank" rel="noopener noreferrer nofollow">https://mccallisaiah.medium.com/the-scientist-that-discovered-antigravity-then-disappeared-completely-a75dacacd3bc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r...</p></details>
+   Link:<a href="https://mccallisaiah.medium.com/the-scientist-that-discovered-antigravity-then-disappeared-completely-a75dacacd3bc" target="_blank" rel="noopener noreferrer nofollow">https://mccallisaiah.medium.com/the-scientist-that-discovered-antigravity-then-disappeared-completely-a75dacacd3bc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist That “Discovered Antigravity” Then...In 2001, the U.S. Department of Defense gave AC Gravity an impressive $448,970 grant to r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
    Title: the truth about antigravity myths legends and real science 86a5b64b3c06  
-   Link: <a href="https://medium.com/%40svenpiper/the-truth-about-antigravity-myths-legends-and-real-science-86a5b64b3c06" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40svenpiper/the-truth-about-antigravity-myths-legends-and-real-science-86a5b64b3c06</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Antigravity: Myths, Legends, and Real...Public records indicate that, in 2001, the U.S. Department of Defense awarded AC...</p></details>
+   Link:<a href="https://medium.com/%40svenpiper/the-truth-about-antigravity-myths-legends-and-real-science-86a5b64b3c06" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40svenpiper/the-truth-about-antigravity-myths-legends-and-real-science-86a5b64b3c06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Antigravity: Myths, Legends, and Real...Public records indicate that, in 2001, the U.S. Department of Defense awarded AC...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXQWYNWGHL6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXQWYNWGHL6/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She was openly studying anti-gravity technology when she died in 2022. Her death was deemed...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXQWYNWGHL6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXQWYNWGHL6/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She was openly studying anti-gravity technology when she died in 2022. Her death was deemed...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ShaneFrakes/status/2045501424373567895" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ShaneFrakes/status/2045501424373567895</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ity LLC, whose work reportedly drew interest and funding connected...Read more...</p></details>
+   Link:<a href="https://x.com/ShaneFrakes/status/2045501424373567895" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ShaneFrakes/status/2045501424373567895</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity LLC, whose work reportedly drew interest and funding connected...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: avsim.com  
    Title: 614337 anti gravity the secret space race  
-   Link: <a href="https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity: The Secret Space Race31 Jan 2022 — Li is reported to have left the University of Alabama in 1999 to found the company AC Gr...</p></details>
+   Link:<a href="https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity: The Secret Space Race31 Jan 2022 — Li is reported to have left the University of Alabama in 1999 to found the company AC Gr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: curious-droid.com  
    Title: Could Anti-gravity Really be Possible?  
-   Link: <a href="https://curious-droid.com/1900/could-anti-gravity-really-be-possible-2/" target="_blank" rel="noopener noreferrer nofollow">https://curious-droid.com/1900/could-anti-gravity-really-be-possible-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Droid30 Apr 2026 — Alabama and set up her own company AC Gravity LLC and in 2001 was awarded a grant worth just under $450,000 fr...</p></details>
+   Link:<a href="https://curious-droid.com/1900/could-anti-gravity-really-be-possible-2/" target="_blank" rel="noopener noreferrer nofollow">https://curious-droid.com/1900/could-anti-gravity-really-be-possible-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Droid30 Apr 2026 — Alabama and set up her own company AC Gravity LLC and in 2001 was awarded a grant worth just under $450,000 fr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: The Mysterious Disappearance of Dr  
-   Link: <a href="https://www.facebook.com/groups/398834436300401/posts/669106165939892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/398834436300401/posts/669106165939892/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li and Her...Hello, new here and started my journey to learn how to build one of these incredible machines. I was doing basic resea...</p></details>
+   Link:<a href="https://www.facebook.com/groups/398834436300401/posts/669106165939892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/398834436300401/posts/669106165939892/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ning Li and Her...Hello, new here and started my journey to learn how to build one of these incredible machines. I was doing basic resea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-[amy-eskridge" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-[amy-eskridge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What it does show is that she...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-[amy-eskridge" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-[amy-eskridge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What it does show is that she...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cb0UBm9V_6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Anti-Gravity Files Revealed: The Ning Li Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cb0UBm9V_6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cb0UBm9V_6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Anti-Gravity Files Revealed: The Ning Li Story...</p></details>

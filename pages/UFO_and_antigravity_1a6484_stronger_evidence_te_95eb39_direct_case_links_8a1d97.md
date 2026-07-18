@@ -280,7 +280,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_dir
 
 ## Introduction
 
-If allegations about UFO, advanced propulsion, or alleged antigravity researchers being targeted were ever to move from speculation towards a demonstrable conspiracy, the crucial step would be establishing direct links between separate cases. A list of scientists who died, disappeared, or suffered unusual misfortune is not, by itself, evidence of a coordinated campaign. Investigators would need proof that the same people, tools, communications channels, operational methods, or logistical networks appeared across multiple incidents. Modern criminal investigations routinely distinguish between coincidence and organised activity by identifying such links through forensic, digital, financial, and intelligence analysis. College of Policing+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
+If allegations about UFO, advanced propulsion, or alleged antigravity researchers being targeted were ever to move from speculation towards a demonstrable conspiracy, the crucial step would be establishing direct links between separate cases. A list of scientists who died, disappeared, or suffered unusual misfortune is not, by itself, evidence of a coordinated campaign. Investigators would need proof that the same people, tools, communications channels, operational methods, or logistical networks appeared across multiple incidents. Modern criminal investigations routinely distinguish between coincidence and organised activity by identifying such links through forensic, digital, financial, and intelligence analysis. College of Policing+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_direct_case_links_8a1d97-Illustration-1-dark.svg" | relative_url }}" alt="Direct Links illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_direct_case_links_8a1d97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39_direct_case_links_8a1d97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,9 +297,9 @@ Examples include:
 * Common surveillance activity directed at different targets.
 * The same vehicle, device, account, or identity appearing across investigations.
 * Identical forensic traces connecting otherwise unrelated scenes.
-* Documents showing planning, targeting, or tasking involving more than one individual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">using forensic intelligence combat serial and organized violent crimes</span><span class="citation-popover-snippet">National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</span></span></span>
+* Documents showing planning, targeting, or tasking involving more than one individual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[ojp.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">using forensic intelligence combat serial and organized violent crimes</span><span class="citation-popover-snippet">National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</span></span></span>
 
-Investigators often refer to this process as linkage analysis: identifying relationships among people, places, communications, transactions, and events that are difficult to explain as chance. In organised crime and serial-offence investigations, the existence of such links frequently determines whether authorities treat incidents as isolated or connected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing+2westmidlands-pcc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
+Investigators often refer to this process as linkage analysis: identifying relationships among people, places, communications, transactions, and events that are difficult to explain as chance. In organised crime and serial-offence investigations, the existence of such links frequently determines whether authorities treat incidents as isolated or connected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
 
 ## Shared Suspects, Devices, and Movement Records
 
@@ -307,7 +307,7 @@ Investigators often refer to this process as linkage analysis: identifying relat
 
 The most straightforward connection would be a shared suspect.
 
-Suppose two researchers died years apart under suspicious circumstances. If phone records, travel records, surveillance footage, witness statements, or forensic evidence placed the same individual near both victims shortly before the incidents, investigators would have a concrete reason to explore a coordinated explanation. Such links are often far more persuasive than broad claims about institutional secrecy because they connect actual people to actual events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
+Suppose two researchers died years apart under suspicious circumstances. If phone records, travel records, surveillance footage, witness statements, or forensic evidence placed the same individual near both victims shortly before the incidents, investigators would have a concrete reason to explore a coordinated explanation. Such links are often far more persuasive than broad claims about institutional secrecy because they connect actual people to actual events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
 
 The same principle applies to intermediaries. A common recruiter, handler, contractor, investigator, or apparent associate appearing repeatedly across cases could become a significant lead.
 
@@ -318,7 +318,7 @@ The same principle applies to intermediaries. A common recruiter, handler, contr
 
 Modern investigations increasingly rely on digital evidence.
 
-A stronger pattern would emerge if several victims received messages from the same account, communicated with the same encrypted identifier, accessed the same server, or were targeted by the same malware or surveillance tool. Call-data analysis, email records, messaging metadata, and network mapping are routinely used to establish such connections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
+A stronger pattern would emerge if several victims received messages from the same account, communicated with the same encrypted identifier, accessed the same server, or were targeted by the same malware or surveillance tool. Call-data analysis, email records, messaging metadata, and network mapping are routinely used to establish such connections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
 
 For example, if multiple researchers reported unusual contacts shortly before their deaths and investigators later discovered that those contacts originated from the same digital infrastructure, the cases would become materially more connected than they appear in public narratives.
 
@@ -326,7 +326,7 @@ For example, if multiple researchers reported unusual contacts shortly before th
 
 Movement records can also create powerful links.
 
-Geographic profiling and pattern-of-life analysis are designed to identify recurring movements, repeated visits, and suspicious proximity between people and events. If a vehicle, mobile phone, airline itinerary, or travel identity appeared near several incidents, investigators would have a measurable connection rather than a thematic similarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
+Geographic profiling and pattern-of-life analysis are designed to identify recurring movements, repeated visits, and suspicious proximity between people and events. If a vehicle, mobile phone, airline itinerary, or travel identity appeared near several incidents, investigators would have a measurable connection rather than a thematic similarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
 
 This kind of evidence is especially valuable because it can often be independently corroborated through multiple data sources.
 
@@ -334,7 +334,7 @@ This kind of evidence is especially valuable because it can often be independent
 
 A recurring weakness in many suspicious-death compilations is that they rely on category membership rather than case linkage.
 
-Two scientists may have: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Mysterious String Of Missing Or Dead Scientists Sparks Investigation &#124; 10 News+</span><span class="citation-popover-snippet">12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On? - YouTube The Infographics Show · 291K views...</span></span></span>
+Two scientists may have:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Mysterious String Of Missing Or Dead Scientists Sparks Investigation &#124; 10 News+</span><span class="citation-popover-snippet">12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On? - YouTube The Infographics Show · 291K views...</span></span></span>
 
 * Worked in [aerospace]({{ 'aerospace/' | relative_url }}).
 * Held security [clearances]({{ 'clearances/' | relative_url }}).
@@ -348,7 +348,7 @@ Two scientists may have: <span class="citation-chip-wrap"><a class="citation-chi
 
 </div>
 
-Those similarities may explain why observers place the cases in the same narrative. They do not establish that the events themselves are connected. Investigators specifically warn against treating network proximity as proof of coordinated activity because large datasets naturally generate superficial associations. Apparent connections must survive closer examination and be supported by independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmidlands-pcc.gov.uk">[westmidlands-pcc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmidlands-pcc.gov.uk</span><span class="citation-popover-snippet">Social Network Analytics in Policing and SecurityIn policing, network analysis allows information and intelligence stored on the police d...</span></span></span>
+Those similarities may explain why observers place the cases in the same narrative. They do not establish that the events themselves are connected. Investigators specifically warn against treating network proximity as proof of coordinated activity because large datasets naturally generate superficial associations. Apparent connections must survive closer examination and be supported by independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westmidlands-pcc.gov.uk">[westmidlands-pcc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westmidlands-pcc.gov.uk</span><span class="citation-popover-snippet">Social Network Analytics in Policing and SecurityIn policing, network analysis allows information and intelligence stored on the police d...</span></span></span>
 
 This distinction matters because many industries with sensitive workforces produce [clusters]({{ 'clusters/' | relative_url }}) of seemingly related events simply due to the size of the population involved. Without evidence that crosses from one case into another, the pattern remains circumstantial.
 
@@ -368,11 +368,11 @@ Potential examples include:
 * Shared tool marks or weapon signatures.
 * The same forged documents appearing in different investigations.
 * Repeated use of a distinctive poisoning method.
-* Common electronic devices recovered from separate incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trace_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trace evidence</span><span class="citation-popover-snippet">Trace evidence</span></span></span>
+* Common electronic devices recovered from separate incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trace_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trace evidence</span><span class="citation-popover-snippet">Trace evidence</span></span></span>
 
 </div>
 
-Modern forensic intelligence systems are specifically designed to discover these relationships by comparing evidence across databases and investigations. Rather than examining each incident in isolation, investigators look for recurring signatures that may indicate a common offender or network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">using forensic intelligence combat serial and organized violent crimes</span><span class="citation-popover-snippet">National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</span></span></span>
+Modern forensic intelligence systems are specifically designed to discover these relationships by comparing evidence across databases and investigations. Rather than examining each incident in isolation, investigators look for recurring signatures that may indicate a common offender or network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">using forensic intelligence combat serial and organized violent crimes</span><span class="citation-popover-snippet">National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</span></span></span>
 
 In the context of alleged targeting of researchers, the discovery of matching forensic signatures across multiple deaths would represent a major shift in evidential strength.
 
@@ -392,7 +392,7 @@ Examples might include:
 * Messages containing instructions regarding multiple individuals.
 * Threats sent to different victims from the same source.
 * Recovered planning documents naming several people.
-* Recorded conversations describing a broader operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
+* Recorded conversations describing a broader operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-intelligence.com">[Cambridge Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-intelligence.com</span><span class="citation-popover-title">We look at 6 popular ways to improve investigative workflows</span><span class="citation-popover-snippet">Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</span><span class="citation-popover-meta">Published: May 15, 2024</span></span></span>
 
 </div>
 
@@ -418,207 +418,207 @@ That disclosure could include:
 * Forensic laboratory findings.
 * Witness testimony.
 * Financial records showing common actors.
-* Intelligence assessments supported by underlying evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41935-025-00456-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The utilisation of scientific crime investigation methods and...by HS Bakhtiar · 2025 · Cited by 21 — The extent to which forens...</span></span></span>
+* Intelligence assessments supported by underlying evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41935-025-00456-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The utilisation of scientific crime investigation methods and...by HS Bakhtiar · 2025 · Cited by 21 — The extent to which forens...</span></span></span>
 
 </div>
 
 Importantly, investigators do not need to prove every detail of a motive before demonstrating a connection. What they must show is that separate cases are tied together by verifiable evidence rather than by shared subject matter.
 
-In allegations involving UFO or antigravity researchers, this remains the critical threshold. A cluster of unusual deaths may generate questions, but only direct links—shared suspects, shared communications, shared operational tools, shared movements, or shared forensic traces—can transform a collection of cases into evidence of a coordinated campaign. College of Policing+2National Institute of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
+In allegations involving UFO or antigravity researchers, this remains the critical threshold. A cluster of unusual deaths may generate questions, but only direct links—shared suspects, shared communications, shared operational tools, shared movements, or shared forensic traces—can transform a collection of cases into evidence of a coordinated campaign. College of Policing+2National Institute of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-snippet">By looking at how crimes are committed and the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BXsnwYjilbQ" title="Mysterious String Of Missing Or Dead Scientists Sparks Investigation | 10 News+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer">Mysterious String Of Missing Or Dead Scientists Sparks Investigation | 10 News+</a></p><p class="youtube-embed-meta">Channel: 10 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BXsnwYjilbQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would Actually Connect Separate Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would Actually Connect Separate Cases?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented testimony and evidentiary standards in UFO cases rather than loose speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented testimony and evidentiary standards in UFO cases rather than loose speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how extraordinary claims should be tested with evidence rather than pattern-matching or coincidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explains how extraordinary claims should be tested with evidence rather than pattern-matching or coincidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=93OZQQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=93OZQQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Examines how intelligence-linked narratives, sources, and repeated patterns can shape UFO belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how intelligence-linked narratives, sources, and repeated patterns can shape UFO belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Homicide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AVMMmQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Homicide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Homicide">Homicide</a>
-        </h4>
-        <p class="fr-book-author">By David Simon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Homicide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AVMMmQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Homicide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Homicide">Homicide</a>
+</h4>
+<p class="fr-book-author">By David Simon</p>
         
-        <p class="fr-book-desc">Shows how investigators distinguish real links between cases from coincidence, rumour, and background similarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators distinguish real links between cases from coincidence, rumour, and background similarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Homicide+by+David+Simon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="direct-links-what-would-actually-connect-separate-cases-ufo-and-antigravity-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ In allegations involving UFO or antigravity researchers, this remains the critic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ In allegations involving UFO or antigravity researchers, this remains the critic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ In allegations involving UFO or antigravity researchers, this remains the critic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ In allegations involving UFO or antigravity researchers, this remains the critic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ In allegations involving UFO or antigravity researchers, this remains the critic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,91 +824,91 @@ In allegations involving UFO or antigravity researchers, this remains the critic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Link analysis  
-   Link: <a href="https://en.wikipedia.org/wiki/Link_analysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Link_analysis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Link_analysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Link_analysis</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Trace evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Trace_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trace_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trace_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trace_evidence</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: westmidlands-pcc.gov.uk  
-   Link: <a href="https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Network Analytics in Policing and SecurityIn policing, network analysis allows information and intelligence stored on the police d...</p></details>
+   Link:<a href="https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=" target="_blank" rel="noopener noreferrer nofollow">https://www.westmidlands-pcc.gov.uk/wp-content/uploads/2021/10/2021-07-21-EC-Agenda-Item-2-Social-Network-Analysis-Primer.pdf?x95272=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Network Analytics in Policing and SecurityIn policing, network analysis allows information and intelligence stored on the police d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge-intelligence.com  
    Title: We look at 6 popular ways to improve investigative workflows  
-   Link: <a href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://cambridge-intelligence.com/blog/link-analysis-techniques/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</p></details>
+   Link:<a href="https://cambridge-intelligence.com/blog/link-analysis-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://cambridge-intelligence.com/blog/link-analysis-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge Intelligence6 Link Analysis Techniques Every Investigator Should KnowMay 15, 2024 — 15 May 2024 — Find out which link analysis...</p></details>
    Published: May 15, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Geographic profiling  
-   Link: <a href="https://en.wikipedia.org/wiki/Geographic_profiling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geographic_profiling</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Geographic_profiling" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geographic_profiling</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41935-025-00456-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41935-025-00456-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The utilisation of scientific crime investigation methods and...by HS Bakhtiar · 2025 · Cited by 21 — The extent to which forens...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41935-025-00456-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41935-025-00456-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The utilisation of scientific crime investigation methods and...by HS Bakhtiar · 2025 · Cited by 21 — The extent to which forens...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: college.police.uk  
-   Link: <a href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By looking at how crimes are committed and the...Read more...</p></details>
+   Link:<a href="https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/automated-approach-crime-linkage-through-administrative-records-neighbourhood-crimes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By looking at how crimes are committed and the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nij.ojp.gov  
    Title: using forensic intelligence combat serial and organized violent crimes  
-   Link: <a href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</p></details>
+   Link:<a href="https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/articles/using-forensic-intelligence-combat-serial-and-organized-violent-crimes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeUsing Forensic Intelligence To Combat Serial and Organized...21 Oct 2020 — A forensic intelligence approach...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-za/messages/question/13605621/briefly-describe-the-importance-of-linking-a-suspect-to-other-crimes-during-aninvestigation-and" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/messages/question/13605621/briefly-describe-the-importance-of-linking-a-suspect-to-other-crimes-during-aninvestigation-and</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Linking a Suspect to Other CrimesBriefly describe the importance of linking a suspect to other crimes during an investigati...</p></details>
+   Link:<a href="https://www.studocu.com/en-za/messages/question/13605621/briefly-describe-the-importance-of-linking-a-suspect-to-other-crimes-during-aninvestigation-and" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-za/messages/question/13605621/briefly-describe-the-importance-of-linking-a-suspect-to-other-crimes-during-aninvestigation-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Linking a Suspect to Other CrimesBriefly describe the importance of linking a suspect to other crimes during an investigati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hansken.nl  
-   Link: <a href="https://www.hansken.nl/publications-and-documents/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.hansken.nl/publications-and-documents/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications | HanskenBelow, you find a collection of several publications, articles, links and references. In the subnavigation, you can...</p></details>
+   Link:<a href="https://www.hansken.nl/publications-and-documents/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.hansken.nl/publications-and-documents/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publications | HanskenBelow, you find a collection of several publications, articles, links and references. In the subnavigation, you can...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLaw enforcement use of genetic genealogy databases  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by OM Tuazon · 2024 · Cited by 37 — We define iFGG as the use by law enforcement of genetic genealogy combined with traditional geneal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10876674/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by OM Tuazon · 2024 · Cited by 37 — We define iFGG as the use by law enforcement of genetic genealogy combined with traditional geneal...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Mysterious String Of Missing Or Dead Scientists Sparks Investigation | 10 News+  
-   Link: <a href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXsnwYjilbQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On? - YouTube The Infographics Show · 291K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BXsnwYjilbQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXsnwYjilbQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On? - YouTube The Infographics Show · 291K views...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Mysterious Death of Antigravity Scientist [Amy Eskridge](&#123;&#123; 'amy-eskridge/' | relative_url &#125;&#125;) | Julian Dorey  
-   Link: <a href="https://www.youtube.com/watch?v=4X4gUnJchpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X4gUnJchpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4X4gUnJchpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X4gUnJchpo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious case of missing and dead scientists tied to UFO programs sounds alarms...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Investigates Deaths and Disappearances of 10 US Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9tqs6Z3OQSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tqs6Z3OQSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI Investigates Deaths and Disappearances of 10 US Scientists...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: FBI Investigates Deaths and Disappearances of 10 US Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=S63mE2PwAIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S63mE2PwAIg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious String Of Missing Or Dead Scientists Sparks Investigation | 10 News+...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S63mE2PwAIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S63mE2PwAIg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious String Of Missing Or Dead Scientists Sparks Investigation | 10 News+...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hp02QoYzN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Death of Antigravity Scientist Amy Eskridge | Julian Dorey...</p></details>

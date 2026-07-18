@@ -280,11 +280,11 @@ image: /assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_sk
 
 ## Introduction
 
-CBS News’ reporting on the deaths and disappearances of scientists and staff linked to nuclear and [aerospace]({{ 'aerospace/' | relative_url }}) facilities did more than publicise a federal review. It also highlighted a key counterargument offered by outside experts: before treating a cluster of cases as evidence of a coordinated campaign, investigators must establish something more specific than a shared connection to sensitive research. The practical test many experts applied was simple: were the individuals working on the same project, in the same programme, or in possession of the same sensitive information? If not, the existence of a genuine pattern becomes much harder to demonstrate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
+CBS News’ reporting on the deaths and disappearances of scientists and staff linked to nuclear and [aerospace]({{ 'aerospace/' | relative_url }}) facilities did more than publicise a federal review. It also highlighted a key counterargument offered by outside experts: before treating a cluster of cases as evidence of a coordinated campaign, investigators must establish something more specific than a shared connection to sensitive research. The practical test many experts applied was simple: were the individuals working on the same project, in the same programme, or in possession of the same sensitive information? If not, the existence of a genuine pattern becomes much harder to demonstrate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-1-dark.svg" | relative_url }}" alt="Expert Test illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader discussion about alleged links to UFO research, antigravity concepts, or classified aerospace work, this expert scepticism became one of the most important checks on the rumour. Rather than dismissing the deaths and disappearances outright, specialists argued that the available evidence did not yet show the kind of operational connection that would be expected if the cases were part of a single conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
+Within the broader discussion about alleged links to UFO research, antigravity concepts, or classified aerospace work, this expert scepticism became one of the most important checks on the rumour. Rather than dismissing the deaths and disappearances outright, specialists argued that the available evidence did not yet show the kind of operational connection that would be expected if the cases were part of a single conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YcHt-OBkabU" title="UFO insider reveals pattern behind missing scientists | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer">UFO insider reveals pattern behind missing scientists | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 509.8K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YcHt-OBkabU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YcHt-OBkabU">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ Within the broader discussion about alleged links to UFO research, antigravity c
 
 A recurring theme in expert commentary was that employment at a government laboratory is not, by itself, a meaningful connection.
 
-The scientists and staff discussed in media coverage were associated with organisations such as NASA's Jet Propulsion Laboratory, [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory, military research programmes, universities, and private-sector aerospace work. However, those institutional links did not automatically imply that they worked together, handled the same classified material, or even operated in related technical fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
+The scientists and staff discussed in media coverage were associated with organisations such as NASA's Jet Propulsion Laboratory, [Los Alamos]({{ 'los-alamos/' | relative_url }}) National Laboratory, military research programmes, universities, and private-sector aerospace work. However, those institutional links did not automatically imply that they worked together, handled the same classified material, or even operated in related technical fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
 
-One expert cited in reporting surrounding the controversy was Harvard physicist Avi Loeb, who argued that the cases appeared unrelated because the individuals had different areas of expertise. His point reflected a standard investigative principle: if a coordinated effort were targeting people because of what they knew, investigators would normally expect a clearer overlap in knowledge, projects, access, or organisational networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
+One expert cited in reporting surrounding the controversy was Harvard physicist Avi Loeb, who argued that the cases appeared unrelated because the individuals had different areas of expertise. His point reflected a standard investigative principle: if a coordinated effort were targeting people because of what they knew, investigators would normally expect a clearer overlap in knowledge, projects, access, or organisational networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
 
-This distinction matters because online narratives often treated broad categories—such as “scientists”, “nuclear researchers”, or “people connected to secret programmes”—as though they represented a single community. Experts instead asked whether there was evidence of direct professional intersection. Public reporting produced little indication that such a common thread had been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American FBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the</span><span class="citation-popover-snippet">Scientific AmericanFBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the r...</span></span></span>
+This distinction matters because online narratives often treated broad categories—such as “scientists”, “nuclear researchers”, or “people connected to secret programmes”—as though they represented a single community. Experts instead asked whether there was evidence of direct professional intersection. Public reporting produced little indication that such a common thread had been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American FBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the</span><span class="citation-popover-snippet">Scientific AmericanFBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the r...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HDHK51O__Y0" title="FBI investigating deaths, disappearances of staff at secretive government laboratories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer">FBI investigating deaths, disappearances of staff at secretive government laboratories</a></p><p class="youtube-embed-meta">Channel: Face the Nation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HDHK51O__Y0">Open on YouTube</a></p></div></div></div>
@@ -306,11 +306,11 @@ This distinction matters because online narratives often treated broad categorie
 
 Another sceptical argument focused on the sheer size of the [institutions]({{ 'institutions/' | relative_url }}) involved.
 
-The American nuclear-security and aerospace research ecosystem employs tens of thousands of people across national laboratories, contractors, military organisations, universities, and associated facilities. In such a large population, experts noted, unusual deaths, disappearances, accidents, illnesses, crimes, and personal crises will inevitably occur over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
+The American nuclear-security and aerospace research ecosystem employs tens of thousands of people across national laboratories, contractors, military organisations, universities, and associated facilities. In such a large population, experts noted, unusual deaths, disappearances, accidents, illnesses, crimes, and personal crises will inevitably occur over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
 
-Former National Nuclear Security Administration official Frank Rose offered perhaps the clearest version of this reasoning. While acknowledging that investigators might uncover unusual details in individual cases, he expressed doubt that a single explanation would connect them all. His argument was essentially demographic rather than conspiratorial: large organisations contain the same range of human experiences and problems found in the wider population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
+Former National Nuclear Security Administration official Frank Rose offered perhaps the clearest version of this reasoning. While acknowledging that investigators might uncover unusual details in individual cases, he expressed doubt that a single explanation would connect them all. His argument was essentially demographic rather than conspiratorial: large organisations contain the same range of human experiences and problems found in the wider population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
 
-This does not prove that no connection exists. Instead, it raises the evidentiary threshold. In a community numbering many thousands, a handful of apparently connected tragedies can emerge by chance unless there is additional evidence showing a common mechanism. Experts therefore viewed the laboratory connection as a starting point for investigation rather than proof of a hidden campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American FBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the</span><span class="citation-popover-snippet">Scientific AmericanFBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the r...</span></span></span>
+This does not prove that no connection exists. Instead, it raises the evidentiary threshold. In a community numbering many thousands, a handful of apparently connected tragedies can emerge by chance unless there is additional evidence showing a common mechanism. Experts therefore viewed the laboratory connection as a starting point for investigation rather than proof of a hidden campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/fbi-investigating-possible-links-between-deaths-and-disappearances-of-at-least-10-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American FBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the</span><span class="citation-popover-snippet">Scientific AmericanFBI investigating possible links between deaths and ...3 days ago — The FBI is looking for any connections among the r...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-2-dark.svg" | relative_url }}" alt="Expert Test illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,7 +318,7 @@ This does not prove that no connection exists. Instead, it raises the evidentiar
 
 The most significant contribution of expert scepticism was not to solve the mystery but to change the question being asked.
 
-Online discussions often began with an assumption that the pattern itself required explanation: multiple scientists connected to sensitive work had died or disappeared, therefore some coordinating force must be responsible. Experts reversed that logic. They argued that the burden of proof remained on demonstrating a meaningful connection between the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing</span><span class="citation-popover-snippet">It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</span></span></span>
+Online discussions often began with an assumption that the pattern itself required explanation: multiple scientists connected to sensitive work had died or disappeared, therefore some coordinating force must be responsible. Experts reversed that logic. They argued that the burden of proof remained on demonstrating a meaningful connection between the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair11 Scientists Are Dead or Missing</span><span class="citation-popover-snippet">It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</span></span></span>
 
 This reframing encouraged attention to several practical questions:
 
@@ -332,9 +332,9 @@ This reframing encouraged attention to several practical questions:
 
 </div>
 
-Public reporting provided little evidence that these questions had been answered affirmatively. Instead, accounts repeatedly noted that the cases differed widely in circumstances, locations, timelines, and professional backgrounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
+Public reporting provided little evidence that these questions had been answered affirmatively. Instead, accounts repeatedly noted that the cases differed widely in circumstances, locations, timelines, and professional backgrounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
 
-As a result, expert commentary shifted the discussion away from the dramatic possibility of a coordinated campaign targeting people connected to UFOs, antigravity research, or national-security science, and toward a more disciplined evidentiary standard. The existence of a cluster was not denied; what was questioned was whether the cluster had enough specificity to support the stronger claim that a single hidden cause lay behind it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com+2The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
+As a result, expert commentary shifted the discussion away from the dramatic possibility of a coordinated campaign targeting people connected to UFOs, antigravity research, or national-security science, and toward a more disciplined evidentiary standard. The existence of a cluster was not denied; what was questioned was whether the cluster had enough specificity to support the stronger claim that a single hidden cause lay behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/afl7HoELxDY" title="Investigation into deaths, disappearances of staff at secretive government labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=afl7HoELxDY" target="_blank" rel="noopener noreferrer">Investigation into deaths, disappearances of staff at secretive government labs</a></p><p class="youtube-embed-meta">Channel: CBS News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=afl7HoELxDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=afl7HoELxDY">Open on YouTube</a></p></div></div></div>
@@ -343,202 +343,202 @@ As a result, expert commentary shifted the discussion away from the dramatic pos
 
 The practical test applied by outside experts was less about disproving a conspiracy than about distinguishing coincidence from coordination.
 
-In the CBS reporting, federal agencies were examining whether links existed among the cases. Experts largely agreed that such a review was reasonable. Where they expressed caution was in the leap from “people connected to sensitive institutions” to “people connected to the same secret”. Until evidence showed shared projects, shared information, or shared threats, many specialists regarded the pattern as suggestive but unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
+In the CBS reporting, federal agencies were examining whether links existed among the cases. Experts largely agreed that such a review was reasonable. Where they expressed caution was in the leap from “people connected to sensitive institutions” to “people connected to the same secret”. Until evidence showed shared projects, shared information, or shared threats, many specialists regarded the pattern as suggestive but unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</span></span></span>
 
-For readers assessing claims about UFO-related research, advanced propulsion programmes, or alleged antigravity work, that distinction became the central lesson. A genuine pattern requires more than a common professional label. The stronger the allegation, the more specific the connecting evidence must be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
+For readers assessing claims about UFO-related research, advanced propulsion programmes, or alleged antigravity work, that distinction became the central lesson. A genuine pattern requires more than a common professional label. The stronger the allegation, the more specific the connecting evidence must be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livenowfox.com/news/missing-us-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-title">Law enforcement ...Read more</span><span class="citation-popover-snippet">White House probing disappearances, deaths of US ...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-3-dark.svg" | relative_url }}" alt="Expert Test illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b_expert_skepticism_te_dd87d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Practical Test Experts Applied to the Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Practical Test Experts Applied to the Rumor. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses scientific skepticism, rumor evaluation, and the standards of proof needed before accepting conspiracy-style explanati...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses scientific skepticism, rumor evaluation, and the standards of proof needed before accepting conspiracy-style explanati...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how conspiracy theories form and how evidence should be assessed before inferring coordinated plots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how conspiracy theories form and how evidence should be assessed before inferring coordinated plots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wlagzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how people interpret evidence, defend beliefs, and reinforce narratives despite weak supporting facts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people interpret evidence, defend beliefs, and reinforce narratives despite weak supporting facts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supplies context for UFO-related discussions while encouraging examination of documented evidence rather than rumor alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies context for UFO-related discussions while encouraging examination of documented evidence rather than rumor alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="expert-test-the-practical-test-experts-applied-to-the-rumor-ufo-and-antigravity-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-practical-test-experts-applied-to-the-rumor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-practical-test-experts-applied-to-the-rumor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,115 +744,115 @@ For readers assessing claims about UFO-related research, advanced propulsion pro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...7 days ago — The disappearances and deaths of 10 government workers ti...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: livenowfox.com  
-   Link: <a href="https://www.livenowfox.com/news/missing-us-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/missing-us-scientists-[white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White House probing disappearances, deaths of US...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/missing-us-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/missing-us-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White House probing disappearances, deaths of US...16 Apr 2026 — The cases have drawn attention because of the scientists&#x27; and employees...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/fbi-investigating-[possible-links" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/fbi-investigating-[possible-links</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFBI investigating possible links between deaths and...3 days ago — The FBI is looking for any connections among the r...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/fbi-investigating-[possible-links" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/fbi-investigating-[possible-links</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFBI investigating possible links between deaths and...3 days ago — The FBI is looking for any connections among the r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
+   Link:<a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/20/us-news/house-oversight-panel-probes-missing-or-dead-nuclear-rocket-scientists-grave-threat/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/20/us-news/house-oversight-panel-probes-missing-or-dead-nuclear-rocket-scientists-grave-threat/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists and researchers associated with nuclear and rocket technology, citing potential threats to national security. Lawmakers James...</p></details>
+   Link:<a href="https://nypost.com/2026/04/20/us-news/house-oversight-panel-probes-missing-or-dead-nuclear-rocket-scientists-grave-threat/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/20/us-news/house-oversight-panel-probes-missing-or-dead-nuclear-rocket-scientists-grave-threat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists and researchers associated with nuclear and rocket technology, citing potential threats to national security. Lawmakers James...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theweek.com  
-   Link: <a href="https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media has been rife with speculation about possible links to sabotage or [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;). Among the cases are a retired Air Force genera...</p></details>
+   Link:<a href="https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/defence/fbi-probing-unexplained-deaths-of-us-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media has been rife with speculation about possible links to sabotage or [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;). Among the cases are a retired Air Force genera...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>overnment labs who have either died or disappeared...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/investigation-deaths-disappearances-staff-secretive-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>overnment labs who have either died or disappeared...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/fbi-investigating-deaths-disappearances-staff-secretive-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
+   Link:<a href="https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/losangeles/video/fbi-investigation-deaths-and-disappearances-of-notable-scientists-working-at-government-laboratories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigation deaths and disappearances of notable...The FBI is investigating a series of deaths and disappearances of scientists an...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXfwVFKkj4o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXfwVFKkj4o/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA TODAY on Instagram: &quot;The White House says it&#x27;s looking...Officials have stated that the cases are being examined carefully, but so f...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXfwVFKkj4o/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXfwVFKkj4o/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA TODAY on Instagram: &quot;The White House says it&#x27;s looking...Officials have stated that the cases are being examined carefully, but so f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what we know. Speculation swirls around deaths and disappearances of staff at secretive government laboratories.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what we know. Speculation swirls around deaths and disappearances of staff at secretive government laboratories.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: foxnews.com  
    Title: mystery clouds deaths disappearances scientists ufo research ties [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.foxnews.com/us/mystery-clouds-deaths-disappearances-scientists-ufo-research-ties-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mystery-clouds-deaths-disappearances-scientists-ufo-research-ties-timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery clouds deaths, disappearances of scientists with...2 days ago — Since 2023, at least eight people, mostly involved in researchin...</p></details>
+   Link:<a href="https://www.foxnews.com/us/mystery-clouds-deaths-disappearances-scientists-ufo-research-ties-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mystery-clouds-deaths-disappearances-scientists-ufo-research-ties-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery clouds deaths, disappearances of scientists with...2 days ago — Since 2023, at least eight people, mostly involved in researchin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths, disappearances of staff at secretive...The FBI is investigating possible connections in the cases of 10 missin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kmbc.com  
    Title: fbi probes deaths disappearances nuclear aerospace scientists  
-   Link: <a href="https://www.kmbc.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.kmbc.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...Apr 21, 2026 — At least 10 scientists tied to sensitive U.S. research hav...</p></details>
+   Link:<a href="https://www.kmbc.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.kmbc.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...Apr 21, 2026 — At least 10 scientists tied to sensitive U.S. research hav...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wbaltv.com  
    Title: fbi probes deaths disappearances nuclear aerospace scientists  
-   Link: <a href="https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...21 Apr 2026 — At least 10 scientists tied to sensitive U.S. research have...</p></details>
+   Link:<a href="https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151" target="_blank" rel="noopener noreferrer nofollow">https://www.wbaltv.com/article/fbi-probes-deaths-disappearances-nuclear-aerospace-scientists/71087151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigates at least 10 scientists tied to sensitive US...21 Apr 2026 — At least 10 scientists tied to sensitive U.S. research have...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: independent.co.uk  
    Title: The Independent12 US scientists have gone missing or died  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery...4 days ago — Three leading scientists died in tragic and violent incidents in the past three years, though there is no evi...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-investigation-b2963785.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery...4 days ago — Three leading scientists died in tragic and violent incidents in the past three years, though there is no evi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: peteweishaupt.medium.com  
    Title: vanished when key people disappear 22308f8c6e52  
-   Link: <a href="https://peteweishaupt.medium.com/vanished-when-key-people-disappear-22308f8c6e52" target="_blank" rel="noopener noreferrer nofollow">https://peteweishaupt.medium.com/vanished-when-key-people-disappear-22308f8c6e52</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comVanished! When Key People Disappear | by Pete WeishauptVanished! When Key People Disappear What a Cluster of Missing Scientists...</p></details>
+   Link:<a href="https://peteweishaupt.medium.com/vanished-when-key-people-disappear-22308f8c6e52" target="_blank" rel="noopener noreferrer nofollow">https://peteweishaupt.medium.com/vanished-when-key-people-disappear-22308f8c6e52</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comVanished! When Key People Disappear | by Pete WeishauptVanished! When Key People Disappear What a Cluster of Missing Scientists...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rams are missing or dead. That&#x27;s 10 times the other conspiracy!Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/1sp27jn/string_of_11_missing_or_dead_scientists_with_ties/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rams are missing or dead. That&#x27;s 10 times the other conspiracy!Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSNews/videos/ten-scientists-who-worked-at-sensitive-nuclear-or-space-technology-laboratories-/1816950525945036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/videos/ten-scientists-who-worked-at-sensitive-nuclear-or-space-technology-laboratories-/1816950525945036/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tists and staff who work at highly sensitive nuclear and aerospace...</p></details>
+   Link:<a href="https://www.facebook.com/CBSNews/videos/ten-scientists-who-worked-at-sensitive-nuclear-or-space-technology-laboratories-/1816950525945036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/videos/ten-scientists-who-worked-at-sensitive-nuclear-or-space-technology-laboratories-/1816950525945036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tists and staff who work at highly sensitive nuclear and aerospace...</p></details>

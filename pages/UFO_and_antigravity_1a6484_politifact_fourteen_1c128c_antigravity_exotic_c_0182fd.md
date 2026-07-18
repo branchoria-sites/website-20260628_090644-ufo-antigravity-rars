@@ -278,7 +278,7 @@ One of the most influential features of the viral “dead or missing scientists�
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-1-dark.svg" | relative_url }}" alt="Antigravity illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-PolitiFact's review of the fourteen-name list found that these connections were frequently overstated, weakly documented, or unsupported by publicly available evidence. While some people on [the list]({{ 'the-list/' | relative_url }}) had backgrounds in aerospace, defence, advanced engineering, or government research programmes, that is not the same thing as documented involvement in antigravity systems or recovered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
+PolitiFact's review of the fourteen-name list found that these connections were frequently overstated, weakly documented, or unsupported by publicly available evidence. While some people on [the list]({{ 'the-list/' | relative_url }}) had backgrounds in aerospace, defence, advanced engineering, or government research programmes, that is not the same thing as documented involvement in antigravity systems or recovered extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
 
 Understanding how these exotic technology claims entered the story helps explain why the list became so compelling within UFO communities and why fact-checkers concluded that the available evidence does not support the stronger claims being made.
 
@@ -286,9 +286,9 @@ Understanding how these exotic technology claims entered the story helps explain
 
 The antigravity theme did not originate with the 2026 [viral list]({{ 'viral-list/' | relative_url }}). It emerged from decades of overlapping UFO, black-project, and advanced-propulsion narratives.
 
-Since the Cold War, rumours have circulated that governments and aerospace contractors secretly developed propulsion systems capable of manipulating gravity itself. These stories drew inspiration from genuine historical research into unconventional propulsion concepts, classified military programmes, and speculative physics. Over time, UFO enthusiasts increasingly linked these ideas to allegations that governments had recovered and reverse-engineered non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salon.com">[salon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salon.com</span><span class="citation-popover-title">zero gravity</span><span class="citation-popover-snippet">The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</span></span></span>
+Since the Cold War, rumours have circulated that governments and aerospace contractors secretly developed propulsion systems capable of manipulating gravity itself. These stories drew inspiration from genuine historical research into unconventional propulsion concepts, classified military programmes, and speculative physics. Over time, UFO enthusiasts increasingly linked these ideas to allegations that governments had recovered and reverse-engineered non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salon.com">[salon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salon.com</span><span class="citation-popover-title">zero gravity</span><span class="citation-popover-snippet">The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</span></span></span>
 
-Books such as *The Hunt for Zero Point* by aerospace journalist Nick Cook popularised the idea that hidden antigravity research might exist somewhere within classified aerospace programmes. Although Cook investigated rumours and historical leads, the existence of operational antigravity systems was never publicly demonstrated. Nevertheless, the book became highly influential within communities interested in UFO technology and secret aerospace projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salon.com">[salon.com+2Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salon.com</span><span class="citation-popover-title">zero gravity</span><span class="citation-popover-snippet">The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</span></span></span>
+Books such as *The Hunt for Zero Point* by aerospace journalist Nick Cook popularised the idea that hidden antigravity research might exist somewhere within classified aerospace programmes. Although Cook investigated rumours and historical leads, the existence of operational antigravity systems was never publicly demonstrated. Nevertheless, the book became highly influential within communities interested in UFO technology and secret aerospace projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salon.com">[salon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salon.com</span><span class="citation-popover-title">zero gravity</span><span class="citation-popover-snippet">The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</span></span></span>
 
 When deaths, disappearances, or unusual career histories later appeared in UFO discussions, antigravity narratives provided a ready-made framework for interpreting them.
 
@@ -299,7 +299,7 @@ When deaths, disappearances, or unusual career histories later appeared in UFO d
 
 The viral list often implied that the individuals were connected through a shared body of secret knowledge involving UFO propulsion, advanced energy systems, or reverse-engineering programmes.
 
-However, PolitiFact found that many of the alleged connections rested on inference rather than documented evidence. In several cases, an individual's link to aerospace, defence, NASA-related work, nuclear programmes, or government contracting was treated as indirect proof of involvement in hidden technologies. The leap from “worked in advanced aerospace” to “worked on antigravity” was frequently assumed rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
+However, PolitiFact found that many of the alleged connections rested on inference rather than documented evidence. In several cases, an individual's link to aerospace, defence, NASA-related work, nuclear programmes, or government contracting was treated as indirect proof of involvement in hidden technologies. The leap from “worked in advanced aerospace” to “worked on antigravity” was frequently assumed rather than demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
 
 This pattern is common in UFO conspiracy literature:
 
@@ -308,7 +308,7 @@ This pattern is common in UFO conspiracy literature:
 * Security [clearances]({{ 'clearances/' | relative_url }}) become evidence of knowledge about UFO programmes.
 * Unusual deaths become evidence of suppression.
 
-The problem identified by fact-checkers is that each step requires additional evidence that is often absent from the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
+The problem identified by fact-checkers is that each step requires additional evidence that is often absent from the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkkxdwZqA38" title="UAPs &amp; The Hunt For Zero Point | Nick Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkkxdwZqA38" target="_blank" rel="noopener noreferrer">UAPs &amp; The Hunt For Zero Point | Nick Cook</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkkxdwZqA38" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkkxdwZqA38">Open on YouTube</a></p></div></div></div>
@@ -319,15 +319,15 @@ A major source of confusion comes from the fact that advanced aerospace research
 
 Engineers regularly work on propulsion systems, materials science, electromagnetic technologies, guidance systems, hypersonics, spacecraft design, and classified defence projects. Much of this work is highly technical and sometimes secret, which can make it appear mysterious from the outside.
 
-Yet antigravity occupies a very different category. In popular UFO discussions, the term usually refers to a propulsion system capable of cancelling, manipulating, or bypassing gravity itself. No publicly verified aerospace programme has demonstrated such capabilities. Mainstream physics continues to study gravity, spacetime, and gravitational effects, but this is not equivalent to proven antigravity vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1803.09736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Antigravity from a spacetime defect</span><span class="citation-popover-snippet">Antigravity from a spacetime defectMarch 26, 2018...</span><span class="citation-popover-meta">Published: March 26, 2018</span></span></span>
+Yet antigravity occupies a very different category. In popular UFO discussions, the term usually refers to a propulsion system capable of cancelling, manipulating, or bypassing gravity itself. No publicly verified aerospace programme has demonstrated such capabilities. Mainstream physics continues to study gravity, spacetime, and gravitational effects, but this is not equivalent to proven antigravity vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1803.09736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Antigravity from a spacetime defect</span><span class="citation-popover-snippet">Antigravity from a spacetime defectMarch 26, 2018...</span><span class="citation-popover-meta">Published: March 26, 2018</span></span></span>
 
 As a result, when a scientist or engineer is described as having worked on advanced aerospace technology, that fact alone does not establish involvement in antigravity research. The distinction is often lost in conspiracy narratives, where any sophisticated aerospace work can become folded into a broader mythology of hidden propulsion breakthroughs.
 
 ### The Amy Eskridge Example
 
-One frequently cited figure in recent discussions is [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}), an engineer whose work involved interest in advanced propulsion concepts and who later became the subject of renewed online speculation after her death. Discussions about her frequently connect her to antigravity themes because of her public interest in frontier aerospace ideas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</span></span></span>
+One frequently cited figure in recent discussions is [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}), an engineer whose work involved interest in advanced propulsion concepts and who later became the subject of renewed online speculation after her death. Discussions about her frequently connect her to antigravity themes because of her public interest in frontier aerospace ideas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</span></span></span>
 
-However, the existence of interest in unconventional propulsion concepts is not itself evidence that a functioning antigravity technology existed or that a broader suppression programme was involved. The distinction between exploratory research, theoretical investigation, and demonstrated technology is crucial but often blurred in online retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</span></span></span>
+However, the existence of interest in unconventional propulsion concepts is not itself evidence that a functioning antigravity technology existed or that a broader suppression programme was involved. The distinction between exploratory research, theoretical investigation, and demonstrated technology is crucial but often blurred in online retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Who is Amy Eskridge?</span><span class="citation-popover-snippet">Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-2-dark.svg" | relative_url }}" alt="Antigravity illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ However, the existence of interest in unconventional propulsion concepts is not 
 
 A second layer of the story involves claims that some individuals on the list were connected to efforts to reverse-engineer recovered UFO craft.
 
-This idea gained prominence through allegations that governments or defence contractors possessed non-human technology and had spent decades attempting to understand it. In recent years, congressional hearings, whistle-blower claims, and renewed public attention to unidentified anomalous phenomena (UAP) have brought these allegations back into mainstream discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
+This idea gained prominence through allegations that governments or defence contractors possessed non-human technology and had spent decades attempting to understand it. In recent years, congressional hearings, whistle-blower claims, and renewed public attention to unidentified anomalous phenomena (UAP) have brought these allegations back into mainstream discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
 
 Within the viral scientist narrative, reverse-engineering claims often function as an explanatory bridge. If a person worked in aerospace and later died unexpectedly, the story can be reframed as evidence that they knew something about a hidden programme.
 
@@ -359,9 +359,9 @@ Each step requires independent evidence, and the existence of one does not autom
 
 Recent government reviews have directly examined allegations involving hidden UFO technology and reverse-engineering programmes.
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no verifiable evidence that the US government or private industry possessed extraterrestrial technology, and no evidence supporting claims of secret reverse-engineering programmes involving recovered alien craft. The office also stated that many specific allegations regarding locations, individuals, and technological testing could not be substantiated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
+The Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it found no verifiable evidence that the US government or private industry possessed extraterrestrial technology, and no evidence supporting claims of secret reverse-engineering programmes involving recovered alien craft. The office also stated that many specific allegations regarding locations, individuals, and technological testing could not be substantiated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod report discounts sightings of extraterrestrial technology</span><span class="citation-popover-snippet">Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</span></span></span>
 
-These findings remain disputed by some UFO researchers and whistle-blower advocates. Nevertheless, they are important because many antigravity and reverse-engineering claims attached to the fourteen-name list implicitly assume the existence of programmes that official investigations say they have not verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
+These findings remain disputed by some UFO researchers and whistle-blower advocates. Nevertheless, they are important because many antigravity and reverse-engineering claims attached to the fourteen-name list implicitly assume the existence of programmes that official investigations say they have not verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
 
 The disagreement therefore exists at a deeper level than the individual deaths. Before any death can be linked to a secret antigravity programme, the programme itself must first be demonstrated.
 
@@ -371,7 +371,7 @@ Antigravity stories possess unusual staying power because they combine several p
 
 The fourteen-name list became persuasive to many readers because it appeared to provide human evidence for those larger beliefs. A collection of deaths and disappearances can seem more meaningful when framed as casualties of a hidden technological struggle rather than as separate events involving different people and circumstances.
 
-Yet PolitiFact's examination found that the list itself did not establish the antigravity connections that later retellings assumed. The people involved had diverse careers, varying levels of connection to aerospace research, and differing degrees of documented involvement with UFO-related topics. The claim that they collectively formed a community of antigravity researchers is not supported by the public evidence cited in the fact-check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
+Yet PolitiFact's examination found that the list itself did not establish the antigravity connections that later retellings assumed. The people involved had diverse careers, varying levels of connection to aerospace research, and differing degrees of documented involvement with UFO-related topics. The claim that they collectively formed a community of antigravity researchers is not supported by the public evidence cited in the fact-check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-3-dark.svg" | relative_url }}" alt="Antigravity illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_politifact_fourteen_1c128c_antigravity_exotic_c_0182fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,197 +381,197 @@ The central weakness in the antigravity interpretation is not the existence of u
 
 Publicly documented aerospace employment, security clearances, defence work, and interest in advanced propulsion are all real and verifiable. The further claim that these activities involved hidden gravity-control technology or recovered extraterrestrial craft remains largely inferential.
 
-As a result, the antigravity element of the fourteen-name narrative functions more as a mechanism for connecting otherwise separate cases than as a conclusion established by documented evidence. That distinction sits at the centre of why fact-checkers challenged the broader conspiracy narrative while acknowledging that some individual cases continue to attract legitimate public curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[PolitiFact+2KSBW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
+As a result, the antigravity element of the fourteen-name narrative functions more as a mechanism for connecting otherwise separate cases than as a conclusion established by documented evidence. That distinction sits at the centre of why fact-checkers challenged the broader conspiracy narrative while acknowledging that some individual cases continue to attract legitimate public curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: politifact.com">[politifact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">politifact.com</span><span class="citation-popover-title">missing dead scientists nuclear weapons ufos</span><span class="citation-popover-snippet">Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Did the Antigravity Claims Come From?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Did the Antigravity Claims Come From?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly examines antigravity claims, advanced propulsion stories, and alleged hidden aerospace research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines antigravity claims, advanced propulsion stories, and alleged hidden aerospace research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how official claims, aerospace connections, and extraordinary technology narratives enter UFO discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how official claims, aerospace connections, and extraordinary technology narratives enter UFO discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for understanding how to assess evidence behind conspiracy narratives and viral fact claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Useful for understanding how to assess evidence behind conspiracy narratives and viral fact claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps distinguish documented aerospace development from later claims about exotic or antigravity technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish documented aerospace development from later claims about exotic or antigravity technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="antigravity-8a0535-where-did-the-antigravity-claims-come-from-ufo-and-antigravity-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,151 +777,151 @@ As a result, the antigravity element of the fourteen-name narrative functions mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: politifact.com  
    Title: missing dead scientists nuclear weapons ufos  
-   Link: <a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</p></details>
+   Link:<a href="https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.politifact.com/article/2026/apr/28/missing-dead-scientists-nuclear-weapons-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking claims about missing, dead scientists28 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ksbw.com  
    Title: Fact-checking claims about missing, dead U.S  
-   Link: <a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists29 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasland and seven other scientists, now dead or missing...</p></details>
+   Link:<a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists29 Apr 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasland and seven other scientists, now dead or missing...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: salon.com  
    Title: zero gravity  
-   Link: <a href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2002/08/05/zero_gravity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</p></details>
+   Link:<a href="https://www.salon.com/2002/08/05/zero_gravity/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2002/08/05/zero_gravity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Hunt for Zero Point&quot; by Nick CookAug 5, 2002 — An editor for the esteemed Jane&#x27;s Defense Weekly says the US government has been work...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906276?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906276?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing classified government projects on antigravity technology and flying saucer-like aircraft, with potential links to UFO sightings...</p></details>
+   Link:<a href="https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906276?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Hunt-Zero-Point-Classified-Antigravity/dp/0767906276?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing classified government projects on antigravity technology and flying saucer-like aircraft, with potential links to UFO sightings...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Antigravity from a spacetime defect  
-   Link: <a href="https://arxiv.org/abs/1803.09736" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.09736</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity from a spacetime defectMarch 26, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1803.09736" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.09736</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity from a spacetime defectMarch 26, 2018...</p></details>
    Published: March 26, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv"Sufficiently Advanced Technology" for Gravitational Wave Detection  
-   Link: <a href="https://arxiv.org/abs/1908.02568" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.02568</a>  
+   Link:<a href="https://arxiv.org/abs/1908.02568" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.02568</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newsweek.com  
    Title: Who is Amy Eskridge?  
-   Link: <a href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</p></details>
+   Link:<a href="https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/who-is-amy-eskridge-scientist-death-queried-us-expert-mysteries-11843659</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Death Queried Amid US...12 hours ago — A scientist who reportedly died of a self-inflicted gunshot wound in 2022 is receivin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...Mar 8, 2024 — The Pentagon&#x27;s UFO office has once again stressed that it ha...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...Mar 8, 2024 — The Pentagon&#x27;s UFO office has once again stressed that it ha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
    Title: list dead or missing scientists suspicious michael david hicks 11805585  
-   Link: <a href="https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland&#x27;s wife, meanwhile, has pushed back against speculation from the UFO community that his disappearance is...Read more...</p></details>
+   Link:<a href="https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/list-dead-or-missing-scientists-suspicious-michael-david-hicks-11805585</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland&#x27;s wife, meanwhile, has pushed back against speculation from the UFO community that his disappearance is...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/donald-trump-issues-warning-on-missing-dead-scientists-serious-stuff-11841332" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/donald-trump-issues-warning-on-missing-dead-scientists-serious-stuff-11841332</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disappearances and deaths were random...</p></details>
+   Link:<a href="https://www.newsweek.com/donald-trump-issues-warning-on-missing-dead-scientists-serious-stuff-11841332" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/donald-trump-issues-warning-on-missing-dead-scientists-serious-stuff-11841332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disappearances and deaths were random...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...25 Apr 2026 — The mystery – or lack of it – comes at a moment of heightened nationa...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theory over UFOs and missing scientists...25 Apr 2026 — The mystery – or lack of it – comes at a moment of heightened nationa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
    Published: March 22, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAliens Observing Material Test a Likely Misunderstanding of an Authentic, Non-UAP...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9rnba/aaro_has_not_investigated_any_of_the_aerospace/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9rnba/aaro_has_not_investigated_any_of_the_aerospace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has not investigated any of the aerospace...Aaro came out today and said they found no hidden UAP programs. What ever that means, a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9rnba/aaro_has_not_investigated_any_of_the_aerospace/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9rnba/aaro_has_not_investigated_any_of_the_aerospace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has not investigated any of the aerospace...Aaro came out today and said they found no hidden UAP programs. What ever that means, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXNybjhDt3d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXNybjhDt3d/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brief The White House says it...#UFO #Disclosure #WhiteHouse #Aliens #Mystery #uap #ufosighting #government #classified #viral #tren...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXNybjhDt3d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXNybjhDt3d/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brief The White House says it...#UFO #Disclosure #WhiteHouse #Aliens #Mystery #uap #ufosighting #government #classified #viral #tren...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/ufo-reverse-engineering-dynamic-nuclear-polarization-34376c94167c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufo-reverse-engineering-dynamic-nuclear-polarization-34376c94167c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Reverse Engineering &amp; Dynamic Nuclear PolarizationWe&#x27;re discussing UFO reverse engineering and using Dynamic Nuclear Polarization (DN...</p></details>
+   Link:<a href="https://medium.com/%40timventura/ufo-reverse-engineering-dynamic-nuclear-polarization-34376c94167c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufo-reverse-engineering-dynamic-nuclear-polarization-34376c94167c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Reverse Engineering &amp; Dynamic Nuclear PolarizationWe&#x27;re discussing UFO reverse engineering and using Dynamic Nuclear Polarization (DN...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancient.civilizationsz/posts/1340651320834341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancient.civilizationsz/posts/1340651320834341/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why NASA might reverse-engineer UFO technologyReverse engineering UFO propulsion systems... Right after WWII, military research exploded...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancient.civilizationsz/posts/1340651320834341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancient.civilizationsz/posts/1340651320834341/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why NASA might reverse-engineer UFO technologyReverse engineering UFO propulsion systems... Right after WWII, military research exploded...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tic Tac and Beyond: UAP Sightings, Reverse-...24 Mar 2026 — space. If UAPs are indeed extraterrestrial, or if they are human-made...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tic Tac and Beyond: UAP Sightings, Reverse-...24 Mar 2026 — space. If UAPs are indeed extraterrestrial, or if they are human-made...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: courthousenews.com  
-   Link: <a href="https://courthousenews.com/pentagon-finds-no-evidence-of-hidden-alien-technology/" target="_blank" rel="noopener noreferrer nofollow">https://courthousenews.com/pentagon-finds-no-evidence-of-hidden-alien-technology/</a>  
+   Link:<a href="https://courthousenews.com/pentagon-finds-no-evidence-of-hidden-alien-technology/" target="_blank" rel="noopener noreferrer nofollow">https://courthousenews.com/pentagon-finds-no-evidence-of-hidden-alien-technology/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394239668_Reverse_Engineering_UFO_UAP_USO_and_Vimanas_Advanced_Space_Technology_Devices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394239668_Reverse_Engineering_UFO_UAP_USO_and_Vimanas_Advanced_Space_Technology_Devices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reverse Engineering UFO, UAP, USO and Vimanas...Jul 14, 2025 — This comparative study examines the striking parallels between mode...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394239668_Reverse_Engineering_UFO_UAP_USO_and_Vimanas_Advanced_Space_Technology_Devices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394239668_Reverse_Engineering_UFO_UAP_USO_and_Vimanas_Advanced_Space_Technology_Devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reverse Engineering UFO, UAP, USO and Vimanas...Jul 14, 2025 — This comparative study examines the striking parallels between mode...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...Mar 13, 2024 —... No Evidence&#x27; of Alien Technology, New Pentagon Report... reverse-engine...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...Mar 13, 2024 —... No Evidence&#x27; of Alien Technology, New Pentagon Report... reverse-engine...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One was a UFO researcher who thought he could telepathically communicate with aliens. One was a lady...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One was a UFO researcher who thought he could telepathically communicate with aliens. One was a lady...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZkkxdwZqA38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZkkxdwZqA38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs &amp; The Hunt For Zero Point | Nick CookNick joins us to discuss his research into emerging aerospace technologies, defense industry bl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZkkxdwZqA38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZkkxdwZqA38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs &amp; The Hunt For Zero Point | Nick CookNick joins us to discuss his research into emerging aerospace technologies, defense industry bl...</p></details>

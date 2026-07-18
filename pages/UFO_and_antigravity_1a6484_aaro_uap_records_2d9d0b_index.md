@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-aaro-uap/
 description: Focused pages that expand on AARO Records.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b
 parent_title: AARO Records
@@ -16,7 +16,7 @@ parent_permalink: /aaro-records/
 
 # Explore Topics in AARO Records
 
-The following pages expand on the main **[AARO Records]({{ '/aaro-records/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[AARO Records]({{ '/aaro-records/' | relative_url }})** page and cover its key branches in.
 
 - [Case Reports]({{ '/case-reports/' | relative_url }})
 - [Historical Review]({{ '/historical-review/' | relative_url }})

@@ -284,7 +284,7 @@ In stories about UFO research, antigravity projects and allegedly silenced scien
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_lab_proximity_death_a7d898-Illustration-1-dark.svg" | relative_url }}" alt="Proximity Trap illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_lab_proximity_death_a7d898-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_lab_proximity_death_a7d898-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism is important because it often operates even when there is little or no evidence connecting the tragedy to the person’s work. The mere fact that a laboratory is secretive, prestigious or associated with sensitive research can make coincidence feel suspicious. In recent “missing scientists” narratives, online discussions frequently treated links to [institutions]({{ 'institutions/' | relative_url }}) such as national laboratories, [aerospace]({{ 'aerospace/' | relative_url }}) programmes or defence-related research as evidence of motive, even though reporting repeatedly noted that no public evidence had established a coordinated plot connecting the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+This mechanism is important because it often operates even when there is little or no evidence connecting the tragedy to the person’s work. The mere fact that a laboratory is secretive, prestigious or associated with sensitive research can make coincidence feel suspicious. In recent “missing scientists” narratives, online discussions frequently treated links to [institutions]({{ 'institutions/' | relative_url }}) such as national laboratories, [aerospace]({{ 'aerospace/' | relative_url }}) programmes or defence-related research as evidence of motive, even though reporting repeatedly noted that no public evidence had established a coordinated plot connecting the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 ## The Association Chain From Lab Work to Alleged Motive
 
@@ -300,7 +300,7 @@ Finally, a motive is constructed. If the individual supposedly possessed sensiti
 
 The crucial step is that the motive is often inferred from the workplace connection rather than demonstrated through evidence. The chain moves from “worked near secrets” to “must have known secrets” to “must have been targeted because of those secrets”. Each step can sound plausible, but each requires additional evidence that is frequently absent.
 
-This pattern appeared in discussions surrounding recent claims about dead or missing scientists. Public speculation often centred on institutional affiliations with organisations linked to aerospace, nuclear research or national security, while investigators and journalists repeatedly noted that no established evidentiary link connected the cases into a single conspiracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+This pattern appeared in discussions surrounding recent claims about dead or missing scientists. Public speculation often centred on institutional affiliations with organisations linked to aerospace, nuclear research or national security, while investigators and journalists repeatedly noted that no established evidentiary link connected the cases into a single conspiracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YI5BpLl8TZk" title="What&#x27;s Really Going On With The Missing Scientists Conspiracy?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YI5BpLl8TZk" target="_blank" rel="noopener noreferrer">What&#x27;s Really Going On With The Missing Scientists Conspiracy?</a></p><p class="youtube-embed-meta">Channel: The Lore Lodge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YI5BpLl8TZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YI5BpLl8TZk">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ The result is that the laboratory becomes a narrative shortcut. Instead of provi
 
 Human beings are naturally inclined to search for patterns, especially when events are emotionally significant or difficult to explain.
 
-Research in psychology has repeatedly linked conspiracy beliefs to what scholars call illusory pattern perception: the tendency to perceive meaningful connections between events that may not actually be causally related. Studies have found that people who more readily detect patterns in randomness are also more likely to endorse conspiracy explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Connecting the dots: Illusory pattern perception predicts belief...by JW van Prooijen · 2017 · Cited by 459 — We conclude that illuso...</span></span></span>
+Research in psychology has repeatedly linked conspiracy beliefs to what scholars call illusory pattern perception: the tendency to perceive meaningful connections between events that may not actually be causally related. Studies have found that people who more readily detect patterns in randomness are also more likely to endorse conspiracy explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Connecting the dots: Illusory pattern perception predicts belief...by JW van Prooijen · 2017 · Cited by 459 — We conclude that illuso...</span></span></span>
 
 Around elite scientific institutions, several psychological effects reinforce this tendency.
 
@@ -339,7 +339,7 @@ A death involving a laboratory physicist may therefore seem less likely to be ra
 
 ### Selective Attention to Relevant Cases
 
-Once people begin watching for suspicious incidents around a laboratory, they notice those incidents more readily. Psychologists describe related processes through selective attention and confirmation bias: people become increasingly aware of events that fit an existing narrative while overlooking events that do not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-snippet">This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</span></span></span>
+Once people begin watching for suspicious incidents around a laboratory, they notice those incidents more readily. Psychologists describe related processes through selective attention and confirmation bias: people become increasingly aware of events that fit an existing narrative while overlooking events that do not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-snippet">This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</span></span></span>
 
 If ten researchers experience unrelated tragedies, those cases may be collected into a single narrative. Thousands of researchers whose lives proceed normally rarely become part of the story.
 
@@ -347,7 +347,7 @@ If ten researchers experience unrelated tragedies, those cases may be collected 
 
 Deaths and disappearances are especially persuasive when presented as a cluster. A list of names creates an impression of a pattern even before any causal connection has been demonstrated.
 
-Recent “missing scientists” narratives gained traction partly because separate incidents were grouped together under a single frame. Reporting later noted that the cases spanned different years, locations and circumstances, and involved people with widely varying backgrounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+Recent “missing scientists” narratives gained traction partly because separate incidents were grouped together under a single frame. Reporting later noted that the cases spanned different years, locations and circumstances, and involved people with widely varying backgrounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HDHK51O__Y0" title="FBI investigating deaths, disappearances of staff at secretive government laboratories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer">FBI investigating deaths, disappearances of staff at secretive government laboratories</a></p><p class="youtube-embed-meta">Channel: Face the Nation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HDHK51O__Y0">Open on YouTube</a></p></div></div></div>
@@ -360,7 +360,7 @@ If someone believes governments are concealing advanced technology, then a labor
 
 The laboratory's reputation effectively supplies a ready-made explanation. Evidence that would ordinarily be required—documented threats, communications, operational links, identified perpetrators or forensic indicators—can become secondary to the perceived significance of the workplace itself.
 
-This helps explain why some narratives persist even after family members, colleagues or investigators dispute the alleged connection between a tragedy and classified research. The institutional association often carries more narrative weight than contradictory details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+This helps explain why some narratives persist even after family members, colleagues or investigators dispute the alleged connection between a tragedy and classified research. The institutional association often carries more narrative weight than contradictory details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/afl7HoELxDY" title="Investigation into deaths, disappearances of staff at secretive government labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=afl7HoELxDY" target="_blank" rel="noopener noreferrer">Investigation into deaths, disappearances of staff at secretive government labs</a></p><p class="youtube-embed-meta">Channel: CBS News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=afl7HoELxDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=afl7HoELxDY">Open on YouTube</a></p></div></div></div>
@@ -387,197 +387,197 @@ Several tests help distinguish proximity from causation.
 
 The enduring lesson is that classified laboratories can function as suspicion multipliers. Their secrecy is real, their work is important, and their histories often intersect with subjects that already attract public fascination. Yet those same characteristics make them fertile ground for narratives that transform association into evidence.
 
-In UFO and alleged antigravity death stories, proximity often serves as the bridge between an unexplained tragedy and a theory of deliberate silencing. Understanding that mechanism does not prove that every event is innocent or every conspiracy claim is false. It simply highlights a recurring analytical error: treating a person's location near secrets as proof that the secrets caused what happened to them. The distinction between those two ideas is where careful investigation begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+In UFO and alleged antigravity death stories, proximity often serves as the bridge between an unexplained tragedy and a theory of deliberate silencing. Understanding that mechanism does not prove that every event is innocent or every conspiracy claim is false. It simply highlights a recurring analytical error: treating a person's location near secrets as proof that the secrets caused what happened to them. The distinction between those two ideas is where careful investigation begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Proximity Turns Tragedy Into Theory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Proximity Turns Tragedy Into Theory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Explains the mental processes that turn coincidences, secrecy and institutional links into conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the mental processes that turn coincidences, secrecy and institutional links into conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how people infer hidden causes and conspiracies from limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how people infer hidden causes and conspiracies from limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ztx9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines why people connect unrelated events into narratives involving secret plots and cover-ups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines why people connect unrelated events into narratives involving secret plots and cover-ups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Provides tools for separating evidence-based conclusions from persuasive but weak inference chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for separating evidence-based conclusions from persuasive but weak inference chains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="proximity-trap-how-proximity-turns-tragedy-into-theory-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-proximity-turns-tragedy-into-theory-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-proximity-turns-tragedy-into-theory-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,127 +783,127 @@ In UFO and alleged antigravity death stories, proximity often serves as the brid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecting the dots: Illusory pattern perception predicts belief...by JW van Prooijen · 2017 · Cited by 459 — We conclude that illuso...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5900972/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Connecting the dots: Illusory pattern perception predicts belief...by JW van Prooijen · 2017 · Cited by 459 — We conclude that illuso...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Psychology of Conspiracy Theories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We conclude that conspiracy belief appears to stem...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We conclude that conspiracy belief appears to stem...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6238178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6238178/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories: Evolved Functions and Psychological...by JW van Prooijen · 2018 · Cited by 630 — One key element of any conspiracy theory is p...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6238178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6238178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theories: Evolved Functions and Psychological...by JW van Prooijen · 2018 · Cited by 630 — One key element of any conspiracy theory is p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
    Title: Illusory pattern  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.70016" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.70016</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>existential threats increase conspiracy beliefs: Evidence...by JY Mao · Cited by 2 — Existential threats were positively correlated with...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.70016" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjop.70016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>existential threats increase conspiracy beliefs: Evidence...by JY Mao · Cited by 2 — Existential threats were positively correlated with...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: COVID 19 lab leak theory  
-   Link: <a href="https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 lab leak theoryA highly controversial hypothesis holds that SARS-CoV-2, the virus responsible for the COVID-19 pandemic, orig...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 lab leak theoryA highly controversial hypothesis holds that SARS-CoV-2, the virus responsible for the COVID-19 pandemic, orig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — But so far no evidence has been found t...</p></details>
    Published: April 24, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: research.vu.nl  
    Title: connecting the dots illusory pattern perception predicts belief i  
-   Link: <a href="https://research.vu.nl/en/publications/connecting-the-dots-illusory-pattern-perception-predicts-belief-i/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/connecting-the-dots-illusory-pattern-perception-predicts-belief-i/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrije Universiteit AmsterdamIllusory pattern perception predicts belief in conspiracies...by JW van Prooijen · 2018 · Cited by 473 — A c...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/connecting-the-dots-illusory-pattern-perception-predicts-belief-i/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/connecting-the-dots-illusory-pattern-perception-predicts-belief-i/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrije Universiteit AmsterdamIllusory pattern perception predicts belief in conspiracies...by JW van Prooijen · 2018 · Cited by 473 — A c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/baader-meinhof-phenomenon-11902674</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</p></details>
+   Link:<a href="https://www.verywellmind.com/baader-meinhof-phenomenon-11902674" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/baader-meinhof-phenomenon-11902674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This effect is attributed to two psychological mechanisms: selective attention, which filters focus onto new stimuli, and confirmation bi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6282862/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6282862/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by RC van der Wal · 2018 · Cited by 128 — Four studies indicate that conspiracy belief is driven by readiness to draw implausible caus...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6282862/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6282862/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RC van der Wal · 2018 · Cited by 128 — Four studies indicate that conspiracy belief is driven by readiness to draw implausible caus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6282974/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6282974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in conspiracy theories: Basic principles of an emerging...by JW van Prooijen · 2018 · Cited by 759 — The first process is pattern percep...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6282974/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6282974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in conspiracy theories: Basic principles of an emerging...by JW van Prooijen · 2018 · Cited by 759 — The first process is pattern percep...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9893368/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9893368/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Hartmann · 2023 · Cited by 16 — These results further suggest that illusory pattern perception is a common mechanism behind consp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9893368/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9893368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Hartmann · 2023 · Cited by 16 — These results further suggest that illusory pattern perception is a common mechanism behind consp...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bps.org.uk  
-   Link: <a href="https://www.bps.org.uk/research-digest/believers-conspiracy-theories-and-paranormal-are-more-likely-see-illusory-patterns" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/believers-conspiracy-theories-and-paranormal-are-more-likely-see-illusory-patterns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Believers in conspiracy theories and the paranormal are...17 Oct 2017 — &quot;We conclude that illusory pattern perception is a central cogni...</p></details>
+   Link:<a href="https://www.bps.org.uk/research-digest/believers-conspiracy-theories-and-paranormal-are-more-likely-see-illusory-patterns" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/believers-conspiracy-theories-and-paranormal-are-more-likely-see-illusory-patterns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Believers in conspiracy theories and the paranormal are...17 Oct 2017 — &quot;We conclude that illusory pattern perception is a central cogni...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: at least 10 workers at secretive government labs have died or disappeared since  
-   Link: <a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At least 10 workers at secretive government labs have died...Based on recent data, approximately 9000 to 10000+ people die in New Mexico...</p></details>
+   Link:<a href="https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSNews/posts/at-least-10-workers-at-secretive-government-labs-have-died-or-disappeared-since-/1365262345465606/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At least 10 workers at secretive government labs have died...Based on recent data, approximately 9000 to 10000+ people die in New Mexico...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YI5BpLl8TZk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YI5BpLl8TZk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Going On With The Missing Scientists...[https://fabletics.com/...!](https://fabletics.com/...!) · #FableticsPartner Many of you may have heard of the co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YI5BpLl8TZk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YI5BpLl8TZk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Going On With The Missing Scientists...[https://fabletics.com/...!](https://fabletics.com/...!) · #FableticsPartner Many of you may have heard of the co...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HDHK51O__Y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HDHK51O__Y0</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/en/publications/why-existential-threats-increase-conspiracy-beliefs-evidence-for-/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/why-existential-threats-increase-conspiracy-beliefs-evidence-for-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Existential Threats Increase Conspiracy Beliefsby J Mao · 2025 · Cited by 3 — This research investigates the cognitive mechanisms linking...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/why-existential-threats-increase-conspiracy-beliefs-evidence-for-/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/why-existential-threats-increase-conspiracy-beliefs-evidence-for-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Existential Threats Increase Conspiracy Beliefsby J Mao · 2025 · Cited by 3 — This research investigates the cognitive mechanisms linking...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: psychologicalscience.org  
    Title: Coincidence or Conspiracy?  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/coincidence-or-conspiracy-studies-investigate-conspiracist-thinking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/coincidence-or-conspiracy-studies-investigate-conspiracist-thinking.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies Investigate...Oct 1, 2015 — To investigate the relationship between conspiracist beliefs and perceptions of randomness, the rese...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/coincidence-or-conspiracy-studies-investigate-conspiracist-thinking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/coincidence-or-conspiracy-studies-investigate-conspiracist-thinking.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studies Investigate...Oct 1, 2015 — To investigate the relationship between conspiracist beliefs and perceptions of randomness, the rese...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tandfonline.com  
    Title: European Journal of Social Psychology, 48(3), 320–335  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2023.2198064" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2023.2198064</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Conspiracy theories: why they are believed and...by I Sebalo · 2023 · Cited by 6 — Connecting the dots: Illusory pattern p...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2023.2198064" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2023.2198064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Conspiracy theories: why they are believed and...by I Sebalo · 2023 · Cited by 6 — Connecting the dots: Illusory pattern p...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/n5lk2p/a_review_of_the_literature_on_the_psychology_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/n5lk2p/a_review_of_the_literature_on_the_psychology_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat belief in conspiracies is driven by their “promise to satisfy...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/n5lk2p/a_review_of_the_literature_on_the_psychology_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/n5lk2p/a_review_of_the_literature_on_the_psychology_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hat belief in conspiracies is driven by their “promise to satisfy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sensitive US research have died or disappeared in recent years...</p></details>
+   Link:<a href="https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-federal-investigation-is-underway-after-at-least-10-people-connected-to-sensit/1340711991254782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sensitive US research have died or disappeared in recent years...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interesting/comments/1svd710/11_scientists_who_mysteriously_disappeared_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interesting/comments/1svd710/11_scientists_who_mysteriously_disappeared_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He was a construction foreman. He was 78 and is missing. This...</p></details>
+   Link:<a href="https://www.reddit.com/r/interesting/comments/1svd710/11_scientists_who_mysteriously_disappeared_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interesting/comments/1svd710/11_scientists_who_mysteriously_disappeared_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He was a construction foreman. He was 78 and is missing. This...</p></details>

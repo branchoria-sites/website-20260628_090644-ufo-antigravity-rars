@@ -280,7 +280,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aer
 
 ## Introduction
 
-Within stories about UFO secrecy, antigravity research and allegedly targeted scientists, an [aerospace]({{ 'aerospace/' | relative_url }}) job title often functions as a shortcut to presumed hidden knowledge. A person described as an “aerospace engineer”, “propulsion specialist”, “Air Force research director” or “NASA scientist” can quickly become the subject of speculation if they die unexpectedly or go missing. The key problem is that affiliation is frequently treated as evidence. In practice, aerospace organisations employ thousands of people across highly varied roles, most of whom do not possess knowledge of extraordinary technologies, and even those working on classified projects typically have access only to limited portions of larger programmes. Public records repeatedly show that rumours often expand far beyond what a person’s actual position can support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</span></span></span>
+Within stories about UFO secrecy, antigravity research and allegedly targeted scientists, an [aerospace]({{ 'aerospace/' | relative_url }}) job title often functions as a shortcut to presumed hidden knowledge. A person described as an “aerospace engineer”, “propulsion specialist”, “Air Force research director” or “NASA scientist” can quickly become the subject of speculation if they die unexpectedly or go missing. The key problem is that affiliation is frequently treated as evidence. In practice, aerospace organisations employ thousands of people across highly varied roles, most of whom do not possess knowledge of extraordinary technologies, and even those working on classified projects typically have access only to limited portions of larger programmes. Public records repeatedly show that rumours often expand far beyond what a person’s actual position can support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-1-dark.svg" | relative_url }}" alt="Job Titles illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ That assumption can be misleading. Large aerospace [institutions]({{ 'institutio
 
 In UFO-related narratives, however, distinctions often disappear. A broad category such as “scientist connected to aerospace” may be presented as if it automatically means involvement in reverse-engineering exotic craft, advanced propulsion systems or hidden defence projects. This compression of many different roles into a single mysterious category makes rumours easier to spread and harder to evaluate critically.
 
-The pattern became especially visible during discussions surrounding recent “missing scientists” narratives, where online commentators frequently grouped together individuals from different institutions and occupations under a single label of people who supposedly “knew too much”. Journalistic investigations found that the cases involved different circumstances, different employers and different backgrounds, despite efforts to frame them as a unified pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
+The pattern became especially visible during discussions surrounding recent “missing scientists” narratives, where online commentators frequently grouped together individuals from different institutions and occupations under a single label of people who supposedly “knew too much”. Journalistic investigations found that the cases involved different circumstances, different employers and different backgrounds, despite efforts to frame them as a unified pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
 
 ## How Credentials Become Motive in Hidden-Tech Stories
 
@@ -314,7 +314,7 @@ Many hidden-technology claims follow a similar chain of reasoning:
 
 The weakness lies in the third step. The conclusion often depends on assumptions about what the individual allegedly knew rather than evidence showing what they actually knew.
 
-Researchers who study conspiracy narratives have noted that such stories commonly connect otherwise unrelated events through shared symbols or affiliations. A job title can become one of those linking symbols. Rather than proving a connection, it provides a narrative bridge that allows separate incidents to be woven into a larger story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</span></span></span>
+Researchers who study conspiracy narratives have noted that such stories commonly connect otherwise unrelated events through shared symbols or affiliations. A job title can become one of those linking symbols. Rather than proving a connection, it provides a narrative bridge that allows separate incidents to be woven into a larger story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qE2n32zf8Ug" title="UFO sightings likely secret military tests, no evidence of alien technology: Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qE2n32zf8Ug" target="_blank" rel="noopener noreferrer">UFO sightings likely secret military tests, no evidence of alien technology: Pentagon</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 2.7K &middot; Uploaded: March 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qE2n32zf8Ug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qE2n32zf8Ug">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ Former military and intelligence officials have repeatedly explained that securi
 
 This distinction becomes important when rumours emerge around a person's disappearance or death. Online narratives often begin by highlighting a clearance, military position or aerospace affiliation while omitting evidence that the person had access to the extraordinary knowledge being claimed.
 
-The same issue appears in broader UFO and hidden-technology allegations. After reviewing historical claims, the U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) reported that it found no empirical evidence that government agencies or private companies were conducting secret reverse-engineering programmes involving extraterrestrial technology. The office has repeatedly stated that it has not identified evidence supporting claims of hidden alien technology possession. Reuters+3U.S. Department of War+3AARO <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</span></span></span>
+The same issue appears in broader UFO and hidden-technology allegations. After reviewing historical claims, the U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) reported that it found no empirical evidence that government agencies or private companies were conducting secret reverse-engineering programmes involving extraterrestrial technology. The office has repeatedly stated that it has not identified evidence supporting claims of hidden alien technology possession. Reuters+3U.S. Department of War+3AARO<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-2-dark.svg" | relative_url }}" alt="Job Titles illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_aerospace_titles_rum_300a82-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,7 +343,7 @@ The same issue appears in broader UFO and hidden-technology allegations. After r
 
 The recent wave of online discussion about allegedly missing or dead scientists provides a useful example of how aerospace affiliations can amplify speculation.
 
-Media reports in 2026 described public interest in a group of deaths and disappearances involving people connected to aerospace, national laboratories and government research institutions. Social media users rapidly proposed links to UFO programmes, classified technologies and national-security secrets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
+Media reports in 2026 described public interest in a group of deaths and disappearances involving people connected to aerospace, national laboratories and government research institutions. Social media users rapidly proposed links to UFO programmes, classified technologies and national-security secrets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</span><span class="citation-popover-meta">Published: April 17, 2026</span></span></span>
 
 However, reporting on the individual cases frequently revealed major differences:
 
@@ -354,13 +354,13 @@ However, reporting on the individual cases frequently revealed major differences
 * Some involved natural deaths.
 * Some involved criminal cases unrelated to aerospace research.
 * Some involved former rather than current government personnel.
-* Some individuals had only indirect connections to the subjects later attributed to them online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+* Some individuals had only indirect connections to the subjects later attributed to them online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 </div>
 
 The result was a familiar pattern: a collection of unrelated events appeared connected because the people involved shared broadly similar institutional backgrounds. Aerospace and defence affiliations acted as narrative glue, encouraging observers to interpret coincidence as evidence of a coordinated campaign.
 
-In several instances, family members or colleagues publicly challenged claims that the individuals possessed the extraordinary knowledge attributed to them online. Reports noted that speculation often outran the documented facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+In several instances, family members or colleagues publicly challenged claims that the individuals possessed the extraordinary knowledge attributed to them online. Reports noted that speculation often outran the documented facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Hp02QoYzN4" title="12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer">12 U.S. Scientists Have Gone Missing or Died. What&#x27;s Going On?</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Hp02QoYzN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Hp02QoYzN4">Open on YouTube</a></p></div></div></div>
@@ -397,7 +397,7 @@ These checks do not prove that every suspicious event has an ordinary explanatio
 
 Within [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-related rumours, aerospace job titles often function as narrative evidence when little direct evidence exists. The title suggests proximity to advanced technology, secrecy and national-security programmes, making it easier for observers to imagine hidden motives behind unrelated events.
 
-The strongest documented pattern is not the discovery of a covert campaign against scientists who knew forbidden secrets. Rather, it is the repeated tendency for aerospace affiliations to be treated as proof of extraordinary knowledge. Once that assumption takes hold, deaths, disappearances and other tragedies can appear connected even when investigations, timelines and available records point in different directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+The strongest documented pattern is not the discovery of a covert campaign against scientists who knew forbidden secrets. Rather, it is the repeated tendency for aerospace affiliations to be treated as proof of extraordinary knowledge. Once that assumption takes hold, deaths, disappearances and other tragedies can appear connected even when investigations, timelines and available records point in different directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 For readers assessing hidden-technology claims, the most important distinction is between what a title implies and what evidence actually demonstrates. Aerospace employment may explain why a case attracts attention, but by itself it does not establish motive, secret knowledge or evidence of targeting.
 
@@ -406,194 +406,194 @@ For readers assessing hidden-technology claims, the most important distinction i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Aerospace Labels Make Rumors Stick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Aerospace Labels Make Rumors Stick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines claims from credentialed military and aerospace figures while emphasizing evidence and source evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines claims from credentialed military and aerospace figures while emphasizing evidence and source evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how authority, credentials, and extraordinary claims can influence belief without sufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how authority, credentials, and extraordinary claims can influence belief without sufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides real-world context on classified aerospace programs and the limits of what individuals typically know.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context on classified aerospace programs and the limits of what individuals typically know.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Explores UFO claims through structured evaluation rather than relying solely on witness status or affiliations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO claims through structured evaluation rather than relying solely on witness status or affiliations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ."><img src="{{ '/assets/images/marketplace-covers/509eb829ebed1297d609.jpg' | relative_url }}" alt="Listing image for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK .</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ."><img src="{{ '/assets/images/marketplace-covers/509eb829ebed1297d609.jpg' | relative_url }}" alt="Listing image for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK .</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/75d4d6b7c5af416c6223.jpg' | relative_url }}" alt="Listing image for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/75d4d6b7c5af416c6223.jpg' | relative_url }}" alt="Listing image for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks"><img src="{{ '/assets/images/marketplace-covers/ad0924292523e62f601a.jpg' | relative_url }}" alt="Listing image for Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks"><img src="{{ '/assets/images/marketplace-covers/ad0924292523e62f601a.jpg' | relative_url }}" alt="Listing image for Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Aerospace Model Spaceship &amp; Rocket Launch Center Self Build 900 Building Bricks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM"><img src="{{ '/assets/images/marketplace-covers/ab429d4fd973e5392edf.jpg' | relative_url }}" alt="Listing image for 1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM"><img src="{{ '/assets/images/marketplace-covers/ab429d4fd973e5392edf.jpg' | relative_url }}" alt="Listing image for 1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:150 China Long March CZ-2F Carrier Rocket Diecast Aerospace Model 45CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="job-titles-9d9e8f-why-aerospace-labels-make-rumors-stick-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ For readers assessing hidden-technology claims, the most important distinction i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ For readers assessing hidden-technology claims, the most important distinction i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ For readers assessing hidden-technology claims, the most important distinction i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ For readers assessing hidden-technology claims, the most important distinction i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ For readers assessing hidden-technology claims, the most important distinction i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,130 +799,130 @@ For readers assessing hidden-technology claims, the most important distinction i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no empirical evidence for claims that the USG and pri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.09961</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</p></details>
+   Link:<a href="https://arxiv.org/abs/2008.09961" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.09961</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.00141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00141</a>  
+   Link:<a href="https://arxiv.org/abs/2404.00141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00141</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. AARO&#x27;s historical and locational trend...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. AARO&#x27;s historical and locational trend...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP sighting has repre...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP sighting has repre...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeAARO released a report titled &quot;Report on the Historical Record of U.S. which found &quot;no empirical e...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeAARO released a report titled &quot;Report on the Historical Record of U.S. which found &quot;no empirical e...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...April 17, 2026 — 21 Apr 2026 — The disappearances and deaths of 10 gov...</p></details>
    Published: April 17, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — A conspiracy theory linking the disappear...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wall Street JournalHow a Fringe Conspiracy Theory About Missing Scientists...25 Apr 2026 — A conspiracy theory linking the disappear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
    Title: new clues in new mexicos missing nuclear scientists cases  
-   Link: <a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Among them is retired U.S. Air Force Maj. Gen. William “Neil” McCasland, who disappeared from his Albuquerque home carrying only a handgu...</p></details>
+   Link:<a href="https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/21/us-news/new-clues-in-new-mexicos-missing-nuclear-scientists-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Among them is retired U.S. Air Force Maj. Gen. William “Neil” McCasland, who disappeared from his Albuquerque home carrying only a handgu...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/etimes/trending/eight-nuclear-and-space-scientists-behind-americas-most-classified-secrets-have-vanished-or-died-inside-the-mystery-of-the-missing-and-the-dead/articleshow/129982872.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/trending/eight-nuclear-and-space-scientists-behind-americas-most-classified-secrets-have-vanished-or-died-inside-the-mystery-of-the-missing-and-the-dead/articleshow/129982872.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists associated with top-secret nuclear, aerospace, and advanced research projects have either mysteriously disappeared or died und...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/etimes/trending/eight-nuclear-and-space-scientists-behind-americas-most-classified-secrets-have-vanished-or-died-inside-the-mystery-of-the-missing-and-the-dead/articleshow/129982872.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/trending/eight-nuclear-and-space-scientists-behind-americas-most-classified-secrets-have-vanished-or-died-inside-the-mystery-of-the-missing-and-the-dead/articleshow/129982872.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists associated with top-secret nuclear, aerospace, and advanced research projects have either mysteriously disappeared or died und...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/legitngbreakingnews/posts/us-authorities-have-begun-investigating-a-series-of-deaths-and-disappearances-in/1496930805794689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngbreakingnews/posts/us-authorities-have-begun-investigating-a-series-of-deaths-and-disappearances-in/1496930805794689/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US authorities have begun investigating a series of deaths...At least 11 scientists with ties to NASA, nuclear research, aerospace progr...</p></details>
+   Link:<a href="https://www.facebook.com/legitngbreakingnews/posts/us-authorities-have-begun-investigating-a-series-of-deaths-and-disappearances-in/1496930805794689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngbreakingnews/posts/us-authorities-have-begun-investigating-a-series-of-deaths-and-disappearances-in/1496930805794689/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US authorities have begun investigating a series of deaths...At least 11 scientists with ties to NASA, nuclear research, aerospace progr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: foxnews.com  
    Title: missing general scientist deaths tied secret us work prompt [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;) probe  
-   Link: <a href="https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing general, scientist deaths tied to secret US work...16 Apr 2026 — Retired Air Force Maj. Gen. William McCasland, who oversaw clas...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/missing-general-scientist-deaths-tied-secret-us-work-prompt-white-house-probe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing general, scientist deaths tied to secret US work...16 Apr 2026 — Retired Air Force Maj. Gen. William McCasland, who oversaw clas...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: smithsonianmag.com  
    Title: us has no evidence of alien technology new pentagon report finds 180983938  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/us-has-no-evidence-of-alien-technology-new-pentagon-report-finds-180983938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has &#x27;No Evidence&#x27; of Alien Technology, New...13 Mar 2024 — A new report from the United States Department of Defense found no evidence t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qE2n32zf8Ug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qE2n32zf8Ug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings likely secret military tests, no evidence of alien...(AARO) found no evidence of any US government investigation, research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qE2n32zf8Ug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qE2n32zf8Ug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings likely secret military tests, no evidence of alien...(AARO) found no evidence of any US government investigation, research...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Fifty-eight days have passed, and there is still...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-[congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Fifty-eight days have passed, and there is still...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: Robert Powell's takedown analysis of the [AARO report](&#123;&#123; 'aaro-report/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>early in the paper, AARO states that the goal of the report is, &quot;to investigate past USG-sponsored UAP investigation efforts an...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>early in the paper, AARO states that the goal of the report is, &quot;to investigate past USG-sponsored UAP investigation efforts an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/nearly-a-dozen-american-scientists-with-topsecret-security-clearances-have-died-/1422792016558790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/nearly-a-dozen-american-scientists-with-topsecret-security-clearances-have-died-/1422792016558790/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rams, and classified projects have vanished or turned up dead in...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/skynews/posts/nearly-a-dozen-american-scientists-with-topsecret-security-clearances-have-died-/1422792016558790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/nearly-a-dozen-american-scientists-with-topsecret-security-clearances-have-died-/1422792016558790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rams, and classified projects have vanished or turned up dead in...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newsinfo.inquirer.net  
    Title: pentagon says no evidence of secret work on alien tech  
-   Link: <a href="https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaro said the inaccurate reverse-engineering claims are “in large part the result of circular reporting from a group of...Read more...</p></details>
+   Link:<a href="https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1916615/pentagon-says-no-evidence-of-secret-work-on-alien-tech</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaro said the inaccurate reverse-engineering claims are “in large part the result of circular reporting from a group of...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering na...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO has no evidence for the USG reverse-engineering na...</p></details>
    Published: May 2024  

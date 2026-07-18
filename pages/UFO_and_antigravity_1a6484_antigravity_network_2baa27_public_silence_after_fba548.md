@@ -305,7 +305,7 @@ When a mainstream researcher stops publishing in an established field, the expla
 
 The final step is where many narratives become detached from documented evidence. Silence can indicate success, failure, loss of funding, career changes, classification, illness or simple abandonment of a project. Without independent evidence, the silence itself does not reveal which explanation is correct.
 
-The case of Ning Li illustrates why these narratives persist. Li published theoretical papers on gravitomagnetic effects in [superconductors]({{ 'superconductors/' | relative_url }}) in the early 1990s and later attracted attention from NASA-related circles and defence funding. She left academia to pursue related work through a private company, [AC Gravity]({{ 'ac-gravity/' | relative_url }}). Publicly available records show that the company received a Department of Defense grant, but no publicly released breakthrough followed. The resulting information gap became the centre of decades of speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+The case of Ning Li illustrates why these narratives persist. Li published theoretical papers on gravitomagnetic effects in [superconductors]({{ 'superconductors/' | relative_url }}) in the early 1990s and later attracted attention from NASA-related circles and defence funding. She left academia to pursue related work through a private company, [AC Gravity]({{ 'ac-gravity/' | relative_url }}). Publicly available records show that the company received a Department of Defense grant, but no publicly released breakthrough followed. The resulting information gap became the centre of decades of speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 ## The Ning Li Pattern: A Real Information Gap, Not Proof of Suppression
 
@@ -320,13 +320,13 @@ Several facts are well documented:
 * Experiments associated with her research programme did not produce publicly accepted evidence of practical antigravity effects.
 * She left the University of Alabama in Huntsville and founded AC Gravity.
 * AC Gravity received Department of Defense funding.
-* Few public research outputs emerged afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+* Few public research outputs emerged afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 </div>
 
 From these facts, many commentators inferred that successful antigravity technology had been hidden. However, the documented record does not establish that conclusion.
 
-A key detail often omitted from retellings is that Li's public experimental work did not confirm large gravitational effects. A NASA-listed study involving Li and colleagues reported extremely small measurements and placed limits on the proposed phenomenon rather than demonstrating useful gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
+A key detail often omitted from retellings is that Li's public experimental work did not confirm large gravitational effects. A NASA-listed study involving Li and colleagues reported extremely small measurements and placed limits on the proposed phenomenon rather than demonstrating useful gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ning Li (physicist</span><span class="citation-popover-snippet">Ning Li (physicist</span></span></span>
 
 The later absence of publications therefore has multiple plausible explanations. It could reflect unsuccessful research, classified work, shifting priorities, health issues, commercial dead ends or some combination of these factors. Publicly available evidence does not allow a definitive answer.
 
@@ -343,7 +343,7 @@ Researchers working on unconventional propulsion concepts face structural pressu
 
 Many exotic propulsion claims attract attention because preliminary results appear promising. Yet science ultimately depends on independent replication.
 
-The history of advanced propulsion contains numerous examples where intriguing effects became weaker or disappeared under tighter experimental controls. Scientific American's review of exotic propulsion research highlighted how later testing frequently challenged earlier claims, with apparent signals sometimes turning out to be measurement artefacts or experimental noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+The history of advanced propulsion contains numerous examples where intriguing effects became weaker or disappeared under tighter experimental controls. Scientific American's review of exotic propulsion research highlighted how later testing frequently challenged earlier claims, with apparent signals sometimes turning out to be measurement artefacts or experimental noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
 
 When replication fails, researchers often stop publishing because the original effect no longer appears convincing.
 
@@ -351,7 +351,7 @@ When replication fails, researchers often stop publishing because the original e
 
 Exotic propulsion research is expensive and risky. A project can generate headlines long before it produces reliable evidence.
 
-Government agencies occasionally fund exploratory investigations into unconventional ideas because the potential payoff would be enormous if the concept worked. NASA and defence organisations have periodically reviewed speculative propulsion concepts for precisely this reason. Such funding demonstrates interest, not validation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19910012827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerExotic power and propulsion conceptsThe status of some exotic physical phenomena and unconventional spacecra...</span></span></span>
+Government agencies occasionally fund exploratory investigations into unconventional ideas because the potential payoff would be enormous if the concept worked. NASA and defence organisations have periodically reviewed speculative propulsion concepts for precisely this reason. Such funding demonstrates interest, not validation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19910012827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerExotic power and propulsion conceptsThe status of some exotic physical phenomena and unconventional spacecra...</span></span></span>
 
 When results fail to justify continued investment, programmes often end quietly rather than through public announcements.
 
@@ -385,13 +385,13 @@ A common mechanism works as follows:
 
 * A researcher stops publishing.
 * Few journalists investigate the reasons.
-* Public records become sparse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</span></span></span>
+* Public records become sparse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</span></span></span>
 * Speculation fills the vacuum.
 * Later retellings present the speculation as established fact.
 
 </div>
 
-Over time, the distinction between documented events and inferred motives becomes blurred. Discussions on UFO-focused forums frequently treat the disappearance of public information as evidence that a breakthrough occurred, even when no independent proof exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A few hours ago I read one of the best in depth rabbit holes on people who might actually be involved in the UAP Reverse Engineering prog...</span></span></span>
+Over time, the distinction between documented events and inferred motives becomes blurred. Discussions on UFO-focused forums frequently treat the disappearance of public information as evidence that a breakthrough occurred, even when no independent proof exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A few hours ago I read one of the best in depth rabbit holes on people who might actually be involved in the UAP Reverse Engineering prog...</span></span></span>
 
 This process can make ordinary gaps in documentation appear far more significant than they are.
 
@@ -418,7 +418,7 @@ This distinction is particularly important in fields where extraordinary claims 
 
 Public silence after exotic propulsion research remains compelling because it sits between two realities.
 
-On one side, there are genuine historical facts: unusual research programmes, government curiosity, speculative theoretical papers and occasional defence funding. On the other side, there is a lack of publicly verified breakthroughs despite decades of claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Space Studies Institute+3Scientific American+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
+On one side, there are genuine historical facts: unusual research programmes, government curiosity, speculative theoretical papers and occasional defence funding. On the other side, there is a lack of publicly verified breakthroughs despite decades of claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</span><span class="citation-popover-meta">Published: August 1, 2019</span></span></span>
 
 The gap between those realities creates space for speculation.
 
@@ -427,194 +427,194 @@ For believers in suppression narratives, silence suggests hidden success. For sc
 What can be established is narrower but more reliable: researchers sometimes stop publishing after pursuing exotic propulsion ideas, and those disappearances from public view frequently become the starting point for later rumours. The existence of the silence is real. The claim that the silence proves suppression usually is not.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Antigravity Researchers Stop Publishing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Antigravity Researchers Stop Publishing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports assessing suppression narratives, missing evidence, and extraordinary technological claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports assessing suppression narratives, missing evidence, and extraordinary technological claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how UFO claims, official silence, and incomplete public records are interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO claims, official silence, and incomplete public records are interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMd4pwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Structure of Scientific Revolutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tMd4pwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Structure of Scientific Revolutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Helps explain why research programs fade, shift, or lose support without requiring conspiracy explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why research programs fade, shift, or lose support without requiring conspiracy explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Addresses common errors in reasoning, evidence evaluation, and claims that persist despite weak support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses common errors in reasoning, evidence evaluation, and claims that persist despite weak support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Structure of Scientific Revolutions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Structure of Scientific Revolutions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nike air jordan red Chicago sports prints trainer sneaker décor wall art"><img src="{{ '/assets/images/marketplace-covers/a889a91b3dfa6e6f4448.jpg' | relative_url }}" alt="Listing image for Nike air jordan red Chicago sports prints trainer sneaker décor wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Nike air jordan red Chicago sports prints trainer sneaker décor wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art"><img src="{{ '/assets/images/marketplace-covers/79153433fa01196dbc4b.jpg' | relative_url }}" alt="Listing image for Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Airblade Sony PlayStation 2 PS2 Anti-Gravity Print Ad/Poster Official Promo Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/66fb817a1bd8eb2641e9.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a28cb7cff2027bb19c70.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a28cb7cff2027bb19c70.jpg' | relative_url }}" alt="Listing image for Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">Anti-gravity racer Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for antigravity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: antigravity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=antigravity+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="antigravity poster" data-ebay-reference="public-silence-when-antigravity-researchers-stop-publishing-ufo-and-antigravity-antigravity-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ What can be established is narrower but more reliable: researchers sometimes sto
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ What can be established is narrower but more reliable: researchers sometimes sto
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ What can be established is narrower but more reliable: researchers sometimes sto
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ What can be established is narrower but more reliable: researchers sometimes sto
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ What can be established is narrower but more reliable: researchers sometimes sto
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,107 +820,107 @@ What can be established is narrower but more reliable: researchers sometimes sto
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ning Li (physicist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ning_Li_%28physicist%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15c9uwk/solving_the_mystery_behind_the_disappearance_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Ning LiPublic records show that in 2001, the U.S. Department of Defense gave AC Gravity a grant for $448,970 to research the technolo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19910012827" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19910012827</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerExotic power and propulsion conceptsThe status of some exotic physical phenomena and unconventional spacecra...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19910012827" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19910012827</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerExotic power and propulsion conceptsThe status of some exotic physical phenomena and unconventional spacecra...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A few hours ago I read one of the best in depth rabbit holes on people who might actually be involved in the UAP Reverse Engineering prog...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15gmn13/what_happened_to_the_antigravity_scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A few hours ago I read one of the best in depth rabbit holes on people who might actually be involved in the UAP Reverse Engineering prog...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Warp Theorists say We've entered an Exotic Propulsion Space Race  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/1duejen/warp_theorists_say_weve_entered_an_exotic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1duejen/warp_theorists_say_weve_entered_an_exotic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2024 — AP: Humanity has made small steps into the warp age from a theoretical perspective, and recent efforts show that we can ma...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/1duejen/warp_theorists_say_weve_entered_an_exotic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1duejen/warp_theorists_say_weve_entered_an_exotic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 3, 2024 — AP: Humanity has made small steps into the warp age from a theoretical perspective, and recent efforts show that we can ma...</p></details>
    Published: July 3, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unpublished.ca  
-   Link: <a href="https://unpublished.ca/opinion/disappearance-of-physicists" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/disappearance-of-physicists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Physicists - Unpublished Media26 Feb 2025 — Ning Li in the early 1990s, co-authoring theoretical papers that predicted s...</p></details>
+   Link:<a href="https://unpublished.ca/opinion/disappearance-of-physicists" target="_blank" rel="noopener noreferrer nofollow">https://unpublished.ca/opinion/disappearance-of-physicists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disappearance of Physicists - Unpublished Media26 Feb 2025 — Ning Li in the early 1990s, co-authoring theoretical papers that predicted s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-good-kind-of-crazy-the-quest-for-exotic-propulsion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanThe Good Kind of Crazy: The Quest for Exotic PropulsionAugust 1, 2019 — “Our results challenge the validity of the gen...</p></details>
    Published: August 1, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ssi.org  
-   Link: <a href="https://ssi.org/exotic-propulsion-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://ssi.org/exotic-propulsion-initiative/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Studies InstituteExotic Propulsion Initiative - Space Studies InstituteTo these projects we have added the Exotic Propulsion Initia...</p></details>
+   Link:<a href="https://ssi.org/exotic-propulsion-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://ssi.org/exotic-propulsion-initiative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Studies InstituteExotic Propulsion Initiative - Space Studies InstituteTo these projects we have added the Exotic Propulsion Initia...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/news?page=60&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news?page=60&amp;sort=asc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News and StoriesThe Gulf Research Program (GRP) of the National Academies of Sciences, Engineering, and Medicine today announced its 2022...</p></details>
+   Link:<a href="https://www.nationalacademies.org/news?page=60&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news?page=60&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News and StoriesThe Gulf Research Program (GRP) of the National Academies of Sciences, Engineering, and Medicine today announced its 2022...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXpxqWWDLr5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpxqWWDLr5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THIS IS INSANE??The Hidden Physics Behind Anti-Gravity Research FORBIDDEN SCIENCE VIDEO MADE WITH HEADLINER.APP Use to be silenced. alist...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXpxqWWDLr5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpxqWWDLr5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THIS IS INSANE??The Hidden Physics Behind Anti-Gravity Research FORBIDDEN SCIENCE VIDEO MADE WITH HEADLINER.APP Use to be silenced. alist...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: a disturbing story involving anti gravity researcher [amy eskridge](&#123;&#123; 'amy-eskridge/' | relative_url &#125;&#125;) is gaining ren  
-   Link: <a href="https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-amy-eskridge-is-gaining-ren/1561601222636782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-amy-eskridge-is-gaining-ren/1561601222636782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A disturbing story involving anti-gravity researcher Amy...Ning Li—a deceased physicist whose anti-gravity research ended after a 2014 h...</p></details>
+   Link:<a href="https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-amy-eskridge-is-gaining-ren/1561601222636782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ConservativeTwins/posts/a-disturbing-story-involving-anti-gravity-researcher-amy-eskridge-is-gaining-ren/1561601222636782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A disturbing story involving anti-gravity researcher Amy...Ning Li—a deceased physicist whose anti-gravity research ended after a 2014 h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first person to publish articles on anti gravity in scientific journals. It is strange that there...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NTDLifeOfficial/posts/anti-gravity-researcher-speaks-on-scientist-death-case/1304416865207129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first person to publish articles on anti gravity in scientific journals. It is strange that there...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Harvard University professor Avi Loeb and his Galileo Project  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/harvard-university-professor-avi-loeb-and-his-galileo-project-research-team-spen/993243929749291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/harvard-university-professor-avi-loeb-and-his-galileo-project-research-team-spen/993243929749291/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Harvard University professor Avi Loeb and his Galileo Project research team spent the hour after the Pentagon&#x27;s Friday UAP...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/harvard-university-professor-avi-loeb-and-his-galileo-project-research-team-spen/993243929749291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/harvard-university-professor-avi-loeb-and-his-galileo-project-research-team-spen/993243929749291/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Harvard University professor Avi Loeb and his Galileo Project research team spent the hour after the Pentagon&#x27;s Friday UAP...</p></details>
    Published: May 8, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedebrief.org  
    Title: Warp Theorists Say We've Entered an Exotic Propulsion Space  
-   Link: <a href="https://thedebrief.org/warp-theorists-say-weve-entered-an-exotic-propulsion-space-race-to-build-the-worlds-first-working-warp-drive/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/warp-theorists-say-weve-entered-an-exotic-propulsion-space-race-to-build-the-worlds-first-working-warp-drive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2024 — The Debrief spoke with a team of warp drive researchers about advancements in their field and the dawn of the world&#x27;s nex...</p></details>
+   Link:<a href="https://thedebrief.org/warp-theorists-say-weve-entered-an-exotic-propulsion-space-race-to-build-the-worlds-first-working-warp-drive/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/warp-theorists-say-weve-entered-an-exotic-propulsion-space-race-to-build-the-worlds-first-working-warp-drive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2024 — The Debrief spoke with a team of warp drive researchers about advancements in their field and the dawn of the world&#x27;s nex...</p></details>
    Published: June 27, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SSs-GI75nF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SSs-GI75nF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery Barely Sociable · 4.1M views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SSs-GI75nF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SSs-GI75nF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientist That &quot;Discovered Antigravity&quot; Then Disappeared Completely - An Unsolved Mystery Barely Sociable · 4.1M views...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
    Title: Ning Li was a known antigravity researcher  
-   Link: <a href="https://www.instagram.com/reel/DXau27lgip7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXau27lgip7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She created...The grant period ended in 2002 and the results of her research were never made public. I am interested in receiving any do...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXau27lgip7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXau27lgip7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She created...The grant period ended in 2002 and the results of her research were never made public. I am interested in receiving any do...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: avsim.com  
    Title: 614337 anti gravity the secret space race  
-   Link: <a href="https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity: The Secret Space Race31 Jan 2022 — Ning Li (January 14, 1943 – July 27, 2021) was an American scientist known for her contr...</p></details>
+   Link:<a href="https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/" target="_blank" rel="noopener noreferrer nofollow">https://www.avsim.com/forums/topic/614337-anti-gravity-the-secret-space-race/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Gravity: The Secret Space Race31 Jan 2022 — Ning Li (January 14, 1943 – July 27, 2021) was an American scientist known for her contr...</p></details>
    Published: January 14, 1943  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: The quest for exotic propulsion systems  
-   Link: <a href="https://www.facebook.com/groups/spacexgroup/posts/10157740566836318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10157740566836318/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2019 — Overall, the experimental test demonstrates intriguing scientific progress but should not be interpreted as immin...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacexgroup/posts/10157740566836318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10157740566836318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2019 — Overall, the experimental test demonstrates intriguing scientific progress but should not be interpreted as immin...</p></details>
    Published: July 30, 2019  

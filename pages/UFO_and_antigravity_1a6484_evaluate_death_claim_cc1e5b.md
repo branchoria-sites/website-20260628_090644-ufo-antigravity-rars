@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-ove
 
 ## Introduction
 
-A suspicious scientist death claim should be tested in layers, not accepted or dismissed in one move. First verify that the person, job, research field and institutional links are real. Then check the death evidence: official cause and manner, police statements, coroner or medical examiner records, missing-person notices, court filings and family statements. Only after that should anyone ask whether the case has an independent link to UFO, UAP or antigravity research rather than a loose online association. This matters because recent claims about dead or missing scientists have mixed real tragedies with weaker inferences: U.S. agencies and [Congress]({{ 'congress/' | relative_url }}) have looked for possible connections among some cases, but major reporting has not found public evidence of a coordinated campaign against UFO, [aerospace]({{ 'aerospace/' | relative_url }}) or antigravity researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</span></span></span>
+A suspicious scientist death claim should be tested in layers, not accepted or dismissed in one move. First verify that the person, job, research field and institutional links are real. Then check the death evidence: official cause and manner, police statements, coroner or medical examiner records, missing-person notices, court filings and family statements. Only after that should anyone ask whether the case has an independent link to UFO, UAP or antigravity research rather than a loose online association. This matters because recent claims about dead or missing scientists have mixed real tragedies with weaker inferences: U.S. agencies and [Congress]({{ 'congress/' | relative_url }}) have looked for possible connections among some cases, but major reporting has not found public evidence of a coordinated campaign against UFO, [aerospace]({{ 'aerospace/' | relative_url }}) or antigravity researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-overview.webp" | relative_url }}" alt="Overview image for Check Claims" loading="eager" decoding="sync" fetchpriority="high">
@@ -464,17 +464,17 @@ A good first check asks four questions:
 3. **Was the work current, classified, speculative or merely adjacent to sensitive [institutions]({{ 'institutions/' | relative_url }})?** “Worked at Los Alamos” and “held live secrets about alien propulsion” are very different claims.
 4. **Is the UFO or antigravity link direct, indirect or invented?** A direct link might include published work, patents, lectures or named programme involvement. An indirect link might be a base, agency or employer with UFO associations.
 
-The recent William “Neil” McCasland case shows why this matters. McCasland was a retired U.S. Air Force major general who had commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base, a site long associated with UFO lore, and he disappeared from Albuquerque in February 2026. That is enough to make the case newsworthy, but not enough by itself to prove a UFO-related motive. Reports noted that authorities were concerned for his safety and that online speculation leaned heavily on his former roles and alleged UFO-community connections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco William Neil Mc Casland missing: Retired US Air Force maj</span><span class="citation-popover-snippet">ABC7 San Francisco William Neil Mc Casland missing: Retired US Air Force maj</span></span></span>
+The recent William “Neil” McCasland case shows why this matters. McCasland was a retired U.S. Air Force major general who had commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base, a site long associated with UFO lore, and he disappeared from Albuquerque in February 2026. That is enough to make the case newsworthy, but not enough by itself to prove a UFO-related motive. Reports noted that authorities were concerned for his safety and that online speculation leaned heavily on his former roles and alleged UFO-community connections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7news.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">ABC7 San Francisco William Neil Mc Casland missing: Retired US Air Force maj</span><span class="citation-popover-snippet">ABC7 San Francisco William Neil Mc Casland missing: Retired US Air Force maj</span></span></span>
 
-The same discipline applies in the other direction. Amy Eskridge was repeatedly described as an antigravity or gravity-modification researcher after her 2022 death, and that connection is relevant to this topic. But the claim still has to pass the next tests: what official records say about the death, what family or investigative sources add, and whether there is independent evidence of foul play rather than posthumous reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Amy Eskridge update: UFO scientist&#x27;s old texts cast doubt</span><span class="citation-popover-snippet">Hindustan Times Amy Eskridge update: UFO scientist&#x27;s old texts cast doubt</span></span></span>
+The same discipline applies in the other direction. Amy Eskridge was repeatedly described as an antigravity or gravity-modification researcher after her 2022 death, and that connection is relevant to this topic. But the claim still has to pass the next tests: what official records say about the death, what family or investigative sources add, and whether there is independent evidence of foul play rather than posthumous reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Amy Eskridge update: UFO scientist&#x27;s old texts cast doubt</span><span class="citation-popover-snippet">Hindustan Times Amy Eskridge update: UFO scientist&#x27;s old texts cast doubt</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-1-dark.svg" | relative_url }}" alt="Check Claims illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Check the Death Evidence Before the Theory
 
-The most important evidence in a suspicious death claim is not the most dramatic detail. It is the most reliable account of how the death was classified and why. In death investigation, “cause of death” means the injury or disease process that killed the person; “manner of death” classifies the circumstances, commonly as natural, accident, suicide, homicide or undetermined in U.S. practice. The National Association of Medical Examiners’ guidance and U.S. death-certification materials both stress that manner classification depends on circumstances, not merely on the medical injury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: name.memberclicks.net">[MemberClicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">name.memberclicks.net</span><span class="citation-popover-title">Member Clicks A Guide for Manner of Death Classification</span><span class="citation-popover-snippet">Member Clicks A Guide for Manner of Death Classification</span></span></span>
+The most important evidence in a suspicious death claim is not the most dramatic detail. It is the most reliable account of how the death was classified and why. In death investigation, “cause of death” means the injury or disease process that killed the person; “manner of death” classifies the circumstances, commonly as natural, accident, suicide, homicide or undetermined in U.S. practice. The National Association of Medical Examiners’ guidance and U.S. death-certification materials both stress that manner classification depends on circumstances, not merely on the medical injury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: name.memberclicks.net">[MemberClicks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">name.memberclicks.net</span><span class="citation-popover-title">Member Clicks A Guide for Manner of Death Classification</span><span class="citation-popover-snippet">Member Clicks A Guide for Manner of Death Classification</span></span></span>
 
-That distinction is crucial. A gunshot wound may be homicide, suicide, accident or undetermined depending on the facts. A drowning may be accidental, suicidal, homicidal or unclear. A missing-person case is not a death case until remains or other sufficient evidence establish death. In England and Wales, coroners may use short-form or narrative conclusions, and an “open” conclusion can be appropriate where the evidence does not support a more specific finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">chief coroners guidance no 17 conclusions short form and narrative</span><span class="citation-popover-snippet">chief coroners guidance no 17 conclusions short form and narrative</span></span></span>
+That distinction is crucial. A gunshot wound may be homicide, suicide, accident or undetermined depending on the facts. A drowning may be accidental, suicidal, homicidal or unclear. A missing-person case is not a death case until remains or other sufficient evidence establish death. In England and Wales, coroners may use short-form or narrative conclusions, and an “open” conclusion can be appropriate where the evidence does not support a more specific finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">chief coroners guidance no 17 conclusions short form and narrative</span><span class="citation-popover-snippet">chief coroners guidance no 17 conclusions short form and narrative</span></span></span>
 
 For a UFO or antigravity-linked suspicious death claim, the minimum evidential file should include:
 
@@ -484,9 +484,9 @@ For a UFO or antigravity-linked suspicious death claim, the minimum evidential f
 * **Investigative status:** open, closed, charged, cleared, missing, unidentified or undetermined.
 * **[Source quality]({{ 'source-quality/' | relative_url }}):** primary records and named reporting should outweigh screenshots, anonymous posts and recycled summaries.
 
-Carl Grillmair’s killing illustrates how a real homicide can still fail to support a wider conspiracy claim. Grillmair, a Caltech astrophysicist, was fatally shot at his home in California in February 2026. That sounds alarming in a list of scientist deaths. Yet prosecutors charged a local man, Freddy Snyder, with murder, carjacking and burglary; later reporting said Grillmair’s widow rejected the conspiracy framing and believed the killing was tied to a local conflict or misguided revenge rather than his astrophysics work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2LA County DA&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span>
+Carl Grillmair’s killing illustrates how a real homicide can still fail to support a wider conspiracy claim. Grillmair, a Caltech astrophysicist, was fatally shot at his home in California in February 2026. That sounds alarming in a list of scientist deaths. Yet prosecutors charged a local man, Freddy Snyder, with murder, carjacking and burglary; later reporting said Grillmair’s widow rejected the conspiracy framing and believed the killing was tied to a local conflict or misguided revenge rather than his astrophysics work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">caltech scientist carl grillmair shooting death</span><span class="citation-popover-snippet">Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</span></span></span>
 
-Nuno Loureiro’s death shows a different version of the same rule. Loureiro was a prominent MIT plasma physicist and fusion-centre director who was shot in December 2025. Early reports noted no public suspect or motive, which made the case vulnerable to speculation. Later reporting connected the killing to Cláudio Manuel Neves Valente, also linked by authorities to the Brown University shooting; that does not make the death less tragic, but it changes the evidential picture from “mysterious scientist killing” to a homicide with a specific alleged perpetrator and investigative trail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MIT President Sally Kornbluth expressed deep sorrow over the incident, noting Loureiro’s lifelong passion for science and his pivotal rol...</span></span></span>
+Nuno Loureiro’s death shows a different version of the same rule. Loureiro was a prominent MIT plasma physicist and fusion-centre director who was shot in December 2025. Early reports noted no public suspect or motive, which made the case vulnerable to speculation. Later reporting connected the killing to Cláudio Manuel Neves Valente, also linked by authorities to the Brown University shooting; that does not make the death less tragic, but it changes the evidential picture from “mysterious scientist killing” to a homicide with a specific alleged perpetrator and investigative trail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">MIT President Sally Kornbluth expressed deep sorrow over the incident, noting Loureiro’s lifelong passion for science and his pivotal rol...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKnXUlwdG6w" title="UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer">UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 400.9K &middot; Uploaded: September 2023 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKnXUlwdG6w">Open on YouTube</a></p></div></div></div>
@@ -501,7 +501,7 @@ CategoryWhat belongs hereExample of wording**Documented fact**Confirmed identity
 
 This separation keeps the analysis fair. If a scientist dies by homicide and the motive is unclear, it is reasonable to ask whether the work could be relevant. But the claim needs a bridge: threats tied to the research, unusual access to specific secrets, suspicious surveillance, links between perpetrators, repeated targeting by the same actor, or documents showing institutional concern about that person’s knowledge. Without that bridge, “sensitive job plus unusual death” remains a question, not a conclusion.
 
-The broader UAP context supports this careful approach. NASA’s independent UAP study said there is no conclusive peer-reviewed evidence that UAP have an extraterrestrial origin and emphasised that the core problem is often low-quality or missing data. AARO’s 2024 historical review similarly said it found no evidence that U.S. government investigations confirmed extraterrestrial technology, while acknowledging decades of official interest in unidentified anomalous phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The broader UAP context supports this careful approach. NASA’s independent UAP study said there is no conclusive peer-reviewed evidence that UAP have an extraterrestrial origin and emphasised that the core problem is often low-quality or missing data. AARO’s 2024 historical review similarly said it found no evidence that U.S. government investigations confirmed extraterrestrial technology, while acknowledging decades of official interest in unidentified anomalous phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 That context does not prove every death is ordinary. It does show why the evidential bar should be high before adding UFO or antigravity motive to a death investigation.
 
@@ -509,7 +509,7 @@ That context does not prove every death is ordinary. It does show why the eviden
 
 The most seductive part of these claims is the list: ten scientists, eleven scientists, twenty-five defence engineers, several deaths in a few months, all “connected”. Lists create emotional force, but they can be built after the fact by choosing the boundary that makes the pattern look strongest.
 
-This is a classic pattern-recognition problem. The Royal Statistical Society’s work on suspected medical murder warns that unusual-looking clusters can arise by coincidence and that investigators must consider both whether homicide occurred and whether a suspected link is real. That warning applies beyond medicine: before treating a run of deaths as a plot, define the population, timeframe, inclusion criteria and expected background rate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rss.org.uk">[RSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rss.org.uk</span><span class="citation-popover-title">RSSHealthcare serial killer or coincidence?</span><span class="citation-popover-snippet">RSSHealthcare serial killer or coincidence?</span></span></span>
+This is a classic pattern-recognition problem. The Royal Statistical Society’s work on suspected medical murder warns that unusual-looking clusters can arise by coincidence and that investigators must consider both whether homicide occurred and whether a suspected link is real. That warning applies beyond medicine: before treating a run of deaths as a plot, define the population, timeframe, inclusion criteria and expected background rate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rss.org.uk">[RSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rss.org.uk</span><span class="citation-popover-title">RSSHealthcare serial killer or coincidence?</span><span class="citation-popover-snippet">RSSHealthcare serial killer or coincidence?</span></span></span>
 
 For this topic, ask:
 
@@ -525,7 +525,7 @@ For this topic, ask:
 
 </div>
 
-The older GEC-Marconi deaths narrative is a useful caution. In the 1980s, British [defence scientists]({{ 'archetype/' | relative_url }}) and engineers associated with Marconi, Plessey and Strategic Defense Initiative-related work were linked in press and conspiracy accounts after several violent or unusual deaths. Contemporary reporting acknowledged the disturbing appearances but also showed how the number grew as more loosely connected deaths were added and as suicides, accidents and unexplained cases were grouped together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
+The older GEC-Marconi deaths narrative is a useful caution. In the 1980s, British [defence scientists]({{ 'archetype/' | relative_url }}) and engineers associated with Marconi, Plessey and Strategic Defense Initiative-related work were linked in press and conspiracy accounts after several violent or unusual deaths. Contemporary reporting acknowledged the disturbing appearances but also showed how the number grew as more loosely connected deaths were added and as suicides, accidents and unexplained cases were grouped together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[Trove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 
 A cluster can be a legitimate investigative lead. It is not, by itself, a conclusion.
 
@@ -566,7 +566,7 @@ Weak links include:
 
 This is where many UFO and antigravity death claims fail. Defence, aerospace, nuclear, astronomy and plasma physics are large communities. They include older retirees, field researchers, engineers, administrators, contractors and people under ordinary human stresses. If every death, disappearance or suicide in those communities is treated as one plot, the theory becomes unfalsifiable.
 
-Recent reporting on the 2026 missing-scientists narrative reflects this gap. AP reported that speculation moved from online forums into national politics and that the FBI and Congress were reviewing possible connections, but also that no definitive evidence had established coordinated foul play. CBS reported that the cases involved several researchers and staff tied to nuclear or space technology, but the public evidence remained a mix of distinct circumstances rather than one demonstrated chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</span></span></span>
+Recent reporting on the 2026 missing-scientists narrative reflects this gap. AP reported that speculation moved from online forums into national politics and that the FBI and Congress were reviewing possible connections, but also that no definitive evidence had established coordinated foul play. CBS reported that the cases involved several researchers and staff tied to nuclear or space technology, but the public evidence remained a mix of distinct circumstances rather than one demonstrated chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -587,7 +587,7 @@ Suspicious death narratives often rely on presentation tricks rather than eviden
 
 **The list grows when challenged.** If one case is explained, another is added. A theory that cannot say what would count against it is not being tested.
 
-**The claim harms families while claiming to honour victims.** Relatives of people drawn into the recent missing-scientists narrative have objected to speculation that turns grief into entertainment or political material. That ethical cost should be part of the evaluation, not an afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnmediaskn.com">[Winn Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnmediaskn.com</span><span class="citation-popover-snippet">Open source on winnmediaskn.com.</span></span></span>
+**The claim harms families while claiming to honour victims.** Relatives of people drawn into the recent missing-scientists narrative have objected to speculation that turns grief into entertainment or political material. That ethical cost should be part of the evaluation, not an afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: winnmediaskn.com">[Winn Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">winnmediaskn.com</span><span class="citation-popover-snippet">Open source on winnmediaskn.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-3-dark.svg" | relative_url }}" alt="Check Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_evaluate_death_claim_cc1e5b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -615,194 +615,194 @@ The assessment would change if new evidence connected the cases independently of
 Until then, the better standard is disciplined scepticism in both directions: do not dismiss real unresolved deaths because the topic attracts conspiracy theories, and do not turn every unexplained or emotionally shocking case into proof of a hidden UFO or antigravity cover-up. The responsible question is not “Does this feel suspicious?” but “What specific fact would have to be true for the claimed motive or pattern to follow?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Should You Test a Suspicious Death Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Should You Test a Suspicious Death Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Blood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLSPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Blood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Blood">Bad Blood</a>
-        </h4>
-        <p class="fr-book-author">By John Carreyrou</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Blood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLSPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad Blood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Blood">Bad Blood</a>
+</h4>
+<p class="fr-book-author">By John Carreyrou</p>
         
-        <p class="fr-book-desc">Demonstrates evidence-based investigation, source verification, document checking, and skepticism toward extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates evidence-based investigation, source verification, document checking, and skepticism toward extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Blood+by+John+Carreyrou&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides practical tools for evaluating extraordinary assertions and distinguishing evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides practical tools for evaluating extraordinary assertions and distinguishing evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Cold Blood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L9nPaC12gtUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Cold Blood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Cold Blood">In Cold Blood</a>
-        </h4>
-        <p class="fr-book-author">By Truman Capote</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Cold Blood on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L9nPaC12gtUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Cold Blood" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Cold Blood">In Cold Blood</a>
+</h4>
+<p class="fr-book-author">By Truman Capote</p>
         
-        <p class="fr-book-desc">Illustrates careful reconstruction of a death investigation and the importance of documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates careful reconstruction of a death investigation and the importance of documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Cold+Blood+by+Truman+Capote&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual for Creating Atheists on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2h9zQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Manual for Creating Atheists" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual for Creating Atheists">A Manual for Creating Atheists</a>
-        </h4>
-        <p class="fr-book-author">By Peter Boghossian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual for Creating Atheists on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2h9zQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Manual for Creating Atheists" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual for Creating Atheists">A Manual for Creating Atheists</a>
+</h4>
+<p class="fr-book-author">By Peter Boghossian</p>
         
-        <p class="fr-book-desc">Focuses on evaluating beliefs, questioning assumptions, and testing claims using evidence and reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating beliefs, questioning assumptions, and testing claims using evidence and reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+for+Creating+Atheists+by+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Blood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Blood</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Cold+Blood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Cold Blood</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Blood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Blood</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Cold+Blood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Cold Blood</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="check-claims-how-should-you-test-a-suspicious-death-claim-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-you-test-a-suspicious-death-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-you-test-a-suspicious-death-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -818,7 +818,7 @@ Until then, the better standard is disciplined scepticism in both directions: do
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -838,7 +838,7 @@ Until then, the better standard is disciplined scepticism in both directions: do
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -870,7 +870,7 @@ Until then, the better standard is disciplined scepticism in both directions: do
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -922,7 +922,7 @@ Until then, the better standard is disciplined scepticism in both directions: do
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -967,7 +967,7 @@ Until then, the better standard is disciplined scepticism in both directions: do
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1008,175 +1008,175 @@ Until then, the better standard is disciplined scepticism in both directions: do
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: people.com  
-   Link: <a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland’s name surfaced in public UFO discourse following a 2016 WikiLeaks release mentioning his potential advisory role to Tom DeLong...</p></details>
+   Link:<a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland’s name surfaced in public UFO discourse following a 2016 WikiLeaks release mentioning his potential advisory role to Tom DeLong...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: name.memberclicks.net  
    Title: Member Clicks A Guide for Manner of Death Classification  
-   Link: <a href="https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf</a>  
+   Link:<a href="https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://name.memberclicks.net/assets/docs/MANNEROFDEATH.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: judiciary.uk  
    Title: chief coroners guidance no 17 conclusions short form and narrative  
-   Link: <a href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/</a>  
+   Link:<a href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-17-conclusions-short-form-and-narrative/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: judiciary.uk  
    Title: guidance no 17 conclusions  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2020/08/guidance-no-17-conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2020/08/guidance-no-17-conclusions.pdf</a>  
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2020/08/guidance-no-17-conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2020/08/guidance-no-17-conclusions.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rss.org.uk  
    Title: RSSHealthcare serial killer or coincidence?  
-   Link: <a href="https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf</a>  
+   Link:<a href="https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/wanted/vicap/unidentified-persons" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/wanted/vicap/unidentified-persons</a>  
+   Link:<a href="https://www.fbi.gov/wanted/vicap/unidentified-persons" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/wanted/vicap/unidentified-persons</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — At a press gathering April 16, President Donald Trump wa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abc7news.com  
    Title: ABC7 San Francisco William Neil Mc Casland missing: Retired US Air Force maj  
-   Link: <a href="https://abc7news.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-[mccasland-missing</a>  
+   Link:<a href="https://abc7news.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/william-neil-[mccasland-missing</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hindustantimes.com  
    Title: Hindustan Times Amy Eskridge update: UFO scientist's old texts cast doubt  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html</a>  
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/amy-eskridge-update-ufo-scientists-old-texts-cast-doubt-on-cause-of-death-would-never-kill-myself-101776897906208.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: caltech scientist carl grillmair shooting death  
-   Link: <a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/20/caltech-scientist-carl-grillmair-shooting-death</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grillmair worked with Caltech’s Infrared Processing and Analysis Center, a key collaborator with NASA and the National Science Foundation...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: da.lacounty.gov  
    Title: charged murderer pleads not guilty shooting death caltech scientist  
-   Link: <a href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow">https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist</a>  
+   Link:<a href="https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist" target="_blank" rel="noopener noreferrer nofollow">https://da.lacounty.gov/media/news/charged-murderer-pleads-not-guilty-shooting-death-caltech-scientist</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: winnmediaskn.com  
-   Link: <a href="https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/</a>  
+   Link:<a href="https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://www.winnmediaskn.com/relatives-of-10-scientists-who-died-or-vanished-grapple-with-impact-of-wild-speculation/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT President Sally Kornbluth expressed deep sorrow over the incident, noting Loureiro’s lifelong passion for science and his pivotal rol...</p></details>
+   Link:<a href="https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/dec/17/mit-shooting-death-nuno-loureiro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT President Sally Kornbluth expressed deep sorrow over the incident, noting Loureiro’s lifelong passion for science and his pivotal rol...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/110617336" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/110617336</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Carl Grillmair  
-   Link: <a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Carl_Grillmair" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Carl_Grillmair</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/18554033" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/18554033</a>  
+   Link:<a href="https://zenodo.org/records/18554033" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/18554033</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rss.org.uk  
-   Link: <a href="https://rss.org.uk/RSS/media/File-library/News/2022/Summary_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_September_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/News/2022/Summary_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_September_2022_FINAL.pdf</a>  
+   Link:<a href="https://rss.org.uk/RSS/media/File-library/News/2022/Summary_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_September_2022_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/RSS/media/File-library/News/2022/Summary_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_September_2022_FINAL.pdf</a>  
    Published: September 2022  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/us-news/brown-shooting-suspect-claudioneves-valente-dead-768cb96d" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/us-news/brown-shooting-suspect-claudioneves-valente-dead-768cb96d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valente, who entered the U.S. through the diversity visa lottery in 2017 and became a legal permanent resident, was previously enrolled i...</p></details>
+   Link:<a href="https://www.wsj.com/us-news/brown-shooting-suspect-claudioneves-valente-dead-768cb96d" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/us-news/brown-shooting-suspect-claudioneves-valente-dead-768cb96d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valente, who entered the U.S. through the diversity visa lottery in 2017 and became a legal permanent resident, was previously enrolled i...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: axios.com  
    Title: missing scientists space nuclear congress investigating  
-   Link: <a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The affected individuals include NASA Jet Propulsion Laboratory scientists Michael Hicks, Frank Maiwald, and Monica Reza, as well as thre...</p></details>
+   Link:<a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The affected individuals include NASA Jet Propulsion Laboratory scientists Michael Hicks, Frank Maiwald, and Monica Reza, as well as thre...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Is there some kind of conspiracy against government scientists and engineers?  
-   Link: <a href="https://www.youtube.com/watch?v=6qkYkSs9hAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qkYkSs9hAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6qkYkSs9hAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6qkYkSs9hAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disturbing Pattern of Dead &amp; Missing Scientists- WHAT IS GOING ON????...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.00962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.00962</a>  
+   Link:<a href="https://arxiv.org/abs/2210.00962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.00962</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkKTDnPVitQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demand the Truth About the Missing and Dead Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tkKTDnPVitQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkKTDnPVitQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demand the Truth About the Missing and Dead Scientists...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/pdffiles/167568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles/167568.pdf</a>  
+   Link:<a href="https://www.ojp.gov/pdffiles/167568.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles/167568.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/data/misc/hb_me.pdf</a>  
+   Link:<a href="https://www.cdc.gov/nchs/data/misc/hb_me.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/nchs/data/misc/hb_me.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Shermer Says 9: The “Dead Scientists,” Explained  
-   Link: <a href="https://www.youtube.com/watch?v=-kGz8gHXlG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-kGz8gHXlG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there some kind of conspiracy against government scientists and engineers?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-kGz8gHXlG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-kGz8gHXlG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there some kind of conspiracy against government scientists and engineers?...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2iOerMrRLHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iOerMrRLHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shermer Says 9: The “Dead Scientists,” Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2iOerMrRLHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2iOerMrRLHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shermer Says 9: The “Dead Scientists,” Explained...</p></details>

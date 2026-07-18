@@ -284,15 +284,15 @@ The Navy’s “GoFast” video became one of the most widely cited pieces of ev
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, the central claim associated with the video—that it showed an object moving at impossible or near-impossible speed—has become one of the clearest examples of how viewing geometry can create misleading impressions. Detailed analyses by independent researchers, NASA-affiliated investigators and later the Pentagon’s All-domain Anomaly Resolution Office (AARO) concluded that the apparent velocity was largely a result of parallax rather than evidence of exotic propulsion. The object itself remains unidentified, but the speed claim and the identity claim are separate questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</span></span></span>
+However, the central claim associated with the video—that it showed an object moving at impossible or near-impossible speed—has become one of the clearest examples of how viewing geometry can create misleading impressions. Detailed analyses by independent researchers, NASA-affiliated investigators and later the Pentagon’s All-domain Anomaly Resolution Office (AARO) concluded that the apparent velocity was largely a result of parallax rather than evidence of exotic propulsion. The object itself remains unidentified, but the speed claim and the identity claim are separate questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[pbs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</span></span></span>
 
 ## Did GoFast Really Show Impossible Speed?
 
-The GoFast footage was recorded by a U.S. Navy F/A-18 aircraft using an infrared targeting system during training operations off the eastern United States. Public attention intensified after the video was released in 2017 and later formally acknowledged by the Pentagon. The clip appears to show a small object moving rapidly over the ocean surface while aircrew members express excitement about obtaining a sensor lock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The GoFast footage was recorded by a U.S. Navy F/A-18 aircraft using an infrared targeting system during training operations off the eastern United States. Public attention intensified after the video was released in 2017 and later formally acknowledged by the Pentagon. The clip appears to show a small object moving rapidly over the ocean surface while aircrew members express excitement about obtaining a sensor lock.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 The intuitive interpretation is straightforward: the object seems to be skimming just above the water while crossing the field of view at tremendous speed. If that interpretation were correct, the object would indeed represent something unusual. Much of the hidden-technology narrative surrounding GoFast depended on precisely this visual impression.
 
-The problem is that human intuition is not especially reliable when judging distance and speed from a single camera view, particularly when the camera itself is mounted on a fast-moving jet. The video does not directly show the object's distance from the aircraft. Without a reliable range measurement, apparent motion across the screen can easily be mistaken for actual high-speed travel through the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">that navy ufo footage has an optical explanation</span><span class="citation-popover-snippet">That Navy UFO Footage Has an Optical Explanation28 Apr 2020 — Jokes aside, West&#x27;s explanation—which is backed up by the altitude...</span></span></span>
+The problem is that human intuition is not especially reliable when judging distance and speed from a single camera view, particularly when the camera itself is mounted on a fast-moving jet. The video does not directly show the object's distance from the aircraft. Without a reliable range measurement, apparent motion across the screen can easily be mistaken for actual high-speed travel through the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">that navy ufo footage has an optical explanation</span><span class="citation-popover-snippet">That Navy UFO Footage Has an Optical Explanation28 Apr 2020 — Jokes aside, West&#x27;s explanation—which is backed up by the altitude...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5Uf4N-JkQY" title="Quantum physicists REanalyze GOFAST UFO video footage released by the US Navy and Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5Uf4N-JkQY" target="_blank" rel="noopener noreferrer">Quantum physicists REanalyze GOFAST UFO video footage released by the US Navy and Pentagon</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 21.9K &middot; Uploaded: June 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5Uf4N-JkQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5Uf4N-JkQY">Open on YouTube</a></p></div></div></div>
@@ -301,11 +301,11 @@ The problem is that human intuition is not especially reliable when judging dist
 
 Parallax occurs when a moving observer sees nearby and distant objects shift against the background at different apparent rates. Anyone looking out of a train window experiences this effect: nearby trees seem to race past, while distant hills appear almost stationary.
 
-In the GoFast case, the observer was not standing still. The camera was attached to a fighter aircraft travelling at hundreds of miles per hour. This matters because much of the apparent movement seen in the footage can be produced by the jet's own motion rather than by extraordinary motion of the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
+In the GoFast case, the observer was not standing still. The camera was attached to a fighter aircraft travelling at hundreds of miles per hour. This matters because much of the apparent movement seen in the footage can be produced by the jet's own motion rather than by extraordinary motion of the target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
 
-Independent analyses conducted shortly after the video's release used the flight data displayed on the screen—such as aircraft altitude, viewing angle and sensor information—to estimate the object's likely position. These reconstructions suggested that the object was significantly farther away than many viewers assumed and was not necessarily travelling at exceptional speed. Instead, the rapid apparent movement resulted largely from the geometry of a fast aircraft observing a more distant object from an oblique angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2PetaPixel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
+Independent analyses conducted shortly after the video's release used the flight data displayed on the screen—such as aircraft altitude, viewing angle and sensor information—to estimate the object's likely position. These reconstructions suggested that the object was significantly farther away than many viewers assumed and was not necessarily travelling at exceptional speed. Instead, the rapid apparent movement resulted largely from the geometry of a fast aircraft observing a more distant object from an oblique angle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
 
-The significance of the parallax explanation is not that it identifies the object. Rather, it demonstrates that the most dramatic feature attributed to the object—its apparent extreme velocity—can be explained without invoking breakthrough propulsion, antigravity systems or unknown physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE+2Next Big Future]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+The significance of the parallax explanation is not that it identifies the object. Rather, it demonstrates that the most dramatic feature attributed to the object—its apparent extreme velocity—can be explained without invoking breakthrough propulsion, antigravity systems or unknown physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[vice.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aerospace_hidden_tec_cbee0d_gofast_parallax_clai_f68695-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ The significance of the parallax explanation is not that it identifies the objec
 
 The strongest institutional support for the parallax interpretation arrived years after the original public debate.
 
-In 2024 congressional testimony and subsequent public releases, AARO reported that a detailed geospatial reconstruction of the event found the object was not travelling close to the ocean surface. According to the office's analysis, the object was likely around 13,000 feet in altitude. AARO concluded with high confidence that the object was not moving at anomalous speed and that the visual impression of extreme velocity resulted from parallax created by the observing aircraft's motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The Debrief“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “A trick of the eye called parallax makes it look like the obje...</span></span></span>
+In 2024 congressional testimony and subsequent public releases, AARO reported that a detailed geospatial reconstruction of the event found the object was not travelling close to the ocean surface. According to the office's analysis, the object was likely around 13,000 feet in altitude. AARO concluded with high confidence that the object was not moving at anomalous speed and that the visual impression of extreme velocity resulted from parallax created by the observing aircraft's motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[thedebrief.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The Debrief“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “A trick of the eye called parallax makes it look like the obje...</span></span></span>
 
-AARO's later case-resolution material estimated speeds consistent with ordinary airborne objects and wind-driven motion rather than advanced aerospace performance. The office explicitly stated that the object did not exhibit anomalous velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+AARO's later case-resolution material estimated speeds consistent with ordinary airborne objects and wind-driven motion rather than advanced aerospace performance. The office explicitly stated that the object did not exhibit anomalous velocity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
-This was notable because the conclusion did not come from outside sceptics alone. It reflected the assessment of the U.S. government's dedicated UAP investigation office after additional technical review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+This was notable because the conclusion did not come from outside sceptics alone. It reflected the assessment of the U.S. government's dedicated UAP investigation office after additional technical review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
@@ -328,7 +328,7 @@ One of the most persistent misunderstandings in discussions of GoFast is the ass
 
 That conclusion does not follow from the evidence.
 
-An object can remain unidentified for many reasons: insufficient sensor resolution, lack of corroborating radar information, incomplete metadata, uncertainty about range, or the simple inability to match a brief observation to a known object after the fact. “Unidentified” means investigators could not determine exactly what it was. It does not automatically imply advanced technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+An object can remain unidentified for many reasons: insufficient sensor resolution, lack of corroborating radar information, incomplete metadata, uncertainty about range, or the simple inability to match a brief observation to a known object after the fact. “Unidentified” means investigators could not determine exactly what it was. It does not automatically imply advanced technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 The GoFast debate therefore involves two distinct questions:
 
@@ -337,211 +337,211 @@ The GoFast debate therefore involves two distinct questions:
 1. What was the object?
 2. Was it displaying extraordinary performance?
 
-The available analyses address the second question more strongly than the first. While the object's precise identity remains uncertain, the claim that it demonstrated impossible speed has been substantially weakened by geometric reconstruction and later government analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</span></span></span>
+The available analyses address the second question more strongly than the first. While the object's precise identity remains uncertain, the claim that it demonstrated impossible speed has been substantially weakened by geometric reconstruction and later government analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[pbs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</span></span></span>
 
-Some analysts have proposed possibilities such as a balloon or another ordinary airborne object carried by winds at altitude. Others remain cautious and prefer to leave the object unidentified. What is important is that none of these possibilities require antigravity propulsion or hidden aerospace breakthroughs to explain the observed motion in the video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
+Some analysts have proposed possibilities such as a balloon or another ordinary airborne object carried by winds at altitude. Others remain cautious and prefer to leave the object unidentified. What is important is that none of these possibilities require antigravity propulsion or hidden aerospace breakthroughs to explain the observed motion in the video.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">go fast footage from tom delonges to the stars academy bird balloon.9569</span><span class="citation-popover-snippet">Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</span></span></span>
 
 ## What GoFast Means for Hidden-Technology Claims
 
 Within broader claims about secret aerospace programmes and suppressed technologies, GoFast illustrates an important methodological lesson. A video can appear extraordinary while still being consistent with ordinary physics once range, geometry and sensor behaviour are reconstructed.
 
-The case became influential because it seemed to offer visual evidence of an object outrunning conventional expectations. Yet years of analysis increasingly shifted attention away from the object's apparent speed and toward the mechanics of observation itself. The key issue was not a revolutionary propulsion system but how motion can be misjudged when a camera on a fast-moving aircraft tracks a distant target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk+2PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
+The case became influential because it seemed to offer visual evidence of an object outrunning conventional expectations. Yet years of analysis increasingly shifted attention away from the object's apparent speed and toward the mechanics of observation itself. The key issue was not a revolutionary propulsion system but how motion can be misjudged when a camera on a fast-moving aircraft tracks a distant target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
 
-As a result, GoFast is often cited not as evidence for hidden antigravity technology, but as a cautionary example of how sensor footage can generate compelling but misleading impressions. The object's identity remains unresolved, but the strongest available evidence indicates that the famous appearance of impossible speed was an artefact of perspective rather than proof of exotic aerospace capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
+As a result, GoFast is often cited not as evidence for hidden antigravity technology, but as a cautionary example of how sensor footage can generate compelling but misleading impressions. The object's identity remains unresolved, but the strongest available evidence indicates that the famous appearance of impossible speed was an artefact of perspective rather than proof of exotic aerospace capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Go Fast Really Show Impossible Speed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Go Fast Really Show Impossible Speed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military, aerospace, radar, and government evidence claims while discussing the limits of available information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military, aerospace, radar, and government evidence claims while discussing the limits of available information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Closely connected to military imagery, government analysis, and unexplained aerial incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely connected to military imagery, government analysis, and unexplained aerial incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes evidence evaluation, observation quality and the challenge of interpreting unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence evaluation, observation quality and the challenge of interpreting unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how genuine aerospace secrecy, advanced aircraft programs, and compartmentalization can fuel speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how genuine aerospace secrecy, advanced aircraft programs, and compartmentalization can fuel speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ."><img src="{{ '/assets/images/marketplace-covers/509eb829ebed1297d609.jpg' | relative_url }}" alt="Listing image for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK .</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ."><img src="{{ '/assets/images/marketplace-covers/509eb829ebed1297d609.jpg' | relative_url }}" alt="Listing image for 1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK ." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:144 scale plastic model of a British Aerospace BAe 146-200 in Air UK .</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS"><img src="{{ '/assets/images/marketplace-covers/90e101093939d7d1d446.jpg' | relative_url }}" alt="Listing image for Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS"><img src="{{ '/assets/images/marketplace-covers/90e101093939d7d1d446.jpg' | relative_url }}" alt="Listing image for Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Bombardier Global Express Aerospace Aircraft Model Kit NEW NOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro RJ85 British Aerospace Cutout Flying Model"><img src="{{ '/assets/images/marketplace-covers/2ecc04bd0b5264b9b69a.jpg' | relative_url }}" alt="Listing image for Avro RJ85 British Aerospace Cutout Flying Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Avro RJ85 British Aerospace Cutout Flying Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro RJ85 British Aerospace Cutout Flying Model"><img src="{{ '/assets/images/marketplace-covers/2ecc04bd0b5264b9b69a.jpg' | relative_url }}" alt="Listing image for Avro RJ85 British Aerospace Cutout Flying Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">Avro RJ85 British Aerospace Cutout Flying Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/75d4d6b7c5af416c6223.jpg' | relative_url }}" alt="Listing image for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/75d4d6b7c5af416c6223.jpg' | relative_url }}" alt="Listing image for 1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">1:72 scale BAE 146 - Space Models -Super Condition - Extremely Rare TNT FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aerospace model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aerospace model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aerospace+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aerospace model" data-ebay-reference="go-fast-7aead5-did-go-fast-really-show-impossible-speed-ufo-and-antigravity-aerospace-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,131 +747,131 @@ As a result, GoFast is often cited not as evidence for hidden antigravity techno
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO manually extracted data from a publicly available video of the “Go Fast” event as the so...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: petapixel.com  
    Title: that navy ufo footage has an optical explanation  
-   Link: <a href="https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That Navy UFO Footage Has an Optical Explanation28 Apr 2020 — Jokes aside, West&#x27;s explanation—which is backed up by the altitude...</p></details>
+   Link:<a href="https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2020/04/28/that-navy-ufo-footage-has-an-optical-explanation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That Navy UFO Footage Has an Optical Explanation28 Apr 2020 — Jokes aside, West&#x27;s explanation—which is backed up by the altitude...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
-   Link: <a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metabunk&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...9 Mar 2018 — 25,000 feet altitude, the speed of the object could be anything...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural...</p></details>
    Published: May 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Go (game)  
-   Link: <a href="https://en.wikipedia.org/wiki/Go_%28game%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Go_%28game%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Go (game)Go is an abstract strategy board game for two players in which the aim is to fence off more territory than the opponent.Read...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Go_%28game%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Go_%28game%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go (game)Go is an abstract strategy board game for two players in which the aim is to fence off more territory than the opponent.Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debrief“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “A trick of the eye called parallax makes it look like the obje...</p></details>
+   Link:<a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debrief“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “A trick of the eye called parallax makes it look like the obje...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nextbigfuture.com  
    Title: debating and analyzing the ufo videos and claims  
-   Link: <a href="https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not moving... Mike West explains the parallax effect that gives the illusion of speed.Read more...</p></details>
+   Link:<a href="https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nextbigfuture.com/2021/05/debating-and-analyzing-the-ufo-videos-and-claims.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not moving... Mike West explains the parallax effect that gives the illusion of speed.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...20 Nov 2024 — The GOFAST video was made public in 2017 and shows wh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s not skimm...</p></details>
+   Link:<a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s not skimm...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO: &quot;Go Fast&quot; Case Resolution Report: r/UFOsKey Findings: AARO assesses with high confidence that the object did not move at anomalous...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1im8qeu/aaro_go_fast_case_resolution_report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO: &quot;Go Fast&quot; Case Resolution Report: r/UFOsKey Findings: AARO assesses with high confidence that the object did not move at anomalous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/nzmkvc/gofast_ufo_analysis_yeah_no_probably_just_a/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/n058kvtUMXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/n058kvtUMXc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How math helped debunk this UFO videoPBS News&#x27; Casey Kuhn spoke to Semeter about how he used math to explain why one widely-seen UAP vide...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/n058kvtUMXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/n058kvtUMXc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How math helped debunk this UFO videoPBS News&#x27; Casey Kuhn spoke to Semeter about how he used math to explain why one widely-seen UAP vide...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. Navy videos Gimbal and...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From: Volume 49, No. 1... Short for “Situation Recreation,” this tool was originally designed to analyze the U.S. Navy videos Gimbal and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: 945wpti.iheart.com  
    Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: <a href="https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases | 94.5 WPTI20 Nov 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved...</p></details>
+   Link:<a href="https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://945wpti.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases | 94.5 WPTI20 Nov 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wbznewsradio.iheart.com  
    Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: <a href="https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO CasesNov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved one of its...</p></details>
+   Link:<a href="https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO CasesNov 20, 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved one of its...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>

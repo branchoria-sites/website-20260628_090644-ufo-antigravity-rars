@@ -274,19 +274,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aar
 
 ## Introduction
 
-The existence of an office dedicated to unidentified anomalous phenomena (UAP) can appear, at first glance, to support claims that governments have discovered alien craft. AARO’s public record points in a different direction. The All-domain Anomaly Resolution Office was created because military personnel, intelligence agencies, and aviation operators continued to encounter objects, sensor tracks, and events that could not be immediately identified. The reason for investigation was uncertainty, not confirmation. AARO’s mission has been to determine whether reported UAP represent safety hazards, foreign technology, sensor errors, ordinary objects, or genuinely unresolved incidents. Its published findings repeatedly distinguish between “unidentified” and “extraterrestrial,” arguing that the first category does not automatically imply the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
+The existence of an office dedicated to unidentified anomalous phenomena (UAP) can appear, at first glance, to support claims that governments have discovered alien craft. AARO’s public record points in a different direction. The All-domain Anomaly Resolution Office was created because military personnel, intelligence agencies, and aviation operators continued to encounter objects, sensor tracks, and events that could not be immediately identified. The reason for investigation was uncertainty, not confirmation. AARO’s mission has been to determine whether reported UAP represent safety hazards, foreign technology, sensor errors, ordinary objects, or genuinely unresolved incidents. Its published findings repeatedly distinguish between “unidentified” and “extraterrestrial,” arguing that the first category does not automatically imply the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-1-dark.svg" | relative_url }}" alt="Why Study UAP illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is important within wider debates about UFOs, alleged antigravity research, and claims of hidden programmes. [Official concern]({{ 'official-concern/' | relative_url }}) demonstrates that governments considered some reports worthy of investigation. It does not, by itself, demonstrate the existence of alien vehicles or recovered non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+This distinction is important within wider debates about UFOs, alleged antigravity research, and claims of hidden programmes. [Official concern]({{ 'official-concern/' | relative_url }}) demonstrates that governments considered some reports worthy of investigation. It does not, by itself, demonstrate the existence of alien vehicles or recovered non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
 ## Why Defence Agencies Needed to Study UAP
 
-The strongest rationale for studying UAP was national security rather than extraterrestrial speculation. Defence organisations have long faced a practical problem: an object does not need to be alien to pose a risk. A drone, surveillance balloon, classified aircraft, sensor malfunction, or unknown aerial platform can all create uncertainty for military commanders and pilots. AARO's [historical review]({{ 'historical-review/' | relative_url }}) notes that government investigations since 1945 repeatedly examined whether sightings represented flight-safety risks, technological advances by rival nations, or other national-security concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
+The strongest rationale for studying UAP was national security rather than extraterrestrial speculation. Defence organisations have long faced a practical problem: an object does not need to be alien to pose a risk. A drone, surveillance balloon, classified aircraft, sensor malfunction, or unknown aerial platform can all create uncertainty for military commanders and pilots. AARO's [historical review]({{ 'historical-review/' | relative_url }}) notes that government investigations since 1945 repeatedly examined whether sightings represented flight-safety risks, technological advances by rival nations, or other national-security concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
 
-Modern military systems make the issue more complex. Advanced radar, infrared sensors, [satellites]({{ 'satellites/' | relative_url }}), and targeting systems can detect phenomena that earlier generations never observed. When an unusual track appears near a military exercise, restricted airspace, or sensitive infrastructure, analysts must determine what produced it. Even a mundane explanation may matter operationally if it reveals vulnerabilities in surveillance systems or airspace monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
+Modern military systems make the issue more complex. Advanced radar, infrared sensors, [satellites]({{ 'satellites/' | relative_url }}), and targeting systems can detect phenomena that earlier generations never observed. When an unusual track appears near a military exercise, restricted airspace, or sensitive infrastructure, analysts must determine what produced it. Even a mundane explanation may matter operationally if it reveals vulnerabilities in surveillance systems or airspace monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
 
-The creation of AARO also reflected a bureaucratic challenge. Reports were arriving through multiple channels, often with inconsistent standards and incomplete data. Centralising collection and analysis allowed the Department of Defense to compare cases, preserve sensor information, identify recurring patterns, and provide oversight to [Congress]({{ 'congress/' | relative_url }}). The need for a formal investigative mechanism arose from the volume and persistence of reports rather than from proof of extraordinary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
+The creation of AARO also reflected a bureaucratic challenge. Reports were arriving through multiple channels, often with inconsistent standards and incomplete data. Centralising collection and analysis allowed the Department of Defense to compare cases, preserve sensor information, identify recurring patterns, and provide oversight to [Congress]({{ 'congress/' | relative_url }}). The need for a formal investigative mechanism arose from the volume and persistence of reports rather than from proof of extraordinary technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -295,11 +295,11 @@ The creation of AARO also reflected a bureaucratic challenge. Reports were arriv
 
 One of the clearest reasons AARO's existence should not be interpreted as evidence for alien craft is that many investigated cases have ended with conventional explanations.
 
-AARO's Fiscal Year 2024 report states that it resolved 118 cases during the reporting period and identified them as ordinary objects or phenomena, including balloons, birds, and unmanned aerial systems. Additional cases were queued for closure after review. Public briefings by AARO leadership similarly described successful identification of numerous reports as balloons, drones, satellites, aircraft, and other commonplace objects. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
+AARO's Fiscal Year 2024 report states that it resolved 118 cases during the reporting period and identified them as ordinary objects or phenomena, including balloons, birds, and unmanned aerial systems. Additional cases were queued for closure after review. Public briefings by AARO leadership similarly described successful identification of numerous reports as balloons, drones, satellites, aircraft, and other commonplace objects. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
 
-This pattern illustrates a recurring feature of UAP investigations. A report may initially appear unusual because of limited viewing angles, incomplete sensor data, atmospheric conditions, or observer uncertainty. Once additional information becomes available, many cases become explainable without invoking exotic technology. The fact that a case entered a UAP database often reflects the absence of immediate identification rather than evidence of something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
+This pattern illustrates a recurring feature of UAP investigations. A report may initially appear unusual because of limited viewing angles, incomplete sensor data, atmospheric conditions, or observer uncertainty. Once additional information becomes available, many cases become explainable without invoking exotic technology. The fact that a case entered a UAP database often reflects the absence of immediate identification rather than evidence of something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</span></span></span>
 
-Historical reviews have also linked some waves of UFO reports to periods when secret military technologies were being developed and tested. Experimental aircraft, stealth programmes, missile systems, and other classified projects have repeatedly generated sightings that appeared mysterious to outside observers at the time. AARO's historical assessment notes that some reported phenomena corresponded to previously unknown [aerospace]({{ 'aerospace/' | relative_url }}) and defence technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">no evidence of &#x27;extraterrestrial origin... The AARO report points out that UAP sightings and beliefs that UFOs represent alien technolog...</span></span></span>
+Historical reviews have also linked some waves of UFO reports to periods when secret military technologies were being developed and tested. Experimental aircraft, stealth programmes, missile systems, and other classified projects have repeatedly generated sightings that appeared mysterious to outside observers at the time. AARO's historical assessment notes that some reported phenomena corresponded to previously unknown [aerospace]({{ 'aerospace/' | relative_url }}) and defence technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo office aaro historical report no emprical evidence alien technology</span><span class="citation-popover-snippet">no evidence of &#x27;extraterrestrial origin... The AARO report points out that UAP sightings and beliefs that UFOs represent alien technolog...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-2-dark.svg" | relative_url }}" alt="Why Study UAP illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,22 +307,22 @@ Historical reviews have also linked some waves of UFO reports to periods when se
 
 A common misunderstanding is that any unresolved case strengthens the argument for extraterrestrial visitation. AARO's published methodology rejects that logic.
 
-An unresolved report usually means analysts lack sufficient information to reach a reliable conclusion. Missing sensor records, incomplete witness accounts, poor image quality, or limited contextual data can prevent definitive identification. The absence of an explanation is therefore not equivalent to evidence for a particular explanation. AARO's historical report explicitly states that it found no verified evidence that any government investigation, academic review, or official panel confirmed extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+An unresolved report usually means analysts lack sufficient information to reach a reliable conclusion. Missing sensor records, incomplete witness accounts, poor image quality, or limited contextual data can prevent definitive identification. The absence of an explanation is therefore not equivalent to evidence for a particular explanation. AARO's historical report explicitly states that it found no verified evidence that any government investigation, academic review, or official panel confirmed extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
-The office has acknowledged that some cases remain under investigation and that a small subset displays characteristics requiring further analysis. Yet AARO has simultaneously stated that it has discovered no verifiable evidence of extraterrestrial beings, activity, or technology. Unresolved status reflects ongoing uncertainty rather than hidden confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</span></span></span>
+The office has acknowledged that some cases remain under investigation and that a small subset displays characteristics requiring further analysis. Yet AARO has simultaneously stated that it has discovered no verifiable evidence of extraterrestrial beings, activity, or technology. Unresolved status reflects ongoing uncertainty rather than hidden confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</span></span></span>
 
-This approach mirrors broader scientific practice. When data are insufficient, researchers typically classify a phenomenon as unexplained rather than assigning it to a preferred theory. The gap between "unknown" and "alien" remains large and requires positive evidence to bridge it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
+This approach mirrors broader scientific practice. When data are insufficient, researchers typically classify a phenomenon as unexplained rather than assigning it to a preferred theory. The gap between "unknown" and "alien" remains large and requires positive evidence to bridge it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## NASA's Parallel Conclusion: Better Data, Not Alien Proof
 
-NASA's independent UAP study reached a remarkably similar conclusion despite operating outside the defence-intelligence framework. The study team found no evidence that UAP are extraterrestrial in origin, while emphasising that many cases cannot be confidently resolved because of inadequate data. The report argued for improved observation systems, standardised reporting, and higher-quality datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
+NASA's independent UAP study reached a remarkably similar conclusion despite operating outside the defence-intelligence framework. The study team found no evidence that UAP are extraterrestrial in origin, while emphasising that many cases cannot be confidently resolved because of inadequate data. The report argued for improved observation systems, standardised reporting, and higher-quality datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
 
-This parallel finding is significant because it shows convergence between military and civilian investigations. Both organisations concluded that UAP deserve study because they represent data problems, safety questions, and scientific uncertainties. Neither concluded that available evidence demonstrates alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
+This parallel finding is significant because it shows convergence between military and civilian investigations. Both organisations concluded that UAP deserve study because they represent data problems, safety questions, and scientific uncertainties. Neither concluded that available evidence demonstrates alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
 
-The NASA report's central message was that extraordinary claims require better evidence. Improved sensors and systematic collection methods could reduce the number of unresolved cases, whether the eventual explanations prove mundane, technological, atmospheric, or something currently unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
+The NASA report's central message was that extraordinary claims require better evidence. Improved sensors and systematic collection methods could reduce the number of unresolved cases, whether the eventual explanations prove mundane, technological, atmospheric, or something currently unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-3-dark.svg" | relative_url }}" alt="Why Study UAP illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_aaro_uap_records_2d9d0b_why_aaro_studied_uap_307e9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,187 +330,187 @@ The NASA report's central message was that extraordinary claims require better e
 
 The most important lesson from AARO's public record is that official interest and official confirmation are different things.
 
-AARO's investigations demonstrate that governments continue to receive reports they consider worthy of examination. Some incidents remain unresolved. Some involve incomplete data. Some appear unusual enough to justify continued analysis. However, the office's published findings consistently state that it has not verified extraterrestrial technology, recovered alien craft, or hidden reverse-engineering programmes. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+AARO's investigations demonstrate that governments continue to receive reports they consider worthy of examination. Some incidents remain unresolved. Some involve incomplete data. Some appear unusual enough to justify continued analysis. However, the office's published findings consistently state that it has not verified extraterrestrial technology, recovered alien craft, or hidden reverse-engineering programmes. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
-For readers examining broader claims about UFO secrecy, antigravity research, or alleged suppression of researchers, this distinction is crucial. AARO's records show why governments study UAP: unknown objects can affect defence, intelligence collection, and aviation safety. The records do not show that uncertainty has been transformed into proof of alien vehicles. The continuing presence of unanswered questions is evidence of incomplete knowledge, not evidence that the unanswered questions have already been solved in favour of an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
+For readers examining broader claims about UFO secrecy, antigravity research, or alleged suppression of researchers, this distinction is crucial. AARO's records show why governments study UAP: unknown objects can affect defence, intelligence collection, and aviation safety. The records do not show that uncertainty has been transformed into proof of alien vehicles. The continuing presence of unanswered questions is evidence of incomplete knowledge, not evidence that the unanswered questions have already been solved in favour of an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Study UAP If Aliens Are Unproven?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Study UAP If Aliens Are Unproven?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes systematic investigation of unidentified reports and the distinction between unknown observations and proven alien origins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes systematic investigation of unidentified reports and the distinction between unknown observations and proven alien origins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on why defense and intelligence agencies investigate unexplained aerial incidents as potential security concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on why defense and intelligence agencies investigate unexplained aerial incidents as potential security concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military, aviation, and government reporting of unexplained aerial phenomena without requiring extraterrestrial conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military, aviation, and government reporting of unexplained aerial phenomena without requiring extraterrestrial conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores cultural and institutional responses to UFO reports while separating evidence, belief, and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cultural and institutional responses to UFO reports while separating evidence, belief, and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor"><img src="{{ '/assets/images/marketplace-covers/f3ddbc9b0d768acd6351.jpg' | relative_url }}" alt="Listing image for Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor"><img src="{{ '/assets/images/marketplace-covers/f3ddbc9b0d768acd6351.jpg' | relative_url }}" alt="Listing image for Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Wall Art Print, Retro Sci-fi UAP Alien Poster, Space Cryptid Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings."><img src="{{ '/assets/images/marketplace-covers/7915a1eb3a56f9ddd4c1.jpg' | relative_url }}" alt="Listing image for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings."><img src="{{ '/assets/images/marketplace-covers/7915a1eb3a56f9ddd4c1.jpg' | relative_url }}" alt="Listing image for Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Sport model UFO - an A4 sketch inspired by his original drawings.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP art print" data-ebay-reference="why-study-uap-why-study-uap-if-aliens-are-unproven-ufo-and-antigravity-uap-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,157 +716,157 @@ For readers examining broader claims about UFO secrecy, antigravity research, or
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Pro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO resolved 118 cases during the reporting period, all...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products2024 Report: All-domain Anomaly Resolution Office Annual Report... DoD Releases the Annual Report on Unident...</p></details>
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press Products2024 Report: All-domain Anomaly Resolution Office Annual Report... DoD Releases the Annual Report on Unident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of &#x27;extraterrestrial origin... The [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report/&#x27; | relative_url &amp;#125;&amp;#125;) points out that UAP sightings and beliefs that UFOs represent alien technolog...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of &#x27;extraterrestrial origin... The [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report/&#x27; | relative_url &amp;#125;&amp;#125;) points out that UAP sightings and beliefs that UFOs represent alien technolog...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyA recent unclassified report from the U.S. Department...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyA recent unclassified report from the U.S. Department...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Report... evidence suggesting an extraterrestrial origin for UAP. When it comes to UAP, the challenge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — Here are some of our findings. AARO has found no...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — Here are some of our findings. AARO has found no...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — What has NASA funded so far in the search for extraterrestrial... Are there any data supporting the idea that UAP are evide...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — What has NASA funded so far in the search for extraterrestrial... Are there any data supporting the idea that UAP are evide...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Space Time with Dr. Sean Kirkpatrick  
-   Link: <a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGVQ5858dZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing live: Pentagon office testifies in Senate emerging threats committee amid UAP report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGVQ5858dZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing live: Pentagon office testifies in Senate emerging threats committee amid UAP report...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...NASA Shares Unidentified Anomalous Phenomena Independent Study Report absence of consiste...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...NASA Shares Unidentified Anomalous Phenomena Independent Study Report absence of consiste...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: livenowfox.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: <a href="https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiable eviden...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — The Pentagon said Thursday it has not discovered any verifiable eviden...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Conclusions from the report. The [NASA study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) team report sheds little light on whether some UAPs are extraterrestrial. In his comm...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Conclusions from the report. The [NASA study](&amp;#123;&amp;#123; &#x27;nasa-study/&#x27; | relative_url &amp;#125;&amp;#125;) team report sheds little light on whether some UAPs are extraterrestrial. In his comm...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence that UFOs have extraterrestrial origins, NASA...14 Sept 2023 — No evidence that UFOs have extraterrestrial origins, NASA finds...</p></details>
+   Link:<a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No evidence that UFOs have extraterrestrial origins, NASA...14 Sept 2023 — No evidence that UFOs have extraterrestrial origins, NASA finds...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has found no evidence to suggest that UAPs are extraterrestrial in origin.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has found no evidence to suggest that UAPs are extraterrestrial in origin.Read more...</p></details>

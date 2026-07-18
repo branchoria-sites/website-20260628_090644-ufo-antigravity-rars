@@ -278,11 +278,11 @@ Within UFO, antigravity and “suppressed breakthrough” narratives, few [insti
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-1-dark.svg" | relative_url }}" alt="Stockpile Work illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The public record points in a different direction. Most of the advanced physics that fuels these interpretations is tied to the long-running Stockpile Stewardship Program: a national-security effort designed to maintain the safety and reliability of the U.S. nuclear arsenal after the end of full-scale nuclear explosive testing. The work is technically sophisticated and sometimes classified, but its core objectives, institutions and major facilities are publicly documented. The gap between what these programmes actually do and what some observers imagine they do is one of the most important sources of misunderstanding surrounding sensitive laboratories and alleged exotic technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
+The public record points in a different direction. Most of the advanced physics that fuels these interpretations is tied to the long-running Stockpile Stewardship Program: a national-security effort designed to maintain the safety and reliability of the U.S. nuclear arsenal after the end of full-scale nuclear explosive testing. The work is technically sophisticated and sometimes classified, but its core objectives, institutions and major facilities are publicly documented. The gap between what these programmes actually do and what some observers imagine they do is one of the most important sources of misunderstanding surrounding sensitive laboratories and alleged exotic technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
 
 ## What Stockpile Stewardship Publicly Involves
 
-The modern U.S. stockpile stewardship system emerged after the end of underground nuclear weapons testing in the 1990s. Rather than detonating nuclear weapons to verify their performance, scientists increasingly rely on advanced experiments, diagnostics and computational modelling to understand how ageing warheads behave and to certify their reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
+The modern U.S. stockpile stewardship system emerged after the end of underground nuclear weapons testing in the 1990s. Rather than detonating nuclear weapons to verify their performance, scientists increasingly rely on advanced experiments, diagnostics and computational modelling to understand how ageing warheads behave and to certify their reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
 
 This work depends on several major scientific tools:
 
@@ -290,11 +290,11 @@ This work depends on several major scientific tools:
 * High-energy laser facilities that recreate small-scale extreme environments.
 * Hydrodynamic and materials experiments that study weapon components.
 * High-energy-density physics research, which examines matter under extraordinary pressure and temperature conditions.
-* Subcritical experiments that investigate nuclear materials without producing a nuclear explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicstoday.aip.org">[PHYSICS TODAY+2Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicstoday.aip.org</span><span class="citation-popover-title">the big science of stockpile stewardship</span><span class="citation-popover-snippet">PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</span></span></span>
+* Subcritical experiments that investigate nuclear materials without producing a nuclear explosion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicstoday.aip.org">[aip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicstoday.aip.org</span><span class="citation-popover-title">the big science of stockpile stewardship</span><span class="citation-popover-snippet">PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</span></span></span>
 
-One of the best-known facilities is the National Ignition Facility (NIF) at Lawrence Livermore. NIF uses 192 powerful laser beams to compress tiny targets and create conditions relevant to fusion and weapons physics. The facility openly states that stockpile stewardship is one of its central missions. It was built to help scientists study phenomena associated with nuclear weapons without conducting full-scale nuclear tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov+2lasers.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">How NIF Works &#124; National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</span></span></span>
+One of the best-known facilities is the National Ignition Facility (NIF) at Lawrence Livermore. NIF uses 192 powerful laser beams to compress tiny targets and create conditions relevant to fusion and weapons physics. The facility openly states that stockpile stewardship is one of its central missions. It was built to help scientists study phenomena associated with nuclear weapons without conducting full-scale nuclear tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">How NIF Works &#124; National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</span></span></span>
 
-The scale of these experiments often surprises non-specialists. Researchers may be investigating pressures, temperatures and radiation environments that are otherwise found only in stars or nuclear detonations. Those facts are genuine. What is often missed is that the laboratories openly describe these activities as part of nuclear-weapons stewardship and high-energy-density physics rather than as propulsion research or UFO-related programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov+2llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">National Ignition Facility &amp; Photon ScienceThe National Ignition Facility conducts experiments to simulate the conditions of an exploding...</span></span></span>
+The scale of these experiments often surprises non-specialists. Researchers may be investigating pressures, temperatures and radiation environments that are otherwise found only in stars or nuclear detonations. Those facts are genuine. What is often missed is that the laboratories openly describe these activities as part of nuclear-weapons stewardship and high-energy-density physics rather than as propulsion research or UFO-related programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">National Ignition Facility &amp; Photon ScienceThe National Ignition Facility conducts experiments to simulate the conditions of an exploding...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Eh2rZAD6uc" title="What is fusion ignition?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Eh2rZAD6uc" target="_blank" rel="noopener noreferrer">What is fusion ignition?</a></p><p class="youtube-embed-meta">Channel: Lawrence Livermore National Laboratory</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Eh2rZAD6uc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Eh2rZAD6uc">Open on YouTube</a></p></div></div></div>
@@ -303,13 +303,13 @@ The scale of these experiments often surprises non-specialists. Researchers may 
 
 The ingredients that drive rumours are easy to identify.
 
-A person encountering descriptions of giant laser arrays, fusion ignition, magnetic fields, plasma confinement and classified national-security work can easily conclude that something more extraordinary is being hidden. The terminology itself sounds futuristic. Words such as “ignition”, “thermonuclear burn”, “high-energy-density physics” and “extreme states of matter” are often detached from their scientific context and reinterpreted through a UFO or breakthrough-propulsion lens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov+2aip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">NIF and Stockpile ModernizationNIF is also the only U.S. facility designed to perform experimental studies of fusion ignition and thermon...</span></span></span>
+A person encountering descriptions of giant laser arrays, fusion ignition, magnetic fields, plasma confinement and classified national-security work can easily conclude that something more extraordinary is being hidden. The terminology itself sounds futuristic. Words such as “ignition”, “thermonuclear burn”, “high-energy-density physics” and “extreme states of matter” are often detached from their scientific context and reinterpreted through a UFO or breakthrough-propulsion lens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">NIF and Stockpile ModernizationNIF is also the only U.S. facility designed to perform experimental studies of fusion ignition and thermon...</span></span></span>
 
-The National Ignition Facility illustrates this dynamic particularly well. NIF became globally famous after achieving fusion ignition, a milestone that generated headlines about recreating processes that power stars. For some observers, such achievements appeared to suggest access to revolutionary energy systems or hidden technological capabilities. In reality, the facility's publicly stated mission links fusion research to stockpile stewardship, weapons science and long-term energy research rather than antigravity or spacecraft propulsion. The Department of Energy's Energy.gov+2lift.llnl.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">doe national laboratory makes history achieving fusion ignition</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govDOE National Laboratory Makes History by Achieving...Dec 13, 2022 — Researchers produce more energy...</span></span></span>
+The National Ignition Facility illustrates this dynamic particularly well. NIF became globally famous after achieving fusion ignition, a milestone that generated headlines about recreating processes that power stars. For some observers, such achievements appeared to suggest access to revolutionary energy systems or hidden technological capabilities. In reality, the facility's publicly stated mission links fusion research to stockpile stewardship, weapons science and long-term energy research rather than antigravity or spacecraft propulsion. The Department of Energy's Energy.gov+2lift.llnl.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">doe national laboratory makes history achieving fusion ignition</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govDOE National Laboratory Makes History by Achieving...Dec 13, 2022 — Researchers produce more energy...</span></span></span>
 
-Another source of confusion is the use of weapons-related experiments to simulate conditions inside nuclear detonations. Laboratory descriptions sometimes state that experiments reproduce aspects of an exploding nuclear weapon. Read without context, that language can sound like evidence of secret exotic technology. In practice, the purpose is usually to improve scientific understanding of known nuclear processes and maintain confidence in an ageing arsenal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[llnl.gov+2lasers.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">ignition experiment advances stockpile stewardship mission</span><span class="citation-popover-snippet">9 Mar 2023 — Igniting inertial confinement fusion capsules at NIF simulates aspects of the conditions that exist in an exploding nuclear...</span></span></span>
+Another source of confusion is the use of weapons-related experiments to simulate conditions inside nuclear detonations. Laboratory descriptions sometimes state that experiments reproduce aspects of an exploding nuclear weapon. Read without context, that language can sound like evidence of secret exotic technology. In practice, the purpose is usually to improve scientific understanding of known nuclear processes and maintain confidence in an ageing arsenal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llnl.gov">[llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llnl.gov</span><span class="citation-popover-title">ignition experiment advances stockpile stewardship mission</span><span class="citation-popover-snippet">9 Mar 2023 — Igniting inertial confinement fusion capsules at NIF simulates aspects of the conditions that exist in an exploding nuclear...</span></span></span>
 
-The same pattern appears with plasma physics. Plasma is sometimes presented in UFO literature as evidence of unconventional propulsion concepts. Yet plasma research is a mainstream field with applications ranging from fusion energy and astrophysics to industrial processes and weapons science. Its presence inside a national laboratory is not unusual and does not, by itself, imply hidden [aerospace]({{ 'aerospace/' | relative_url }}) programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inertial confinement fusion</span><span class="citation-popover-snippet">May 11, 2026 — Inertial confinement fusion (ICF) is a fusion energy process that initiates nuclear fusion reactions by compressing and he...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+The same pattern appears with plasma physics. Plasma is sometimes presented in UFO literature as evidence of unconventional propulsion concepts. Yet plasma research is a mainstream field with applications ranging from fusion energy and astrophysics to industrial processes and weapons science. Its presence inside a national laboratory is not unusual and does not, by itself, imply hidden [aerospace]({{ 'aerospace/' | relative_url }}) programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inertial confinement fusion</span><span class="citation-popover-snippet">May 11, 2026 — Inertial confinement fusion (ICF) is a fusion energy process that initiates nuclear fusion reactions by compressing and he...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-2-dark.svg" | relative_url }}" alt="Stockpile Work illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,11 +317,11 @@ The same pattern appears with plasma physics. Plasma is sometimes presented in U
 
 The laboratories associated with stockpile stewardship occupy an unusual position. They conduct publicly visible science while simultaneously supporting classified national-security missions.
 
-That mixture creates fertile ground for speculation. When members of the public encounter partial information, security restrictions can appear to confirm suspicions rather than simply reflecting standard weapons-related secrecy. A missing detail may be interpreted as evidence of concealment even when the underlying activity has been publicly described elsewhere. Arms Control Association+2Los Alamos National Laboratory <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[armscontrol.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
+That mixture creates fertile ground for speculation. When members of the public encounter partial information, security restrictions can appear to confirm suspicions rather than simply reflecting standard weapons-related secrecy. A missing detail may be interpreted as evidence of concealment even when the underlying activity has been publicly described elsewhere. Arms Control Association+2Los Alamos National Laboratory<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[armscontrol.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
 
-Large scientific facilities also tend to generate impressive imagery. NIF's enormous laser halls, target chambers and fusion experiments resemble scenes from science fiction. Photographs of vast laser systems or descriptions of temperatures hotter than the Sun naturally encourage imaginative interpretations. Yet these visual impressions do not change the documented mission of the facilities. The dramatic appearance of the equipment can make ordinary explanations seem less satisfying than extraordinary ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov+2st.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">How NIF Works &#124; National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</span></span></span>
+Large scientific facilities also tend to generate impressive imagery. NIF's enormous laser halls, target chambers and fusion experiments resemble scenes from science fiction. Photographs of vast laser systems or descriptions of temperatures hotter than the Sun naturally encourage imaginative interpretations. Yet these visual impressions do not change the documented mission of the facilities. The dramatic appearance of the equipment can make ordinary explanations seem less satisfying than extraordinary ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-snippet">How NIF Works &#124; National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</span></span></span>
 
-In UFO-related discussions, this effect sometimes becomes amplified when a scientist's employment history includes Los Alamos, Livermore or another sensitive laboratory. The laboratory affiliation is treated as evidence that the individual must have been connected to exotic technologies. In reality, these institutions employ thousands of people across a broad range of scientific and engineering disciplines, most of which have no demonstrated connection to UFO claims. Los Alamos National Laboratory+2sd.llnl.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[lanl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-title">1219 security depends on scientific superiority</span><span class="citation-popover-snippet">Los Alamos National LaboratoryAmerica&#x27;s security depends on its scientific superiority12 Dec 2019 — Stockpile stewardship depends on adva...</span></span></span>
+In UFO-related discussions, this effect sometimes becomes amplified when a scientist's employment history includes Los Alamos, Livermore or another sensitive laboratory. The laboratory affiliation is treated as evidence that the individual must have been connected to exotic technologies. In reality, these institutions employ thousands of people across a broad range of scientific and engineering disciplines, most of which have no demonstrated connection to UFO claims. Los Alamos National Laboratory+2sd.llnl.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[lanl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-title">1219 security depends on scientific superiority</span><span class="citation-popover-snippet">Los Alamos National LaboratoryAmerica&#x27;s security depends on its scientific superiority12 Dec 2019 — Stockpile stewardship depends on adva...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0I3lhoNB5oI" title="How Nuclear Scientist Keep the World Safer | Stockpile Stewardship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0I3lhoNB5oI" target="_blank" rel="noopener noreferrer">How Nuclear Scientist Keep the World Safer | Stockpile Stewardship</a></p><p class="youtube-embed-meta">Channel: One World Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0I3lhoNB5oI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0I3lhoNB5oI">Open on YouTube</a></p></div></div></div>
@@ -330,11 +330,11 @@ In UFO-related discussions, this effect sometimes becomes amplified when a scien
 
 A useful way to evaluate claims is to separate three questions that are often blended together.
 
-First, is the science genuinely advanced? In many cases, yes. Facilities involved in stockpile stewardship operate at the frontier of laser physics, materials science, computational modelling and fusion research. Their technical achievements are real and often extraordinary. Nature+2The Department of Energy's Energy.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/immersive/d41586-024-03745-z/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Here&#x27;s how it achieved this...Read more...</span></span></span>
+First, is the science genuinely advanced? In many cases, yes. Facilities involved in stockpile stewardship operate at the frontier of laser physics, materials science, computational modelling and fusion research. Their technical achievements are real and often extraordinary. Nature+2The Department of Energy's Energy.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/immersive/d41586-024-03745-z/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Here&#x27;s how it achieved this...Read more...</span></span></span>
 
-Second, is some of the work classified? Also yes. Nuclear-weapons stewardship inevitably involves information that governments restrict for national-security reasons. Classification alone, however, does not reveal the existence of UFO reverse-engineering programmes or antigravity research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
+Second, is some of the work classified? Also yes. Nuclear-weapons stewardship inevitably involves information that governments restrict for national-security reasons. Classification alone, however, does not reveal the existence of UFO reverse-engineering programmes or antigravity research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armscontrol.org">[Arms Control Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armscontrol.org</span><span class="citation-popover-snippet">Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</span></span></span>
 
-Third, does advanced or classified science automatically imply exotic propulsion or recovered non-human technology? Publicly available evidence does not support that conclusion. The documented mission of stockpile stewardship is maintaining and understanding nuclear deterrent systems without returning to full-scale nuclear testing. The most direct explanations for the lasers, simulations, plasma experiments and weapons-physics facilities are the explanations repeatedly given by the institutions that operate them. Arms Control Association+3lasers.llnl.gov+3lift.llnl.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science/nif-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-title">NI F and Stockpile Stewardship</span><span class="citation-popover-snippet">NIF and Stockpile Stewardship - National Ignition FacilityNIF is a cornerstone of the experimental element of stockpile stewardship and a...</span></span></span>
+Third, does advanced or classified science automatically imply exotic propulsion or recovered non-human technology? Publicly available evidence does not support that conclusion. The documented mission of stockpile stewardship is maintaining and understanding nuclear deterrent systems without returning to full-scale nuclear testing. The most direct explanations for the lasers, simulations, plasma experiments and weapons-physics facilities are the explanations repeatedly given by the institutions that operate them. Arms Control Association+3lasers.llnl.gov+3lift.llnl.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasers.llnl.gov/science/nif-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasers.llnl.gov">[lasers.llnl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasers.llnl.gov</span><span class="citation-popover-title">NI F and Stockpile Stewardship</span><span class="citation-popover-snippet">NIF and Stockpile Stewardship - National Ignition FacilityNIF is a cornerstone of the experimental element of stockpile stewardship and a...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-3-dark.svg" | relative_url }}" alt="Stockpile Work illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_stockpile_exotic_mis_3df25a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,201 +342,201 @@ Third, does advanced or classified science automatically imply exotic propulsion
 
 In the broader landscape of stories linking sensitive laboratories to suspicious deaths, disappearances or alleged UFO secrecy, stockpile stewardship is often misunderstood because it combines three elements that attract speculation: extreme physics, genuine secrecy and national-security importance.
 
-The crucial distinction is that advanced physics is not the same thing as exotic physics. Giant lasers, fusion experiments, plasma research and weapons simulations can appear extraordinary while remaining firmly within established scientific frameworks. The existence of such research helps explain why rumours arise around laboratories like Los Alamos and Lawrence Livermore, but it does not, on its own, provide evidence for antigravity systems, reverse-engineered craft or hidden UFO technologies. The public record shows a more specific and more conventional story: highly sophisticated efforts to understand nuclear weapons, maintain deterrence and study matter under extreme conditions without conducting nuclear explosions. lasers.llnl.gov+3PHYSICS TODAY+3lasers.llnl.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicstoday.aip.org">[physicstoday.aip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicstoday.aip.org</span><span class="citation-popover-title">the big science of stockpile stewardship</span><span class="citation-popover-snippet">PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</span></span></span>
+The crucial distinction is that advanced physics is not the same thing as exotic physics. Giant lasers, fusion experiments, plasma research and weapons simulations can appear extraordinary while remaining firmly within established scientific frameworks. The existence of such research helps explain why rumours arise around laboratories like Los Alamos and Lawrence Livermore, but it does not, on its own, provide evidence for antigravity systems, reverse-engineered craft or hidden UFO technologies. The public record shows a more specific and more conventional story: highly sophisticated efforts to understand nuclear weapons, maintain deterrence and study matter under extreme conditions without conducting nuclear explosions. lasers.llnl.gov+3PHYSICS TODAY+3lasers.llnl.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicstoday.aip.org">[physicstoday.aip.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicstoday.aip.org</span><span class="citation-popover-title">the big science of stockpile stewardship</span><span class="citation-popover-snippet">PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/71gqaFoix1w" title="Lawrence Livermore National Laboratory achieves fusion ignition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=71gqaFoix1w" target="_blank" rel="noopener noreferrer">Lawrence Livermore National Laboratory achieves fusion ignition</a></p><p class="youtube-embed-meta">Channel: Lawrence Livermore National Laboratory</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=71gqaFoix1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=71gqaFoix1w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Advanced Physics Gets Misread as UFO Science. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Advanced Physics Gets Misread as UFO Science. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a useful benchmark for evaluating extraordinary UFO claims against documented evidence and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a useful benchmark for evaluating extraordinary UFO claims against documented evidence and official sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how scientific reasoning can separate evidence-based conclusions from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how scientific reasoning can separate evidence-based conclusions from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps explain how genuine classified aerospace programs can fuel speculation about exotic or misunderstood technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how genuine classified aerospace programs can fuel speculation about exotic or misunderstood technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Explores futuristic concepts while distinguishing between theoretical possibilities and unsupported claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores futuristic concepts while distinguishing between theoretical possibilities and unsupported claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="stockpile-work-when-advanced-physics-gets-misread-as-ufo-science-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-advanced-physics-gets-misread-as-ufo-science-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The crucial distinction is that advanced physics is not the same thing as exotic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The crucial distinction is that advanced physics is not the same thing as exotic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The crucial distinction is that advanced physics is not the same thing as exotic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The crucial distinction is that advanced physics is not the same thing as exotic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The crucial distinction is that advanced physics is not the same thing as exotic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,190 +742,190 @@ The crucial distinction is that advanced physics is not the same thing as exotic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: physicstoday.aip.org  
    Title: the big science of stockpile stewardship  
-   Link: <a href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</p></details>
+   Link:<a href="https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/features/the-big-science-of-stockpile-stewardship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHYSICS TODAYThe Big Science of Stockpile Stewardship1 Aug 2016 — The US Department of Energy&#x27;s Stockpile Stewardship Program makes use o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lasers.llnl.gov  
-   Link: <a href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/about/how-nif-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How NIF Works | National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</p></details>
+   Link:<a href="https://lasers.llnl.gov/about/how-nif-works" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/about/how-nif-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How NIF Works | National Ignition Facility &amp; Photon ScienceWe use NIF&#x27;s lasers for several specific missions, including Stockpile Steward...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lasers.llnl.gov  
    Title: NI F and Stockpile Stewardship  
-   Link: <a href="https://lasers.llnl.gov/science/nif-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-stewardship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIF and Stockpile Stewardship - National Ignition FacilityNIF is a cornerstone of the experimental element of stockpile stewardship and a...</p></details>
+   Link:<a href="https://lasers.llnl.gov/science/nif-stockpile-stewardship" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-stewardship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIF and Stockpile Stewardship - National Ignition FacilityNIF is a cornerstone of the experimental element of stockpile stewardship and a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lasers.llnl.gov  
-   Link: <a href="https://lasers.llnl.gov/science" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition Facility &amp; Photon ScienceThe National Ignition Facility conducts experiments to simulate the conditions of an exploding...</p></details>
+   Link:<a href="https://lasers.llnl.gov/science" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition Facility &amp; Photon ScienceThe National Ignition Facility conducts experiments to simulate the conditions of an exploding...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: llnl.gov  
    Title: ignition experiment advances stockpile stewardship mission  
-   Link: <a href="https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2023 — Igniting inertial confinement fusion capsules at NIF simulates aspects of the conditions that exist in an exploding nuclear...</p></details>
+   Link:<a href="https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/article/49576/ignition-experiment-advances-stockpile-stewardship-mission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2023 — Igniting inertial confinement fusion capsules at NIF simulates aspects of the conditions that exist in an exploding nuclear...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: st.llnl.gov  
    Title: National Ignition Facility | Science and Technology  
-   Link: <a href="https://st.llnl.gov/node/26" target="_blank" rel="noopener noreferrer nofollow">https://st.llnl.gov/node/26</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security Administration, contributes to Livermore&#x27;s stockpile stewardship mission...</p></details>
+   Link:<a href="https://st.llnl.gov/node/26" target="_blank" rel="noopener noreferrer nofollow">https://st.llnl.gov/node/26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security Administration, contributes to Livermore&#x27;s stockpile stewardship mission...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lasers.llnl.gov  
-   Link: <a href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-modernization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIF and Stockpile ModernizationNIF is also the only U.S. facility designed to perform experimental studies of fusion ignition and thermon...</p></details>
+   Link:<a href="https://lasers.llnl.gov/science/nif-stockpile-modernization" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/science/nif-stockpile-modernization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIF and Stockpile ModernizationNIF is also the only U.S. facility designed to perform experimental studies of fusion ignition and thermon...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aip.org  
    Title: national ignition facility achieves long sought fusion goal  
-   Link: <a href="https://www.aip.org/fyi/2022/national-ignition-facility-achieves-long-sought-fusion-goal" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/2022/national-ignition-facility-achieves-long-sought-fusion-goal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition Facility Achieves Long-Sought Fusion GoalDec 16, 2022 — To perform a nuclear fusion experiment, the National Ignition F...</p></details>
+   Link:<a href="https://www.aip.org/fyi/2022/national-ignition-facility-achieves-long-sought-fusion-goal" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/2022/national-ignition-facility-achieves-long-sought-fusion-goal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition Facility Achieves Long-Sought Fusion GoalDec 16, 2022 — To perform a nuclear fusion experiment, the National Ignition F...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/immersive/d41586-024-03745-z/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/immersive/d41586-024-03745-z/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how it achieved this...Read more...</p></details>
+   Link:<a href="https://www.nature.com/immersive/d41586-024-03745-z/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/immersive/d41586-024-03745-z/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how it achieved this...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: energy.gov  
    Title: doe national laboratory makes history achieving fusion ignition  
-   Link: <a href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govDOE National Laboratory Makes History by Achieving...Dec 13, 2022 — Researchers produce more energy...</p></details>
+   Link:<a href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govDOE National Laboratory Makes History by Achieving...Dec 13, 2022 — Researchers produce more energy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lift.llnl.gov  
-   Link: <a href="https://lift.llnl.gov/news/video-latest-developments-fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://lift.llnl.gov/news/video-latest-developments-fusion-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: The Latest Developments in Fusion Energy | Livermore...NIF&#x27;s mission serves the NNSA&#x27;s Stockpile Stewardship Program, ensuring th...</p></details>
+   Link:<a href="https://lift.llnl.gov/news/video-latest-developments-fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://lift.llnl.gov/news/video-latest-developments-fusion-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video: The Latest Developments in Fusion Energy | Livermore...NIF&#x27;s mission serves the NNSA&#x27;s Stockpile Stewardship Program, ensuring th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lasers.llnl.gov  
    Title: fire powers universe harnessing inertial fusion energy  
-   Link: <a href="https://lasers.llnl.gov/news/fire-powers-universe-harnessing-inertial-fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/news/fire-powers-universe-harnessing-inertial-fusion-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fire That Powers the Universe: Harnessing Inertial Fusion...1 Dec 2024 — While NIF itself was not designed to become a fusion power...</p></details>
+   Link:<a href="https://lasers.llnl.gov/news/fire-powers-universe-harnessing-inertial-fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/news/fire-powers-universe-harnessing-inertial-fusion-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fire That Powers the Universe: Harnessing Inertial Fusion...1 Dec 2024 — While NIF itself was not designed to become a fusion power...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Inertial confinement fusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inertial_confinement_fusion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — Inertial confinement fusion (ICF) is a fusion energy process that initiates nuclear fusion reactions by compressing and he...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inertial_confinement_fusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — Inertial confinement fusion (ICF) is a fusion energy process that initiates nuclear fusion reactions by compressing and he...</p></details>
    Published: May 11, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sd.llnl.gov  
-   Link: <a href="https://sd.llnl.gov/about-us/our-legacy" target="_blank" rel="noopener noreferrer nofollow">https://sd.llnl.gov/about-us/our-legacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Legacy | Strategic DeterrenceThe Our Legacy page highlights the historical contributions of Lawrence Livermore National Laboratory to...</p></details>
+   Link:<a href="https://sd.llnl.gov/about-us/our-legacy" target="_blank" rel="noopener noreferrer nofollow">https://sd.llnl.gov/about-us/our-legacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Legacy | Strategic DeterrenceThe Our Legacy page highlights the historical contributions of Lawrence Livermore National Laboratory to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: National Nuclear Security Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security AdministrationThe National Nuclear Security Administration (NNSA) is a United States federal agency responsi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security AdministrationThe National Nuclear Security Administration (NNSA) is a United States federal agency responsi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: National Ignition Facility  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Ignition_Facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Ignition_Facility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition FacilityThe National Ignition Facility (NIF) is a laser-based inertial confinement fusion (ICF) research facility, l...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Ignition_Facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Ignition_Facility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Ignition FacilityThe National Ignition Facility (NIF) is a laser-based inertial confinement fusion (ICF) research facility, l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lasers.llnl.gov  
    Title: what is nif  
-   Link: <a href="https://lasers.llnl.gov/about/what-is-nif" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/about/what-is-nif</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the National Ignition Facility?NIF experiments help maintain the skills of nuclear weapons scientists and train the next generation to...</p></details>
+   Link:<a href="https://lasers.llnl.gov/about/what-is-nif" target="_blank" rel="noopener noreferrer nofollow">https://lasers.llnl.gov/about/what-is-nif</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is the National Ignition Facility?NIF experiments help maintain the skills of nuclear weapons scientists and train the next generation to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physicstoday.aip.org  
    Title: does nuclear stockpile stewardships science diminish global security  
-   Link: <a href="https://physicstoday.aip.org/opinion/does-nuclear-stockpile-stewardships-science-diminish-global-security" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/opinion/does-nuclear-stockpile-stewardships-science-diminish-global-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear stockpile stewardship&#x27;s science diminish...20 Apr 2026 — To modernize the US nuclear stockpile, including developing new warhead...</p></details>
+   Link:<a href="https://physicstoday.aip.org/opinion/does-nuclear-stockpile-stewardships-science-diminish-global-security" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/opinion/does-nuclear-stockpile-stewardships-science-diminish-global-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear stockpile stewardship&#x27;s science diminish...20 Apr 2026 — To modernize the US nuclear stockpile, including developing new warhead...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stockpile.com  
-   Link: <a href="https://www.stockpile.com/media" target="_blank" rel="noopener noreferrer nofollow">https://www.stockpile.com/media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The money app for familiesStockpile is named the best brokerage for kids and teens for its easy-to-use platform, gift card op...</p></details>
+   Link:<a href="https://www.stockpile.com/media" target="_blank" rel="noopener noreferrer nofollow">https://www.stockpile.com/media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The money app for familiesStockpile is named the best brokerage for kids and teens for its easy-to-use platform, gift card op...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: stockpile.com  
-   Link: <a href="https://www.stockpile.com/gettingstarted/investment-plan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stockpile.com/gettingstarted/investment-plan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Develop your first investment planStarting with as little as $5, you can use Stockpile to buy fractional shares of 3,000+ stocks Includin...</p></details>
+   Link:<a href="https://www.stockpile.com/gettingstarted/investment-plan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stockpile.com/gettingstarted/investment-plan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Develop your first investment planStarting with as little as $5, you can use Stockpile to buy fractional shares of 3,000+ stocks Includin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/topics/fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/topics/fusion-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fusion EnergyDOE&#x27;s National Nuclear Security Administration supports the Inertial Confinement Fusion (ICF) program to advance its Stockpi...</p></details>
+   Link:<a href="https://www.energy.gov/topics/fusion-energy" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/topics/fusion-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fusion EnergyDOE&#x27;s National Nuclear Security Administration supports the Inertial Confinement Fusion (ICF) program to advance its Stockpi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: armscontrol.org  
-   Link: <a href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</p></details>
+   Link:<a href="https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2009-05/national-ignition-facility-completed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arms Control AssociationNational Ignition Facility CompletedThe NNSA, a separately organized agency within the Energy Department, is resp...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lanl.gov  
    Title: 1219 security depends on scientific superiority  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryAmerica&#x27;s security depends on its scientific superiority12 Dec 2019 — Stockpile stewardship depends on adva...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/1219-security-depends-on-scientific-superiority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Alamos National LaboratoryAmerica&#x27;s security depends on its scientific superiority12 Dec 2019 — Stockpile stewardship depends on adva...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/issues/2025-spring" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/issues/2025-spring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The physics issue | Los Alamos National LaboratoryAdvancing accelerators. Major upgrades and a new, state-of-the-art facility will suppor...</p></details>
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/issues/2025-spring" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/issues/2025-spring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The physics issue | Los Alamos National LaboratoryAdvancing accelerators. Major upgrades and a new, state-of-the-art facility will suppor...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: obamawhitehouse.archives.gov  
-   Link: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/expectmore/detail/10001046.2008.html" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/expectmore/detail/10001046.2008.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confinement Fusion Ignition and High Yield...The Inertial Confinement Fusion Ignition and High Yield Campaign (ICF), provides the unique...</p></details>
+   Link:<a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/expectmore/detail/10001046.2008.html" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/expectmore/detail/10001046.2008.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confinement Fusion Ignition and High Yield...The Inertial Confinement Fusion Ignition and High Yield Campaign (ICF), provides the unique...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ga.com  
-   Link: <a href="https://www.ga.com/stockpile-responsiveness/" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.com/stockpile-responsiveness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stockpile ResponsivenessGeneral Atomics supports the DOE National Nuclear Security Administration&#x27;s research in Inertial Confinement Fusi...</p></details>
+   Link:<a href="https://www.ga.com/stockpile-responsiveness/" target="_blank" rel="noopener noreferrer nofollow">https://www.ga.com/stockpile-responsiveness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stockpile ResponsivenessGeneral Atomics supports the DOE National Nuclear Security Administration&#x27;s research in Inertial Confinement Fusi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/255248839_Stockpile_Stewardship_and_the_National_Ignition_Facility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255248839_Stockpile_Stewardship_and_the_National_Ignition_Facility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stockpile Stewardship and the National Ignition FacilityThis talk will provide an update of the progress on the NIF capabilities, NIC acc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/255248839_Stockpile_Stewardship_and_the_National_Ignition_Facility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255248839_Stockpile_Stewardship_and_the_National_Ignition_Facility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stockpile Stewardship and the National Ignition FacilityThis talk will provide an update of the progress on the NIF capabilities, NIC acc...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/5730/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5730/chapter/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Ignition Facility&quot; at NAP.eduIgnition is relevant to SBSS, but the NIF will make contributions to SBSS independent of igniti...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/5730/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5730/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Ignition Facility&quot; at NAP.eduIgnition is relevant to SBSS, but the NIF will make contributions to SBSS independent of igniti...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/fusion/comments/18je4xa/us_nuclearfusion_lab_enters_new_era_achieving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fusion/comments/18je4xa/us_nuclearfusion_lab_enters_new_era_achieving/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US nuclear-fusion lab enters new era: achieving &#x27;ignition&#x27;...High rep rate lasers, targetry, etc. are easier engineering problem which a...</p></details>
+   Link:<a href="https://www.reddit.com/r/fusion/comments/18je4xa/us_nuclearfusion_lab_enters_new_era_achieving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fusion/comments/18je4xa/us_nuclearfusion_lab_enters_new_era_achieving/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US nuclear-fusion lab enters new era: achieving &#x27;ignition&#x27;...High rep rate lasers, targetry, etc. are easier engineering problem which a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: lawrence livermore national laboratory ignition experiment advances stockpile st  
-   Link: <a href="https://www.facebook.com/NNSANews/posts/lawrence-livermore-national-laboratory-ignition-experiment-advances-stockpile-st/621820966643464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NNSANews/posts/lawrence-livermore-national-laboratory-ignition-experiment-advances-stockpile-st/621820966643464/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security AdministrationON THIS DAY in 2022, Lawrence Livermore National Laboratory achieved fusion ignition at the lab&#x27;s...</p></details>
+   Link:<a href="https://www.facebook.com/NNSANews/posts/lawrence-livermore-national-laboratory-ignition-experiment-advances-stockpile-st/621820966643464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NNSANews/posts/lawrence-livermore-national-laboratory-ignition-experiment-advances-stockpile-st/621820966643464/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Nuclear Security AdministrationON THIS DAY in 2022, Lawrence Livermore National Laboratory achieved fusion ignition at the lab&#x27;s...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: merriam-webster.com  
    Title: STOCKPIL E Definition & Meaninga storage pile: such as  
-   Link: <a href="https://www.merriam-webster.com/dictionary/stockpile" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/stockpile</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a... a reserve supply of something essential accumulated within a country for use during a shortage... b... a gradually accumulated...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/stockpile" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/stockpile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a... a reserve supply of something essential accumulated within a country for use during a shortage... b... a gradually accumulated...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: live-issues-asu.ws.asu.edu  
-   Link: <a href="https://live-issues-asu.ws.asu.edu/mello/" target="_blank" rel="noopener noreferrer nofollow">https://live-issues-asu.ws.asu.edu/mello/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>asu.edu[https://live-issues-asu.ws.asu.edu/mello/No](https://live-issues-asu.ws.asu.edu/mello/No) information is available for this page...</p></details>
+   Link:<a href="https://live-issues-asu.ws.asu.edu/mello/" target="_blank" rel="noopener noreferrer nofollow">https://live-issues-asu.ws.asu.edu/mello/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asu.edu[https://live-issues-asu.ws.asu.edu/mello/No](https://live-issues-asu.ws.asu.edu/mello/No) information is available for this page...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bluelaserfusion.com  
-   Link: <a href="https://bluelaserfusion.com/lawrence-livermore-national-laboratory-achieves-fusionignition-9/" target="_blank" rel="noopener noreferrer nofollow">https://bluelaserfusion.com/lawrence-livermore-national-laboratory-achieves-fusionignition-9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SA&#x27;s Stockpile Stewardship Program and will provide invaluable insights into the...</p></details>
+   Link:<a href="https://bluelaserfusion.com/lawrence-livermore-national-laboratory-achieves-fusionignition-9/" target="_blank" rel="noopener noreferrer nofollow">https://bluelaserfusion.com/lawrence-livermore-national-laboratory-achieves-fusionignition-9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SA&#x27;s Stockpile Stewardship Program and will provide invaluable insights into the...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/stockpile" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/stockpile</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya large amount of food, goods, or weapons that are kept ready for future use...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/stockpile" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/stockpile</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya large amount of food, goods, or weapons that are kept ready for future use...</p></details>

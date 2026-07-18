@@ -284,7 +284,7 @@ In lists of allegedly suspicious deaths connected to UFO, UAP or antigravity res
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-1-dark.svg" | relative_url }}" alt="Pending Cases illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many online narratives combine unresolved deaths, missing-person cases, delayed toxicology reports and incomplete public records into a single theory of coordinated killings. Yet the existence of an open investigation does not establish homicide, [espionage]({{ 'espionage/' | relative_url }}), witness silencing or a UFO-related motive. In most jurisdictions, investigators routinely classify deaths as pending while they await toxicology results, specialist pathology reviews, medical records or police findings. The key question is not whether a case remains open, but whether evidence has emerged that changes the original assessment. In most widely circulated UFO-linked cases, that question remains unresolved. coroners.leicester.gov.uk+2coronersociety.org.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coroners.leicester.gov.uk">[coroners.leicester.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coroners.leicester.gov.uk</span><span class="citation-popover-snippet">Open source on leicester.gov.uk.</span></span></span>
+Many online narratives combine unresolved deaths, missing-person cases, delayed toxicology reports and incomplete public records into a single theory of coordinated killings. Yet the existence of an open investigation does not establish homicide, [espionage]({{ 'espionage/' | relative_url }}), witness silencing or a UFO-related motive. In most jurisdictions, investigators routinely classify deaths as pending while they await toxicology results, specialist pathology reviews, medical records or police findings. The key question is not whether a case remains open, but whether evidence has emerged that changes the original assessment. In most widely circulated UFO-linked cases, that question remains unresolved. coroners.leicester.gov.uk+2coronersociety.org.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coroners.leicester.gov.uk">[coroners.leicester.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coroners.leicester.gov.uk</span><span class="citation-popover-snippet">Open source on leicester.gov.uk.</span></span></span>
 
 ## Why Pending Status Is Often Misread
 
@@ -304,7 +304,7 @@ Several common factors can delay a conclusion:
 
 </div>
 
-Medical examiner offices openly state that pending determinations can take weeks or months and do not imply foul play. Some offices report that a significant share of investigations initially remain pending until laboratory work is complete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[County of San Diego+2tarrantcountytx.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
+Medical examiner offices openly state that pending determinations can take weeks or months and do not imply foul play. Some offices report that a significant share of investigations initially remain pending until laboratory work is complete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[sandiegocounty.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
 
 This matters because conspiracy narratives frequently freeze a case at its most uncertain moment. A death described as "pending investigation" may later receive a formal ruling, but online discussions often continue to circulate the earlier, more mysterious description.
 
@@ -313,7 +313,7 @@ This matters because conspiracy narratives frequently freeze a case at its most 
 
 ## Why Toxicology and Records Can Delay Findings
 
-One of the most common sources of delay is forensic toxicology. Unlike rapid hospital testing, post-mortem toxicology often involves extensive confirmation procedures designed to withstand legal scrutiny. Laboratories may need to identify substances, determine concentrations and assess whether those substances contributed to death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://randoxtoxicology.com/post-mortem-toxicology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: randoxtoxicology.com">[Randox Toxicology+2co.walworth.wi.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">randoxtoxicology.com</span><span class="citation-popover-snippet">Randox ToxicologyPost-Mortem ToxicologyPost-mortem toxicology, like ante-mortem toxicology, is the legal investigation of specimens for t...</span></span></span>
+One of the most common sources of delay is forensic toxicology. Unlike rapid hospital testing, post-mortem toxicology often involves extensive confirmation procedures designed to withstand legal scrutiny. Laboratories may need to identify substances, determine concentrations and assess whether those substances contributed to death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://randoxtoxicology.com/post-mortem-toxicology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: randoxtoxicology.com">[randoxtoxicology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">randoxtoxicology.com</span><span class="citation-popover-snippet">Randox ToxicologyPost-Mortem ToxicologyPost-mortem toxicology, like ante-mortem toxicology, is the legal investigation of specimens for t...</span></span></span>
 
 In practical terms, this means:
 
@@ -327,7 +327,7 @@ In practical terms, this means:
 
 </div>
 
-Coroner guidance in both the United Kingdom and United States notes that additional toxicology or specialist testing frequently extends investigations. A pending classification therefore reflects an incomplete process rather than a hidden conclusion. Courts and Tribunals Judiciary+2coronersociety.org.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[judiciary.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Courts and Tribunals Judiciary Chief Coroner&#x27;s Guidance No</span><span class="citation-popover-snippet">32 Post-Mortem...23 Sept 2019 — PM reports should be provided to the coroner within three to four weeks, except where further reports ar...</span></span></span>
+Coroner guidance in both the United Kingdom and United States notes that additional toxicology or specialist testing frequently extends investigations. A pending classification therefore reflects an incomplete process rather than a hidden conclusion. Courts and Tribunals Judiciary+2coronersociety.org.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[judiciary.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Courts and Tribunals Judiciary Chief Coroner&#x27;s Guidance No</span><span class="citation-popover-snippet">32 Post-Mortem...23 Sept 2019 — PM reports should be provided to the coroner within three to four weeks, except where further reports ar...</span></span></span>
 
 For readers evaluating UFO-related assassination claims, this is a critical distinction. A delayed toxicology report is evidence that investigators are still gathering information; it is not evidence that investigators have discovered a conspiracy.
 
@@ -335,9 +335,9 @@ For readers evaluating UFO-related assassination claims, this is a critical dist
 
 The modern wave of speculation linking scientists' deaths and disappearances to UFO or advanced-technology research illustrates how pending cases can evolve into broader narratives.
 
-Beginning in 2026, online discussions increasingly connected a number of unrelated deaths and disappearances involving individuals who had worked in aerospace, defence, nuclear or scientific fields. Some commentators suggested that knowledge of UFOs, exotic propulsion systems or antigravity concepts had made these individuals targets. The theory gained enough public attention that federal agencies and members of [Congress]({{ 'congress/' | relative_url }}) discussed reviewing whether any genuine links existed among the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+Beginning in 2026, online discussions increasingly connected a number of unrelated deaths and disappearances involving individuals who had worked in aerospace, defence, nuclear or scientific fields. Some commentators suggested that knowledge of UFOs, exotic propulsion systems or antigravity concepts had made these individuals targets. The theory gained enough public attention that federal agencies and members of [Congress]({{ 'congress/' | relative_url }}) discussed reviewing whether any genuine links existed among the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-Importantly, officials discussing such reviews did not announce that a coordinated assassination campaign had been established. Rather, they acknowledged public concerns while continuing to investigate individual cases. Reports repeatedly noted that evidence connecting the incidents remained unclear or absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House A conspiracy theory alleging a coordinate</span><span class="citation-popover-snippet">scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</span></span></span>
+Importantly, officials discussing such reviews did not announce that a coordinated assassination campaign had been established. Rather, they acknowledged public concerns while continuing to investigate individual cases. Reports repeatedly noted that evidence connecting the incidents remained unclear or absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Conspiracy theory over UFOs and missing scientists spreads from web to White House A conspiracy theory alleging a coordinate</span><span class="citation-popover-snippet">scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</span></span></span>
 
 This distinction is frequently lost online. A pending inquiry into whether connections exist can be transformed into claims that those connections have already been proven.
 
@@ -347,9 +347,9 @@ This distinction is frequently lost online. A pending inquiry into whether conne
 
 Among the most cited names in antigravity-related discussions is [Amy Eskridge]({{ 'amy-eskridge/' | relative_url }}), a researcher associated with [gravity-modification]({{ 'gravity-leap/' | relative_url }}) concepts. Her death has become a focal point for competing interpretations.
 
-Supporters of assassination theories point to reported statements about harassment, fears for personal safety and claims later circulated by former intelligence figures and UFO commentators. These claims have been used to argue that her death warrants renewed scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">scientists has become a matter of national concern, according to Rep. Eric Burlison (R-Mo.), a member of the House Oversight Committee. B...</span></span></span>
+Supporters of assassination theories point to reported statements about harassment, fears for personal safety and claims later circulated by former intelligence figures and UFO commentators. These claims have been used to argue that her death warrants renewed scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">scientists has become a matter of national concern, according to Rep. Eric Burlison (R-Mo.), a member of the House Oversight Committee. B...</span></span></span>
 
-At the same time, the existence of allegations is not the same as verification. Public discussions often move rapidly from "questions remain" to "murder has been established" even when investigators have not released evidence supporting that conclusion. Much of the material cited in UFO forums consists of secondary claims, personal testimony or interpretations rather than publicly documented forensic findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">DEWs utilize focused electromagnetic energy or subatomic particles to disable electronic systems or incapacitate targets. The disclosure...</span></span></span>
+At the same time, the existence of allegations is not the same as verification. Public discussions often move rapidly from "questions remain" to "murder has been established" even when investigators have not released evidence supporting that conclusion. Much of the material cited in UFO forums consists of secondary claims, personal testimony or interpretations rather than publicly documented forensic findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">DEWs utilize focused electromagnetic energy or subatomic particles to disable electronic systems or incapacitate targets. The disclosure...</span></span></span>
 
 The case therefore illustrates an important principle: a pending review, disputed interpretation or request for reinvestigation does not itself demonstrate assassination.
 
@@ -367,7 +367,7 @@ Readers encountering a suspicious-death list should recognise that several routi
 
 **Public-information restrictions.** Authorities may deliberately withhold details during active investigations.
 
-None of these circumstances automatically point toward murder, intelligence operations or UFO-related silencing. Coroners and medical examiners frequently describe such delays as ordinary features of death investigation. GOV.UK+3County of San Diego+3coronersociety.org.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[sandiegocounty.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
+None of these circumstances automatically point toward murder, intelligence operations or UFO-related silencing. Coroners and medical examiners frequently describe such delays as ordinary features of death investigation. GOV.UK+3County of San Diego+3coronersociety.org.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[sandiegocounty.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y6qt_Us8x0o" title="Missing scientists: Body found, new timelines &amp; more updates | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer">Missing scientists: Body found, new timelines &amp; more updates | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y6qt_Us8x0o">Open on YouTube</a></p></div></div></div>
@@ -396,200 +396,200 @@ A common pattern in conspiracy discussions is reliance on outdated information. 
 
 Within [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }})-related death narratives, "pending" is best understood as a procedural category rather than a conclusion. It signals that investigators are still collecting evidence, waiting for laboratory results or reviewing records. It does not establish assassination, and it does not disprove assassination.
 
-The strongest evidence for a coordinated campaign would be documented links uncovered by investigators, corroborated forensic findings or publicly released evidence showing common perpetrators or methods. Pending status, by itself, provides none of those things. For that reason, unresolved cases should be treated as unresolved: worthy of attention, but not as confirmed proof of a UFO-related murder theory. The Wall Street Journal+3County of San Diego+3coronersociety.org.uk <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[sandiegocounty.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
+The strongest evidence for a coordinated campaign would be documented links uncovered by investigators, corroborated forensic findings or publicly released evidence showing common perpetrators or methods. Pending status, by itself, provides none of those things. For that reason, unresolved cases should be treated as unresolved: worthy of attention, but not as confirmed proof of a UFO-related murder theory. The Wall Street Journal+3County of San Diego+3coronersociety.org.uk<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sandiegocounty.gov">[sandiegocounty.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sandiegocounty.gov</span><span class="citation-popover-snippet">County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-3-dark.svg" | relative_url }}" alt="Pending Cases illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_pending_investigatio_ad9a72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Pending Really Means in Suspicious Lists. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Pending Really Means in Suspicious Lists. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cadaver King and the Country Dentist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y4GZDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cadaver King and the Country Dentist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cadaver King and the Country Dentist">The Cadaver King and the Country Dentist</a>
-        </h4>
-        <p class="fr-book-author">By Radley Balko, Tucker Carrington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cadaver King and the Country Dentist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y4GZDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cadaver King and the Country Dentist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cadaver King and the Country Dentist">The Cadaver King and the Country Dentist</a>
+</h4>
+<p class="fr-book-author">By Radley Balko, Tucker Carrington</p>
         
-        <p class="fr-book-desc">Explains how death investigations, forensic evidence, and official conclusions can be delayed, disputed, or misunderstood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how death investigations, forensic evidence, and official conclusions can be delayed, disputed, or misunderstood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist+by+Radley+Balko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
-        </h4>
-        <p class="fr-book-author">By Richard Shepherd</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
+</h4>
+<p class="fr-book-author">By Richard Shepherd</p>
         
-        <p class="fr-book-desc">Shows how coroners, pathology, toxicology, and cause-of-death determinations work in real cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how coroners, pathology, toxicology, and cause-of-death determinations work in real cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8De0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us ab...</a>
-        </h4>
-        <p class="fr-book-author">By Val McDermid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R8De0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us ab...</a>
+</h4>
+<p class="fr-book-author">By Val McDermid</p>
         
-        <p class="fr-book-desc">Helps readers understand investigative processes and why evidence collection can take time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand investigative processes and why evidence collection can take time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+by+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how people interpret mysteries, uncertainty, and claims of hidden conspiracies without sufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how people interpret mysteries, uncertainty, and claims of hidden conspiracies without sufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cadaver King and the Country Dentist</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cadaver+King+and+the+Country+Dentist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cadaver King and the Country Dentist</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B"><img src="{{ '/assets/images/marketplace-covers/a33be2f55d4bbeda4acc.jpg' | relative_url }}" alt="Listing image for UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN POSTER ART PRINT - FRAMED OPTIONS - CHOOSE SIZE! B</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing"><img src="{{ '/assets/images/marketplace-covers/0c2eebb918fe7513f183.jpg' | relative_url }}" alt="Listing image for UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 SKY1 Gerry Anderson 1970s UK from my original drawing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e189d60d830bfd72f148.jpg' | relative_url }}" alt="Listing image for UFO Over Forest Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="pending-cases-what-pending-really-means-in-suspicious-lists-ufo-and-antigravity-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-pending-really-means-in-suspicious-lists-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-pending-really-means-in-suspicious-lists-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ The strongest evidence for a coordinated campaign would be documented links unco
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ The strongest evidence for a coordinated campaign would be documented links unco
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ The strongest evidence for a coordinated campaign would be documented links unco
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ The strongest evidence for a coordinated campaign would be documented links unco
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ The strongest evidence for a coordinated campaign would be documented links unco
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,128 +795,128 @@ The strongest evidence for a coordinated campaign would be documented links unco
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: coroners.leicester.gov.uk  
-   Link: <a href="https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/" target="_blank" rel="noopener noreferrer nofollow">https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/</a>  
+   Link:<a href="https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/" target="_blank" rel="noopener noreferrer nofollow">https://coroners.leicester.gov.uk/faqs/when-a-death-is-reported/understanding-the-results/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: coronersociety.org.uk  
-   Link: <a href="https://www.coronersociety.org.uk/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://www.coronersociety.org.uk/faqs/</a>  
+   Link:<a href="https://www.coronersociety.org.uk/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://www.coronersociety.org.uk/faqs/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tarrantcountytx.gov  
    Title: frequently asked questions  
-   Link: <a href="https://www.tarrantcountytx.gov/en/medical-examiner/frequently-asked-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrantcountytx.gov/en/medical-examiner/frequently-asked-questions.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 27, 2025 — By law they are to be filed with the local registrar no later than 10 days after the date of death. In a large number of c...</p></details>
+   Link:<a href="https://www.tarrantcountytx.gov/en/medical-examiner/frequently-asked-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrantcountytx.gov/en/medical-examiner/frequently-asked-questions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 27, 2025 — By law they are to be filed with the local registrar no later than 10 days after the date of death. In a large number of c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: co.walworth.wi.us  
    Title: Frequently Asked Questions  
-   Link: <a href="https://www.co.walworth.wi.us/FAQ.aspx?QID=172" target="_blank" rel="noopener noreferrer nofollow">https://www.co.walworth.wi.us/FAQ.aspx?QID=172</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis may only take 4 to 6 weeks if no drugs are present; however, 6 to 8 weeks are typically required to perform the necessary confir...</p></details>
+   Link:<a href="https://www.co.walworth.wi.us/FAQ.aspx?QID=172" target="_blank" rel="noopener noreferrer nofollow">https://www.co.walworth.wi.us/FAQ.aspx?QID=172</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis may only take 4 to 6 weeks if no drugs are present; however, 6 to 8 weeks are typically required to perform the necessary confir...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: judiciary.uk  
    Title: Courts and Tribunals Judiciary Chief Coroner's Guidance No  
-   Link: <a href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>32 Post-Mortem...23 Sept 2019 — PM reports should be provided to the coroner within three to four weeks, except where further reports ar...</p></details>
+   Link:<a href="https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/guidance-and-resources/chief-coroners-guidance-no-32-post-mortem-examinations-including-second-post-mortem-examinations1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>32 Post-Mortem...23 Sept 2019 — PM reports should be provided to the coroner within three to four weeks, except where further reports ar...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to do after someone dies: When a death is reported...The coroner will release the body for a funeral once they have completed the post-m...</p></details>
+   Link:<a href="https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to do after someone dies: When a death is reported...The coroner will release the body for a funeral once they have completed the post-m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Major Gen. William Mc Casland ran the Air Force's secret lab — then DISAPPEARED  
-   Link: <a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1J87lVhkNWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1J87lVhkNWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sandiegocounty.gov  
-   Link: <a href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</p></details>
+   Link:<a href="https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sandiegocounty.gov/content/sdc/me/families/theprocess.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>County of San DiegoThe ProcessIt can take as long as 4 to 6 months to complete this testing, and determine the cause of death on a pendin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: randoxtoxicology.com  
-   Link: <a href="https://randoxtoxicology.com/post-mortem-toxicology/" target="_blank" rel="noopener noreferrer nofollow">https://randoxtoxicology.com/post-mortem-toxicology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randox ToxicologyPost-Mortem ToxicologyPost-mortem toxicology, like ante-mortem toxicology, is the legal investigation of specimens for t...</p></details>
+   Link:<a href="https://randoxtoxicology.com/post-mortem-toxicology/" target="_blank" rel="noopener noreferrer nofollow">https://randoxtoxicology.com/post-mortem-toxicology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Randox ToxicologyPost-Mortem ToxicologyPost-mortem toxicology, like ante-mortem toxicology, is the legal investigation of specimens for t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-[white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists connected to space, nuclear, or defense research has rapidly spread online, drawing the attention of right-wing media, Congres...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists has become a matter of national concern, according to Rep. Eric Burlison (R-Mo.), a member of the House Oversight Committee. B...</p></details>
+   Link:<a href="https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/17/us-news/string-of-missing-of-dead-scientists-too-coincidental-congressman-says-as-a-11th-researcher-revealed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists has become a matter of national concern, according to Rep. Eric Burlison (R-Mo.), a member of the House Oversight Committee. B...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEWs utilize focused electromagnetic energy or subatomic particles to disable electronic systems or incapacitate targets. The disclosure...</p></details>
+   Link:<a href="https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/06/tech/pentagon-confirms-existence-of-energy-weapons-allegedly-used-against-ufo-researcher-amy-eskridge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEWs utilize focused electromagnetic energy or subatomic particles to disable electronic systems or incapacitate targets. The disclosure...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalberkshire.nhs.uk  
-   Link: <a href="https://www.royalberkshire.nhs.uk/media/sxilf34n/coroner-s-post-mortem-examination-procedure-guide_jun23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.royalberkshire.nhs.uk/media/sxilf34n/coroner-s-post-mortem-examination-procedure-guide_jun23.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to the Coroner&#x27;s post mortem examination procedureThe purpose of a coronial post mortem is only to ascertain the cause of death a...</p></details>
+   Link:<a href="https://www.royalberkshire.nhs.uk/media/sxilf34n/coroner-s-post-mortem-examination-procedure-guide_jun23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.royalberkshire.nhs.uk/media/sxilf34n/coroner-s-post-mortem-examination-procedure-guide_jun23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to the Coroner&#x27;s post mortem examination procedureThe purpose of a coronial post mortem is only to ascertain the cause of death a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO Scientists; Dead or MissingThese mysterious events have only fueled the fire of public interest in UFOs and alien life. Wha...</p></details>
+   Link:<a href="https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nitishrajpute/posts/americas-ufo-scientists-dead-or-missing/1547550867157050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s UFO Scientists; Dead or MissingThese mysterious events have only fueled the fire of public interest in UFOs and alien life. Wha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXi4slskqz0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXi4slskqz0/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🕵️ &#x27;Who #killed…?&#x27;: Probe deepens into #deaths &amp;...FOX NEWS channel TRUMP DROPS SECOND TROVE OF UFO FILES PENTAGON RELEASES NEW UFO FILE...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXi4slskqz0/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXi4slskqz0/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🕵️ &#x27;Who #killed…?&#x27;: Probe deepens into #deaths &amp;...FOX NEWS channel TRUMP DROPS SECOND TROVE OF UFO FILES PENTAGON RELEASES NEW UFO FILE...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: emgsolicitors.com  
    Title: understanding the coroners inquest process explained by a legal expert  
-   Link: <a href="https://emgsolicitors.com/understanding-the-coroners-inquest-process-explained-by-a-legal-expert/" target="_blank" rel="noopener noreferrer nofollow">https://emgsolicitors.com/understanding-the-coroners-inquest-process-explained-by-a-legal-expert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coroner&#x27;s Inquest Process: Explained by a Legal Expert15 Nov 2023 — Doctors hold a legal duty under the Births and Deaths Registratio...</p></details>
+   Link:<a href="https://emgsolicitors.com/understanding-the-coroners-inquest-process-explained-by-a-legal-expert/" target="_blank" rel="noopener noreferrer nofollow">https://emgsolicitors.com/understanding-the-coroners-inquest-process-explained-by-a-legal-expert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Coroner&#x27;s Inquest Process: Explained by a Legal Expert15 Nov 2023 — Doctors hold a legal duty under the Births and Deaths Registratio...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uofmhealthsparrow.org  
-   Link: <a href="https://www.uofmhealthsparrow.org/departments-conditions/all-departments/office-medical-examiner/medical-examiner-information-families" target="_blank" rel="noopener noreferrer nofollow">https://www.uofmhealthsparrow.org/departments-conditions/all-departments/office-medical-examiner/medical-examiner-information-families</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sometimes, especially with “pending” death certificates, insurance companies and other agencies...Read more...</p></details>
+   Link:<a href="https://www.uofmhealthsparrow.org/departments-conditions/all-departments/office-medical-examiner/medical-examiner-information-families" target="_blank" rel="noopener noreferrer nofollow">https://www.uofmhealthsparrow.org/departments-conditions/all-departments/office-medical-examiner/medical-examiner-information-families</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sometimes, especially with “pending” death certificates, insurance companies and other agencies...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/two-high-level-us-[defence-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/two-high-level-us-[defence-scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force Major General and rocket scientist disappearances spark...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/two-high-level-us-[defence-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/two-high-level-us-[defence-scientists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force Major General and rocket scientist disappearances spark...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sunderlandcoroner.co.uk  
-   Link: <a href="https://www.sunderlandcoroner.co.uk/useful-information/when-a-death-is-reported-to-the-coroner/cause-of-death-is-not-established/" target="_blank" rel="noopener noreferrer nofollow">https://www.sunderlandcoroner.co.uk/useful-information/when-a-death-is-reported-to-the-coroner/cause-of-death-is-not-established/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mortem examination the Coroner&#x27;s investigation will continue.Read more...</p></details>
+   Link:<a href="https://www.sunderlandcoroner.co.uk/useful-information/when-a-death-is-reported-to-the-coroner/cause-of-death-is-not-established/" target="_blank" rel="noopener noreferrer nofollow">https://www.sunderlandcoroner.co.uk/useful-information/when-a-death-is-reported-to-the-coroner/cause-of-death-is-not-established/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mortem examination the Coroner&#x27;s investigation will continue.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/videos/gravitas-the-mystery-over-the-disappearance-or-death-of-11-us-scientists-linked-/1665551911327364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/gravitas-the-mystery-over-the-disappearance-or-death-of-11-us-scientists-linked-/1665551911327364/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s linked to UFO or nuclear research continues to baffle people...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/videos/gravitas-the-mystery-over-the-disappearance-or-death-of-11-us-scientists-linked-/1665551911327364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/gravitas-the-mystery-over-the-disappearance-or-death-of-11-us-scientists-linked-/1665551911327364/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s linked to UFO or nuclear research continues to baffle people...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: funeral.com  
-   Link: <a href="https://funeral.com/blogs/the-journal/why-toxicology-results-take-weeks-after-a-sudden-death-lab-steps-backlogs-and-what-to-expect?srsltid=AfmBOooi5dPumurjXIjb0j5CZP2xrvqJWd8WDeXwlRcB3TNCMKoP35pY" target="_blank" rel="noopener noreferrer nofollow">https://funeral.com/blogs/the-journal/why-toxicology-results-take-weeks-after-a-sudden-death-lab-steps-backlogs-and-what-to-expect?srsltid=AfmBOooi5dPumurjXIjb0j5CZP2xrvqJWd8WDeXwlRcB3TNCMKoP35pY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Toxicology Results Take Weeks After a Sudden Death9 Jan 2026 — In reality, “pending” often simply means officials are waiting to rule...</p></details>
+   Link:<a href="https://funeral.com/blogs/the-journal/why-toxicology-results-take-weeks-after-a-sudden-death-lab-steps-backlogs-and-what-to-expect?srsltid=AfmBOooi5dPumurjXIjb0j5CZP2xrvqJWd8WDeXwlRcB3TNCMKoP35pY" target="_blank" rel="noopener noreferrer nofollow">https://funeral.com/blogs/the-journal/why-toxicology-results-take-weeks-after-a-sudden-death-lab-steps-backlogs-and-what-to-expect?srsltid=AfmBOooi5dPumurjXIjb0j5CZP2xrvqJWd8WDeXwlRcB3TNCMKoP35pY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Toxicology Results Take Weeks After a Sudden Death9 Jan 2026 — In reality, “pending” often simply means officials are waiting to rule...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fox10phoenix.com  
    Title: Here's what to know about toxicology  
-   Link: <a href="https://www.fox10phoenix.com/news/why-do-toxicology-tests-take-so-long-heres-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/why-do-toxicology-tests-take-so-long-heres-what-you-should-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 10 PhoenixWhy do toxicology tests take so long in death investigations...Nov 15, 2023 — People often hear that following a death, re...</p></details>
+   Link:<a href="https://www.fox10phoenix.com/news/why-do-toxicology-tests-take-so-long-heres-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow">https://www.fox10phoenix.com/news/why-do-toxicology-tests-take-so-long-heres-what-you-should-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 10 PhoenixWhy do toxicology tests take so long in death investigations...Nov 15, 2023 — People often hear that following a death, re...</p></details>

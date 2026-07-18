@@ -274,32 +274,32 @@ image: /assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_mis
 
 ## Introduction
 
-The 2026 “missing scientists” story became a revealing test case for how suspicions surrounding sensitive research, national-security [institutions]({{ 'institutions/' | relative_url }}) and UFO-adjacent claims can move from internet speculation into mainstream politics without public evidence demonstrating a coordinated plot. Within weeks, a collection of unrelated deaths, disappearances and tragedies involving people connected in various ways to aerospace, nuclear, defence and scientific organisations was being discussed by federal agencies, members of Congress and the [White House]({{ 'white-house/' | relative_url }}). Yet the central question remained unresolved: was there evidence of a linked campaign targeting scientists, or was the appearance of a pattern being created after the fact? Reporting and official statements consistently showed that public concern and official inquiry were not the same thing as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+The 2026 “missing scientists” story became a revealing test case for how suspicions surrounding sensitive research, national-security [institutions]({{ 'institutions/' | relative_url }}) and UFO-adjacent claims can move from internet speculation into mainstream politics without public evidence demonstrating a coordinated plot. Within weeks, a collection of unrelated deaths, disappearances and tragedies involving people connected in various ways to aerospace, nuclear, defence and scientific organisations was being discussed by federal agencies, members of Congress and the [White House]({{ 'white-house/' | relative_url }}). Yet the central question remained unresolved: was there evidence of a linked campaign targeting scientists, or was the appearance of a pattern being created after the fact? Reporting and official statements consistently showed that public concern and official inquiry were not the same thing as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_missing_scientists_2_ef89cb-Illustration-1-dark.svg" | relative_url }}" alt="2026 Claim illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_missing_scientists_2_ef89cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_sensitive_labs_suspi_9d1294_missing_scientists_2_ef89cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the broader discussion of alleged UFO- or antigravity-related deaths, the episode matters because it demonstrates how secrecy, classified work and incomplete information can amplify suspicions long before investigators establish whether any common cause exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+In the broader discussion of alleged UFO- or antigravity-related deaths, the episode matters because it demonstrates how secrecy, classified work and incomplete information can amplify suspicions long before investigators establish whether any common cause exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
 ## How the Claim Moved from Online Lists into Public Politics
 
-The narrative gained momentum after the February 2026 disappearance of retired U.S. Air Force Major General William “Neil” McCasland, a figure who had worked in military research and whose name carried weight in UFO discussions because of his association with programmes linked to unidentified aerial phenomena. Online commentators quickly connected his disappearance to a growing list of other deaths and missing-person cases involving researchers, engineers, administrators and former officials connected to scientific institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+The narrative gained momentum after the February 2026 disappearance of retired U.S. Air Force Major General William “Neil” McCasland, a figure who had worked in military research and whose name carried weight in UFO discussions because of his association with programmes linked to unidentified aerial phenomena. Online commentators quickly connected his disappearance to a growing list of other deaths and missing-person cases involving researchers, engineers, administrators and former officials connected to scientific institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
-What made the story unusual was not merely that speculation spread online. Similar claims appear regularly around classified programmes. The unusual development was that the narrative crossed into formal political discussion. Members of [Congress]({{ 'congress/' | relative_url }}) requested information from federal agencies, and public questions directed at President Donald Trump helped elevate the issue into national news coverage. The House Committee on Oversight and Government Reform explicitly sought information regarding reports that individuals with access to sensitive scientific or technical information had died or disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
+What made the story unusual was not merely that speculation spread online. Similar claims appear regularly around classified programmes. The unusual development was that the narrative crossed into formal political discussion. Members of [Congress]({{ 'congress/' | relative_url }}) requested information from federal agencies, and public questions directed at President Donald Trump helped elevate the issue into national news coverage. The House Committee on Oversight and Government Reform explicitly sought information regarding reports that individuals with access to sensitive scientific or technical information had died or disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
 
-As media attention increased, the story acquired an appearance of credibility that often accompanies government involvement. For many observers, the fact that Congress and federal investigators were asking questions seemed to validate the underlying theory. Yet the official requests themselves were largely responses to public reports and concerns rather than announcements that evidence of a conspiracy had been discovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
+As media attention increased, the story acquired an appearance of credibility that often accompanies government involvement. For many observers, the fact that Congress and federal investigators were asking questions seemed to validate the underlying theory. Yet the official requests themselves were largely responses to public reports and concerns rather than announcements that evidence of a conspiracy had been discovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ueN8t1RoBeo" title="Congress asks for briefings on missing and dead scientists: What we know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ueN8t1RoBeo" target="_blank" rel="noopener noreferrer">Congress asks for briefings on missing and dead scientists: What we know</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ueN8t1RoBeo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ueN8t1RoBeo">Open on YouTube</a></p></div></div></div>
 
 ## What Reporting Found About Possible Links and Weak Assumptions
 
-A closer examination of the cases revealed a much more complicated picture than the simplified online narrative suggested. The individuals grouped together were not all scientists in the same sense, nor were they connected by a common employer, project or field of research. [The list]({{ 'the-list/' | relative_url }}) included people associated with [aerospace]({{ 'aerospace/' | relative_url }}) work, nuclear facilities, academic research, laboratory administration and military programmes. Their deaths and disappearances occurred over several years rather than within a single concentrated period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+A closer examination of the cases revealed a much more complicated picture than the simplified online narrative suggested. The individuals grouped together were not all scientists in the same sense, nor were they connected by a common employer, project or field of research. [The list]({{ 'the-list/' | relative_url }}) included people associated with [aerospace]({{ 'aerospace/' | relative_url }}) work, nuclear facilities, academic research, laboratory administration and military programmes. Their deaths and disappearances occurred over several years rather than within a single concentrated period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-Investigative reporting repeatedly found that many of the individual cases already had known or partially understood circumstances. Some involved apparent suicides, some involved criminal investigations with identifiable suspects, some involved missing-person cases and others involved deaths from causes unrelated to [espionage]({{ 'espionage/' | relative_url }}) or classified research. Journalists from multiple outlets reported that experts could not identify a clear evidentiary thread connecting the incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</span></span></span>
+Investigative reporting repeatedly found that many of the individual cases already had known or partially understood circumstances. Some involved apparent suicides, some involved criminal investigations with identifiable suspects, some involved missing-person cases and others involved deaths from causes unrelated to [espionage]({{ 'espionage/' | relative_url }}) or classified research. Journalists from multiple outlets reported that experts could not identify a clear evidentiary thread connecting the incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">deaths disappearances scientists staff government labs</span><span class="citation-popover-snippet">CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</span></span></span>
 
-One recurring weakness in the conspiracy narrative was the assumption that any connection to a sensitive institution automatically implied access to extraordinary secrets. Reporting found examples where individuals were portrayed online as central figures in highly classified programmes even though their actual roles were administrative, peripheral or long removed from active clearance-holding positions. The case of Melissa Casias, a [Los Alamos]({{ 'los-alamos/' | relative_url }}) employee whose disappearance became part of the broader narrative, illustrates how limited public information can encourage speculation that outruns verified facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+One recurring weakness in the conspiracy narrative was the assumption that any connection to a sensitive institution automatically implied access to extraordinary secrets. Reporting found examples where individuals were portrayed online as central figures in highly classified programmes even though their actual roles were administrative, peripheral or long removed from active clearance-holding positions. The case of Melissa Casias, a [Los Alamos]({{ 'los-alamos/' | relative_url }}) employee whose disappearance became part of the broader narrative, illustrates how limited public information can encourage speculation that outruns verified facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
-The same pattern appeared in discussion of McCasland. His wife publicly rejected suggestions that he possessed unique hidden knowledge that would make him a likely target, noting that his active involvement with classified programmes had ended many years earlier. Local authorities likewise stated that they had found no evidence indicating foul play at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+The same pattern appeared in discussion of McCasland. His wife publicly rejected suggestions that he possessed unique hidden knowledge that would make him a likely target, noting that his active involvement with classified programmes had ended many years earlier. Local authorities likewise stated that they had found no evidence indicating foul play at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dDQ-IqnT0" title="UFOs and missing scientists: Are conspiracy theories mainstream? | Two Blocks from the White House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer">UFOs and missing scientists: Are conspiracy theories mainstream? | Two Blocks from the White House</a></p><p class="youtube-embed-meta">Channel: CBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dDQ-IqnT0">Open on YouTube</a></p></div></div></div>
@@ -308,21 +308,21 @@ The same pattern appeared in discussion of McCasland. His wife publicly rejected
 
 The story resonated because it sat at the intersection of three powerful themes: classified research, national security and UFO speculation.
 
-When a person is associated with a nuclear laboratory, aerospace programme or defence project, the public often lacks enough information to judge what that individual actually did. This information gap allows assumptions to flourish. A routine scientist, an administrator, a contractor and a programme manager can all be described online as people with access to “sensitive secrets”, even though their responsibilities may have differed dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+When a person is associated with a nuclear laboratory, aerospace programme or defence project, the public often lacks enough information to judge what that individual actually did. This information gap allows assumptions to flourish. A routine scientist, an administrator, a contractor and a programme manager can all be described online as people with access to “sensitive secrets”, even though their responsibilities may have differed dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
-The UFO dimension amplified the effect. Online discussions frequently linked the cases not only to nuclear or aerospace work but also to alleged knowledge of exotic propulsion, recovered technology or hidden government programmes. Yet reporting found little evidence that these alleged connections were supported by documentation. In many cases, the [UFO link]({{ 'ufo-link/' | relative_url }}) emerged after the deaths or disappearances had already become subjects of internet speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+The UFO dimension amplified the effect. Online discussions frequently linked the cases not only to nuclear or aerospace work but also to alleged knowledge of exotic propulsion, recovered technology or hidden government programmes. Yet reporting found little evidence that these alleged connections were supported by documentation. In many cases, the [UFO link]({{ 'ufo-link/' | relative_url }}) emerged after the deaths or disappearances had already become subjects of internet speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
-This is why the episode became a useful “rumour test”. It showed how a collection of genuine tragedies can be reorganised into a single narrative simply because each case contains one broadly similar element—some connection, however indirect, to a sensitive institution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+This is why the episode became a useful “rumour test”. It showed how a collection of genuine tragedies can be reorganised into a single narrative simply because each case contains one broadly similar element—some connection, however indirect, to a sensitive institution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
 ## Why Official Interest Was Not the Same as Proof
 
 Perhaps the most important lesson from the 2026 episode is that investigation and evidence are different things.
 
-Federal agencies and congressional committees have legitimate reasons to examine reports involving personnel connected to sensitive scientific work. If there were even a small possibility that foreign intelligence services or other hostile actors were targeting such individuals, officials would be expected to assess the risk. That explains why agencies sought information and why the FBI became involved in reviewing possible connections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
+Federal agencies and congressional committees have legitimate reasons to examine reports involving personnel connected to sensitive scientific work. If there were even a small possibility that foreign intelligence services or other hostile actors were targeting such individuals, officials would be expected to assess the risk. That explains why agencies sought information and why the FBI became involved in reviewing possible connections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</span></span></span>
 
-However, the existence of an inquiry does not establish that a conspiracy exists. In fact, several experts quoted during the controversy argued that the available evidence pointed in the opposite direction. They noted that the cases involved different locations, different causes, different time periods and different professional backgrounds. Multiple journalists and researchers concluded that no publicly demonstrated common mechanism linked them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
+However, the existence of an inquiry does not establish that a conspiracy exists. In fact, several experts quoted during the controversy argued that the available evidence pointed in the opposite direction. They noted that the cases involved different locations, different causes, different time periods and different professional backgrounds. Multiple journalists and researchers concluded that no publicly demonstrated common mechanism linked them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missing scientists conspiracy theory</span><span class="citation-popover-snippet">Missing scientists conspiracy theory</span></span></span>
 
-Even some officials and former national-security figures who regarded the cases as worthy of review cautioned against assuming a single explanation. Former senior nuclear-security official Frank Rose argued that investigators would likely uncover unusual details in individual cases but not necessarily a connection tying them all together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
+Even some officials and former national-security figures who regarded the cases as worthy of review cautioned against assuming a single explanation. Former senior nuclear-security official Frank Rose argued that investigators would likely uncover unusual details in individual cases but not necessarily a connection tying them all together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y6qt_Us8x0o" title="Missing scientists: Body found, new timelines &amp; more updates | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer">Missing scientists: Body found, new timelines &amp; more updates | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y6qt_Us8x0o">Open on YouTube</a></p></div></div></div>
@@ -331,199 +331,199 @@ Even some officials and former national-security figures who regarded the cases 
 
 For readers interested in claims about UFO research, advanced propulsion or alleged antigravity programmes, the significance of the 2026 missing-scientists controversy lies less in what it proved than in what it revealed about information dynamics.
 
-The episode demonstrated how secrecy creates fertile ground for pattern-building. Once a list of names is assembled and attached to a dramatic explanation, ordinary uncertainties can begin to look like evidence of coordination. Public concern can become politically important, prompting investigations and official statements. Yet those developments can occur before any verified evidence establishes that the underlying theory is correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+The episode demonstrated how secrecy creates fertile ground for pattern-building. Once a list of names is assembled and attached to a dramatic explanation, ordinary uncertainties can begin to look like evidence of coordination. Public concern can become politically important, prompting investigations and official statements. Yet those developments can occur before any verified evidence establishes that the underlying theory is correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How conspiracy theories about missing or dead scientists</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
-In that sense, the 2026 claim serves as a cautionary example within the wider discussion of suspicious deaths allegedly connected to UFOs or advanced technology. The story showed how rapidly suspicion can travel from online forums to national institutions, while the evidentiary foundation remains incomplete, disputed or entirely unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+In that sense, the 2026 claim serves as a cautionary example within the wider discussion of suspicious deaths allegedly connected to UFOs or advanced technology. The story showed how rapidly suspicion can travel from online forums to national institutions, while the evidentiary foundation remains incomplete, disputed or entirely unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Missing Scientists Story Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Missing Scientists Story Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers distinguish documented official interest and witness testimony from stronger claims that lack evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish documented official interest and witness testimony from stronger claims that lack evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Closely matches themes of alleged cover-ups, government involvement and the difficulty of separating fact from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches themes of alleged cover-ups, government involvement and the difficulty of separating fact from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how secrecy, technology narratives and belief systems shape UFO-related discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how secrecy, technology narratives and belief systems shape UFO-related discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how patterns, rumors and extraordinary claims can spread without sufficient evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how patterns, rumors and extraordinary claims can spread without sufficient evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="2026-claim-ad2f61-what-the-missing-scientists-story-really-shows-ufo-and-antigravity-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-missing-scientists-story-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-the-missing-scientists-story-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,112 +729,112 @@ In that sense, the 2026 claim serves as a cautionary example within the wider di
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: comer burlison seek information on missing nuclear and rocket scientists  
-   Link: <a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</p></details>
+   Link:<a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeComer &amp; Burlison Seek Information on Missing Nuclear and...20 Apr 2026 — WASHINGTON—House Committee on Oversigh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Missing scientists conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missing_scientists_conspiracy_theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: snopes.com  
    Title: scientists dead missing  
-   Link: <a href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/news/2026/04/28/scientists-dead-missing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — A string of so-called &quot;mysterious deaths and disappearances&quot;...</p></details>
+   Link:<a href="https://www.snopes.com/news/2026/04/28/scientists-dead-missing/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/news/2026/04/28/scientists-dead-missing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did 11 US scientists connected to sensitive research die or...28 Apr 2026 — A string of so-called &quot;mysterious deaths and disappearances&quot;...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apnews.com  
    Title: AP News How conspiracy theories about missing or dead scientists  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...April 24, 2026 — 24 Apr 2026 — The deaths and disappearances in questi...</p></details>
    Published: April 24, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsFBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with t...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishMissing and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her remains were discovered by a hiker on May 28, 2026, in the McGaffey Ridge area of Carson National Forest, about six miles from her ho...</p></details>
    Published: May 28, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
+   Link:<a href="https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/18/us-news/former-top-nuclear-official-says-feds-likely-to-uncover-crazy-stuff-about-11-missing-or-dead-scientists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear official, Frank Rose, has commented on the ongoing federal investigation into the mysterious disappearances and deaths of 11 scie...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/how-a-fringe-conspiracy-theory-about-missing-scientists-got-the-fbis-attention-d61de97c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case of Melissa Casias, a New Mexico administrative assistant gone missing, became a flashpoint, with internet theorists linking her...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Ten scientists who are missing or dead have connections  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ten-scientists-who-are-missing-or-dead-have-connections-to-government-research/975323204874697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ten-scientists-who-are-missing-or-dead-have-connections-to-government-research/975323204874697/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no reason listed for the deaths. The rest have died or disappeared under TRUMPS watch in 2025 or 2026. It sure appears that your governme...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/ten-scientists-who-are-missing-or-dead-have-connections-to-government-research/975323204874697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ten-scientists-who-are-missing-or-dead-have-connections-to-government-research/975323204874697/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no reason listed for the deaths. The rest have died or disappeared under TRUMPS watch in 2025 or 2026. It sure appears that your governme...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: axios.com  
    Title: missing scientists space nuclear congress investigating  
-   Link: <a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about the missing scientists alarming Congress23 Apr 2026 — The disappearances and deaths of at least 10 scientists, researc...</p></details>
+   Link:<a href="https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2026/04/23/missing-scientists-space-nuclear-congress-investigating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about the missing scientists alarming Congress23 Apr 2026 — The disappearances and deaths of at least 10 scientists, researc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-number-of-scientists-with-connections-to-government-research-have-disappeared-/975283981545286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-number-of-scientists-with-connections-to-government-research-have-disappeared-/975283981545286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>raising questions about links in the cases...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-number-of-scientists-with-connections-to-government-research-have-disappeared-/975283981545286/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-number-of-scientists-with-connections-to-government-research-have-disappeared-/975283981545286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>raising questions about links in the cases...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ueN8t1RoBeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ueN8t1RoBeo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o arrange briefings on reports of ten scientists with access to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ueN8t1RoBeo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ueN8t1RoBeo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o arrange briefings on reports of ten scientists with access to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Missing scientists: Body found, new timelines & more updates  
-   Link: <a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y6qt_Us8x0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y6qt_Us8x0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y6qt_Us8x0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Missing scientists: FBI probes 11 missing or dead nuclear scientists  
-   Link: <a href="https://www.youtube.com/watch?v=nukN1ooaNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nukN1ooaNik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nukN1ooaNik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nukN1ooaNik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: Body found, new timelines &amp; more updates...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: The FBI has now  
-   Link: <a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN on Instagram: &quot;A federal investigation is underway after...More than two dozen scientists tied to classified space and defense progr...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXiSz2cD-js/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiSz2cD-js/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN on Instagram: &quot;A federal investigation is underway after...More than two dozen scientists tied to classified space and defense progr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFOs and missing scientists: Are conspiracy theories mainstream?  
-   Link: <a href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dDQ-IqnT0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General Tied to UFO Secrets Vanishes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dDQ-IqnT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dDQ-IqnT0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force General Tied to UFO Secrets Vanishes...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Air Force General Tied to UFO Secrets Vanishes  
-   Link: <a href="https://www.youtube.com/watch?v=4QyFzjixqZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4QyFzjixqZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: FBI probes 11 missing or dead nuclear scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4QyFzjixqZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4QyFzjixqZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing scientists: FBI probes 11 missing or dead nuclear scientists...</p></details>

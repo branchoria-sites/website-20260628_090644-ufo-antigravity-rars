@@ -280,19 +280,19 @@ image: /assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_nega
 
 ## Introduction
 
-Negative energy is one of the most frequently misunderstood ideas in antigravity lore. In the DIA's *Antigravity for [Aerospace]({{ 'aerospace/' | relative_url }}) Applications* paper, negative energy appears not as a proven propulsion technology but as a theoretical ingredient that emerges in certain solutions of general relativity involving spacetime manipulation. The paper discusses it because concepts such as warp drives, traversable wormholes and gravity control often require forms of matter or energy that behave in ways unlike anything found in ordinary engineering. At the same time, the document repeatedly highlights the immense practical barriers involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+Negative energy is one of the most frequently misunderstood ideas in antigravity lore. In the DIA's *Antigravity for [Aerospace]({{ 'aerospace/' | relative_url }}) Applications* paper, negative energy appears not as a proven propulsion technology but as a theoretical ingredient that emerges in certain solutions of general relativity involving spacetime manipulation. The paper discusses it because concepts such as warp drives, traversable wormholes and gravity control often require forms of matter or energy that behave in ways unlike anything found in ordinary engineering. At the same time, the document repeatedly highlights the immense practical barriers involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-1-dark.svg" | relative_url }}" alt="Negative Energy illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is important because online discussions often compress several separate ideas into one narrative: a tiny quantum effect is observed in a laboratory, negative energy is mentioned in a theoretical paper, and the result is interpreted as evidence that antigravity vehicles may be achievable. The actual scientific literature is far more cautious. Negative energy is a mathematical and physical concept with limited experimental manifestations, and no demonstrated path exists from those manifestations to spacecraft-scale gravity control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+This distinction is important because online discussions often compress several separate ideas into one narrative: a tiny quantum effect is observed in a laboratory, negative energy is mentioned in a theoretical paper, and the result is interpreted as evidence that antigravity vehicles may be achievable. The actual scientific literature is far more cautious. Negative energy is a mathematical and physical concept with limited experimental manifestations, and no demonstrated path exists from those manifestations to spacecraft-scale gravity control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 ## What Negative Energy Means in the Paper
 
-The [DIA document]({{ 'dia-document/' | relative_url }}) discusses negative energy primarily through quantum vacuum phenomena and their possible relationship to gravitation. One example is the Casimir effect, a well-known quantum phenomenon in which two closely spaced conducting plates alter the vacuum state between them. Under certain descriptions, the region between the plates can be characterised as having a lower energy density than the surrounding vacuum. The document notes that this effect can be represented mathematically as a form of negative energy density and negative pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The [DIA document]({{ 'dia-document/' | relative_url }}) discusses negative energy primarily through quantum vacuum phenomena and their possible relationship to gravitation. One example is the Casimir effect, a well-known quantum phenomenon in which two closely spaced conducting plates alter the vacuum state between them. Under certain descriptions, the region between the plates can be characterised as having a lower energy density than the surrounding vacuum. The document notes that this effect can be represented mathematically as a form of negative energy density and negative pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
-In antigravity discussions, this matters because Einstein's equations connect energy and momentum to the curvature of spacetime. If ordinary positive energy bends spacetime one way, then sufficiently exotic negative energy could, in principle, bend it in the opposite direction. This possibility led theorists to explore whether negative energy might support structures such as traversable wormholes or warp-drive geometries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[Inspire+2Inspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</span></span></span>
+In antigravity discussions, this matters because Einstein's equations connect energy and momentum to the curvature of spacetime. If ordinary positive energy bends spacetime one way, then sufficiently exotic negative energy could, in principle, bend it in the opposite direction. This possibility led theorists to explore whether negative energy might support structures such as traversable wormholes or warp-drive geometries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[Inspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</span></span></span>
 
-The crucial point is that the paper treats this as a theoretical avenue rather than an engineering capability. The existence of mathematical solutions requiring negative energy does not imply that nature provides usable quantities of it, nor that humans can generate, store or manipulate it on demand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The crucial point is that the paper treats this as a theoretical avenue rather than an engineering capability. The existence of mathematical solutions requiring negative energy does not imply that nature provides usable quantities of it, nor that humans can generate, store or manipulate it on demand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QOan2sFDrD8" title="Antigravity for Aerospace Applications" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QOan2sFDrD8" target="_blank" rel="noopener noreferrer">Antigravity for Aerospace Applications</a></p><p class="youtube-embed-meta">Channel: Gilad James Mystery School</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QOan2sFDrD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QOan2sFDrD8">Open on YouTube</a></p></div></div></div>
@@ -301,11 +301,11 @@ The crucial point is that the paper treats this as a theoretical avenue rather t
 
 A recurring misunderstanding in antigravity lore is the assumption that because negative-energy-like effects appear in quantum physics, they merely need to be "scaled up" to produce levitating vehicles or gravity-defying propulsion.
 
-The Casimir effect is often presented as evidence for this leap. However, physicists have long noted that the effect is extraordinarily small. The vacuum-energy modification between laboratory plates is measurable, but the amount of energy involved is tiny compared with the mass-energy of the apparatus itself. Even advocates of speculative vacuum-based propulsion concepts acknowledge that the effect is extremely weak as an energy resource. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Can the Vacuum Drive Fuel-Free Propulsion?</span><span class="citation-popover-snippet">Can the Vacuum Drive Fuel-Free Propulsion? - Avi LoebMay 5, 2026 — The Casimir force is extremely weak. It is obvious that the rest...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+The Casimir effect is often presented as evidence for this leap. However, physicists have long noted that the effect is extraordinarily small. The vacuum-energy modification between laboratory plates is measurable, but the amount of energy involved is tiny compared with the mass-energy of the apparatus itself. Even advocates of speculative vacuum-based propulsion concepts acknowledge that the effect is extremely weak as an energy resource.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Can the Vacuum Drive Fuel-Free Propulsion?</span><span class="citation-popover-snippet">Can the Vacuum Drive Fuel-Free Propulsion? - Avi LoebMay 5, 2026 — The Casimir force is extremely weak. It is obvious that the rest...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
-Theoretical studies of warp drives and wormholes make the scaling problem even more severe. Classic analyses found that the negative energy requirements for maintaining a warp bubble or stabilising a traversable wormhole are enormous and subject to stringent quantum constraints. Research by Ford, Pfenning and others concluded that the required negative energy would have to be concentrated in extraordinarily thin regions and in quantities far beyond any known capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From this we are able to...Read more...</span></span></span>
+Theoretical studies of warp drives and wormholes make the scaling problem even more severe. Classic analyses found that the negative energy requirements for maintaining a warp bubble or stabilising a traversable wormhole are enormous and subject to stringent quantum constraints. Research by Ford, Pfenning and others concluded that the required negative energy would have to be concentrated in extraordinarily thin regions and in quantities far beyond any known capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From this we are able to...Read more...</span></span></span>
 
-As a result, the existence of a microscopic quantum effect does not provide a straightforward path to macroscopic antigravity. The gap between observing negative-energy phenomena and building a gravity-control vehicle is not an engineering detail; it is the central unsolved problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From this we are able to...Read more...</span></span></span>
+As a result, the existence of a microscopic quantum effect does not provide a straightforward path to macroscopic antigravity. The gap between observing negative-energy phenomena and building a gravity-control vehicle is not an engineering detail; it is the central unsolved problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">From this we are able to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-2-dark.svg" | relative_url }}" alt="Negative Energy illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_dia_antigravity_doc_f603c7_negative_energy_lore_e91bf9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ As a result, the existence of a microscopic quantum effect does not provide a st
 
 Negative energy became deeply embedded in antigravity culture because some of the most famous spacetime-engineering proposals appear to require it.
 
-The 1994 Alcubierre warp-drive concept showed that Einstein's equations permit a geometry in which space contracts ahead of a vehicle and expands behind it. However, the original proposal required regions of negative energy density. Subsequent analyses repeatedly found that physically reasonable warp-drive models violate standard energy conditions and therefore depend on exotic forms of matter or energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alcubierre_drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2link.aps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alcubierre drive</span><span class="citation-popover-snippet">April 24, 2026 — The Alcubierre drive is a speculative warp drive idea according to which a spacecraft could achieve apparent faster-than...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
+The 1994 Alcubierre warp-drive concept showed that Einstein's equations permit a geometry in which space contracts ahead of a vehicle and expands behind it. However, the original proposal required regions of negative energy density. Subsequent analyses repeatedly found that physically reasonable warp-drive models violate standard energy conditions and therefore depend on exotic forms of matter or energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alcubierre_drive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alcubierre drive</span><span class="citation-popover-snippet">April 24, 2026 — The Alcubierre drive is a speculative warp drive idea according to which a spacecraft could achieve apparent faster-than...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>
 
-Traversable wormholes face a similar issue. In conventional general relativity, keeping a wormhole throat open typically requires matter that violates the null energy condition, often described as exotic matter with negative energy density. This requirement became a cornerstone of both scientific discussions and science-fiction portrayals of advanced propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[Inspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</span></span></span>
+Traversable wormholes face a similar issue. In conventional general relativity, keeping a wormhole throat open typically requires matter that violates the null energy condition, often described as exotic matter with negative energy density. This requirement became a cornerstone of both scientific discussions and science-fiction portrayals of advanced propulsion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[Inspire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</span></span></span>
 
-Because these ideas are mathematically respectable and frequently discussed by professional physicists, they are often cited in [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) circles as evidence that gravity control is theoretically validated. What is frequently omitted is that the same literature spends equal or greater effort explaining why the required energy conditions appear extraordinarily difficult to realise in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/1600648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[Inspire+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireWormholes, Warp Drives and Energy Conditionsby FSN Lobo · 2017 · Cited by 232 — Top researchers in the field of gravitation presen...</span></span></span>
+Because these ideas are mathematically respectable and frequently discussed by professional physicists, they are often cited in [UFO and antigravity]({{ 'ufo-and-antigravity/' | relative_url }}) circles as evidence that gravity control is theoretically validated. What is frequently omitted is that the same literature spends equal or greater effort explaining why the required energy conditions appear extraordinarily difficult to realise in practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/literature/1600648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[inspirehep.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">InspireWormholes, Warp Drives and Energy Conditionsby FSN Lobo · 2017 · Cited by 232 — Top researchers in the field of gravitation presen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6AbyOjgsA28" title="Breakthrough: Scientists Bring Warp Drive Closer than You Think!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6AbyOjgsA28" target="_blank" rel="noopener noreferrer">Breakthrough: Scientists Bring Warp Drive Closer than You Think!</a></p><p class="youtube-embed-meta">Channel: TheSimplySpace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6AbyOjgsA28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6AbyOjgsA28">Open on YouTube</a></p></div></div></div>
@@ -326,13 +326,13 @@ Because these ideas are mathematically respectable and frequently discussed by p
 
 The DIA antigravity document is particularly vulnerable to overinterpretation because it combines official government sponsorship with exotic theoretical physics. Readers sometimes encounter isolated references to negative energy, exotic matter or vacuum engineering and assume that the government was studying technologies already close to deployment.
 
-The document itself does not support that conclusion. Its discussion of negative energy is embedded within broader assessments of theoretical possibilities and limiting factors. The paper surveys what might be required for gravity manipulation, not what has been achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+The document itself does not support that conclusion. Its discussion of negative energy is embedded within broader assessments of theoretical possibilities and limiting factors. The paper surveys what might be required for gravity manipulation, not what has been achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 Three common distortions appear repeatedly in online retellings:
 
 * **Theoretical possibility becomes practical feasibility.** A mathematical solution in general relativity is treated as a prototype design.
 * **Laboratory observation becomes engineering capability.** The existence of tiny negative-energy effects is presented as proof that large-scale versions are attainable.
-* **Research interest becomes evidence of success.** The fact that a defence-funded study examined an idea is interpreted as evidence that the idea works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+* **Research interest becomes evidence of success.** The fact that a defence-funded study examined an idea is interpreted as evidence that the idea works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 These shifts are subtle but important. They transform a speculative research topic into a narrative about hidden breakthroughs, which then feeds broader claims about secret propulsion systems, recovered UFO technology or suppressed discoveries.
 
@@ -342,203 +342,203 @@ These shifts are subtle but important. They transform a speculative research top
 
 The most defensible lesson from the negative-energy discussion is not that antigravity has been achieved, but that modern physics contains a small number of intriguing mechanisms that challenge intuitive ideas about energy and gravity.
 
-Negative energy remains scientifically interesting because it appears in rigorous theoretical work on spacetime geometry, quantum fields and gravitational physics. Researchers continue to investigate its implications, including whether modified gravity theories might reduce or avoid some of the traditional exotic-matter requirements. Yet no experiment has demonstrated controllable negative energy on scales remotely relevant to aerospace propulsion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generic warp drives violate the null energy condition</span><span class="citation-popover-snippet">arXiv Generic warp drives violate the null energy condition</span></span></span>
+Negative energy remains scientifically interesting because it appears in rigorous theoretical work on spacetime geometry, quantum fields and gravitational physics. Researchers continue to investigate its implications, including whether modified gravity theories might reduce or avoid some of the traditional exotic-matter requirements. Yet no experiment has demonstrated controllable negative energy on scales remotely relevant to aerospace propulsion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generic warp drives violate the null energy condition</span><span class="citation-popover-snippet">arXiv Generic warp drives violate the null energy condition</span></span></span>
 
-Within the context of the DIA antigravity document, negative energy is best understood as a theoretical prerequisite that highlights the difficulty of gravity control rather than a hidden shortcut to it. The paper's significance lies in showing how far researchers were willing to explore speculative possibilities—not in demonstrating that the underlying obstacles had been overcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
+Within the context of the DIA antigravity document, negative energy is best understood as a theoretical prerequisite that highlights the difficulty of gravity control rather than a hidden shortcut to it. The paper's significance lies in showing how far researchers were willing to explore speculative possibilities—not in demonstrating that the underlying obstacles had been overcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">Defense Intelligence Agency Antigravity for Aerospace Applications</span><span class="citation-popover-snippet">Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</span><span class="citation-popover-meta">Published: March 4, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SBBWJ_c8piM" title="What&#x27;s Stopping Us From Building a Warp Drive?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SBBWJ_c8piM" target="_blank" rel="noopener noreferrer">What&#x27;s Stopping Us From Building a Warp Drive?</a></p><p class="youtube-embed-meta">Channel: Cool Worlds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SBBWJ_c8piM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SBBWJ_c8piM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Negative Energy Sounds More Useful Than It Is. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Negative Energy Sounds More Useful Than It Is. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Physics of Star Trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kHLNDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Physics of Star Trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Krauss, Lawrence M. Krauss</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Physics of Star Trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kHLNDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Physics of Star Trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
+</h4>
+<p class="fr-book-author">By Lawrence Krauss, Lawrence M. Krauss</p>
         
-        <p class="fr-book-desc">Explains why ideas such as warp drives and exotic energy requirements face severe physical constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why ideas such as warp drives and exotic energy requirements face severe physical constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek+by+Lawrence+Krauss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YmGxbPHFO_EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Brief History of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Time">A Brief History of Time</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Hawking</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides accessible background on cosmology, relativity, black holes, and the limits of speculative spacetime concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YmGxbPHFO_EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Brief History of Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Time">A Brief History of Time</a>
+</h4>
+<p class="fr-book-author">By Stephen Hawking</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides accessible background on cosmology, relativity, black holes, and the limits of speculative spacetime concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+by+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fabric of the Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43SPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fabric of the Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fabric of the Cosmos">The Fabric of the Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Brian Greene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fabric of the Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43SPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fabric of the Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fabric of the Cosmos">The Fabric of the Cosmos</a>
+</h4>
+<p class="fr-book-author">By Brian Greene</p>
         
-        <p class="fr-book-desc">Discusses spacetime, quantum phenomena, and theoretical ideas often invoked in discussions of negative energy and warp concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses spacetime, quantum phenomena, and theoretical ideas often invoked in discussions of negative energy and warp concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+by+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Warped Passages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MegDPxPmBMwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Warped Passages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Warped Passages">Warped Passages</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Randall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Warped Passages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MegDPxPmBMwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Warped Passages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Warped Passages">Warped Passages</a>
+</h4>
+<p class="fr-book-author">By Lisa Randall</p>
         
-        <p class="fr-book-desc">Helps readers understand how speculative gravitational theories differ from demonstrated engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how speculative gravitational theories differ from demonstrated engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Physics of Star Trek</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fabric of the Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Physics of Star Trek</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Time</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fabric of the Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="negative-energy-why-negative-energy-sounds-more-useful-than-it-is-ufo-and-antigravity-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-negative-energy-sounds-more-useful-than-it-is-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-negative-energy-sounds-more-useful-than-it-is-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Within the context of the DIA antigravity document, negative energy is best unde
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Within the context of the DIA antigravity document, negative energy is best unde
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Within the context of the DIA antigravity document, negative energy is best unde
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Within the context of the DIA antigravity document, negative energy is best unde
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Within the context of the DIA antigravity document, negative energy is best unde
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,158 +744,158 @@ Within the context of the DIA antigravity document, negative energy is best unde
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency Antigravity for Aerospace Applications  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAntigravity for Aerospace ApplicationsMarch 4, 2022 — 30 Mar 2010 — (C),,,, encodes the Casimir Effect which h...</p></details>
    Published: March 4, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyQuantum Tomography of Negative Energy States in the...11 Jan 2011 — Exotic matter is generally defined by gen...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyQuantum Tomography of Negative Energy States in the...11 Jan 2011 — Exotic matter is generally defined by gen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From this we are able to...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231127461_The_unphysical_nature_of_warp_drive%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From this we are able to...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Generic warp drives violate the null energy condition  
-   Link: <a href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.03079</a>  
+   Link:<a href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.03079</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/0710.4474" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/0710.4474</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>0710.4474v1 [gr-qc] 24 Oct 2007by FSN Lobo · 2007 · Cited by 166 — More precisely, superluminal effects are associated with the pre...</p></details>
+   Link:<a href="https://arxiv.org/pdf/0710.4474" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/0710.4474</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0710.4474v1 [gr-qc] 24 Oct 2007by FSN Lobo · 2007 · Cited by 166 — More precisely, superluminal effects are associated with the pre...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: avi-loeb.medium.com  
    Title: Can the Vacuum Drive Fuel-Free Propulsion?  
-   Link: <a href="https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Vacuum Drive Fuel-Free Propulsion? - Avi LoebMay 5, 2026 — The Casimir force is extremely weak. It is obvious that the rest...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/can-the-vacuum-drive-fuel-free-propulsion-e4983a86419c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Vacuum Drive Fuel-Free Propulsion? - Avi LoebMay 5, 2026 — The Casimir force is extremely weak. It is obvious that the rest...</p></details>
    Published: May 5, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Alcubierre drive  
-   Link: <a href="https://en.wikipedia.org/wiki/Alcubierre_drive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alcubierre_drive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2026 — The Alcubierre drive is a speculative warp drive idea according to which a spacecraft could achieve apparent faster-than...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Alcubierre_drive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alcubierre_drive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2026 — The Alcubierre drive is a speculative warp drive idea according to which a spacecraft could achieve apparent faster-than...</p></details>
    Published: April 24, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevD.105.064038" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevD.105.064038</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generic warp drives violate the null energy conditionby J Santiago · 2022 · Cited by 64 — Lobo, Wormholes, warp drives and energy conditi...</p></details>
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevD.105.064038" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevD.105.064038</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Generic warp drives violate the null energy conditionby J Santiago · 2022 · Cited by 64 — Lobo, Wormholes, warp drives and energy conditi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
    Title: news050124 8  
-   Link: <a href="https://www.nature.com/articles/news050124-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news050124-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity has feet of clay26 Jan 2005 — Space agency report is a downer for gravity-control researchers...</p></details>
+   Link:<a href="https://www.nature.com/articles/news050124-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/news050124-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity has feet of clay26 Jan 2005 — Space agency report is a downer for gravity-control researchers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.17498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.17498</a>  
+   Link:<a href="https://arxiv.org/abs/2402.17498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.17498</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: (PDF) Exotic Matter: Theoretical Foundations and Potential  
-   Link: <a href="https://www.researchgate.net/publication/392193279_Exotic_Matter_Theoretical_Foundations_and_Potential_Applications_in_Modern_Physics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392193279_Exotic_Matter_Theoretical_Foundations_and_Potential_Applications_in_Modern_Physics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2025 — exotic matter violates these energy conditions primarily because it permits negative energy densities, negative · not obse...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392193279_Exotic_Matter_Theoretical_Foundations_and_Potential_Applications_in_Modern_Physics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392193279_Exotic_Matter_Theoretical_Foundations_and_Potential_Applications_in_Modern_Physics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2025 — exotic matter violates these energy conditions primarily because it permits negative energy densities, negative · not obse...</p></details>
    Published: May 29, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/305620857_WWAT_Warp_Drives_Wormholes_Antigravity_and_Time_Travel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305620857_WWAT_Warp_Drives_Wormholes_Antigravity_and_Time_Travel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WWAT: Warp Drives, Wormholes, Antigravity and Time TravelThis concept proposes warping spacetime to create a &quot;bubble&quot; around a spacecraft...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/305620857_WWAT_Warp_Drives_Wormholes_Antigravity_and_Time_Travel" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305620857_WWAT_Warp_Drives_Wormholes_Antigravity_and_Time_Travel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WWAT: Warp Drives, Wormholes, Antigravity and Time TravelThis concept proposes warping spacetime to create a &quot;bubble&quot; around a spacecraft...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400090124_Exotic_Physics_Teleportation_of_Macroscopic_Matter_A_Unified_Theoretical_Framework_Integrating_Traversable_Wormholes_Negative_Energy_Engineering_Quantum_Vacuum_Control_Metric_Engineering_Topological_S" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400090124_Exotic_Physics_Teleportation_of_Macroscopic_Matter_A_Unified_Theoretical_Framework_Integrating_Traversable_Wormholes_Negative_Energy_Engineering_Quantum_Vacuum_Control_Metric_Engineering_Topological_S</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exotic Physics Teleportation of Macroscopic MatterJan 29, 2026 — We then discuss negative energy as a necessary enabling resource a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400090124_Exotic_Physics_Teleportation_of_Macroscopic_Matter_A_Unified_Theoretical_Framework_Integrating_Traversable_Wormholes_Negative_Energy_Engineering_Quantum_Vacuum_Control_Metric_Engineering_Topological_S" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400090124_Exotic_Physics_Teleportation_of_Macroscopic_Matter_A_Unified_Theoretical_Framework_Integrating_Traversable_Wormholes_Negative_Energy_Engineering_Quantum_Vacuum_Control_Metric_Engineering_Topological_S</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exotic Physics Teleportation of Macroscopic MatterJan 29, 2026 — We then discuss negative energy as a necessary enabling resource a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/Can_negative_mass_keep_a_wormhole_open_without_causing_the_universe_to_collapse_causally" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Can_negative_mass_keep_a_wormhole_open_without_causing_the_universe_to_collapse_causally</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can negative mass keep a wormhole open without causing...Nov 22, 2025 — The negative-mass theory offers an alternative explanation for t...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Can_negative_mass_keep_a_wormhole_open_without_causing_the_universe_to_collapse_causally" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Can_negative_mass_keep_a_wormhole_open_without_causing_the_universe_to_collapse_causally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can negative mass keep a wormhole open without causing...Nov 22, 2025 — The negative-mass theory offers an alternative explanation for t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/negative-energy-and-exotic-matter-how-physics-describes-the-impossible-5-876d28667366" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/negative-energy-and-exotic-matter-how-physics-describes-the-impossible-5-876d28667366</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e the Alcubierre drive) both require matter that defies...Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/negative-energy-and-exotic-matter-how-physics-describes-the-impossible-5-876d28667366" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/negative-energy-and-exotic-matter-how-physics-describes-the-impossible-5-876d28667366</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e the Alcubierre drive) both require matter that defies...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Anti gravity  
-   Link: <a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Anti-gravity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anti-gravity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-gravityAnti-gravity is the concept of a force that would exactly oppose the force of gravity. Under the known laws of physics, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: inspirehep.net  
-   Link: <a href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/765272</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</p></details>
+   Link:<a href="https://inspirehep.net/literature/765272" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/765272</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InspireTraversable wormholes and &#x27;warp drive&#x27; spacetimesThus, one may be tempted to denote these geometries as &#x27;exotic&#x27; solutions of the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: inspirehep.net  
-   Link: <a href="https://inspirehep.net/literature/1600648" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/1600648</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InspireWormholes, Warp Drives and Energy Conditionsby FSN Lobo · 2017 · Cited by 232 — Top researchers in the field of gravitation presen...</p></details>
+   Link:<a href="https://inspirehep.net/literature/1600648" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/literature/1600648</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InspireWormholes, Warp Drives and Energy Conditionsby FSN Lobo · 2017 · Cited by 232 — Top researchers in the field of gravitation presen...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/eflm9s/can_the_casimir_effect_be_scaled_up/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/eflm9s/can_the_casimir_effect_be_scaled_up/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Casimir Effect be scaled up?: r/AskPhysicsSo I was reading about the casimir effect on wikipedia and how it may be an example of...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/eflm9s/can_the_casimir_effect_be_scaled_up/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/eflm9s/can_the_casimir_effect_be_scaled_up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can the Casimir Effect be scaled up?: r/AskPhysicsSo I was reading about the casimir effect on wikipedia and how it may be an example of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IsaacArthur/comments/1igbkpy/exotic_matter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IsaacArthur/comments/1igbkpy/exotic_matter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exotic Matter: r/IsaacArthurThe viability of wormholes relies on the presence of exotic matter—a peculiar form of energy that defies the...</p></details>
+   Link:<a href="https://www.reddit.com/r/IsaacArthur/comments/1igbkpy/exotic_matter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IsaacArthur/comments/1igbkpy/exotic_matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exotic Matter: r/IsaacArthurThe viability of wormholes relies on the presence of exotic matter—a peculiar form of energy that defies the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/negative" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/negative</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEGATIVE Definition &amp; Meaning1. a: marked by denial, prohibition, or refusal received a negative answer also: marked by absence, withho...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/negative" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/negative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEGATIVE Definition &amp; Meaning1. a: marked by denial, prohibition, or refusal received a negative answer also: marked by absence, withho...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/mario-pinheiro-07715614_70-years-of-anti-gravity-research-from-activity-7330344082524782592-fcP8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mario-pinheiro-07715614_70-years-of-anti-gravity-research-from-activity-7330344082524782592-fcP8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Pinheiro&#x27;s Post70 Years of Anti-Gravity Research: From Cold War Secrets to Tomorrow&#x27;s Propulsion 🗃️ TL;DR Since the 1950s, militari...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/mario-pinheiro-07715614_70-years-of-anti-gravity-research-from-activity-7330344082524782592-fcP8" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mario-pinheiro-07715614_70-years-of-anti-gravity-research-from-activity-7330344082524782592-fcP8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Pinheiro&#x27;s Post70 Years of Anti-Gravity Research: From Cold War Secrets to Tomorrow&#x27;s Propulsion 🗃️ TL;DR Since the 1950s, militari...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mdpi.com  
    Title: Initially, the thermal corrections to the vacuum Casimir energy density are  
-   Link: <a href="https://www.mdpi.com/2624-8174/6/3/65" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2624-8174/6/3/65</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Casimir Effect in Finite-Temperature and Gravitational...by VB Bezerra · 2024 · Cited by 4 — In this paper, we review some recen...</p></details>
+   Link:<a href="https://www.mdpi.com/2624-8174/6/3/65" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2624-8174/6/3/65</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Casimir Effect in Finite-Temperature and Gravitational...by VB Bezerra · 2024 · Cited by 4 — In this paper, we review some recen...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: physics.stackexchange.com  
    Title: do dark energy and the casimir effect actually possess negative energy or just  
-   Link: <a href="https://physics.stackexchange.com/questions/872294/do-dark-energy-and-the-casimir-effect-actually-possess-negative-energy-or-just" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/872294/do-dark-energy-and-the-casimir-effect-actually-possess-negative-energy-or-just</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This question needs details or clarity. It is not currently accepting answers. Want to improve this question? As written, this question...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/872294/do-dark-energy-and-the-casimir-effect-actually-possess-negative-energy-or-just" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/872294/do-dark-energy-and-the-casimir-effect-actually-possess-negative-energy-or-just</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This question needs details or clarity. It is not currently accepting answers. Want to improve this question? As written, this question...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QOan2sFDrD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOan2sFDrD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity for Aerospace ApplicationsAntigravity for Aerospace Applications [https://giladjames.com](https://giladjames.com) Antigravity effects can be implemente...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QOan2sFDrD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QOan2sFDrD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigravity for Aerospace ApplicationsAntigravity for Aerospace Applications [https://giladjames.com](https://giladjames.com) Antigravity effects can be implemente...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: quantumzeitgeist.com  
    Title: symmetric wormholes characterized exotic matter negative energy density  
-   Link: <a href="https://quantumzeitgeist.com/symmetric-wormholes-characterized-exotic-matter-negative-energy-density/" target="_blank" rel="noopener noreferrer nofollow">https://quantumzeitgeist.com/symmetric-wormholes-characterized-exotic-matter-negative-energy-density/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wormholes Stabilized by Negative Energy DensityNov 21, 2025 — Maintaining a traversable wormhole requires exotic matter, material with ne...</p></details>
+   Link:<a href="https://quantumzeitgeist.com/symmetric-wormholes-characterized-exotic-matter-negative-energy-density/" target="_blank" rel="noopener noreferrer nofollow">https://quantumzeitgeist.com/symmetric-wormholes-characterized-exotic-matter-negative-energy-density/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wormholes Stabilized by Negative Energy DensityNov 21, 2025 — Maintaining a traversable wormhole requires exotic matter, material with ne...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: physics.stackexchange.com  
    Title: wormhole metrics and the density of negative energy  
-   Link: <a href="https://physics.stackexchange.com/questions/773946/wormhole-metrics-and-the-density-of-negative-energy" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/773946/wormhole-metrics-and-the-density-of-negative-energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metrics and the Density of Negative Energy29 Jul 2023 — Regarding warp drives, say the Alcubierre Metric, it seems a simple parameter (σ)...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/773946/wormhole-metrics-and-the-density-of-negative-energy" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/773946/wormhole-metrics-and-the-density-of-negative-energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metrics and the Density of Negative Energy29 Jul 2023 — Regarding warp drives, say the Alcubierre Metric, it seems a simple parameter (σ)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3806429922919413/posts/3967306206831783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3806429922919413/posts/3967306206831783/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gy and if it can be scaled up it has the potential to solve the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/3806429922919413/posts/3967306206831783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3806429922919413/posts/3967306206831783/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gy and if it can be scaled up it has the potential to solve the...Read more...</p></details>

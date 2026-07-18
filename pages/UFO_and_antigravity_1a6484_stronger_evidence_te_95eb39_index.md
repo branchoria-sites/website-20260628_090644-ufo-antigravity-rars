@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-stronger/
 description: Focused pages that expand on Proof Test.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_stronger_evidence_te_95eb39
 parent_title: Proof Test
@@ -16,7 +16,7 @@ parent_permalink: /proof-test/
 
 # Explore Topics in Proof Test
 
-The following pages expand on the main **[Proof Test]({{ '/proof-test/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Proof Test]({{ '/proof-test/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Channels]({{ '/aaro-channels/' | relative_url }})
 - [Blue Book Lessons]({{ '/blue-book-lessons/' | relative_url }})

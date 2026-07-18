@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-ap-missing/
 description: Focused pages that expand on AP Inquiry.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_ap_missing_scientist_d96a7a
 parent_title: AP Inquiry
@@ -16,7 +16,7 @@ parent_permalink: /ap-inquiry/
 
 # Explore Topics in AP Inquiry
 
-The following pages expand on the main **[AP Inquiry]({{ '/ap-inquiry/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[AP Inquiry]({{ '/ap-inquiry/' | relative_url }})** page and cover its key branches in.
 
 - [Evidence Test]({{ '/evidence-test/' | relative_url }})
 - [Casias Role]({{ '/casias-role/' | relative_url }})

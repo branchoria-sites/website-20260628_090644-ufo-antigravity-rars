@@ -447,7 +447,7 @@ image: /assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867-over
 
 ## Introduction
 
-William “Neil” McCasland became a magnet for UFO and classified-secrets speculation because the facts around him sit close to several powerful themes: a senior Air Force career, command of the Air Force Research Laboratory at Wright-Patterson Air Force Base, a brief public link to Tom DeLonge’s UFO-disclosure circle, and an unresolved disappearance from Albuquerque on 27 February 2026. The evidence supports the seriousness of the missing-person case and the reality of McCasland’s past access to sensitive [aerospace]({{ 'aerospace/' | relative_url }}) work. It does not, so far, support the stronger claim that he vanished because of UFO, antigravity, Roswell or “classified secrets” knowledge. Official and mainstream reporting has treated the disappearance as unresolved, while also noting that investigators had not found evidence of foul play in the early search period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
+William “Neil” McCasland became a magnet for UFO and classified-secrets speculation because the facts around him sit close to several powerful themes: a senior Air Force career, command of the Air Force Research Laboratory at Wright-Patterson Air Force Base, a brief public link to Tom DeLonge’s UFO-disclosure circle, and an unresolved disappearance from Albuquerque on 27 February 2026. The evidence supports the seriousness of the missing-person case and the reality of McCasland’s past access to sensitive [aerospace]({{ 'aerospace/' | relative_url }}) work. It does not, so far, support the stronger claim that he vanished because of UFO, antigravity, Roswell or “classified secrets” knowledge. Official and mainstream reporting has treated the disappearance as unresolved, while also noting that investigators had not found evidence of foul play in the early search period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867-overview.webp" | relative_url }}" alt="Overview image for Mc Casland" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,23 +455,23 @@ The McCasland case therefore matters less as proof of a hidden UFO programme tha
 
 ## His Air Force career made the rumours plausible, not proven
 
-McCasland was not a random name pulled into UFO lore after the fact. His official Air Force biography places him in precisely the sort of career path that can make classified-technology stories sound plausible to a general reader. He was commissioned in 1979 after graduating from the U.S. Air Force Academy with a degree in astronautical engineering, later earned a doctorate in astronautical engineering from MIT, and served in space research, acquisition and operations roles across the Air Force and the National Reconnaissance Office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span>
+McCasland was not a random name pulled into UFO lore after the fact. His official Air Force biography places him in precisely the sort of career path that can make classified-technology stories sound plausible to a general reader. He was commissioned in 1979 after graduating from the U.S. Air Force Academy with a degree in astronautical engineering, later earned a doctorate in astronautical engineering from MIT, and served in space research, acquisition and operations roles across the Air Force and the National Reconnaissance Office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span>
 
-The most important point for the classified-secrets claim is that McCasland held senior posts connected to advanced aerospace research. The Air Force biography says he commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base and was responsible for a $2.2 billion Air Force science and technology programme, plus another $2.2 billion in customer-funded research and development, and a workforce of about 10,800 people. It also records earlier roles as Director, Space Acquisition, and then Director of [Special Programs]({{ 'special-programs/' | relative_url }}) in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span>
+The most important point for the classified-secrets claim is that McCasland held senior posts connected to advanced aerospace research. The Air Force biography says he commanded the Air Force Research Laboratory at Wright-Patterson Air Force Base and was responsible for a $2.2 billion Air Force science and technology programme, plus another $2.2 billion in customer-funded research and development, and a workforce of about 10,800 people. It also records earlier roles as Director, Space Acquisition, and then Director of [Special Programs]({{ 'special-programs/' | relative_url }}) in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span>
 
 Those facts are significant, but they do not establish the conspiracy claim. Senior command over classified or sensitive programmes is not the same as possession of a hidden UFO truth, a reverse-engineered craft programme, or a reason for anyone to abduct or silence him. In this case, the documented chain of evidence stops at a much narrower conclusion: McCasland had a high-level aerospace and special-programmes background that made him a natural focus for speculation after he disappeared.
 
-Wright-Patterson Air Force Base adds a further layer because it is historically tied to official U.S. Air Force UFO investigations. Project Blue Book, the Air Force’s long-running UFO study, was headquartered at Wright-Patterson and examined 12,618 reported sightings before ending in 1969, with 701 remaining unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> That history explains why online discussions often treat “Wright-Patterson” as shorthand for UFO secrecy. It does not mean every later AFRL commander had knowledge of alien material, nor that McCasland’s 2011–2013 AFRL command can be retroactively turned into evidence about Roswell.
+Wright-Patterson Air Force Base adds a further layer because it is historically tied to official U.S. Air Force UFO investigations. Project Blue Book, the Air Force’s long-running UFO study, was headquartered at Wright-Patterson and examined 12,618 reported sightings before ending in 1969, with 701 remaining unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> That history explains why online discussions often treat “Wright-Patterson” as shorthand for UFO secrecy. It does not mean every later AFRL commander had knowledge of alien material, nor that McCasland’s 2011–2013 AFRL command can be retroactively turned into evidence about Roswell.
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867-Illustration-1-dark.svg" | relative_url }}" alt="Mc Casland illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_mccasland_air_force_c5b867-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The disappearance timeline is strange, but still a missing-person case
 
-The verified [timeline]({{ 'timeline/' | relative_url }}) is compelling enough without adding unsupported claims. CBS News reported that McCasland, aged 68, was last seen at his Albuquerque home on the morning of 27 February 2026, and that the Bernalillo County Sheriff’s Office was leading the investigation. The sheriff’s office issued a Silver Alert, and multiple agencies, including federal agents from the FBI Albuquerque Field Office, were assisting because of McCasland’s background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
+The verified [timeline]({{ 'timeline/' | relative_url }}) is compelling enough without adding unsupported claims. CBS News reported that McCasland, aged 68, was last seen at his Albuquerque home on the morning of 27 February 2026, and that the Bernalillo County Sheriff’s Office was leading the investigation. The sheriff’s office issued a Silver Alert, and multiple agencies, including federal agents from the FBI Albuquerque Field Office, were assisting because of McCasland’s background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
 
-The known circumstances were troubling. Authorities believed he left his home on foot, had not contacted family or friends, and might have been in the Sandia Mountains on 27 or 28 February. CBS also reported that investigators asked residents and businesses to check security footage, while noting that neighbourhood canvassing and interviews had not uncovered evidence of foul play at that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
+The known circumstances were troubling. Authorities believed he left his home on foot, had not contacted family or friends, and might have been in the Sandia Mountains on 27 or 28 February. CBS also reported that investigators asked residents and businesses to check security footage, while noting that neighbourhood canvassing and interviews had not uncovered evidence of foul play at that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span>
 
-Later reporting added details that made the case more vivid and more susceptible to speculation: McCasland reportedly left behind his phone, prescription glasses and wearable devices, while his hiking boots, wallet and a.38-calibre revolver were missing. Some reports also described him as an experienced outdoorsman and said searchers had focused on trails and foothills near Albuquerque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[ABC7 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-title">ABC7 New York Warm spring making it harder to find retired US Air Force</span><span class="citation-popover-snippet">ABC7 New York Warm spring making it harder to find retired US Air Force</span></span></span>
+Later reporting added details that made the case more vivid and more susceptible to speculation: McCasland reportedly left behind his phone, prescription glasses and wearable devices, while his hiking boots, wallet and a.38-calibre revolver were missing. Some reports also described him as an experienced outdoorsman and said searchers had focused on trails and foothills near Albuquerque.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7ny.com">[ABC7 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7ny.com</span><span class="citation-popover-title">ABC7 New York Warm spring making it harder to find retired US Air Force</span><span class="citation-popover-snippet">ABC7 New York Warm spring making it harder to find retired US Air Force</span></span></span>
 
 Those details can support several ordinary hypotheses as well as darker ones. A person leaving with hiking boots and a wallet may have intended to go outside. A missing phone and glasses may suggest confusion, urgency, deliberate privacy, or simply a choice that investigators could not yet explain. A missing revolver understandably raises concern, but it does not by itself point to [espionage]({{ 'espionage/' | relative_url }}) or UFO secrecy. The evidential problem is that the most public facts make the disappearance unusual, while still leaving the cause open.
 
@@ -480,11 +480,11 @@ Those details can support several ordinary hypotheses as well as darker ones. A 
 
 ## The Tom DeLonge email is the main UFO link
 
-The strongest public UFO-related link is not an official government document saying McCasland worked on alien technology. It is a 2016 email in the WikiLeaks Podesta archive in which Tom DeLonge referred to “General McCasland” while writing to John Podesta. In that email, DeLonge claimed he had been working with McCasland for four months, had given him a long presentation, and said McCasland had helped assemble his advisory team. DeLonge also tied McCasland’s significance to the claim that Roswell material had been shipped to Wright-Patterson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">Wiki Leaks</span><span class="citation-popover-snippet">Wiki Leaks</span></span></span>
+The strongest public UFO-related link is not an official government document saying McCasland worked on alien technology. It is a 2016 email in the WikiLeaks Podesta archive in which Tom DeLonge referred to “General McCasland” while writing to John Podesta. In that email, DeLonge claimed he had been working with McCasland for four months, had given him a long presentation, and said McCasland had helped assemble his advisory team. DeLonge also tied McCasland’s significance to the claim that Roswell material had been shipped to Wright-Patterson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">Wiki Leaks</span><span class="citation-popover-snippet">Wiki Leaks</span></span></span>
 
 That email matters because it shows why McCasland’s name entered UFO-disclosure circles years before his disappearance. It also shows the weakness of the evidence. The email records DeLonge’s claims and interpretation; it is not an independent [verification]({{ 'verification/' | relative_url }}) that McCasland possessed Roswell knowledge, endorsed DeLonge’s beliefs, or had access to extraterrestrial material. It tells us that DeLonge considered McCasland important to his project, not that the project’s more dramatic assumptions were true.
 
-The broader context of the Podesta emails also matters. The Guardian reported in 2016 that WikiLeaks had published emails showing DeLonge contacting Podesta about UFOs and extraterrestrial life, and described Podesta’s longstanding public interest in declassification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That makes the McCasland email part of a real public episode in UFO-disclosure culture. But the jump from “a senior retired officer was mentioned in a UFO-related email” to “he vanished because of classified UFO secrets” is an evidential leap, not a demonstrated link.
+The broader context of the Podesta emails also matters. The Guardian reported in 2016 that WikiLeaks had published emails showing DeLonge contacting Podesta about UFOs and extraterrestrial life, and described Podesta’s longstanding public interest in declassification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That makes the McCasland email part of a real public episode in UFO-disclosure culture. But the jump from “a senior retired officer was mentioned in a UFO-related email” to “he vanished because of classified UFO secrets” is an evidential leap, not a demonstrated link.
 
 The most defensible interpretation is therefore limited: McCasland had at least a claimed advisory connection to DeLonge’s UFO-related efforts, and that connection made his later disappearance more attractive to UFO communities looking for patterns. It does not prove a motive, a perpetrator, or a secret antigravity programme.
 
@@ -494,11 +494,11 @@ The most defensible interpretation is therefore limited: McCasland had at least 
 
 The classified-secrets claim depends on three propositions: McCasland once had access to extremely sensitive aerospace material; some of that material involved UFOs, antigravity or recovered non-human technology; and his disappearance was caused by what he knew. The first proposition is well supported. The second and third are not.
 
-The first is supported by McCasland’s own official biography. Roles in space acquisition, special programmes and AFRL command are plainly relevant to classified aerospace and defence research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span> But modern defence secrecy covers many terrestrial subjects: satellites, sensors, directed energy, communications, missile warning, reconnaissance, materials, cyber-physical systems and weapons acquisition. “Classified” is not a synonym for “alien”.
+The first is supported by McCasland’s own official biography. Roles in space acquisition, special programmes and AFRL command are plainly relevant to classified aerospace and defence research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</span></span></span> But modern defence secrecy covers many terrestrial subjects: satellites, sensors, directed energy, communications, missile warning, reconnaissance, materials, cyber-physical systems and weapons acquisition. “Classified” is not a synonym for “alien”.
 
-The second proposition collides with the public record of official UAP reviews. The Air Force’s Project Blue Book fact sheet says the programme ended in 1969 after review of earlier studies and concluded that no UFO reported, investigated and evaluated by the Air Force had given any indication of threat to national security, represented technology beyond modern scientific knowledge, or shown evidence of extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> More recently, the Pentagon’s All-domain Anomaly Resolution Office historical review found no evidence that U.S. companies possessed off-world technology or had reverse-engineered extraterrestrial material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024</span></span></span>
+The second proposition collides with the public record of official UAP reviews. The Air Force’s Project Blue Book fact sheet says the programme ended in 1969 after review of earlier studies and concluded that no UFO reported, investigated and evaluated by the Air Force had given any indication of threat to national security, represented technology beyond modern scientific knowledge, or shown evidence of extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> More recently, the Pentagon’s All-domain Anomaly Resolution Office historical review found no evidence that U.S. companies possessed off-world technology or had reverse-engineered extraterrestrial material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume</span></span></span>
 
-The third proposition is the weakest. Public reporting has not established that McCasland’s disappearance was connected to his former classified work. CBS reported that investigators had not found evidence of foul play during the early canvassing and search period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span> AP later reported that McCasland’s disappearance helped push a wider “missing scientists” theory from online spaces into mainstream politics, but also framed the broader theory as speculation rather than a documented pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
+The third proposition is the weakest. Public reporting has not established that McCasland’s disappearance was connected to his former classified work. CBS reported that investigators had not found evidence of foul play during the early canvassing and search period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</span></span></span> AP later reported that McCasland’s disappearance helped push a wider “missing scientists” theory from online spaces into mainstream politics, but also framed the broader theory as speculation rather than a documented pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
 
 That does not mean every question is answered. McCasland was still missing in the cited reporting, and unresolved cases naturally leave gaps. But a gap in a missing-person case is not evidence for the most dramatic explanation. In evidence terms, the classified-secrets theory is built on background plausibility, not on case-specific proof.
 
@@ -507,11 +507,11 @@ That does not mean every question is answered. McCasland was still missing in th
 
 ## The “missing scientists” narrative amplified the case
 
-McCasland’s disappearance became larger than one missing-person investigation because it was folded into a 2026 narrative about dead or missing scientists and personnel linked to sensitive U.S. research. AP reported that speculation about several such cases had once been mostly confined to niche online communities, but that McCasland’s 27 February disappearance fuelled wider belief in a possible nefarious connection, partly because of his high-ranking military work and UFO-community connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
+McCasland’s disappearance became larger than one missing-person investigation because it was folded into a 2026 narrative about dead or missing scientists and personnel linked to sensitive U.S. research. AP reported that speculation about several such cases had once been mostly confined to niche online communities, but that McCasland’s 27 February disappearance fuelled wider belief in a possible nefarious connection, partly because of his high-ranking military work and UFO-community connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
 
-Congressional interest then gave the narrative a new level of visibility. The House Oversight Committee announced on 20 April 2026 that James Comer and Eric Burlison were seeking information from the Department of Energy, Department of War, FBI and NASA about scientists and other personnel connected to U.S. nuclear and rocket research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">comer burlison seek information on missing nuclear and rocket scientists</span></span></span> That official attention did not prove the online theory, but it did make the story feel more serious to readers who saw congressional letters and FBI involvement as confirmation that something hidden must be happening.
+Congressional interest then gave the narrative a new level of visibility. The House Oversight Committee announced on 20 April 2026 that James Comer and Eric Burlison were seeking information from the Department of Energy, Department of War, FBI and NASA about scientists and other personnel connected to U.S. nuclear and rocket research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">comer burlison seek information on missing nuclear and rocket scientists</span><span class="citation-popover-snippet">comer burlison seek information on missing nuclear and rocket scientists</span></span></span> That official attention did not prove the online theory, but it did make the story feel more serious to readers who saw congressional letters and FBI involvement as confirmation that something hidden must be happening.
 
-This is where McCasland’s case is easy to misread. A federal or congressional review can mean “there is enough concern to check whether connections exist”. It does not mean “a connection has been found”. AP’s account made that distinction clear: the theory spread rapidly, but the public evidence still fell short of proving a coordinated campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
+This is where McCasland’s case is easy to misread. A federal or congressional review can mean “there is enough concern to check whether connections exist”. It does not mean “a connection has been found”. AP’s account made that distinction clear: the theory spread rapidly, but the public evidence still fell short of proving a coordinated campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span></span></span>
 
 For the McCasland page specifically, the key point is that his disappearance functioned as a catalyst. It gave the broader “missing scientists” narrative a recognisable central figure: a retired major general, an astronautical engineer, a former AFRL commander and a man with a traceable public UFO-community link. That combination was powerful enough to make the story travel, even though each element remains weaker than the theory built from it.
 
@@ -548,194 +548,194 @@ McCasland’s Air Force past mattered because it shaped public interpretation of
 But the strongest reading is still cautious. McCasland’s background made the rumours plausible enough to spread; it did not make them true. The available record points to a high-status missing-person case with unusual circumstances, not a documented disappearance caused by classified UFO or antigravity secrets. The unresolved nature of the case keeps questions open, but the evidence threshold for a cover-up claim has not been met.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Mc Casland&#x27;s Air Force Past Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Mc Casland&#x27;s Air Force Past Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines government records, military witnesses, and evidence rather than conspiracy narratives about silenced researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government records, military witnesses, and evidence rather than conspiracy narratives about silenced researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses investigation of UFO reports, evidence standards, and the limits of what unexplained cases can prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses investigation of UFO reports, evidence standards, and the limits of what unexplained cases can prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XzsraDyEtnEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides first-hand context on Blue Book investigations and how unexplained cases were evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides first-hand context on Blue Book investigations and how unexplained cases were evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives, secrecy, and belief develop, helping readers understand why suppression stories spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives, secrecy, and belief develop, helping readers understand why suppression stories spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/fd5d1f142fe063eff375.jpg' | relative_url }}" alt="Listing image for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/fd5d1f142fe063eff375.jpg' | relative_url }}" alt="Listing image for Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Lot of 3 Strategic Air Command SAC, ICBMs, B-52 Nuclear Air Force Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/8b1421ddfb3f6ec9ce53.jpg' | relative_url }}" alt="Listing image for Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Air Force NCO Noncommissioned Officer Staff / Technical Sergeant Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise"><img src="{{ '/assets/images/marketplace-covers/c44dc4fdffadda1eb703.jpg' | relative_url }}" alt="Listing image for Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Lest We Forget Challenge Coin - Officially Licensed Merchandise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm"><img src="{{ '/assets/images/marketplace-covers/2e1012ee27a807b8d713.jpg' | relative_url }}" alt="Listing image for Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force RAF Medical Services 100th Anniversary Challenge Coin - 44mm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force challenge coin" data-ebay-reference="mc-casland-did-mc-casland-s-air-force-past-matter-ufo-and-antigravity-air-force-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -751,7 +751,7 @@ But the strongest reading is still cautious. McCasland’s background made the r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -771,7 +771,7 @@ But the strongest reading is still cautious. McCasland’s background made the r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -803,7 +803,7 @@ But the strongest reading is still cautious. McCasland’s background made the r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -855,7 +855,7 @@ But the strongest reading is still cautious. McCasland’s background made the r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -900,7 +900,7 @@ But the strongest reading is still cautious. McCasland’s background made the r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -941,207 +941,207 @@ But the strongest reading is still cautious. McCasland’s background made the r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/retired-air-force-major-general-missing-new-mexico-william-neil-mccasland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general still missing 2 weeks after vanishing in New Mexico - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/Display/article/104776/major-general-william-n-mccasland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR GENERAL WILLIAM N. MCCASLAND &gt; Air Force &gt; Biography Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/3099</a>  
+   Link:<a href="https://wikileaks.org/podesta-emails/emailid/3099" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/emailid/3099</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: comer burlison seek information on missing nuclear and rocket scientists  
-   Link: <a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
+   Link:<a href="https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/comer-burlison-seek-information-on-missing-nuclear-and-rocket-scientists/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
+   Link:<a href="https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?count=200&amp;date_from=&amp;date_to=&amp;mfrom=&amp;mto=&amp;nofrom=&amp;notitle=&amp;noto=&amp;q=delonge%7C%22tom+delonge%22%7C%22blink182%22%7C%22blink%22%7CUFO&amp;sort=6&amp;title=</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wikileaks.org  
    Title: Wiki Leaks  
-   Link: <a href="https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6</a>  
+   Link:<a href="https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/podesta-emails/?q=delonge&amp;sort=6</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: people.com  
-   Link: <a href="https://people.com/tag/prince-william/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tag/prince-william/</a>  
+   Link:<a href="https://people.com/tag/prince-william/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tag/prince-william/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: people.com  
    Title: retired air force general linked to ufo research goes missing 11918672  
-   Link: <a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
+   Link:<a href="https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672" target="_blank" rel="noopener noreferrer nofollow">https://people.com/retired-air-force-general-linked-to-ufo-research-goes-missing-11918672</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: people.com  
-   Link: <a href="https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314" target="_blank" rel="noopener noreferrer nofollow">https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314</a>  
+   Link:<a href="https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314" target="_blank" rel="noopener noreferrer nofollow">https://people.com/wife-of-missing-retired-air-force-general-pushes-back-misinformation-ties-ufo-community-11925314</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oversight.house.gov  
    Title: FBI Missing Scientists Letter 4.20.26  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: burlison.house.gov  
    Title: comer burlison seek information missing nuclear and rocket scientists  
-   Link: <a href="https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists</a>  
+   Link:<a href="https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists" target="_blank" rel="noopener noreferrer nofollow">https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oversight.house.gov  
    Title: fbi missing scientists letter 4 20 26  
-   Link: <a href="https://oversight.house.gov/letter/letter-to-fbi-director-patel-on-missing-scientists/fbi-missing-scientists-letter_4-20-26/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/letter/letter-to-fbi-director-patel-on-missing-scientists/fbi-missing-scientists-letter_4-20-26/</a>  
+   Link:<a href="https://oversight.house.gov/letter/letter-to-fbi-director-patel-on-missing-scientists/fbi-missing-scientists-letter_4-20-26/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/letter/letter-to-fbi-director-patel-on-missing-scientists/fbi-missing-scientists-letter_4-20-26/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oversight.house.gov  
    Title: DOE Missing Scientists Letter 4.20.26  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2026/04/DOE-Missing-Scientists-Letter_4.20.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2026/04/DOE-Missing-Scientists-Letter_4.20.26.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2026/04/DOE-Missing-Scientists-Letter_4.20.26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2026/04/DOE-Missing-Scientists-Letter_4.20.26.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc7.com  
-   Link: <a href="https://abc7.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/william-neil-[mccasland-missing</a>  
+   Link:<a href="https://abc7.com/post/william-neil-[mccasland-missing" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/william-neil-[mccasland-missing</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abc7ny.com  
    Title: ABC7 New York Warm spring making it harder to find retired US Air Force  
-   Link: <a href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
+   Link:<a href="https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/general-william-neil-mccasland-missing-warm-spring-making-harder-find-retired-us-air-force-major/18727050/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta</a>  
+   Link:<a href="https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2016/oct/11/blink-182-hillary-clintons-campaign-chief-ufos-tom-delonge-john-podesta</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/William" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/William" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: af.mil  
    Title: general officer assignments announced  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/120233/general-officer-assignments-announced/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/120233/general-officer-assignments-announced/</a>  
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/120233/general-officer-assignments-announced/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/120233/general-officer-assignments-announced/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Biographies/?Page=246&amp;Search=Chief+master+sergeant&amp;Sort=Rank" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/?Page=246&amp;Search=Chief+master+sergeant&amp;Sort=Rank</a>  
+   Link:<a href="https://www.af.mil/About-Us/Biographies/?Page=246&amp;Search=Chief+master+sergeant&amp;Sort=Rank" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Biographies/?Page=246&amp;Search=Chief+master+sergeant&amp;Sort=Rank</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/</a>  
+   Link:<a href="https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cosmoknowledge/posts/this-story-exploded-because-william-neil-mccasland-had-the-kind-of-career-that-i/987504710267804/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: air force general linked to ufo research disappears  
-   Link: <a href="https://www.facebook.com/lawandcrime/videos/air-force-general-linked-to-ufo-research-disappears/2736156153415807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/videos/air-force-general-linked-to-ufo-research-disappears/2736156153415807/</a>  
+   Link:<a href="https://www.facebook.com/lawandcrime/videos/air-force-general-linked-to-ufo-research-disappears/2736156153415807/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/videos/air-force-general-linked-to-ufo-research-disappears/2736156153415807/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: prince william  
-   Link: <a href="https://www.theguardian.com/uk/prince-william" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/prince-william</a>  
+   Link:<a href="https://www.theguardian.com/uk/prince-william" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/prince-william</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists [white house](&#123;&#123; 'white-house/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: abc7ny.com  
-   Link: <a href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
+   Link:<a href="https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/william-neil-mccasland-missing-retired-us-air-force-major-general-commanded-base-long-associated-ufo-lore/18707800/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thebump.com  
-   Link: <a href="https://www.thebump.com/b/william-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/william-baby-name</a>  
+   Link:<a href="https://www.thebump.com/b/william-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/william-baby-name</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</p></details>
+   Link:<a href="https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/13/us-news/missing-retired-us-air-force-general-with-ufo-community-ties-vanished-with-hiking-boots-and-a-revolver/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McCasland previously led the Air Force Research Laboratory at Wright-Patterson Air Force Base—often linked to extraterrestrial conspiracy...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Missing Air Force General's Chilling Last Actions Before Vanishing: Bodycam  
-   Link: <a href="https://www.youtube.com/watch?v=CPHOksXTkD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CPHOksXTkD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force general missing: Timeline revealed in Albuquerque disappearance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CPHOksXTkD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CPHOksXTkD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force general missing: Timeline revealed in Albuquerque disappearance...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: New Bodycam Footage of Missing Retired Air Force General Neil Mc Casland  
-   Link: <a href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m8OWQll90dg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m8OWQll90dg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m8OWQll90dg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major Gen. William McCasland ran the Air Force&#x27;s secret lab — then DISAPPEARED...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BGAEQ8-jazk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BGAEQ8-jazk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing General had dinner with Space Force, then vanished...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BGAEQ8-jazk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BGAEQ8-jazk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing General had dinner with Space Force, then vanished...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-nuclear-space-ufo-b2965352.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-nuclear-space-ufo-b2965352.html</a>  
+   Link:<a href="https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-nuclear-space-ufo-b2965352.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/scientists-missing-dead-fbi-nuclear-space-ufo-b2965352.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/1rtdn9j/a_retired_us_air_force_general_with_ties_to_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1rtdn9j/a_retired_us_air_force_general_with_ties_to_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/mystery/comments/1rtdn9j/a_retired_us_air_force_general_with_ties_to_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/1rtdn9j/a_retired_us_air_force_general_with_ties_to_ufo/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: x.com  
-   Link: <a href="https://x.com/BCSONM/status/2027566025542340727" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BCSONM/status/2027566025542340727</a>  
+   Link:<a href="https://x.com/BCSONM/status/2027566025542340727" target="_blank" rel="noopener noreferrer nofollow">https://x.com/BCSONM/status/2027566025542340727</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: x.com  
-   Link: <a href="https://x.com/Rep_Stansbury/status/2028315596736082410" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Rep_Stansbury/status/2028315596736082410</a>  
+   Link:<a href="https://x.com/Rep_Stansbury/status/2028315596736082410" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Rep_Stansbury/status/2028315596736082410</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxnation/posts/eleven-scientists-disappear-or-die-officials-say-coincidencebut-patterns-secrecy/999962055708095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxnation/posts/eleven-scientists-disappear-or-die-officials-say-coincidencebut-patterns-secrecy/999962055708095/</a>  
+   Link:<a href="https://www.facebook.com/foxnation/posts/eleven-scientists-disappear-or-die-officials-say-coincidencebut-patterns-secrecy/999962055708095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxnation/posts/eleven-scientists-disappear-or-die-officials-say-coincidencebut-patterns-secrecy/999962055708095/</a>  

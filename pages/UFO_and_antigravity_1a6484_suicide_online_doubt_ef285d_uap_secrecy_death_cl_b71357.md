@@ -284,15 +284,15 @@ Government secrecy surrounding unidentified anomalous phenomena (UAPs), classifi
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_suicide_online_doubt_ef285d_uap_secrecy_death_cl_b71357-Illustration-1-dark.svg" | relative_url }}" alt="Secrecy Limits illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_suicide_online_doubt_ef285d_uap_secrecy_death_cl_b71357-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_suicide_online_doubt_ef285d_uap_secrecy_death_cl_b71357-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction sits at the centre of many debates about alleged suspicious deaths linked to UFO, UAP or antigravity research. Genuine secrecy can justify questions, scepticism and requests for further disclosure. What it cannot do, by itself, is establish coordinated foul play. The challenge for readers is learning where secrecy ends and where evidence of a specific death begins. Public discussion often blurs those categories, especially when official records are incomplete or when a person's work involved classified programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</span></span></span>
+This distinction sits at the centre of many debates about alleged suspicious deaths linked to UFO, UAP or antigravity research. Genuine secrecy can justify questions, scepticism and requests for further disclosure. What it cannot do, by itself, is establish coordinated foul play. The challenge for readers is learning where secrecy ends and where evidence of a specific death begins. Public discussion often blurs those categories, especially when official records are incomplete or when a person's work involved classified programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</span></span></span>
 
 ## Where Official Secrecy Is Real
 
 The strongest versions of UFO-related death theories usually begin with a true observation: governments have historically classified information about unusual aerial incidents, intelligence collection methods and advanced defence technologies.
 
-The U.S. National Archives maintains dedicated collections of UFO and UAP records, demonstrating that governments have generated substantial documentation on the subject over many decades. Likewise, the All-domain Anomaly Resolution Office (AARO) has publicly explained that it routinely handles classified information and must navigate a formal declassification process before records can be released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</span></span></span>
+The U.S. National Archives maintains dedicated collections of UFO and UAP records, demonstrating that governments have generated substantial documentation on the subject over many decades. Likewise, the All-domain Anomaly Resolution Office (AARO) has publicly explained that it routinely handles classified information and must navigate a formal declassification process before records can be released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</span></span></span>
 
-Congressional hearings have also focused on transparency concerns, whistleblower protections and disputes over access to UAP-related information. These debates are evidence that disagreements about disclosure exist inside government [institutions]({{ 'institutions/' | relative_url }}). They are not evidence that individuals connected to those debates were harmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</span></span></span>
+Congressional hearings have also focused on transparency concerns, whistleblower protections and disputes over access to UAP-related information. These debates are evidence that disagreements about disclosure exist inside government [institutions]({{ 'institutions/' | relative_url }}). They are not evidence that individuals connected to those debates were harmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</span></span></span>
 
 A useful distinction is:
 
@@ -322,7 +322,7 @@ The logic often unfolds in a predictable sequence:
 
 The problem is that the conclusion does not follow from the premises. Classified information can explain why some records are unavailable without proving anything about the cause of death.
 
-Investigators, historians and intelligence analysts generally treat the absence of evidence as an unresolved question rather than affirmative proof of a covert operation. AARO's own [historical review]({{ 'historical-review/' | relative_url }}) noted that limited information often contributes to unresolved cases and public speculation, but unresolved status is not itself evidence for extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+Investigators, historians and intelligence analysts generally treat the absence of evidence as an unresolved question rather than affirmative proof of a covert operation. AARO's own [historical review]({{ 'historical-review/' | relative_url }}) noted that limited information often contributes to unresolved cases and public speculation, but unresolved status is not itself evidence for extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 This principle matters because secrecy naturally produces ambiguity. Ambiguity can justify further investigation, but it cannot by itself identify perpetrators, motives or methods.
 
@@ -330,7 +330,7 @@ This principle matters because secrecy naturally produces ambiguity. Ambiguity c
 
 Psychologically, secrecy creates a vacuum that people try to fill.
 
-When a death involves someone connected to advanced technology, defence work or UAP discussions, a hidden explanation can feel more satisfying than uncertainty. Researchers who study conspiracy beliefs have noted that people often prefer a coherent narrative to accepting incomplete information, especially when the events involve tragedy or unexplained circumstances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
+When a death involves someone connected to advanced technology, defence work or UAP discussions, a hidden explanation can feel more satisfying than uncertainty. Researchers who study conspiracy beliefs have noted that people often prefer a coherent narrative to accepting incomplete information, especially when the events involve tragedy or unexplained circumstances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</span></span></span>
 
 In practice, this means that genuine government secrecy can make unsupported explanations appear more plausible than they actually are.
 
@@ -340,9 +340,9 @@ In practice, this means that genuine government secrecy can make unsupported exp
 
 The 2026 online narrative about missing or deceased scientists illustrates the difference between suspicion and proof.
 
-The theory gained momentum after the disappearance of retired Air Force Major General William "Neil" McCasland and expanded to include a growing list of deaths and disappearances involving people connected in various ways to aerospace, defence, nuclear research, laboratories and UFO-related discussions. The story eventually attracted attention from [Congress]({{ 'congress/' | relative_url }}), the [White House]({{ 'white-house/' | relative_url }}) and the FBI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</span></span></span>
+The theory gained momentum after the disappearance of retired Air Force Major General William "Neil" McCasland and expanded to include a growing list of deaths and disappearances involving people connected in various ways to aerospace, defence, nuclear research, laboratories and UFO-related discussions. The story eventually attracted attention from [Congress]({{ 'congress/' | relative_url }}), the [White House]({{ 'white-house/' | relative_url }}) and the FBI.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5</span><span class="citation-popover-snippet">AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</span></span></span>
 
-However, major reporting repeatedly emphasised a separate point: no publicly available evidence had established that the cases were linked through a coordinated campaign or that a single actor was responsible. Some cases involved known suspects, some were disappearances, some were ruled suicides, and others remained unresolved. The common element was often the online narrative connecting them rather than documented operational links between the incidents themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post+2AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — But so far no evidence has been found that...</span></span></span>
+However, major reporting repeatedly emphasised a separate point: no publicly available evidence had established that the cases were linked through a coordinated campaign or that a single actor was responsible. Some cases involved known suspects, some were disappearances, some were ruled suicides, and others remained unresolved. The common element was often the online narrative connecting them rather than documented operational links between the incidents themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[washingtonpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — But so far no evidence has been found that...</span></span></span>
 
 This does not prove that every official conclusion is correct. It does show that the existence of classified work and UFO-related interests has not, on its own, produced evidence of a unified murder programme.
 
@@ -379,7 +379,7 @@ Chronology and thematic similarity are not substitutes for proof.
 
 **Has the secrecy itself been independently documented?**
 
-Real classification can be established through records, declassification reviews and official acknowledgements. Claims about secret programmes require separate evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</span></span></span>
+Real classification can be established through records, declassification reviews and official acknowledgements. Claims about secret programmes require separate evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wH4EDDi83GQ" title="🔴LIVE: UAP transparency and government secrets, high-profile murder verdict | FOX 10 Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wH4EDDi83GQ" target="_blank" rel="noopener noreferrer">🔴LIVE: UAP transparency and government secrets, high-profile murder verdict | FOX 10 Talks</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wH4EDDi83GQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wH4EDDi83GQ">Open on YouTube</a></p></div></div></div>
@@ -388,7 +388,7 @@ Real classification can be established through records, declassification reviews
 
 A balanced assessment recognises two truths at the same time.
 
-First, governments have genuinely classified UAP-related information, and debates over transparency remain active. Historical secrecy has contributed to public distrust and has sometimes encouraged speculation about what remains hidden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee+2Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</span></span></span>
+First, governments have genuinely classified UAP-related information, and debates over transparency remain active. Historical secrecy has contributed to public distrust and has sometimes encouraged speculation about what remains hidden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">hearing wrap up government must be more transparent about uaps</span><span class="citation-popover-snippet">House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</span></span></span>
 
 Second, the existence of secrecy does not automatically transform a suicide, disappearance or unexplained death into evidence of assassination. To make that leap requires independent proof connecting the death to the alleged secret.
 
@@ -399,194 +399,194 @@ For readers examining claims about UFO researchers, antigravity investigators or
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UAP Secrecy Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UAP Secrecy Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases, official records, and government handling of UAP information rather than speculative conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases, official records, and government handling of UAP information rather than speculative conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes evidence evaluation, classification of reports, and cautious interpretation of unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence evaluation, classification of reports, and cautious interpretation of unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines secrecy claims, whistleblower narratives, and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines secrecy claims, whistleblower narratives, and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides tools for distinguishing evidence, uncertainty, secrecy claims, and unsupported conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides tools for distinguishing evidence, uncertainty, secrecy claims, and unsupported conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="{{ '/assets/images/marketplace-covers/8d5c28ac657a599b7015.jpg' | relative_url }}" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="{{ '/assets/images/marketplace-covers/8d5c28ac657a599b7015.jpg' | relative_url }}" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="secrecy-limits-what-uap-secrecy-can-and-cannot-prove-ufo-and-antigravity-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -602,7 +602,7 @@ For readers examining claims about UFO researchers, antigravity investigators or
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -622,7 +622,7 @@ For readers examining claims about UFO researchers, antigravity investigators or
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -654,7 +654,7 @@ For readers examining claims about UFO researchers, antigravity investigators or
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -706,7 +706,7 @@ For readers examining claims about UFO researchers, antigravity investigators or
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -751,7 +751,7 @@ For readers examining claims about UFO researchers, antigravity investigators or
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -792,190 +792,190 @@ For readers examining claims about UFO researchers, antigravity investigators or
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Records/Information Papers13 Feb 2026 — AARO is committed to facilitating the declassification and public release of as much UAP...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessAARO is responsible for receiving, processing, and adjudicating UAP reports, and routinely accesses...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO and the Declassification ProcessAARO is responsible for receiving, processing, and adjudicating UAP reports, and routinely accesses...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: hearing wrap up government must be more transparent about uaps  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeHearing Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Members examined transparency issues withi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO found no empirical evidence for claims that the...</p></details>
    Published: March 9, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</p></details>
+   Link:<a href="https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientists gained traction, escalating from niche online forums to being addressed by the White House and U.S. Congress. Theories propose...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apnews.com  
    Title: scientists missing dead conspiracy theories c046ce6d0a004e6a3e1971ff769244b5  
-   Link: <a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</p></details>
+   Link:<a href="https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/scientists-missing-dead-conspiracy-theories-c046ce6d0a004e6a3e1971ff769244b5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AP NewsHow conspiracy theories about missing or dead scientists...24 Apr 2026 — The deaths and disappearances in question garnered suspi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: conspiracy theory ufo scientists white house  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianConspiracy theory over UFOs and missing scientists...25 Apr 2026 — Claim of nefarious plot draws attention of lawmakers and...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianConspiracy theory over UFOs and missing scientists...25 Apr 2026 — Claim of nefarious plot draws attention of lawmakers and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — But so far no evidence has been found that...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/04/24/scientists-missing-dead-conspiracy-theories/73473d76-4013-11f1-bb46-ed564688d953_story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHow conspiracy theories about missing or dead scientists...Apr 24, 2026 — But so far no evidence has been found that...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: U S politics | US news | The Guardian  
-   Link: <a href="https://www.theguardian.com/us-news/us-politics/2026/apr/25/all" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/us-politics/2026/apr/25/all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US politics | US news | The GuardianApril 25, 2026 — Conspiracy theory over UFOs and missing scientists spreads from web to White House...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/us-politics/2026/apr/25/all" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/us-politics/2026/apr/25/all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US politics | US news | The GuardianApril 25, 2026 — Conspiracy theory over UFOs and missing scientists spreads from web to White House...</p></details>
    Published: April 25, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd yet more mysterious glowing orbs in the sky above the US, feature in the...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd yet more mysterious glowing orbs in the sky above the US, feature in the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: Teleportation, aliens and cancer-busting soda  
-   Link: <a href="https://www.theguardian.com/commentisfree/2026/apr/16/trump-administration-teleportation-demons-soda" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2026/apr/16/trump-administration-teleportation-demons-soda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it’s not just Trump going cuckoo, his officials are too | Arwa Mahdawi...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2026/apr/16/trump-administration-teleportation-demons-soda" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2026/apr/16/trump-administration-teleportation-demons-soda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it’s not just Trump going cuckoo, his officials are too | Arwa Mahdawi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: trump vance aliens ufo  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. After a largely alien-free first 12 months, the president has committed himself to UFO disclosure in 2026. In February, Trump...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/12/trump-vance-aliens-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. After a largely alien-free first 12 months, the president has committed himself to UFO disclosure in 2026. In February, Trump...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/profile/edwardhelmore/2026/apr/25/all" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/profile/edwardhelmore/2026/apr/25/all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Helmore | The Guardian6 hours ago — Conspiracy theory over UFOs and missing scientists spreads from web to White House... © 2026...</p></details>
+   Link:<a href="https://www.theguardian.com/profile/edwardhelmore/2026/apr/25/all" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/profile/edwardhelmore/2026/apr/25/all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Helmore | The Guardian6 hours ago — Conspiracy theory over UFOs and missing scientists spreads from web to White House... © 2026...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was true that the Pentagon had a UFO programme...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was true that the Pentagon had a UFO programme...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: Is the truth out there?  
-   Link: <a href="https://www.theguardian.com/us-news/2026/mar/22/ufos-uaps-us-trump-files-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/mar/22/ufos-uaps-us-trump-files-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US registers aliens.gov as Trump...22 Mar 2026 — Last week, the US Cybersecurity and Infrastructure Security Agency registered the alien...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/mar/22/ufos-uaps-us-trump-files-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/mar/22/ufos-uaps-us-trump-files-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US registers aliens.gov as Trump...22 Mar 2026 — Last week, the US Cybersecurity and Infrastructure Security Agency registered the alien...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: trump aliens ufos pentagon files release  
-   Link: <a href="https://www.theguardian.com/world/2026/feb/20/trump-aliens-ufos-pentagon-files-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/feb/20/trump-aliens-ufos-pentagon-files-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Donald Trump has announced he is directing the defense department...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/feb/20/trump-aliens-ufos-pentagon-files-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/feb/20/trump-aliens-ufos-pentagon-files-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donald Trump has announced he is directing the defense department...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 —... alien &#x27;obsession&#x27;. Apr 12 2026 08.00 EDT. March 2026. a man... Composite of three black-and-white images, of a UFO, a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 —... alien &#x27;obsession&#x27;. Apr 12 2026 08.00 EDT. March 2026. a man... Composite of three black-and-white images, of a UFO, a...</p></details>
    Published: March 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: why did obama say aliens are real the latest  
-   Link: <a href="https://www.theguardian.com/us-news/video/2026/feb/16/why-did-obama-say-aliens-are-real-the-latest" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/video/2026/feb/16/why-did-obama-say-aliens-are-real-the-latest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did Obama say aliens are real? | The Latest16 Feb 2026 — Why did Obama say aliens are real? | The Latest · Barack Obama · Today in Fo...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/video/2026/feb/16/why-did-obama-say-aliens-are-real-the-latest" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/video/2026/feb/16/why-did-obama-say-aliens-are-real-the-latest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why did Obama say aliens are real? | The Latest16 Feb 2026 — Why did Obama say aliens are real? | The Latest · Barack Obama · Today in Fo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/trump-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/trump-administration</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump administrationNews about the Donald Trump White House administration, including comment and features from the Guardian.... UFOs an...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/trump-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/trump-administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump administrationNews about the Donald Trump White House administration, including comment and features from the Guardian.... UFOs an...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: newssniffer.co.uk  
-   Link: <a href="https://www.newssniffer.co.uk/articles/2932464" target="_blank" rel="noopener noreferrer nofollow">https://www.newssniffer.co.uk/articles/2932464</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house. The article has changed 1 times. There is an RSS feed of...</p></details>
+   Link:<a href="https://www.newssniffer.co.uk/articles/2932464" target="_blank" rel="noopener noreferrer nofollow">https://www.newssniffer.co.uk/articles/2932464</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theguardian.com/world/2026/apr/25/conspiracy-theory-ufo-scientists-white-house. The article has changed 1 times. There is an RSS feed of...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/[amy-eskridge" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/[amy-eskridge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge, Aidan Shaffer &amp; Mark McCandlish Aren&#x27;t...The &quot;missing scientists&quot; panic reveals a deeper mental-health crisis inside fring...</p></details>
+   Link:<a href="https://medium.com/%40timventura/[amy-eskridge" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/[amy-eskridge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amy Eskridge, Aidan Shaffer &amp; Mark McCandlish Aren&#x27;t...The &quot;missing scientists&quot; panic reveals a deeper mental-health crisis inside fring...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ksat.com  
-   Link: <a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
+   Link:<a href="https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/gallery/news/2026/04/24/how-conspiracy-theories-about-missing-or-dead-scientists-went-from-online-forums-to-the-white-house/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How conspiracy theories about missing or dead scientists...24 Apr 2026 — Tags: Carl Grillmair, Kash Patel, Science, Donnell Probst, Dona...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with the opening of separate...</p></details>
+   Link:<a href="https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/science-tech/2026-04-27/missing-and-dead-scientists-the-conspiracy-theory-being-investigated-by-the-fbi-and-congress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and dead scientists: The conspiracy theory being...27 Apr 2026 — Last week, the matter entered a new phase with the opening of separate...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nbcwashington.com  
-   Link: <a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO community. Around this time people began pointing to other examples of scientists who had died or gone missing, ultimately going as far...</p></details>
+   Link:<a href="https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/news/national-international/conspiracy-theories-missing-dead-scientists-white-house/4096258/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO community. Around this time people began pointing to other examples of scientists who had died or gone missing, ultimately going as far...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: Mystery around dead or missing scientists privy to space  
-   Link: <a href="https://www.facebook.com/WIONews/posts/mystery-around-dead-or-missing-scientists-privy-to-space-and-nuclear-secrets-gro/1310254174547087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/mystery-around-dead-or-missing-scientists-privy-to-space-and-nuclear-secrets-gro/1310254174547087/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy theories linking the deaths and disappearances of 10 scientists... Scientists linked to UFO research die or go missing. Amber...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/mystery-around-dead-or-missing-scientists-privy-to-space-and-nuclear-secrets-gro/1310254174547087/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/mystery-around-dead-or-missing-scientists-privy-to-space-and-nuclear-secrets-gro/1310254174547087/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracy theories linking the deaths and disappearances of 10 scientists... Scientists linked to UFO research die or go missing. Amber...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cbsnews.com  
    Title: deaths disappearances scientists staff government labs  
-   Link: <a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deaths-disappearances-scientists-staff-government-labs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating deaths and disappearances of staff at...21 Apr 2026 — The disappearances and deaths of 10 government workers tied to n...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ksbw.com  
    Title: Fact-checking claims about missing, dead U.S  
-   Link: <a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scientistsApr 29, 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasland and seven other scientists, now dead or missin...</p></details>
+   Link:<a href="https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799" target="_blank" rel="noopener noreferrer nofollow">https://www.ksbw.com/article/missing-scientists-nuclear-weapons-ufos/71167799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientistsApr 29, 2026 — An April 7 X post read, &quot;BREAKING: General William Neil McCasland and seven other scientists, now dead or missin...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xtraterrestrial activity,&quot; said AARO acting Director Tim Phillips...</p></details>
+   Link:<a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xtraterrestrial activity,&quot; said AARO acting Director Tim Phillips...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bostonglobe.com  
    Title: missing deceased scientists investigation  
-   Link: <a href="https://www.bostonglobe.com/2026/04/24/nation/missing-deceased-scientists-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/2026/04/24/nation/missing-deceased-scientists-investigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of dead, missing scientists prompt FBI review24 Apr 2026 — The FBI said it is “spearheading the effort to look for connections in...</p></details>
+   Link:<a href="https://www.bostonglobe.com/2026/04/24/nation/missing-deceased-scientists-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/2026/04/24/nation/missing-deceased-scientists-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of dead, missing scientists prompt FBI review24 Apr 2026 — The FBI said it is “spearheading the effort to look for connections in...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thejournal.ie  
    Title: trump missing scientists 7015543 Apr2026  
-   Link: <a href="https://www.thejournal.ie/trump-missing-scientists-7015543-Apr2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/trump-missing-scientists-7015543-Apr2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>theories that they are and that they relate to potential [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;) or UFO connections have rapidly spread online. Advertisement. Accordin...</p></details>
+   Link:<a href="https://www.thejournal.ie/trump-missing-scientists-7015543-Apr2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/trump-missing-scientists-7015543-Apr2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>theories that they are and that they relate to potential [espionage](&amp;#123;&amp;#123; &#x27;espionage/&#x27; | relative_url &amp;#125;&amp;#125;) or UFO connections have rapidly spread online. Advertisement. Accordin...</p></details>

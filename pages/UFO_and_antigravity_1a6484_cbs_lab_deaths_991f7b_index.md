@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-and-antigravity-1a6484-cbs-lab/
 description: Focused pages that expand on CBS Report.
-date: '2026-06-28'
+date: '2026'
 layout: default
 parent_basename: UFO_and_antigravity_1a6484_cbs_lab_deaths_991f7b
 parent_title: CBS Report
@@ -16,7 +16,7 @@ parent_permalink: /cbs-report/
 
 # Explore Topics in CBS Report
 
-The following pages expand on the main **[CBS Report]({{ '/cbs-report/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[CBS Report]({{ '/cbs-report/' | relative_url }})** page and cover its key branches in.
 
 - [Case Method]({{ '/case-method/' | relative_url }})
 - [CBS Updates]({{ '/cbs-updates/' | relative_url }})

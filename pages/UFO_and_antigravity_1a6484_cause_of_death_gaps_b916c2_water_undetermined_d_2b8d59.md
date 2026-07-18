@@ -278,22 +278,22 @@ Within stories about allegedly suspicious deaths linked to UFO, advanced propuls
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-1-dark.svg" | relative_url }}" alt="Water Cases illustration 1" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The forensic reality is more complicated. Water recovery cases are among the most challenging death investigations in forensic medicine. A body found in water may have died from drowning, natural disease, accident, suicide, homicide, or a combination of factors. In many cases, investigators can reach a confident conclusion. In others, the available evidence never allows a definitive determination. That uncertainty is a recognised feature of water-related death investigation rather than, by itself, evidence of a cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
+The forensic reality is more complicated. Water recovery cases are among the most challenging death investigations in forensic medicine. A body found in water may have died from drowning, natural disease, accident, suicide, homicide, or a combination of factors. In many cases, investigators can reach a confident conclusion. In others, the available evidence never allows a definitive determination. That uncertainty is a recognised feature of water-related death investigation rather than, by itself, evidence of a cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
 
 ## How Water and Time Affect Evidence
 
 The central mechanism behind many disputed narratives is that water changes evidence before investigators can examine it.
 
-A body immersed in water undergoes a different pattern of decomposition from one left on land. Cooler temperatures and reduced oxygen often slow some stages of decay, yet immersion can simultaneously damage tissues, alter external appearance, and complicate interpretation of injuries. Once recovered, decomposition may accelerate rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decomposition Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 61 — The typical decomposition changes proceed more...</span></span></span>
+A body immersed in water undergoes a different pattern of decomposition from one left on land. Cooler temperatures and reduced oxygen often slow some stages of decay, yet immersion can simultaneously damage tissues, alter external appearance, and complicate interpretation of injuries. Once recovered, decomposition may accelerate rapidly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Decomposition Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 61 — The typical decomposition changes proceed more...</span></span></span>
 
 Several factors can reduce investigative certainty:
 
 * **Loss of trace evidence.** Water can wash away blood, fibres, gunshot residues, fingerprints, and other fragile forms of evidence.
-* **Movement of the body.** Currents, tides, floods, and river flow may transport remains far from the original location, making reconstruction difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/taxonomy/term/underwater-recovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeUnderwater recovery &#124; National Institute of JusticeFluvial Transport of Human Remains Forensic Application o...</span></span></span>
-* **Environmental damage.** Aquatic animals, debris, rocks, and underwater structures can create post-mortem injuries that may initially resemble trauma inflicted before death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</span></span></span>
-* **Decomposition of diagnostic signs.** Features that might support a drowning diagnosis can fade or become harder to interpret as decomposition advances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jkms.org">[jkms.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jkms.org</span><span class="citation-popover-snippet">Immersion Deaths in Seoul: Implications of Decomposition...by DY Lee · 2025 — Drowning findings were assessed with a focus on foam in th...</span></span></span>
+* **Movement of the body.** Currents, tides, floods, and river flow may transport remains far from the original location, making reconstruction difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nij.ojp.gov/taxonomy/term/underwater-recovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-snippet">National Institute of JusticeUnderwater recovery &#124; National Institute of JusticeFluvial Transport of Human Remains Forensic Application o...</span></span></span>
+* **Environmental damage.** Aquatic animals, debris, rocks, and underwater structures can create post-mortem injuries that may initially resemble trauma inflicted before death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</span></span></span>
+* **Decomposition of diagnostic signs.** Features that might support a drowning diagnosis can fade or become harder to interpret as decomposition advances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jkms.org">[jkms.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jkms.org</span><span class="citation-popover-snippet">Immersion Deaths in Seoul: Implications of Decomposition...by DY Lee · 2025 — Drowning findings were assessed with a focus on foam in th...</span></span></span>
 
-Even establishing whether a person drowned can be difficult. Forensic authorities emphasise that recovery from water does not automatically mean death by drowning. Someone may have suffered a heart attack, drug overdose, stroke, or fatal injury before entering the water. Conversely, a drowning victim may show only limited or ambiguous physical findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcpath.org">[Royal College of Pathologists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcpath.org</span><span class="citation-popover-title">Guidelines on autopsy practice Autopsy for bodies recovered from water</span><span class="citation-popover-snippet">Royal College of PathologistsAutopsy for bodies recovered from water December 2018by B Wilkins · 2018 — 1 The removal of a body from wate...</span></span></span>
+Even establishing whether a person drowned can be difficult. Forensic authorities emphasise that recovery from water does not automatically mean death by drowning. Someone may have suffered a heart attack, drug overdose, stroke, or fatal injury before entering the water. Conversely, a drowning victim may show only limited or ambiguous physical findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcpath.org">[Royal College of Pathologists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcpath.org</span><span class="citation-popover-title">Guidelines on autopsy practice Autopsy for bodies recovered from water</span><span class="citation-popover-snippet">Royal College of PathologistsAutopsy for bodies recovered from water December 2018by B Wilkins · 2018 — 1 The removal of a body from wate...</span></span></span>
 
 This distinction matters because conspiracy narratives often begin from the assumption that “found in water” and “drowned” are synonymous. Investigators do not make that assumption.
 
@@ -304,20 +304,20 @@ This distinction matters because conspiracy narratives often begin from the assu
 
 The term “undetermined” is frequently misunderstood in public discussions.
 
-A cause of death answers what physiologically killed the person. A manner of death addresses whether the death was natural, accidental, suicidal, homicidal, or undetermined. Water recoveries can create uncertainty at either level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">REVIEW ARTICLEJuly 12, 2017 — by LA Rocha · 2017 · Cited by 21 — Data collected at the death scene, the medical examiner or coroner de...</span><span class="citation-popover-meta">Published: July 12, 2017</span></span></span>
+A cause of death answers what physiologically killed the person. A manner of death addresses whether the death was natural, accidental, suicidal, homicidal, or undetermined. Water recoveries can create uncertainty at either level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">REVIEW ARTICLEJuly 12, 2017 — by LA Rocha · 2017 · Cited by 21 — Data collected at the death scene, the medical examiner or coroner de...</span><span class="citation-popover-meta">Published: July 12, 2017</span></span></span>
 
-For example, forensic pathologists may conclude that drowning occurred but still be unable to determine whether the drowning resulted from accident, suicide, or homicide. Research examining bodies recovered from water has shown that drowning is a leading category among deaths ultimately assigned an undetermined manner because the surrounding circumstances can remain ambiguous even when the medical mechanism is understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/10630103_Undetermined_Drowning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Undetermined Drowning</span><span class="citation-popover-snippet">ResearchGate(PDF) Undetermined DrowningAugust 1, 2003 — Drowning is one of the leading causes of death when the manner of death remains u...</span><span class="citation-popover-meta">Published: August 1, 2003</span></span></span>
+For example, forensic pathologists may conclude that drowning occurred but still be unable to determine whether the drowning resulted from accident, suicide, or homicide. Research examining bodies recovered from water has shown that drowning is a leading category among deaths ultimately assigned an undetermined manner because the surrounding circumstances can remain ambiguous even when the medical mechanism is understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/10630103_Undetermined_Drowning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Undetermined Drowning</span><span class="citation-popover-snippet">ResearchGate(PDF) Undetermined DrowningAugust 1, 2003 — Drowning is one of the leading causes of death when the manner of death remains u...</span><span class="citation-popover-meta">Published: August 1, 2003</span></span></span>
 
 Several recurring scenarios lead to undetermined findings:
 
 * No witnesses to the incident.
-* Delayed recovery of the body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</span></span></span>
+* Delayed recovery of the body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</span></span></span>
 * Incomplete information about the person's activities before death.
 * Mixed evidence pointing to multiple plausible explanations.
 * Advanced decomposition that limits interpretation.
-* Toxicology findings that raise questions but do not provide definitive answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2wires.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
+* Toxicology findings that raise questions but do not provide definitive answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
 
-Forensic literature repeatedly notes that the diagnosis of drowning and the classification of manner of death rely on combining scene evidence, medical history, autopsy findings, toxicology, and investigative information. No single finding usually resolves the case by itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
+Forensic literature repeatedly notes that the diagnosis of drowning and the classification of manner of death rely on combining scene evidence, medical history, autopsy findings, toxicology, and investigative information. No single finding usually resolves the case by itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-2-dark.svg" | relative_url }}" alt="Water Cases illustration 2" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -331,7 +331,7 @@ A common pattern is:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A researcher dies or disappears.
-2. The body is later recovered from water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The body recovered from water: considerations for an...The body recovered from water can pose particular difficulty to the unsuspecting...</span></span></span>
+2. The body is later recovered from water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The body recovered from water: considerations for an...The body recovered from water can pose particular difficulty to the unsuspecting...</span></span></span>
 3. Public reporting contains limited details.
 4. The death is ruled accidental, remains pending, or is classified as undetermined.
 5. Speculation fills the information gap.
@@ -340,7 +340,7 @@ A common pattern is:
 
 The crucial point is that water-related ambiguity is not unique to people connected with sensitive subjects. The same investigative difficulties appear in thousands of unrelated cases involving ordinary citizens.
 
-A useful illustration comes from modern forensic practice outside any UFO-related context. Medical examiners have noted that bodies recovered from waterways frequently lack sufficient evidence for a definitive determination, resulting in substantial numbers of undetermined classifications. In Houston, for example, a cluster of bayou recoveries generated public speculation about hidden criminal activity, yet investigators emphasised that water-related decomposition and evidence loss often prevent definitive conclusions even when extensive investigation occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houstonchronicle.com">[Houston Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houstonchronicle.com</span><span class="citation-popover-snippet">Six recently updated cases—Salome Garza, Jamal Alexander, Rodney Chatman, Seth Hansen, Michael Rice, and Michaela Miller—joined nine othe...</span></span></span>
+A useful illustration comes from modern forensic practice outside any UFO-related context. Medical examiners have noted that bodies recovered from waterways frequently lack sufficient evidence for a definitive determination, resulting in substantial numbers of undetermined classifications. In Houston, for example, a cluster of bayou recoveries generated public speculation about hidden criminal activity, yet investigators emphasised that water-related decomposition and evidence loss often prevent definitive conclusions even when extensive investigation occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houstonchronicle.com">[Houston Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houstonchronicle.com</span><span class="citation-popover-snippet">Six recently updated cases—Salome Garza, Jamal Alexander, Rodney Chatman, Seth Hansen, Michael Rice, and Michaela Miller—joined nine othe...</span></span></span>
 
 The existence of uncertainty therefore does not distinguish a supposedly targeted scientist from the broader population of water-recovery cases.
 
@@ -351,20 +351,20 @@ The existence of uncertainty therefore does not distinguish a supposedly targete
 
 The investigative challenge is not simply proving drowning. It is reconstructing the entire sequence of events.
 
-Modern forensic investigations examine: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">An Aquatic Decomposition Scoring Method to Potentially...In the forensic investigations of drowning and submersion deaths, similar postm...</span></span></span>
+Modern forensic investigations examine:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">An Aquatic Decomposition Scoring Method to Potentially...In the forensic investigations of drowning and submersion deaths, similar postm...</span></span></span>
 
-* Autopsy findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamjms.eu/index.php/mjms/article/view/7250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamjms.eu">[oamjms.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamjms.eu</span><span class="citation-popover-snippet">Autopsy Findings on Decomposing Drowned Bodyby S Perwira · 2021 · Cited by 9 — A complete autopsy is vital to determine the cause and mec...</span></span></span>
+* Autopsy findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oamjms.eu/index.php/mjms/article/view/7250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamjms.eu">[oamjms.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamjms.eu</span><span class="citation-popover-snippet">Autopsy Findings on Decomposing Drowned Bodyby S Perwira · 2021 · Cited by 9 — A complete autopsy is vital to determine the cause and mec...</span></span></span>
 * Toxicology results.
 * Medical history.
 * Recovery location.
 * Weather and water conditions.
 * Witness statements.
 * Electronic records and communications.
-* Evidence of injuries before or after immersion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
+* Evidence of injuries before or after immersion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
 
-Researchers continue to develop specialised methods for aquatic investigations, including decomposition scoring systems designed to estimate how long a body remained submerged. These tools improve reconstruction but do not eliminate uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.amsterdamumc.nl">[Amsterdam UMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.amsterdamumc.nl</span><span class="citation-popover-snippet">method and investigated the predictive value of this method in estimating the postmortem...Read more...</span></span></span>
+Researchers continue to develop specialised methods for aquatic investigations, including decomposition scoring systems designed to estimate how long a body remained submerged. These tools improve reconstruction but do not eliminate uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.amsterdamumc.nl">[amsterdamumc.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.amsterdamumc.nl</span><span class="citation-popover-snippet">method and investigated the predictive value of this method in estimating the postmortem...Read more...</span></span></span>
 
-Importantly, homicide in water is a recognised forensic possibility, and investigators treat it seriously. However, the fact that homicide is possible does not mean it is probable in any specific case. Professional guidance stresses that bodies recovered from water require the same careful evidence-preservation procedures as bodies recovered on land because investigators must remain open to all possibilities until evidence supports a conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">For example, the body should be bagged prior to removal...</span></span></span>
+Importantly, homicide in water is a recognised forensic possibility, and investigators treat it seriously. However, the fact that homicide is possible does not mean it is probable in any specific case. Professional guidance stresses that bodies recovered from water require the same careful evidence-preservation procedures as bodies recovered on land because investigators must remain open to all possibilities until evidence supports a conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">For example, the body should be bagged prior to removal...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-3-dark.svg" | relative_url }}" alt="Water Cases illustration 3" data-theme-src-dark="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFO_and_antigravity_1a6484_cause_of_death_gaps_b916c2_water_undetermined_d_2b8d59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -374,7 +374,7 @@ The strongest claim often made in conspiracy-oriented accounts is not merely tha
 
 That inference is usually unsupported.
 
-A genuine cover-up claim requires affirmative evidence such as contradictory records, falsified reports, witness intimidation, suppressed documentation, tampering with evidence, or demonstrably misleading official statements. An undetermined classification, by contrast, often reflects the opposite: investigators acknowledging that the available evidence does not justify a stronger conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
+A genuine cover-up claim requires affirmative evidence such as contradictory records, falsified reports, witness intimidation, suppressed documentation, tampering with evidence, or demonstrably misleading official statements. An undetermined classification, by contrast, often reflects the opposite: investigators acknowledging that the available evidence does not justify a stronger conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInvestigation of Drowning Deaths: A Practical Review</span><span class="citation-popover-snippet">by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</span></span></span>
 
 Water recoveries are particularly prone to this distinction because the environment itself can destroy information. When evidence is missing because it was never recoverable, uncertainty is a predictable forensic outcome rather than proof of intervention.
 
@@ -385,194 +385,194 @@ For readers examining alleged links between UFO research, antigravity projects, 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Water Makes Death Hard to Explain. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Water Makes Death Hard to Explain. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
-        </h4>
-        <p class="fr-book-author">By Richard Shepherd</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unnatural Causes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=opDdjgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Unnatural Causes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unnatural Causes">Unnatural Causes</a>
+</h4>
+<p class="fr-book-author">By Richard Shepherd</p>
         
-        <p class="fr-book-desc">Explains how cause and manner of death are determined and why some cases remain uncertain despite extensive investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how cause and manner of death are determined and why some cases remain uncertain despite extensive investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Unnatural+Causes+by+Richard+Shepherd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working Stiff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hQA7BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Working Stiff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working Stiff">Working Stiff</a>
-        </h4>
-        <p class="fr-book-author">By Judy Melinek, T.J. Mitchell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working Stiff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hQA7BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Working Stiff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working Stiff">Working Stiff</a>
+</h4>
+<p class="fr-book-author">By Judy Melinek, T.J. Mitchell</p>
         
-        <p class="fr-book-desc">Shows the practical limits of forensic evidence and the challenges medical examiners face in difficult cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the practical limits of forensic evidence and the challenges medical examiners face in difficult cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Working+Stiff+by+Judy+Melinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses how to distinguish evidence, uncertainty and speculation when information gaps exist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses how to distinguish evidence, uncertainty and speculation when information gaps exist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Men Do Tell Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mdabkq2UyF4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Men Do Tell Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Men Do Tell Tales">Dead Men Do Tell Tales</a>
-        </h4>
-        <p class="fr-book-author">By William R. Maples, Michael Browning</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Men Do Tell Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mdabkq2UyF4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Men Do Tell Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Men Do Tell Tales">Dead Men Do Tell Tales</a>
+</h4>
+<p class="fr-book-author">By William R. Maples, Michael Browning</p>
         
-        <p class="fr-book-desc">Demonstrates how forensic experts reconstruct events from incomplete or compromised remains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how forensic experts reconstruct events from incomplete or compromised remains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dead+Men+Do+Tell+Tales+by+William+R.+Maples&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Working+Stiff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Working Stiff</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Unnatural+Causes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unnatural Causes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Working+Stiff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Working Stiff</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="water-cases-when-water-makes-death-hard-to-explain-ufo-and-antigravity-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ For readers examining alleged links between UFO research, antigravity projects, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ For readers examining alleged links between UFO research, antigravity projects, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ For readers examining alleged links between UFO research, antigravity projects, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ For readers examining alleged links between UFO research, antigravity projects, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ For readers examining alleged links between UFO research, antigravity projects, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,158 +778,158 @@ For readers examining alleged links between UFO research, antigravity projects, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInvestigation of Drowning Deaths: A Practical Review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6474464/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EJ Armstrong · 2018 · Cited by 161 — In forensic pathology practice, the diagnosis of drowning as a cause of death follows exclusio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposition Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 61 — The typical decomposition changes proceed more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6474513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decomposition Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 61 — The typical decomposition changes proceed more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261771339_Immersion_deaths_and_drowning_issues_arising_in_the_investigation_of_bodies_recovered_from_water</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersion deaths and drowning: issues arisingApr 22, 2014 — Factors such as delayed recovery of the body, strong water curren...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The body recovered from water: considerations for an...The body recovered from water can pose particular difficulty to the unsuspecting...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354336258_The_body_recovered_from_water_considerations_for_an_approach_to_the_non-suspicious_post-mortem_examination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The body recovered from water: considerations for an...The body recovered from water can pose particular difficulty to the unsuspecting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jkms.org  
-   Link: <a href="https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112" target="_blank" rel="noopener noreferrer nofollow">https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersion Deaths in Seoul: Implications of Decomposition...by DY Lee · 2025 — Drowning findings were assessed with a focus on foam in th...</p></details>
+   Link:<a href="https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112" target="_blank" rel="noopener noreferrer nofollow">https://jkms.org/DOIx.php?id=10.3346%2Fjkms.2026.41.e112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immersion Deaths in Seoul: Implications of Decomposition...by DY Lee · 2025 — Drowning findings were assessed with a focus on foam in th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REVIEW ARTICLEJuly 12, 2017 — by LA Rocha · 2017 · Cited by 21 — Data collected at the death scene, the medical examiner or coroner de...</p></details>
+   Link:<a href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/LitReview_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REVIEW ARTICLEJuly 12, 2017 — by LA Rocha · 2017 · Cited by 21 — Data collected at the death scene, the medical examiner or coroner de...</p></details>
    Published: July 12, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Undetermined Drowning  
-   Link: <a href="https://www.researchgate.net/publication/10630103_Undetermined_Drowning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10630103_Undetermined_Drowning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Undetermined DrowningAugust 1, 2003 — Drowning is one of the leading causes of death when the manner of death remains u...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/10630103_Undetermined_Drowning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10630103_Undetermined_Drowning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Undetermined DrowningAugust 1, 2003 — Drowning is one of the leading causes of death when the manner of death remains u...</p></details>
    Published: August 1, 2003  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wires.onlinelibrary.wiley.com  
-   Link: <a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wfs2.1510" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wfs2.1510</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of postmortem toxicology in drowning investigationsby I Ojanperä · 2024 · Cited by 6 — In forensic medicine, the term “drowning” imp...</p></details>
+   Link:<a href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wfs2.1510" target="_blank" rel="noopener noreferrer nofollow">https://wires.onlinelibrary.wiley.com/doi/10.1002/wfs2.1510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of postmortem toxicology in drowning investigationsby I Ojanperä · 2024 · Cited by 6 — In forensic medicine, the term “drowning” imp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.amsterdamumc.nl  
-   Link: <a href="https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>method and investigated the predictive value of this method in estimating the postmortem...Read more...</p></details>
+   Link:<a href="https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/en/publications/an-aquatic-decomposition-scoring-method-to-potentially-predict-th</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>method and investigated the predictive value of this method in estimating the postmortem...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Aquatic Decomposition Scoring Method to Potentially...In the forensic investigations of drowning and submersion deaths, similar postm...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314131805_An_Aquatic_Decomposition_Scoring_Method_to_Potentially_Predict_the_Postmortem_Submersion_Interval_of_Bodies_Recovered_from_the_North_Sea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Aquatic Decomposition Scoring Method to Potentially...In the forensic investigations of drowning and submersion deaths, similar postm...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394146002_Post_mortem_changes_in_human_body_and_challenges_in_fingerprinting_A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394146002_Post_mortem_changes_in_human_body_and_challenges_in_fingerprinting_A_review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Post mortem changes in human body and challenges...31 Jul 2025 — There are five stages of decomposition, namely-fresh. bloated, active...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394146002_Post_mortem_changes_in_human_body_and_challenges_in_fingerprinting_A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394146002_Post_mortem_changes_in_human_body_and_challenges_in_fingerprinting_A_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Post mortem changes in human body and challenges...31 Jul 2025 — There are five stages of decomposition, namely-fresh. bloated, active...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/DisasterDeathSceneToolkit508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/DisasterDeathSceneToolkit508.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>m surge -abnormal rise in water level in coastal areas above regular tides...</p></details>
+   Link:<a href="https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/DisasterDeathSceneToolkit508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/disaster-epidemiology-and-response/media/pdfs/DisasterDeathSceneToolkit508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>m surge -abnormal rise in water level in coastal areas above regular tides...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rcpath.org  
    Title: Guidelines on autopsy practice Autopsy for bodies recovered from water  
-   Link: <a href="https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal College of PathologistsAutopsy for bodies recovered from water December 2018by B Wilkins · 2018 — 1 The removal of a body from wate...</p></details>
+   Link:<a href="https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rcpath.org/static/a0eab7db-454b-4556-b9961ecfd8356307/Guidelines-on-autopsy-practice-Autopsy-for-bodies-recovered-from-water.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal College of PathologistsAutopsy for bodies recovered from water December 2018by B Wilkins · 2018 — 1 The removal of a body from wate...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31239870/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31239870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 58 — The typical decomposition changes proceed more slowly in the wa...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31239870/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31239870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changes in Bodies Recovered from Waterby JL Caruso · 2016 · Cited by 58 — The typical decomposition changes proceed more slowly in the wa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nij.ojp.gov  
-   Link: <a href="https://nij.ojp.gov/taxonomy/term/underwater-recovery" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/underwater-recovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeUnderwater recovery | National Institute of JusticeFluvial Transport of Human Remains Forensic Application o...</p></details>
+   Link:<a href="https://nij.ojp.gov/taxonomy/term/underwater-recovery" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/underwater-recovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of JusticeUnderwater recovery | National Institute of JusticeFluvial Transport of Human Remains Forensic Application o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: houstonchronicle.com  
-   Link: <a href="https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Six recently updated cases—Salome Garza, Jamal Alexander, Rodney Chatman, Seth Hansen, Michael Rice, and Michaela Miller—joined nine othe...</p></details>
+   Link:<a href="https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/news/houston-texas/article/houston-bayou-cause-death-21169422.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Six recently updated cases—Salome Garza, Jamal Alexander, Rodney Chatman, Seth Hansen, Michael Rice, and Michaela Miller—joined nine othe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, the body should be bagged prior to removal...</p></details>
+   Link:<a href="https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/pdffiles1/nij/grants/304581.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For example, the body should be bagged prior to removal...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28247448/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28247448/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Aquatic Decomposition Scoring Method to Potentially...by MA van Daalen · 2017 · Cited by 92 — This study aimed to develop an aq...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28247448/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28247448/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Aquatic Decomposition Scoring Method to Potentially...by MA van Daalen · 2017 · Cited by 92 — This study aimed to develop an aq...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/loxErKj9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/loxErKj9/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic entomology is one of the popular approaches where successive...Read more...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/loxErKj9/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/loxErKj9/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic entomology is one of the popular approaches where successive...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781000379501_A40678624/preview-9781000379501_A40678624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781000379501_A40678624/preview-9781000379501_A40678624.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pageplace.deWater-Related Death Investigationin a series of 123 drowning deaths, 97% were certified as undetermined manner of death, comp...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781000379501_A40678624/preview-9781000379501_A40678624.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781000379501_A40678624/preview-9781000379501_A40678624.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pageplace.deWater-Related Death Investigationin a series of 123 drowning deaths, 97% were certified as undetermined manner of death, comp...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: name.memberclicks.net  
    Title: NAME Position Paper Disaster Related Deaths FINAL FOR PUBLICATION  
-   Link: <a href="https://name.memberclicks.net/assets/docs/NAME%20Position%20Paper_Disaster-Related%20Deaths_FINAL%20FOR%20PUBLICATION.pdf" target="_blank" rel="noopener noreferrer nofollow">https://name.memberclicks.net/assets/docs/NAME%20Position%20Paper_Disaster-Related%20Deaths_FINAL%20FOR%20PUBLICATION.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for the Documentation and Certification of...The recommendations provided in this paper seek to increase ME/C&#x27;s understanding of disaste...</p></details>
+   Link:<a href="https://name.memberclicks.net/assets/docs/NAME%20Position%20Paper_Disaster-Related%20Deaths_FINAL%20FOR%20PUBLICATION.pdf" target="_blank" rel="noopener noreferrer nofollow">https://name.memberclicks.net/assets/docs/NAME%20Position%20Paper_Disaster-Related%20Deaths_FINAL%20FOR%20PUBLICATION.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for the Documentation and Certification of...The recommendations provided in this paper seek to increase ME/C&#x27;s understanding of disaste...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ijmpr.in  
-   Link: <a href="https://ijmpr.in/article/diatoms-don-t-lie-forensic-insights-into-drowning-through-autopsy-based-analysis-2690/" target="_blank" rel="noopener noreferrer nofollow">https://ijmpr.in/article/diatoms-don-t-lie-forensic-insights-into-drowning-through-autopsy-based-analysis-2690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diatoms Don&#x27;t Lie: Forensic Insights into Drowning through...by S Khokher · 2026 — Fifty cases of suspected drowning brought for medico...</p></details>
+   Link:<a href="https://ijmpr.in/article/diatoms-don-t-lie-forensic-insights-into-drowning-through-autopsy-based-analysis-2690/" target="_blank" rel="noopener noreferrer nofollow">https://ijmpr.in/article/diatoms-don-t-lie-forensic-insights-into-drowning-through-autopsy-based-analysis-2690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diatoms Don&#x27;t Lie: Forensic Insights into Drowning through...by S Khokher · 2026 — Fifty cases of suspected drowning brought for medico...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Decomposition-Changes-in-Bodies-Recovered-from-Caruso/6b37f74b4132f886ea0819702b5006ea09ae5ea2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Decomposition-Changes-in-Bodies-Recovered-from-Caruso/6b37f74b4132f886ea0819702b5006ea09ae5ea2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this study was to elucidate the diatomological investigation and the forensic role of spleen tissue in cases of drowning or no...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Decomposition-Changes-in-Bodies-Recovered-from-Caruso/6b37f74b4132f886ea0819702b5006ea09ae5ea2" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Decomposition-Changes-in-Bodies-Recovered-from-Caruso/6b37f74b4132f886ea0819702b5006ea09ae5ea2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this study was to elucidate the diatomological investigation and the forensic role of spleen tissue in cases of drowning or no...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jomswsge.com  
    Title: Submerged corpse found 24 years after the murder a case study,167445,0,1  
-   Link: <a href="https://www.jomswsge.com/Submerged-corpse-found-24-years-after-the-murder-a-case-study%2C167445%2C0%2C1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jomswsge.com/Submerged-corpse-found-24-years-after-the-murder-a-case-study%2C167445%2C0%2C1.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An extensive study in this regard was conducted covering 500...Read...</p></details>
+   Link:<a href="https://www.jomswsge.com/Submerged-corpse-found-24-years-after-the-murder-a-case-study%2C167445%2C0%2C1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jomswsge.com/Submerged-corpse-found-24-years-after-the-murder-a-case-study%2C167445%2C0%2C1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An extensive study in this regard was conducted covering 500...Read...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: childrensadvocacycentersofillinois.org  
-   Link: <a href="https://childrensadvocacycentersofillinois.org/uploads/documents/On-Drowning-ADHDI-chapter-2015-Copy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://childrensadvocacycentersofillinois.org/uploads/documents/On-Drowning-ADHDI-chapter-2015-Copy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing the Cause and Manner of Death for Bodies...by P Lunetta · Cited by 13 — A body can be found in water at or near the site of...</p></details>
+   Link:<a href="https://childrensadvocacycentersofillinois.org/uploads/documents/On-Drowning-ADHDI-chapter-2015-Copy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://childrensadvocacycentersofillinois.org/uploads/documents/On-Drowning-ADHDI-chapter-2015-Copy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing the Cause and Manner of Death for Bodies...by P Lunetta · Cited by 13 — A body can be found in water at or near the site of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MDG-Ii0X4nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDG-Ii0X4nk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ey cause bodies to float. &amp;middot; Fun Poolside Experiments...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MDG-Ii0X4nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDG-Ii0X4nk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ey cause bodies to float. &amp;middot; Fun Poolside Experiments...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s12024-014-9564-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12024-014-9564-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deaths and drowning: issues arising in the...by RW Byard · 2015 · Cited by 63 — Drowning has been described in various ways however it g...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s12024" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deaths and drowning: issues arising in the...by RW Byard · 2015 · Cited by 63 — Drowning has been described in various ways however it g...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: texasautopsyservices.com  
    Title: A body recovered  
-   Link: <a href="https://www.texasautopsyservices.com/blog/drowning-autopsy-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/drowning-autopsy-findings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drowning Autopsy Findings a Forensic Pathologist Explains22 May 2026 — In forensic pathology, drowning is one of the clearest examples of...</p></details>
+   Link:<a href="https://www.texasautopsyservices.com/blog/drowning-autopsy-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.texasautopsyservices.com/blog/drowning-autopsy-findings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drowning Autopsy Findings a Forensic Pathologist Explains22 May 2026 — In forensic pathology, drowning is one of the clearest examples of...</p></details>
    Published: May 2026  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: oamjms.eu  
-   Link: <a href="https://oamjms.eu/index.php/mjms/article/view/7250" target="_blank" rel="noopener noreferrer nofollow">https://oamjms.eu/index.php/mjms/article/view/7250</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy Findings on Decomposing Drowned Bodyby S Perwira · 2021 · Cited by 9 — A complete autopsy is vital to determine the cause and mec...</p></details>
+   Link:<a href="https://oamjms.eu/index.php/mjms/article/view/7250" target="_blank" rel="noopener noreferrer nofollow">https://oamjms.eu/index.php/mjms/article/view/7250</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy Findings on Decomposing Drowned Bodyby S Perwira · 2021 · Cited by 9 — A complete autopsy is vital to determine the cause and mec...</p></details>
