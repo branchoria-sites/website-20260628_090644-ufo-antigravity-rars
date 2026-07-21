@@ -373,89 +373,89 @@ Within allegations about suspicious deaths of scientists connected to UFO or ant
 Many disputes in this area arise not from contradictory evidence but from misunderstandings about how death investigations work. Recognising the distinction between cause and manner of death reduces the risk of interpreting routine forensic uncertainty as proof of a hidden campaign against researchers. The distinction does not eliminate the possibility of foul play in any particular case, but it provides a more reliable framework for judging what the available evidence actually shows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/nchs/nvss/writing-cause-of-death-statements.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">NVSS - Writing Cause-of-Death StatementsCause-of-death statements on death certificates capture the sequence of events leading to deat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Cause of Death Is Not the Whole Story. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Cause of Death Is Not the Whole Story. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DiMaio&#x27;s Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9gA9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DiMaio&#x27;s Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DiMaio&#x27;s Forensic Pathology">DiMaio&#x27;s Forensic Pathology</a>
-</h4>
-<p class="fr-book-author">By Vincent J.M. DiMaio, D. Kimberley Molina</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DiMaio&#x27;s Forensic Pathology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9gA9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DiMaio&#x27;s Forensic Pathology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DiMaio&#x27;s Forensic Pathology">DiMaio&#x27;s Forensic Pathology</a>
+        </h4>
+        <p class="fr-book-author">By Vincent J.M. DiMaio, D. Kimberley Molina</p>
         
-<p class="fr-book-desc">Directly explains cause and manner of death distinctions, death investigation procedures, and evidentiary limits.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+by+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains cause and manner of death distinctions, death investigation procedures, and evidentiary limits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology+Vincent+J.M.+DiMaio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-<p class="fr-book-desc">Directly addresses how to distinguish evidence, uncertainty and speculation when information gaps exist.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spitz and Fisher&#x27;s Medicolegal Investigation of Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YizyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spitz and Fisher&#x27;s Medicolegal Investigation of Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spitz and Fisher&#x27;s Medicolegal Investigation of Death">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a>
-</h4>
-<p class="fr-book-author">By Werner U. Spitz, Francisco J. Diaz</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spitz and Fisher&#x27;s Medicolegal Investigation of Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YizyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spitz and Fisher&#x27;s Medicolegal Investigation of Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spitz and Fisher&#x27;s Medicolegal Investigation of Death">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a>
+        </h4>
+        <p class="fr-book-author">By Werner U. Spitz, Francisco J. Diaz</p>
         
-<p class="fr-book-desc">Covers how deaths are classified and why findings may remain disputed or undetermined.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+by+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers how deaths are classified and why findings may remain disputed or undetermined.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death+Werner+U.+Spitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Reckoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H1wvAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Reckoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Reckoning">Dead Reckoning</a>
-</h4>
-<p class="fr-book-author">By Michael M. Baden, Marion Roach</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dead+Reckoning+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Reckoning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H1wvAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dead Reckoning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dead+Reckoning+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Reckoning">Dead Reckoning</a>
+        </h4>
+        <p class="fr-book-author">By Michael M. Baden, Marion Roach</p>
         
-<p class="fr-book-desc">Helps readers understand how forensic conclusions are reached and where uncertainty can remain.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dead+Reckoning+by+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand how forensic conclusions are reached and where uncertainty can remain.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dead+Reckoning+Michael+M.+Baden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DiMaio&#x27;s Forensic Pathology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Cause+of+Death+Patricia+Daniels+Cornwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cause of Death on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cause+of+Death+Patricia+Daniels+Cornwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cause of Death">Cause of Death</a>
+        </h4>
+        <p class="fr-book-author">By Patricia Daniels Cornwell</p>
+        
+        <p class="fr-book-desc">Although fictional, it familiarizes readers with forensic pathology concepts and death investigations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cause+of+Death+Patricia+Daniels+Cornwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=DiMaio%27s+Forensic+Pathology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DiMaio&#x27;s Forensic Pathology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spitz+and+Fisher%27s+Medicolegal+Investigation+of+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spitz and Fisher&#x27;s Medicolegal Investigation of Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Reckoning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Reckoning</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
