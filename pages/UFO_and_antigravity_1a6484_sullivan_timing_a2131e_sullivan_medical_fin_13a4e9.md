@@ -366,7 +366,7 @@ As a result, the accidental-intoxication ruling functions as the principal evide
           <a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Poisoner&#x27;s Handbook">The Poisoner&#x27;s Handbook</a>
         </h4>
         <p class="fr-book-author">By Deborah Blum</p>
-        
+
         <p class="fr-book-desc">Explains how toxicology findings are developed and interpreted in death investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Poisoner%27s+Handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ As a result, the accidental-intoxication ruling functions as the principal evide
           <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us ab...</a>
         </h4>
         <p class="fr-book-author">By Val McDermid</p>
-        
+
         <p class="fr-book-desc">Provides context for medical examiner conclusions, evidence evaluation, and limits of forensic findings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime+Val+McDermid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,16 +394,16 @@ As a result, the accidental-intoxication ruling functions as the principal evide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+be+Happy+when+You+Could+be+Normal%3F+Jeanette+Winterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why be Happy when You Could be Normal? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bl-AMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why be Happy when You Could be Normal?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+be+Happy+when+You+Could+be+Normal%3F+Jeanette+Winterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why be Happy when You Could be Normal?">Why be Happy when You Could be Normal?</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Jeanette Winterson</p>
-        
-        <p class="fr-book-desc">Provides context for medical examiner conclusions, evidence evaluation, and limits of forensic findings.</p>
+        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+        <p class="fr-book-desc">Addresses standards of evidence and skepticism relevant to claims that challenge official explanations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+be+Happy+when+You+Could+be+Normal%3F+Jeanette+Winterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -417,7 +417,7 @@ As a result, the accidental-intoxication ruling functions as the principal evide
           <a href="https://www.amazon.com/s?k=Death%27s+Acre+Dr.+Bill+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death&#x27;s Acre">Death&#x27;s Acre</a>
         </h4>
         <p class="fr-book-author">By Dr. Bill Bass, Jon Jefferson</p>
-        
+
         <p class="fr-book-desc">Shows how forensic experts investigate deaths and weigh competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Death%27s+Acre+Dr.+Bill+Bass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ As a result, the accidental-intoxication ruling functions as the principal evide
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Poisoner&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+be+Happy+when+You+Could+be+Normal%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why be Happy when You Could be Normal?</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Poisoner&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Forensics%3A+What+Bugs%2C+Burns%2C+Prints%2C+Dna%2C+and+More+Tell+Us+about+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Forensics: What Bugs, Burns, Prints, Dna, and More Tell Us about Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
