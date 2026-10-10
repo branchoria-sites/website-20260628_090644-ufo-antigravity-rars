@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 23:03:25'
 title: Archetype Sub-Topic Index
 title_full: Archetype Sub-Topic Index
 display_title: Sub-Topic Index
