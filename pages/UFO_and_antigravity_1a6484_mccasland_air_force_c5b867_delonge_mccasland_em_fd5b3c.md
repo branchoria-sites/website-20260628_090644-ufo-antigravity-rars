@@ -842,7 +842,6 @@ As a result, the email is best understood as a gateway document. It explains how
 17.<a id="endnote-17"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
 ### Additional References

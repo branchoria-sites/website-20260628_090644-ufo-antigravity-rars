@@ -758,7 +758,6 @@ Within the broader mythology surrounding Wright-Patterson Air Force Base, this c
 2.<a id="endnote-2"></a>
    Source: spacecamp.com  
    Title: Aircraft: A-12, Article 127, Oxcart | U.S  
-   Link:https://www.spacecamp.com/tour/ac/A12Oxcart  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Space &amp; Rocket CenterThe A-12 is the clandestine forerunner of the famous SR-71 Blackbird. The aircraft were nearly the same shape and di...</p></details>
 
 3.<a id="endnote-3"></a>
