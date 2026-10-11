@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 23:03:25'
 level: 3
 basename: UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9_puthoff_davis_specul_f722c3
 parent_basename: UFO_and_antigravity_1a6484_ufo_link_strength_f6fba9
