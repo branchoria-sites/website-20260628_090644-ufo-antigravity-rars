@@ -1139,7 +1139,6 @@ The most defensible reading is a tiered one. A small number of people in these n
 
 43.<a id="endnote-43"></a>
    Source: vanityfair.com  
-   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 
 44.<a id="endnote-44"></a>
    Source: aol.com  

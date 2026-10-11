@@ -1139,7 +1139,6 @@ Until then, the better standard is disciplined scepticism in both directions: do
 
 27.<a id="endnote-27"></a>
    Source: vanityfair.com  
-   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
 
 28.<a id="endnote-28"></a>

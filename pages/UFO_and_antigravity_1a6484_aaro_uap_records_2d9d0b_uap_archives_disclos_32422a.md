@@ -838,7 +838,6 @@ The archive therefore matters less as proof of any particular theory and more as
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — Each publicly releasable UAP record must include metadata according to the guidance to agencies...</p></details>
 
 13.<a id="endnote-13"></a>
