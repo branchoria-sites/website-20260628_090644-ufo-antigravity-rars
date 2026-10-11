@@ -985,7 +985,7 @@ The most useful rule is simple: timing can justify questions, but it cannot answ
 
 14.<a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts and skeptics, however, argue the theory collapses under scrutiny. The scientists had diverse specialties and most deaths have pla...</p></details>
 
 15.<a id="endnote-15"></a>

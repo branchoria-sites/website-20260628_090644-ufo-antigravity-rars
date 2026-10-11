@@ -916,7 +916,7 @@ The practical takeaway is that unresolved UAP cases and confirmed extraterrestri
 
 25.<a id="endnote-25"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All...8 May 2026 — Every specific allegation examined, recovered craft, alien biolo...</p></details>
    Published: May 2026  
 

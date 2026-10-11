@@ -826,7 +826,7 @@ As a result, the missing-laboratory-scientists story is best understood not as e
 11.<a id="endnote-11"></a>
    Source: vanityfair.com  
    Title: Vanity Fair11 Scientists Are Dead or Missing  
-   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of Time Before Conspiracy Theories Hit the White House.Over the past four years, the disappearances or deaths of 11...</p></details>
 
 12.<a id="endnote-12"></a>

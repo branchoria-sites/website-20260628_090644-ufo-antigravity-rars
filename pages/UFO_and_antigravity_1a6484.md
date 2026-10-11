@@ -995,7 +995,7 @@ The best-supported conclusion is cautious: the “suspicious deaths of UFO and a
 
 29.<a id="endnote-29"></a>
    Source: vanityfair.com  
-   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 
 30.<a id="endnote-30"></a>
    Source: wfmd.com  
