@@ -846,7 +846,7 @@ As a result, the missing-item pattern has limited evidentiary value on its own. 
 18.<a id="endnote-18"></a>
    Source: vanityfair.com  
    Title: 11 Scientists Are Dead or Missing  
-   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It Was Only a Matter of...2 days ago — One morning this February, William Neil McCasland walked out of his home in Albuquerque for the l...</p></details>
 
 19.<a id="endnote-19"></a>

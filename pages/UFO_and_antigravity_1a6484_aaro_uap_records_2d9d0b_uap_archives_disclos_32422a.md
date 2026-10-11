@@ -337,7 +337,7 @@ The existence of a disclosure programme does not mean all records immediately be
 
 The legislation and archival guidance recognise that some information may remain restricted because of national security, intelligence sources and methods, privacy protections or other statutory requirements. Agencies are required to identify records, but identification is not identical to full public release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
 
-Even publicly releasable records must go through archival processing, metadata preparation and transfer procedures before appearing online. NARA guidance established procedures for transferring records and making releasable material available through the National Archives Catalog.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — Each publicly releasable UAP record must include metadata according to the guidance to agencies...</span></span></span>
+Even publicly releasable records must go through archival processing, metadata preparation and transfer procedures before appearing online. NARA guidance established procedures for transferring records and making releasable material available through the National Archives Catalog.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — Each publicly releasable UAP record must include metadata according to the guidance to agencies...</span></span></span>
 
 As a result, there are several reasons why a record might not immediately appear:
 
@@ -838,7 +838,7 @@ The archive therefore matters less as proof of any particular theory and more as
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — Each publicly releasable UAP record must include metadata according to the guidance to agencies...</p></details>
 
 13.<a id="endnote-13"></a>

@@ -996,7 +996,7 @@ That is the threshold because it moves the claim from “these cases seem relate
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 13.<a id="endnote-13"></a>
    Source: archives.gov  

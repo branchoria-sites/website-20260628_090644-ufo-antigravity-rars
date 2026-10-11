@@ -1121,7 +1121,7 @@ This distinction protects both sides of the truth. It keeps attention on unresol
 
 33.<a id="endnote-33"></a>
    Source: vanityfair.com  
-   Link:<a href="https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house</a>  
+   Link:https://www.vanityfair.com/news/story/missing-scientists-conspiracy-theories-[white-house  
 
 34.<a id="endnote-34"></a>
    Source: aol.com  
